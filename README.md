@@ -46,9 +46,40 @@ This product was created with AI assistance
 
 ---
 
+### [CSV & Excel Data Cleaning Toolkit (Python scripts)](https://blixwerk.gumroad.com/l/csv-cleaning-toolkit-python)
+
+![CSV & Excel Data Cleaning Toolkit (Python scripts)](images/csv-cleaning-toolkit-python.png)
+
+Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
+
+Stop spending hours fixing messy CSV and Excel exports by hand. This toolkit gives you eight ready-to-run Python command-line tools and one rules file that cleans a whole export in a single command &ndash; and shows you exactly what it changed.
+
+What is included
+
+- csv_clean &ndash; all-in-one cleaner driven by a YAML or JSON rules file (trim, null values, value mapping, case, dates, phones, numbers, dedupe, validation)
+- csv_dedupe &ndash; remove duplicates by chosen columns, keep first, last or the most complete row
+- csv_normalize &ndash; unify many date styles, phone formats (E.164, international, national) and numbers such as 1.234,50
+- csv_trim &ndash; strip stray, double, non-breaking and zero-width whitespace
+- csv_fix_encoding &ndash; convert to UTF-8, repair garbled text like CafÃ©, change delimiters, remove BOM
+- csv_split / csv_merge &ndash; split by row count or column value; merge many files even with different column order, encodings and delimiters
+- csv_validate &ndash; check a file against column rules (required, unique, type, regex, min/max, allowed) with an exit code for automation
+- Fully commented example rules in YAML and JSON, sample messy datasets with the exact expected output (including an .xlsx), a cheat sheet, and 50+ unit and end-to-end tests
+
+Safe by design
+
+Dry-run mode and a CSV change report on every tool. Your original file is never modified or overwritten, values the toolkit cannot understand are left unchanged and flagged, and the scripts n
+
+**Price:** 15 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/csv-cleaning-toolkit-python)**
+
+---
+
 ## Free guides
 
+- [Track Unpaid Invoices and Overdue Payments in Excel (Free Setup)](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – Build a free Excel sheet to track unpaid invoices and overdue client payments as a freelancer: columns, formulas, aging buckets, and a reminder routine.
+
 - [Track Freelance Projects, Hours & Invoices in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – Step-by-step guide to build an Excel tracker for freelance clients, hours and invoices, with formulas for invoice numbers, due dates and overdue flags.
+
+- [How to Calculate Your Effective Hourly Rate in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – Learn to calculate your real freelance hourly rate in Excel: set up columns, use SUMIFS and IFERROR formulas, include unbilled time, and compare projects.
 
 ## Support
 
