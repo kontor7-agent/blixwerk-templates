@@ -246,9 +246,89 @@ Licence: personal and commercial use for your own business and clients' accounts
 
 ---
 
+### [Freelancer & Small Business Excel Bundle](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel)
+
+![Freelancer & Small Business Excel Bundle](images/bundle-freelancer-small-business-excel.png)
+
+All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
+
+All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
+
+Included (3 products, 33 USD if bought separately):
+
+- Freelancer Project, Time & Invoice Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
+- Small Business Inventory & Reorder Tracker (Excel) – Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
+- Content Calendar & Social Media Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
+
+One download, each product in its own folder with instructions. Personal and commercial use, no resale.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatically.
+
+**Price:** 20 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel)**
+
+---
+
+### [Developer & Data Automation Bundle](https://blixwerk.gumroad.com/l/bundle-developer-data-automation)
+
+![Developer & Data Automation Bundle](images/bundle-developer-data-automation.png)
+
+All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
+
+All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
+
+Included (3 products, 36 USD if bought separately):
+
+- CSV & Excel Data Cleaning Toolkit (Python scripts) – Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
+- File Organizer & Bulk Renamer Scripts (PowerShell + Bash) – Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
+- REST API Pre-Launch Security & Validation Checklist Kit – 58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
+
+One download, each product in its own folder with instructions. Personal and commercial use, no resale.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatically.
+
+**Price:** 22 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-developer-data-automation)**
+
+---
+
+### [Rechnungs- & Zeiterfassungs-Tracker für Freiberufler (Excel, Deutsch)](https://blixwerk.gumroad.com/l/rechnungen-zeiterfassung-freiberufler-excel)
+
+![Rechnungs- & Zeiterfassungs-Tracker für Freiberufler (Excel, Deutsch)](images/rechnungen-zeiterfassung-freiberufler-excel.png)
+
+Excel-Vorlage: Zeiterfassung, Rechnungen mit Auto-Nummer, Fälligkeit, Status offen/bezahlt/überfällig und Dashboard. Mit Beispieldaten.
+
+Behalte Stunden, Projekte und offene Rechnungen an einem Ort im Blick – und bemerke Zahlungseingänge nicht mehr zu spät.
+
+Das ist enthalten:
+
+- Excel-Arbeitsmappe mit den Blättern Anleitung, Dashboard, Einstellungen, Kunden, Projekte, Zeiterfassung, Rechnungen und Rechnungsdruck
+- Automatische Rechnungsnummer (z. B. RE-2026-001), Fälligkeitsdatum, Status offen / bezahlt / überfällig, Tage überfällig, Teilzahlungen
+- USt-Satz als eigene Eingabe – du bestimmst den Wert, es gibt keine Beratung
+- Druckfertige A4-Rechnung zu jeder Rechnungsnummer (Druck oder PDF-Export)
+- Dashboard mit offenen und überfälligen Forderungen, noch nicht abgerechneten Leistungen, Umsatz, Stunden und Monatsdiagramm
+- Zwei Dateien: mit erfundenen Beispieldaten zum Ausprobieren und leere Vorlage für den Start
+- Kurzanleitung als PDF
+
+Für wen? Freiberufler und Solo-Selbstständige in Deutschland, die ohne Buchhaltungssoftware arbeiten und ihre Zeiten und Rechnungen übersichtlich in Excel verwalten wollen.
+
+So geht's: Einstellungen ausfüllen, Kunden und Projekte anlegen, Zeiten erfassen, Rechnung anlegen, Zeiten der Rechnung zuordnen, drucken – und Zahlungseingänge eintragen. Der Status aktualisiert sich automatisch.
+
+Voraussetzungen: Excel 2010 oder neuer (Windows/Mac) oder LibreOffice Calc. Keine Makros, kein Internet nötig. Vorbereitet für 100 Kunden, 100 Projekte, 1.000 Zeitzeilen und 200 Rechnungen pro Datei. Nutzung privat und gewerblich erlaubt, Weiterverkauf und Weitergabe nicht.
+
+Die Arbeitsmappe i
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/rechnungen-zeiterfassung-freiberufler-excel)**
+
+---
+
 ## Free guides
 
 - [The Night Before Launch: A REST API Security Checklist Story](https://blixwerk-shop.kontor7-agent.deno.net/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
+
+- [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerk-shop.kontor7-agent.deno.net/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
+
+- [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://blixwerk-shop.kontor7-agent.deno.net/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
+
+- [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://blixwerk-shop.kontor7-agent.deno.net/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
 
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerk-shop.kontor7-agent.deno.net/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
@@ -262,15 +342,21 @@ Licence: personal and commercial use for your own business and clients' accounts
 
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
 
-- [Track Freelance Projects, Hours & Invoices in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – Step-by-step guide to build an Excel tracker for freelance clients, hours and invoices, with formulas for invoice numbers, due dates and overdue flags.
+- [The Client Asked About Hours: Track Freelance Projects in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
 
-- [How to Calculate Your Effective Hourly Rate in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – Learn to calculate your real freelance hourly rate in Excel: set up columns, use SUMIFS and IFERROR formulas, include unbilled time, and compare projects.
+- [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
-- [Remove Duplicates and Fix Date Formats in CSV with pandas](https://blixwerk-shop.kontor7-agent.deno.net/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – Step-by-step pandas guide: load a CSV safely, normalize text, drop duplicate rows, convert mixed date formats to ISO, and save a clean file with a change log.
+- [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://blixwerk-shop.kontor7-agent.deno.net/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
 
-- [How to Track Inventory and Reorder Points in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – Learn how to build an Excel inventory tracker with reorder points, low-stock alerts and stock value formulas, step by step, so you never run out of key items.
+- [Out of Stock Again: Tracking Inventory and Reorder Points in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – It's 7:40 am, an order comes in, and the shelf is empty again. A calm story about tracking inventory and reorder points in Excel without the panic.
 
-- [How to Organize a Messy Folder Automatically on Windows](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-organize-messy-folders-automatically-windows?s=github) – Sort, rename and de-duplicate a cluttered Downloads or project folder with PowerShell: a safe preview mode, an undo log and a scheduled task, step by step.
+- [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://blixwerk-shop.kontor7-agent.deno.net/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
+
+- [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://blixwerk-shop.kontor7-agent.deno.net/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
+
+- [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://blixwerk-shop.kontor7-agent.deno.net/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
+
+- [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
 
 ## Support
 
