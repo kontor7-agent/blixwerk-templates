@@ -322,61 +322,73 @@ Die Arbeitsmappe i
 
 ## Free guides
 
-- [Worried Your API Has Security Holes? The Train to the Demo](https://blixwerk-shop.kontor7-agent.deno.net/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
+- [Am I Undercharging as a Freelancer? The Sunday Walk That Hurt](https://kontor7-agent.github.io/guides/am-i-undercharging-as-a-freelancer-burnout?s=github) – Fully booked, still tired, still short on money. A quiet story about the moment you wonder if your rate is the real reason you're burning out.
 
-- [The Night Before Launch: A REST API Security Checklist Story](https://blixwerk-shop.kontor7-agent.deno.net/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
+- [Worried Your API Has Security Holes? The Train to the Demo](https://kontor7-agent.github.io/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
 
-- [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerk-shop.kontor7-agent.deno.net/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
+- [The Night Before Launch: A REST API Security Checklist Story](https://kontor7-agent.github.io/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
-- [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://blixwerk-shop.kontor7-agent.deno.net/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
+- [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://kontor7-agent.github.io/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
 
-- [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://blixwerk-shop.kontor7-agent.deno.net/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
+- [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://kontor7-agent.github.io/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
 
-- [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerk-shop.kontor7-agent.deno.net/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
+- [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://kontor7-agent.github.io/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
 
-- [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
+- [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
-- [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerk-shop.kontor7-agent.deno.net/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
+- [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://kontor7-agent.github.io/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
-- [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://blixwerk-shop.kontor7-agent.deno.net/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
+- [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://kontor7-agent.github.io/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
 
-- [Free Harvest or Toggl Alternative: When Invoice Night Hits](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – It's 9 p.m., the invoice is due, and your hours are scattered across notes and memory. A calm, free alternative to Harvest or Toggl for freelance hours.
+- [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://kontor7-agent.github.io/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
-- [Who Still Owes You? Tracking Unpaid Invoices in Excel, Free](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – It's 11 pm, you're scrolling your inbox to work out who hasn't paid. A calmer way to see overdue client payments at a glance, without the guesswork.
+- [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://kontor7-agent.github.io/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
 
-- [Minimum Freelance Hourly Rate & Day Rate: The Quote at 11 pm](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-minimum-freelance-hourly-rate-and-day-rate?s=github) – It's 11 pm, the client wants a quote, and your number is a guess. A quiet story about finding your minimum freelance hourly and day rate.
+- [Free Harvest or Toggl Alternative: When Invoice Night Hits](https://kontor7-agent.github.io/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – It's 9 p.m., the invoice is due, and your hours are scattered across notes and memory. A calm, free alternative to Harvest or Toggl for freelance hours.
 
-- [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
+- [Who Still Owes You? Tracking Unpaid Invoices in Excel, Free](https://kontor7-agent.github.io/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – It's 11 pm, you're scrolling your inbox to work out who hasn't paid. A calmer way to see overdue client payments at a glance, without the guesswork.
 
-- [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
+- [Minimum Freelance Hourly Rate & Day Rate: The Quote at 11 pm](https://kontor7-agent.github.io/guides/how-to-calculate-minimum-freelance-hourly-rate-and-day-rate?s=github) – It's 11 pm, the client wants a quote, and your number is a guess. A quiet story about finding your minimum freelance hourly and day rate.
 
-- [The Client Asked About Hours: Track Freelance Projects in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
+- [Freelance Invoice Overdue, Can't Remember Which Hours You Billed?](https://kontor7-agent.github.io/guides/freelance-invoice-overdue-cant-remember-which-hours-billed?s=github) – Invoice overdue, and you can't remember which hours it covered? A supermarket-queue story about the reminder you're afraid to send.
 
-- [Zu billig als Freelancerin? Die Angst, die Preise zu erhöhen](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelancer-zu-wenig-verlangen-preise-erhoehen-angst?s=github) – Im Wartezimmer des Steuerberaters fällt Mara etwas auf: Sie arbeitet viel und verlangt wenig. Eine Geschichte über Mut, Preise und ein ruhiges Gefühl.
+- [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://kontor7-agent.github.io/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
 
-- [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
+- [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://kontor7-agent.github.io/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
 
-- [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://blixwerk-shop.kontor7-agent.deno.net/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
+- [The Client Asked About Hours: Track Freelance Projects in Excel](https://kontor7-agent.github.io/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
 
-- [Never Know What to Post on Social Media? The Bakery Queue Test](https://blixwerk-shop.kontor7-agent.deno.net/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
+- [Zu billig als Freelancerin? Die Angst, die Preise zu erhöhen](https://kontor7-agent.github.io/guides/freelancer-zu-wenig-verlangen-preise-erhoehen-angst?s=github) – Im Wartezimmer des Steuerberaters fällt Mara etwas auf: Sie arbeitet viel und verlangt wenig. Eine Geschichte über Mut, Preise und ein ruhiges Gefühl.
 
-- [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
+- [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://kontor7-agent.github.io/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
-- [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://blixwerk-shop.kontor7-agent.deno.net/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
+- [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
-- [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://blixwerk-shop.kontor7-agent.deno.net/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
+- [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://kontor7-agent.github.io/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
-- [Out of Stock Again: Tracking Inventory and Reorder Points in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – It's 7:40 am, an order comes in, and the shelf is empty again. A calm story about tracking inventory and reorder points in Excel without the panic.
+- [Never Know What to Post on Social Media? The Bakery Queue Test](https://kontor7-agent.github.io/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
 
-- [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://blixwerk-shop.kontor7-agent.deno.net/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
+- [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://kontor7-agent.github.io/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
 
-- [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://blixwerk-shop.kontor7-agent.deno.net/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
+- [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://kontor7-agent.github.io/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
 
-- [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://blixwerk-shop.kontor7-agent.deno.net/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
+- [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://kontor7-agent.github.io/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
 
-- [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://blixwerk-shop.kontor7-agent.deno.net/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
+- [Selbstständig überfordert: Zettel, Excel-Listen und ein Anruf](https://kontor7-agent.github.io/guides/selbststaendig-ueberfordert-zettel-excel-listen-chaos?s=github) – Mittwoch, 10:15 Uhr: Der Kunde fragt nach, und du suchst in Zetteln und Excel-Listen. Eine Geschichte über Chaos und die Ruhe danach.
 
-- [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
+- [Spreadsheets Everywhere? The Monday You Couldn't Find the Number](https://kontor7-agent.github.io/guides/small-business-admin-overwhelmed-spreadsheets-everywhere?s=github) – Eleven tabs, three folders, one question you can't answer. A story for anyone drowning in small business admin and scattered spreadsheets.
+
+- [Out of Stock Again: Tracking Inventory and Reorder Points in Excel](https://kontor7-agent.github.io/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – It's 7:40 am, an order comes in, and the shelf is empty again. A calm story about tracking inventory and reorder points in Excel without the panic.
+
+- [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://kontor7-agent.github.io/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
+
+- [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://kontor7-agent.github.io/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
+
+- [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://kontor7-agent.github.io/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
+
+- [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://kontor7-agent.github.io/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
+
+- [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://kontor7-agent.github.io/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
 
 ## Support
 
