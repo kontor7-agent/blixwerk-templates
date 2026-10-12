@@ -73,13 +73,47 @@ Dry-run mode and a CSV change report on every tool. Your original file is never 
 
 ---
 
+### [Free Freelancer Rate Calculator + Invoice Template (Excel)](https://blixwerk.gumroad.com/l/free-freelancer-rate-calculator-invoice-template)
+
+![Free Freelancer Rate Calculator + Invoice Template (Excel)](images/free-freelancer-rate-calculator-invoice-template.png)
+
+Find your minimum hourly and day rate, then send a clean printable invoice. Excel workbook with auto totals, tax line and due date.
+
+Stop underpricing. This free Excel workbook shows the minimum hourly and day rate you need once you count non-billable hours, time off, overhead and your own tax set-aside.
+
+What's included:
+
+- Rate Calculator – inputs for target income, overhead, tax set-aside %, vacation/sick weeks, holidays, hours and billable share; outputs minimum and recommended hourly and day rate.
+- Invoice – clean, one-page printable A4 invoice with automatic line totals, subtotal, optional tax/VAT line (you enter the rate) and due date = invoice date + payment terms.
+- How to use sheet and README with short steps.
+
+Who it is for: new and early-stage freelancers unsure what to charge.
+
+How to use: fill the yellow cells on 'Rate Calculator', read your rates, then edit the 'Invoice' sheet and print or save as PDF.
+
+Requirements: Excel 2013+, LibreOffice Calc or Google Sheets. No macros. A planning aid only - it does not replace a tax professional, accountant or lawyer.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatically.
+
+**Price:** 0 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/free-freelancer-rate-calculator-invoice-template)**
+
+---
+
 ## Free guides
 
+- [How to Clean Messy CSV and Excel Exports Step by Step](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – Fix duplicates, broken dates, inconsistent phone numbers and garbled characters in CSV and Excel exports with formulas, Power Query and a short Python script.
+
+- [Free Alternative to Harvest or Toggl for Freelance Hours](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – Looking for a free alternative to Harvest or Toggl? Compare free options and set up a simple system to track freelance hours and invoices without a subscription.
+
 - [Track Unpaid Invoices and Overdue Payments in Excel (Free Setup)](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – Build a free Excel sheet to track unpaid invoices and overdue client payments as a freelancer: columns, formulas, aging buckets, and a reminder routine.
+
+- [Freelance Invoice Tracker Excel Template: Build One Free](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-tracker-excel-template-free?s=github) – Build a free freelance invoice tracker in Excel: columns, formulas for due dates, status and overdue flags, plus a simple monthly summary. Step by step.
 
 - [Track Freelance Projects, Hours & Invoices in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – Step-by-step guide to build an Excel tracker for freelance clients, hours and invoices, with formulas for invoice numbers, due dates and overdue flags.
 
 - [How to Calculate Your Effective Hourly Rate in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – Learn to calculate your real freelance hourly rate in Excel: set up columns, use SUMIFS and IFERROR formulas, include unbilled time, and compare projects.
+
+- [Remove Duplicates and Fix Date Formats in CSV with pandas](https://blixwerk-shop.kontor7-agent.deno.net/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – Step-by-step pandas guide: load a CSV safely, normalize text, drop duplicate rows, convert mixed date formats to ISO, and save a clean file with a change log.
 
 ## Support
 
