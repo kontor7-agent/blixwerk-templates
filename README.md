@@ -6,9 +6,9 @@ Practical, ready-to-use templates and small automation kits for freelancers and 
 
 ## Products
 
-### [Freelancer Project, Time & Invoice Tracker (Excel)](https://blixwerk.gumroad.com/l/freelancer-project-invoice-tracker-xlsx)
+### [Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel)](https://blixwerk.gumroad.com/l/freelancer-project-invoice-tracker-xlsx)
 
-![Freelancer Project, Time & Invoice Tracker (Excel)](images/freelancer-project-invoice-tracker-xlsx.png)
+![Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel)](images/freelancer-project-invoice-tracker-xlsx.png)
 
 Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
 
@@ -46,9 +46,9 @@ This product was created with AI assistance
 
 ---
 
-### [CSV & Excel Data Cleaning Toolkit (Python scripts)](https://blixwerk.gumroad.com/l/csv-cleaning-toolkit-python)
+### [Clean Data in Minutes – CSV & Excel Cleaning Toolkit (Python)](https://blixwerk.gumroad.com/l/csv-cleaning-toolkit-python)
 
-![CSV & Excel Data Cleaning Toolkit (Python scripts)](images/csv-cleaning-toolkit-python.png)
+![Clean Data in Minutes – CSV & Excel Cleaning Toolkit (Python)](images/csv-cleaning-toolkit-python.png)
 
 Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
 
@@ -73,9 +73,9 @@ Dry-run mode and a CSV change report on every tool. Your original file is never 
 
 ---
 
-### [Free Freelancer Rate Calculator + Invoice Template (Excel)](https://blixwerk.gumroad.com/l/free-freelancer-rate-calculator-invoice-template)
+### [Know Your Rate – Free Freelance Rate Calculator + Invoice Template (Excel)](https://blixwerk.gumroad.com/l/free-freelancer-rate-calculator-invoice-template)
 
-![Free Freelancer Rate Calculator + Invoice Template (Excel)](images/free-freelancer-rate-calculator-invoice-template.png)
+![Know Your Rate – Free Freelance Rate Calculator + Invoice Template (Excel)](images/free-freelancer-rate-calculator-invoice-template.png)
 
 Find your minimum hourly and day rate, then send a clean printable invoice. Excel workbook with auto totals, tax line and due date.
 
@@ -99,9 +99,9 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
-### [Small Business Inventory & Reorder Tracker (Excel)](https://blixwerk.gumroad.com/l/small-business-inventory-reorder-tracker-xlsx)
+### [Never Sold Out by Surprise – Inventory & Reorder Tracker (Excel)](https://blixwerk.gumroad.com/l/small-business-inventory-reorder-tracker-xlsx)
 
-![Small Business Inventory & Reorder Tracker (Excel)](images/small-business-inventory-reorder-tracker-xlsx.png)
+![Never Sold Out by Surprise – Inventory & Reorder Tracker (Excel)](images/small-business-inventory-reorder-tracker-xlsx.png)
 
 Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
 
@@ -137,9 +137,9 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
-### [File Organizer & Bulk Renamer Scripts (PowerShell + Bash)](https://blixwerk.gumroad.com/l/windows-file-organizer-powershell-kit)
+### [Tame Your Downloads Folder – File Organizer & Bulk Renamer Scripts](https://blixwerk.gumroad.com/l/windows-file-organizer-powershell-kit)
 
-![File Organizer & Bulk Renamer Scripts (PowerShell + Bash)](images/windows-file-organizer-powershell-kit.png)
+![Tame Your Downloads Folder – File Organizer & Bulk Renamer Scripts](images/windows-file-organizer-powershell-kit.png)
 
 Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
 
@@ -176,9 +176,9 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
-### [REST API Pre-Launch Security & Validation Checklist Kit](https://blixwerk.gumroad.com/l/api-security-review-checklist-kit)
+### [Launch Without the 2 a.m. Doubt – REST API Security Checklist Kit](https://blixwerk.gumroad.com/l/api-security-review-checklist-kit)
 
-![REST API Pre-Launch Security & Validation Checklist Kit](images/api-security-review-checklist-kit.png)
+![Launch Without the 2 a.m. Doubt – REST API Security Checklist Kit](images/api-security-review-checklist-kit.png)
 
 58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
 
@@ -212,9 +212,9 @@ Please note: this is a chec
 
 ---
 
-### [Content Calendar & Social Media Planner (Excel)](https://blixwerk.gumroad.com/l/content-calendar-social-planner-excel)
+### [Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel)](https://blixwerk.gumroad.com/l/content-calendar-social-planner-excel)
 
-![Content Calendar & Social Media Planner (Excel)](images/content-calendar-social-planner-excel.png)
+![Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel)](images/content-calendar-social-planner-excel.png)
 
 Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
 
@@ -246,9 +246,9 @@ Licence: personal and commercial use for your own business and clients' accounts
 
 ---
 
-### [Freelancer & Small Business Excel Bundle](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel)
+### [Calm Admin Bundle – Every Blixwerk Excel Tracker (Save ~40%)](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel)
 
-![Freelancer & Small Business Excel Bundle](images/bundle-freelancer-small-business-excel.png)
+![Calm Admin Bundle – Every Blixwerk Excel Tracker (Save ~40%)](images/bundle-freelancer-small-business-excel.png)
 
 All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
 
@@ -268,9 +268,9 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
-### [Developer & Data Automation Bundle](https://blixwerk.gumroad.com/l/bundle-developer-data-automation)
+### [Developer Chore-Killer Bundle – Data, Files & API Kits (Save ~40%)](https://blixwerk.gumroad.com/l/bundle-developer-data-automation)
 
-![Developer & Data Automation Bundle](images/bundle-developer-data-automation.png)
+![Developer Chore-Killer Bundle – Data, Files & API Kits (Save ~40%)](images/bundle-developer-data-automation.png)
 
 All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
 
@@ -290,9 +290,9 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
-### [Rechnungs- & Zeiterfassungs-Tracker für Freiberufler (Excel, Deutsch)](https://blixwerk.gumroad.com/l/rechnungen-zeiterfassung-freiberufler-excel)
+### [Endlich pünktlich bezahlt – Rechnungs- & Zeiterfassungs-Vorlage für Freiberufler (Excel)](https://blixwerk.gumroad.com/l/rechnungen-zeiterfassung-freiberufler-excel)
 
-![Rechnungs- & Zeiterfassungs-Tracker für Freiberufler (Excel, Deutsch)](images/rechnungen-zeiterfassung-freiberufler-excel.png)
+![Endlich pünktlich bezahlt – Rechnungs- & Zeiterfassungs-Vorlage für Freiberufler (Excel)](images/rechnungen-zeiterfassung-freiberufler-excel.png)
 
 Excel-Vorlage: Zeiterfassung, Rechnungen mit Auto-Nummer, Fälligkeit, Status offen/bezahlt/überfällig und Dashboard. Mit Beispieldaten.
 
@@ -346,6 +346,12 @@ Die Arbeitsmappe i
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
+- [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://blixwerk-shop.kontor7-agent.deno.net/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
+
+- [Never Know What to Post on Social Media? The Bakery Queue Test](https://blixwerk-shop.kontor7-agent.deno.net/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
+
+- [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
+
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://blixwerk-shop.kontor7-agent.deno.net/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
 
 - [Out of Stock Again: Tracking Inventory and Reorder Points in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – It's 7:40 am, an order comes in, and the shelf is empty again. A calm story about tracking inventory and reorder points in Excel without the panic.
@@ -353,6 +359,8 @@ Die Arbeitsmappe i
 - [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://blixwerk-shop.kontor7-agent.deno.net/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
 
 - [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://blixwerk-shop.kontor7-agent.deno.net/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
+
+- [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://blixwerk-shop.kontor7-agent.deno.net/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
 
 - [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://blixwerk-shop.kontor7-agent.deno.net/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
 
