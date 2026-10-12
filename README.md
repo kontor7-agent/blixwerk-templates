@@ -176,6 +176,42 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
+### [REST API Pre-Launch Security & Validation Checklist Kit](https://blixwerk.gumroad.com/l/api-security-review-checklist-kit)
+
+![REST API Pre-Launch Security & Validation Checklist Kit](images/api-security-review-checklist-kit.png)
+
+58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
+
+Stop reviewing APIs ad hoc. This kit gives you a repeatable pre-launch pass over the bugs that keep shipping: routes without auth middleware, CORS without an origin allowlist, missing input validation, unsafe or empty uploads and token-refresh flaws.
+
+What's included
+
+- Printable PDF checklist: 58 items in 9 areas (authentication, authorization, CORS, input validation, file uploads, rate limiting, tokens and sessions, error handling, configuration), each with severity, what to check and expected result
+- Excel tracker with Pass/Fail/N/A drop-downs, notes column, live summary per area and an automatic launch verdict
+- Editable Markdown version for issues, wikis and pull requests
+- Test-case list with a curl example and expected result for every item
+- Python script (standard library only, read-only, offline) that scans Express, Flask and FastAPI route files for routes missing auth middleware, with demo files
+- Code-review report template (DOCX and Markdown) for client handoff
+- README with usage steps and limits
+
+Who it is for
+
+Freelance backend developers and small teams shipping Node/Express or Python APIs, and anyone doing code-review gigs for clients.
+
+How to use
+
+Run the scanner on your source, work through the checklist with the curl tests on staging, track results in the spreadsheet, fix failures and hand off the report template.
+
+Requirements
+
+PDF reader, Excel/LibreOffice/Google Sheets, curl with a POSIX shell, Python 3.8+ for the scanner.
+
+Please note: this is a chec
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/api-security-review-checklist-kit)**
+
+---
+
 ## Free guides
 
 - [How to Clean Messy CSV and Excel Exports Step by Step](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – Fix duplicates, broken dates, inconsistent phone numbers and garbled characters in CSV and Excel exports with formulas, Power Query and a short Python script.
@@ -195,6 +231,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Remove Duplicates and Fix Date Formats in CSV with pandas](https://blixwerk-shop.kontor7-agent.deno.net/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – Step-by-step pandas guide: load a CSV safely, normalize text, drop duplicate rows, convert mixed date formats to ISO, and save a clean file with a change log.
 
 - [How to Track Inventory and Reorder Points in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – Learn how to build an Excel inventory tracker with reorder points, low-stock alerts and stock value formulas, step by step, so you never run out of key items.
+
+- [How to Organize a Messy Folder Automatically on Windows](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-organize-messy-folders-automatically-windows?s=github) – Sort, rename and de-duplicate a cluttered Downloads or project folder with PowerShell: a safe preview mode, an undo log and a scheduled task, step by step.
 
 ## Support
 
