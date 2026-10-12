@@ -99,6 +99,44 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
+### [Small Business Inventory & Reorder Tracker (Excel)](https://blixwerk.gumroad.com/l/small-business-inventory-reorder-tracker-xlsx)
+
+![Small Business Inventory & Reorder Tracker (Excel)](images/small-business-inventory-reorder-tracker-xlsx.png)
+
+Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
+
+Stop guessing your stock. This Excel workbook shows what to reorder, how much and from which supplier - before you run out or tie up cash in overstock.
+
+What's included
+
+- Workbook with sheets: How to use, Dashboard, Items, Movements (stock in / stock out), Reorder List and Settings
+- Formulas for stock on hand, average daily use, reorder point, days of stock left and stock value
+- Automatic colour status per item: out of stock, reorder, low, OK, overstock
+- Reorder List with suggested order quantity (in your pack sizes) and estimated cost
+- Dashboard with KPIs, status chart and value per category
+- A filled SAMPLE file and an empty BLANK template
+- Quick Start Guide (PDF) and licence
+
+Who it is for
+
+Small online shops, Etsy and Amazon sellers, craft and trade businesses and local shops that do not use inventory software and do not want a subscription.
+
+How to use
+
+Open the blank file, enter your items once (cost, lead time, safety stock), then record each delivery as In and each sale or use as Out. The Reorder List and Dashboard update automatically. Capacity: 500 items and 2,000 movement lines, with a yearly roll-over tip in the guide.
+
+Requirements
+
+Excel 2010 or newer, or LibreOffice Calc. No macros, no add-ins, no internet. Sheet labels are in English.
+
+Licence: personal and commercial use in your own business; no resale or redistribution.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatically.
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/small-business-inventory-reorder-tracker-xlsx)**
+
+---
+
 ## Free guides
 
 - [How to Clean Messy CSV and Excel Exports Step by Step](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – Fix duplicates, broken dates, inconsistent phone numbers and garbled characters in CSV and Excel exports with formulas, Power Query and a short Python script.
@@ -106,6 +144,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Free Alternative to Harvest or Toggl for Freelance Hours](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – Looking for a free alternative to Harvest or Toggl? Compare free options and set up a simple system to track freelance hours and invoices without a subscription.
 
 - [Track Unpaid Invoices and Overdue Payments in Excel (Free Setup)](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – Build a free Excel sheet to track unpaid invoices and overdue client payments as a freelancer: columns, formulas, aging buckets, and a reminder routine.
+
+- [How to Calculate Your Minimum Freelance Hourly and Day Rate](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-minimum-freelance-hourly-rate-and-day-rate?s=github) – Work out the lowest hourly and day rate you can afford as a freelancer, then turn it into a clean invoice with totals, a tax line and a due date in Excel.
 
 - [Freelance Invoice Tracker Excel Template: Build One Free](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-tracker-excel-template-free?s=github) – Build a free freelance invoice tracker in Excel: columns, formulas for due dates, status and overdue flags, plus a simple monthly summary. Step by step.
 
