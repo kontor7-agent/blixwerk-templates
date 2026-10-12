@@ -46,6 +46,10 @@ This product was created with AI assistance
 
 ---
 
+## Free guides
+
+- [Track Freelance Projects, Hours & Invoices in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – Step-by-step guide to build an Excel tracker for freelance clients, hours and invoices, with formulas for invoice numbers, due dates and overdue flags.
+
 ## Support
 
 Questions or a bug in a template? Open an issue in this repository.
