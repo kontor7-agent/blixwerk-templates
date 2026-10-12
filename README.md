@@ -212,7 +212,43 @@ Please note: this is a chec
 
 ---
 
+### [Content Calendar & Social Media Planner (Excel)](https://blixwerk.gumroad.com/l/content-calendar-social-planner-excel)
+
+![Content Calendar & Social Media Planner (Excel)](images/content-calendar-social-planner-excel.png)
+
+Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
+
+Stop planning posts in scattered notes. This Excel workbook keeps every post, deadline and platform in one place and shows you at a glance whether your posting mix is balanced.
+
+What's included
+
+- Post pipeline for up to 500 posts with dropdowns (Idea, Draft, Scheduled, Published), owner, format and alerts for overdue or due-soon posts
+- Monthly and weekly calendar views driven by formulas - type a date and the grid fills itself
+- Mix Summary: posts per platform and status vs. your weekly targets, content-pillar share vs. target mix, platform x pillar heat map, posts per week - with 3 charts
+- Hashtag library (30 sets with automatic count) and caption library (40 slots with character count)
+- Settings sheet for your own platforms, pillars and targets, a How to use sheet, a Sample Data tab, plus a pre-filled DEMO workbook
+
+Who it is for
+
+Solo creators, freelancers and small-business owners who post on several platforms and want an even, reliable posting rhythm.
+
+How to use
+
+Enter your platforms and pillars on Settings, add posts on the Posts sheet, then open Month View, Week View and Mix Summary. Step-by-step instructions are inside the workbook and in the README.
+
+Requirements
+
+Desktop Microsoft Excel 2016 or newer (Windows/Mac) or Microsoft 365. No macros, no add-ins, no internet connection. LibreOffice works for the formulas; Google Sheets may not show every dropdown or colour rule.
+
+Licence: personal and commercial use for your own business and clients' accounts; no resale
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/content-calendar-social-planner-excel)**
+
+---
+
 ## Free guides
+
+- [REST API Security Checklist Before Launch: Curl Tests](https://blixwerk-shop.kontor7-agent.deno.net/guides/rest-api-security-checklist-before-launch?s=github) – A practical pre-launch security and validation checklist for REST APIs, with curl tests for auth, validation, rate limits, CORS and error handling.
 
 - [How to Clean Messy CSV and Excel Exports Step by Step](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – Fix duplicates, broken dates, inconsistent phone numbers and garbled characters in CSV and Excel exports with formulas, Power Query and a short Python script.
 
