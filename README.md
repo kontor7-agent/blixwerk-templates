@@ -322,6 +322,8 @@ Die Arbeitsmappe i
 
 ## Free guides
 
+- [Worried Your API Has Security Holes? The Train to the Demo](https://blixwerk-shop.kontor7-agent.deno.net/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
+
 - [The Night Before Launch: A REST API Security Checklist Story](https://blixwerk-shop.kontor7-agent.deno.net/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerk-shop.kontor7-agent.deno.net/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
@@ -334,6 +336,10 @@ Die Arbeitsmappe i
 
 - [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
 
+- [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerk-shop.kontor7-agent.deno.net/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
+
+- [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://blixwerk-shop.kontor7-agent.deno.net/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
+
 - [Free Harvest or Toggl Alternative: When Invoice Night Hits](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – It's 9 p.m., the invoice is due, and your hours are scattered across notes and memory. A calm, free alternative to Harvest or Toggl for freelance hours.
 
 - [Who Still Owes You? Tracking Unpaid Invoices in Excel, Free](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – It's 11 pm, you're scrolling your inbox to work out who hasn't paid. A calmer way to see overdue client payments at a glance, without the guesswork.
@@ -342,7 +348,11 @@ Die Arbeitsmappe i
 
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
 
+- [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
+
 - [The Client Asked About Hours: Track Freelance Projects in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
+
+- [Zu billig als Freelancerin? Die Angst, die Preise zu erhöhen](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelancer-zu-wenig-verlangen-preise-erhoehen-angst?s=github) – Im Wartezimmer des Steuerberaters fällt Mara etwas auf: Sie arbeitet viel und verlangt wenig. Eine Geschichte über Mut, Preise und ein ruhiges Gefühl.
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
@@ -353,6 +363,8 @@ Die Arbeitsmappe i
 - [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
 
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://blixwerk-shop.kontor7-agent.deno.net/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
+
+- [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://blixwerk-shop.kontor7-agent.deno.net/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
 
 - [Out of Stock Again: Tracking Inventory and Reorder Points in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – It's 7:40 am, an order comes in, and the shelf is empty again. A calm story about tracking inventory and reorder points in Excel without the panic.
 
