@@ -137,6 +137,45 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
+### [File Organizer & Bulk Renamer Scripts (PowerShell + Bash)](https://blixwerk.gumroad.com/l/windows-file-organizer-powershell-kit)
+
+![File Organizer & Bulk Renamer Scripts (PowerShell + Bash)](images/windows-file-organizer-powershell-kit.png)
+
+Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
+
+Tidy a messy Downloads or project folder in minutes - with a preview first and an undo afterwards.
+
+What is included
+
+- PowerShell scripts: sort by type or date, bulk rename with patterns and regex, find duplicates by file hash, archive old files
+- Bash equivalents for Linux, macOS, WSL and Git Bash
+- Preview mode (-WhatIf / --dry-run) and a CSV undo log for every run, plus an undo script
+- One plain-text rules file (categories, date folders, exclusions, archive age) shared by both versions
+- Scheduled-task setup guide (Task Scheduler, schtasks, cron, systemd) and a one-command task registration script
+- Demo-folder generator so you can practise risk-free, and a README with copy-paste examples
+
+Who it is for
+
+Office workers, freelancers and photographers whose Downloads or project folders are full of unsorted files with inconsistent names.
+
+How to use
+
+Unzip, create the demo folder, run a script with -WhatIf (or --dry-run) to see every planned change, run it for real, and use the undo script if you change your mind. Optionally schedule it with the guide.
+
+Requirements
+
+Windows PowerShell 5.1 or PowerShell 7+, or Bash 3.2+ with standard tools. No installation, no internet connection, no telemetry. Files are only moved or renamed, never deleted.
+
+Licence
+
+Personal and commercial use allowed; no resale or redistribution.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatically.
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/windows-file-organizer-powershell-kit)**
+
+---
+
 ## Free guides
 
 - [How to Clean Messy CSV and Excel Exports Step by Step](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – Fix duplicates, broken dates, inconsistent phone numbers and garbled characters in CSV and Excel exports with formulas, Power Query and a short Python script.
@@ -154,6 +193,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [How to Calculate Your Effective Hourly Rate in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – Learn to calculate your real freelance hourly rate in Excel: set up columns, use SUMIFS and IFERROR formulas, include unbilled time, and compare projects.
 
 - [Remove Duplicates and Fix Date Formats in CSV with pandas](https://blixwerk-shop.kontor7-agent.deno.net/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – Step-by-step pandas guide: load a CSV safely, normalize text, drop duplicate rows, convert mixed date formats to ISO, and save a clean file with a change log.
+
+- [How to Track Inventory and Reorder Points in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – Learn how to build an Excel inventory tracker with reorder points, low-stock alerts and stock value formulas, step by step, so you never run out of key items.
 
 ## Support
 
