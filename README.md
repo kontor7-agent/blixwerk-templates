@@ -248,17 +248,19 @@ Licence: personal and commercial use for your own business and clients' accounts
 
 ## Free guides
 
-- [REST API Security Checklist Before Launch: Curl Tests](https://blixwerk-shop.kontor7-agent.deno.net/guides/rest-api-security-checklist-before-launch?s=github) – A practical pre-launch security and validation checklist for REST APIs, with curl tests for auth, validation, rate limits, CORS and error handling.
+- [The Night Before Launch: A REST API Security Checklist Story](https://blixwerk-shop.kontor7-agent.deno.net/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
-- [How to Clean Messy CSV and Excel Exports Step by Step](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – Fix duplicates, broken dates, inconsistent phone numbers and garbled characters in CSV and Excel exports with formulas, Power Query and a short Python script.
+- [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerk-shop.kontor7-agent.deno.net/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
-- [Free Alternative to Harvest or Toggl for Freelance Hours](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – Looking for a free alternative to Harvest or Toggl? Compare free options and set up a simple system to track freelance hours and invoices without a subscription.
+- [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
 
-- [Track Unpaid Invoices and Overdue Payments in Excel (Free Setup)](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – Build a free Excel sheet to track unpaid invoices and overdue client payments as a freelancer: columns, formulas, aging buckets, and a reminder routine.
+- [Free Harvest or Toggl Alternative: When Invoice Night Hits](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – It's 9 p.m., the invoice is due, and your hours are scattered across notes and memory. A calm, free alternative to Harvest or Toggl for freelance hours.
 
-- [How to Calculate Your Minimum Freelance Hourly and Day Rate](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-minimum-freelance-hourly-rate-and-day-rate?s=github) – Work out the lowest hourly and day rate you can afford as a freelancer, then turn it into a clean invoice with totals, a tax line and a due date in Excel.
+- [Who Still Owes You? Tracking Unpaid Invoices in Excel, Free](https://blixwerk-shop.kontor7-agent.deno.net/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – It's 11 pm, you're scrolling your inbox to work out who hasn't paid. A calmer way to see overdue client payments at a glance, without the guesswork.
 
-- [Freelance Invoice Tracker Excel Template: Build One Free](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-tracker-excel-template-free?s=github) – Build a free freelance invoice tracker in Excel: columns, formulas for due dates, status and overdue flags, plus a simple monthly summary. Step by step.
+- [Minimum Freelance Hourly Rate & Day Rate: The Quote at 11 pm](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-calculate-minimum-freelance-hourly-rate-and-day-rate?s=github) – It's 11 pm, the client wants a quote, and your number is a guess. A quiet story about finding your minimum freelance hourly and day rate.
+
+- [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://blixwerk-shop.kontor7-agent.deno.net/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
 
 - [Track Freelance Projects, Hours & Invoices in Excel](https://blixwerk-shop.kontor7-agent.deno.net/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – Step-by-step guide to build an Excel tracker for freelance clients, hours and invoices, with formulas for invoice numbers, due dates and overdue flags.
 
