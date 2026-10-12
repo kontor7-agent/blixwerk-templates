@@ -336,7 +336,11 @@ Die Arbeitsmappe i
 
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
+- [Mi cliente no me paga la factura y ya no sé qué hacer](https://kontor7-agent.github.io/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
+
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://kontor7-agent.github.io/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
+
+- [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://kontor7-agent.github.io/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
 
 - [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://kontor7-agent.github.io/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
 
@@ -365,6 +369,8 @@ Die Arbeitsmappe i
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://kontor7-agent.github.io/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
+
+- [Me quedé sin stock otra vez: el sábado del mercadillo](https://kontor7-agent.github.io/guides/me-quede-sin-stock-otra-vez-control-de-inventario?s=github) – Sábado, 9:40, el puesto montado y falta lo que más se vende. Una historia sobre quedarte sin stock otra vez y el control de inventario que no llevas.
 
 - [Never Know What to Post on Social Media? The Bakery Queue Test](https://kontor7-agent.github.io/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
 
