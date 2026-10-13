@@ -757,6 +757,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Plan Your 2027 Freelance Income and Time Off: The Question at Lunch](https://kontor7-agent.github.io/guides/freelance-business-planner-2027-excel-income-capacity-time-off?s=github) – A friend asks when you're taking a break next year, and you realise you can't answer. A calm way to plan 2027 income, capacity and time off in Excel.
 
+- [Running Your Freelance Business on Sticky Notes and Panic?](https://kontor7-agent.github.io/guides/freelance-business-running-on-sticky-notes-and-panic?s=github) – Yellow notes on the monitor, a phone full of reminders, and a quiet fear you've missed something. A story for freelancers who want their head back.
+
 - [Freelance Invoice Overdue, Can't Remember Which Hours You Billed?](https://kontor7-agent.github.io/guides/freelance-invoice-overdue-cant-remember-which-hours-billed?s=github) – Invoice overdue, and you can't remember which hours it covered? A supermarket-queue story about the reminder you're afraid to send.
 
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://kontor7-agent.github.io/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
@@ -805,6 +807,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://kontor7-agent.github.io/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
 
+- [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://kontor7-agent.github.io/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
+
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://kontor7-agent.github.io/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
@@ -843,6 +847,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Never Know What to Post on Social Media? The Bakery Queue Test](https://kontor7-agent.github.io/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
 
+- [No sé organizar mi año como autónomo y siento que voy a ciegas](https://kontor7-agent.github.io/guides/no-se-como-organizar-mi-ano-como-autonomo?s=github) – Es lunes, abres el calendario y no ves el año, solo el mes que viene. Una historia sobre ir a ciegas como autónomo y sobre cómo se siente ver el camino.
+
 - [No sé cuántas horas trabajé para cada cliente y olvidé facturas](https://kontor7-agent.github.io/guides/no-se-cuantas-horas-he-trabajado-para-cada-cliente-facturas-olvidadas?s=github) – Un cliente te pregunta cuántas horas llevas y no lo sabes. Una historia sobre facturas olvidadas y la calma de volver a verlo todo claro.
 
 - [No sé cuánto he ganado este mes como autónomo: el día 30](https://kontor7-agent.github.io/guides/no-se-cuanto-he-ganado-este-mes-como-autonomo?s=github) – Tu pareja pregunta cuánto has ganado este mes y tú no sabes qué contestar. Una historia sobre el agobio de no ver tus números y la calma de verlos.
@@ -858,6 +864,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [I Keep Overselling and Disappointing Customers: The Candle Fair](https://kontor7-agent.github.io/guides/overselling-products-small-shop-disappointing-customers?s=github) – Sorry, that one's gone. You typed it again. A small-shop story about overselling, apologies, and the calm of knowing what's really on your shelf.
 
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://kontor7-agent.github.io/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
+
+- [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://kontor7-agent.github.io/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
 
 - [Mi primera factura como freelance: vergüenza y no saber cuánto cobrar](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-cuanto-cobrar?s=github) – Un cursor sobre «Enviar», una factura vacía y ninguna idea de cuánto cobrar. Una historia para tu primera factura como freelance.
 
@@ -885,9 +893,13 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://kontor7-agent.github.io/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
 
+- [Se me olvidó facturar a un cliente y han pasado semanas](https://kontor7-agent.github.io/guides/se-me-olvido-facturar-a-un-cliente-semanas?s=github) – Ves tus fotos en las redes de un cliente y te das cuenta: nunca le enviaste la factura. Una historia sobre el despiste y cómo se vuelve a respirar.
+
 - [Se me olvidó facturar a un cliente y ya pasó un mes: la llamada](https://kontor7-agent.github.io/guides/se-me-olvido-facturar-a-un-cliente-y-ya-paso-un-mes?s=github) – Una llamada de martes, una pregunta sencilla y un mes de trabajo sin facturar. Para quien se olvidó de cobrar y no sabe cómo decirlo.
 
 - [Selbstständig überfordert: Rechnungen, Stunden und Lager überall](https://kontor7-agent.github.io/guides/selbstaendig-ueberfordert-rechnungen-stunden-lager-chaos?s=github) – Im Zug zum Steuerberater, fünf Orte für drei Themen: Rechnungen, Stunden, Lager. Eine Geschichte für alle, die das Gefühl kennen, nichts im Griff zu haben.
+
+- [Selbstständig Jahresplanung 2027: Wo soll ich nur anfangen?](https://kontor7-agent.github.io/guides/selbststaendig-jahresplanung-2027-wo-anfangen?s=github) – Am Stehtisch fragt jemand nach deinem 2027 und du sagst „läuft“. Eine Geschichte über den Moment, in dem aus Planlosigkeit ein erster ruhiger Schritt wird.
 
 - [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://kontor7-agent.github.io/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
 
@@ -909,6 +921,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Steuerberater wartet auf deine Unterlagen? Der Anruf in der Bäckerei](https://kontor7-agent.github.io/guides/steuerberater-wartet-unterlagen-durcheinander-selbststaendig?s=github) – Dienstag, 8:20 Uhr, Bäckerei-Schlange: Die Kanzlei fragt nach deinen Unterlagen, und bei dir liegt alles durcheinander. Eine Geschichte über Ruhe im Kopf.
 
+- [Steuerfrist naht, Belege-Chaos? Die Mail am Montag um 8:05](https://kontor7-agent.github.io/guides/steuerfrist-belege-chaos-freelancer-unterlagen-sortieren?s=github) – Montagmorgen, eine Mail vom Steuerberater, und deine Belege liegen überall verstreut. Eine Geschichte über das Chaos davor und die Ruhe danach.
+
 - [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://kontor7-agent.github.io/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
 
 - [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://kontor7-agent.github.io/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
@@ -922,6 +936,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://kontor7-agent.github.io/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
 
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://kontor7-agent.github.io/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
+
+- [I Underpriced a Job and I'm Losing Money: What Do I Do?](https://kontor7-agent.github.io/guides/underpriced-a-job-losing-money-what-do-i-do?s=github) – Halfway through the job, you realise the price was too low. A calm story about the sinking feeling, what to do next, and quoting without guessing.
 
 - [Underquoted a Job and Lost Money? The Tiles on Thursday Morning](https://kontor7-agent.github.io/guides/underquoted-a-job-and-lost-money-contractor?s=github) – You quoted the bathroom job in ten minutes on the doorstep. By Thursday, the tiles told you the truth. A story for contractors who underquoted.
 
