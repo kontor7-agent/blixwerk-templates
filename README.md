@@ -494,6 +494,58 @@ Hinweis: Dieses Paket ersetzt keine Steuerberatung, Buchhaltung oder Rechtsberat
 
 ---
 
+### [Belege- & Jahresend-Organizer für Selbstständige (Excel)](https://blixwerk.gumroad.com/l/belege-jahresend-organizer-selbststaendige-excel)
+
+![Belege- & Jahresend-Organizer für Selbstständige (Excel)](images/belege-jahresend-organizer-selbststaendige-excel.png)
+
+Excel-Vorlage auf Deutsch: Belegliste, Monats- und Jahresauswertung und Jahresend-Checkliste, damit du vor dem Steuerberater den Überblick hast.
+
+Ruhe im Kopf vor dem Jahresabschluss. Deine Belege liegen in Schubladen, Postfächern und Portalen, und im Dezember fehlt der Überblick? Dieser Organizer bringt alles an einen Ort, zeigt dir, was noch fehlt, und macht die Übergabe an deinen Steuerberater ruhig und einfach.
+
+Was enthalten ist:
+
+- Belegliste für 500 Belege: Datum, Einnahme/Ausgabe, Kategorie, Brutto, USt-Satz, Zahlungsart, Ablage-Pfad. Netto und USt-Betrag rechnen automatisch.
+- Prüfspalte pro Zeile: OK, Beleg fehlt, Kategorie fehlt, Datum fehlt ...
+- Monatsauswertung mit Kategorien-Matrix und Diagramm
+- Jahresauswertung mit Summen je Kategorie, Vollständigkeits-Check und Fazit
+- Checkliste zum Jahresende: 29 Aufgaben in 7 Bereichen, mit Status und Fortschritt, plus Fragenliste für den Steuerberater
+- Anleitung auf Deutsch im Blatt „Start hier“ und als einseitiges PDF
+- Realistische Beispieldaten (erfunden), die du mit einem Handgriff löschst
+
+Für wen: Freiberufler, Soloselbstständige und Kleinunternehmer in Deutschland, die ihre Belege selbst sortieren müssen.
+
+So geht's: Jahr eintragen, ersten Beleg erfassen, Auswertung ansehen: der erste Überblick steht in unter 5 Minuten. Danach alle zwei Wochen 15 Minuten Belege eintragen.
+
+Voraussetzungen: Microsoft Excel 2016 oder neuer / Microsoft 365. Keine Makros, keine Internetverbindung. Google Sheets und LibreOffice wurden nicht getestet.
+
+Dies ist eine Organisationsvorlage und does not replace a tax professional, accountant or lawyer. Sie sagt dir nicht, was steuer
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/belege-jahresend-organizer-selbststaendige-excel)**
+
+---
+
+### [Freelancer & Small Business Excel Bundle](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v3)
+
+![Freelancer & Small Business Excel Bundle](images/bundle-freelancer-small-business-excel-v3.png)
+
+All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
+
+All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
+
+Included (7 products, 72 USD if bought separately):
+
+- Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
+- Never Sold Out by Surprise – Inventory & Reorder Tracker (Excel) – Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
+- Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
+- Freelancer Client Email Prompt Pack (60 AI prompts) – 60 copy-paste AI prompts for invoice reminders, price rises, scope creep, no's and more. Placeholders, tone variants, examples. PDF + Markdown.
+- Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel) – Excel receipt log, year-end checklist, deadline tracker and progress bar – end the January receipt scramble. Organisational only.
+- 2027 Freelance Business Planner (Excel) – Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
+- Belege- & Jahresend-Organizer für Selbstständige (Excel) – Excel-Vorlage auf Deutsch: Belegliste, Monats- und Jahresauswertun
+
+**Price:** 43 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v3)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -511,6 +563,8 @@ Hinweis: Dieses Paket ersetzt keine Steuerberatung, Buchhaltung oder Rechtsberat
 - [The Night Before Launch: A REST API Security Checklist Story](https://kontor7-agent.github.io/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://kontor7-agent.github.io/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
+
+- [Steuerberater Appointment Next Week? The Folder Called 'Misc'](https://kontor7-agent.github.io/guides/steuerberater-termin-belege-uebersicht-excel-vorlage?s=github) – The tax advisor's email says 'please send your documents.' You open a folder called 'Misc'. A calm story about receipts, overview and a year-end that feels light.
 
 - [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://kontor7-agent.github.io/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
 
@@ -619,6 +673,8 @@ Hinweis: Dieses Paket ersetzt keine Steuerberatung, Buchhaltung oder Rechtsberat
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://kontor7-agent.github.io/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
+
+- [Can't Word the Price Increase Email? The Football Pitch Bench](https://kontor7-agent.github.io/guides/ai-prompts-client-emails-german-freelancers-price-increase-reminder?s=github) – Thursday, 5:10 pm, phone in hand, one client email you can't word. A story about du or Sie, awkward asks, and getting your voice back.
 
 - [Kunde fragt nach deinem Stundensatz? Der Moment nach dem Räuspern](https://kontor7-agent.github.io/guides/kunde-fragt-nach-stundensatz-was-sagen?s=github) – Der Kunde fragt im Videocall nach deinem Stundensatz, und dir fällt nur eine Zahl ein, die du sofort bereust. Eine Geschichte über den Moment danach.
 
