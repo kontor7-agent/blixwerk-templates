@@ -619,6 +619,46 @@ Quote It Right is an or
 
 ---
 
+### [Full Chair, Calm Books – Salon Income, Booking & No-Show Tracker](https://blixwerk.gumroad.com/l/full-chair-calm-books-salon-tracker-xlsx)
+
+![Full Chair, Calm Books – Salon Income, Booking & No-Show Tracker](images/full-chair-calm-books-salon-tracker-xlsx.png)
+
+Excel tracker for solo stylists, nail techs & barbers: match cash and card, see what no-shows cost, check which services still earn.
+
+Sunday night, and the tips, card payments and cash don't add up? This workbook gives you a calm weekly routine (about ten minutes) and a clear picture of your chair.
+
+What's included
+
+- Excel workbook with Start Here and How to use sheets
+- Income Log: one row per appointment, with card fee, product cost and lost value for no-shows and late cancels
+- Sunday Check: compare logged vs. counted cash, card report and transfers per week
+- Services: margin, margin per hour, effect of a supplier price rise, price needed for your target margin
+- Clients: visits, no-shows, spend, last visit, flags 'Ask for deposit' and 'Time to rebook'
+- Expenses and a 12-month overview with chart
+- Realistic sample data (Sept-Oct 2026) and a one-page Quick-start PDF
+
+Who it is for
+
+Solo hairdressers, nail techs, lash artists and barbers who rent a chair or run a one-person studio.
+
+How to use
+
+Enter your card fee and menu, add one appointment, and watch the month fill itself. Then add the week's appointments each Sunday and run the Sunday Check.
+
+Requirements
+
+Microsoft Excel 2010 or newer. Other spreadsheet programs may work but are not guaranteed.
+
+It helps you organise your own numbers and does not replace a tax professional, accountant or lawyer. Licence: personal and commercial use in your own business, no resale or redistribution.
+
+30-day money-back promise: if it doesn't help, full refund, no questions.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatic
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/full-chair-calm-books-salon-tracker-xlsx)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -653,6 +693,8 @@ Quote It Right is an or
 
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://kontor7-agent.github.io/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
 
+- [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://kontor7-agent.github.io/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
+
 - [Mi cliente me pide rebaja y no sé qué responder: la llamada](https://kontor7-agent.github.io/guides/cliente-me-pide-rebaja-precio-no-se-que-responder-freelance?s=github) – Suena el móvil, el cliente dice «¿me haces un precio?» y te quedas en blanco. Una historia sobre responder a una rebaja con calma.
 
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://kontor7-agent.github.io/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
@@ -680,6 +722,8 @@ Quote It Right is an or
 - [Excel con espacios y nombres mal escritos: no lo limpio a mano](https://kontor7-agent.github.io/guides/excel-espacios-nombres-mal-escritos-limpiar-datos?s=github) – Jueves por la mañana, 412 filas con espacios y nombres mal escritos y una entrega a mediodía. Una historia para quien no puede limpiar tanto dato a mano.
 
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://kontor7-agent.github.io/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
+
+- [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://kontor7-agent.github.io/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
 
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://kontor7-agent.github.io/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
 
@@ -769,6 +813,8 @@ Quote It Right is an or
 
 - [Me quedo sin stock y no sé cuándo reponer: la llamada de las 9](https://kontor7-agent.github.io/guides/me-quedo-sin-stock-no-se-cuando-reponer?s=github) – Son las nueve, el proveedor dice «tres semanas» y tu producto estrella ya casi no queda. Una historia sobre dejar de reponer a ciegas.
 
+- [Me salió caro el trabajo y perdí dinero en el presupuesto](https://kontor7-agent.github.io/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
+
 - [Mi carpeta de descargas es un desastre: el archivo que no aparecía](https://kontor7-agent.github.io/guides/mi-carpeta-de-descargas-es-un-desastre-y-no-encuentro-nada?s=github) – Compartes pantalla en una videollamada y tu carpeta de descargas queda a la vista. Una historia sobre archivos perdidos y cómo volver a la calma.
 
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://kontor7-agent.github.io/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
@@ -800,6 +846,8 @@ Quote It Right is an or
 - [Rechnung monatelang nicht geschrieben? Der Satz im Videocall](https://kontor7-agent.github.io/guides/rechnung-monatelang-nicht-geschrieben-nachtraeglich-schicken?s=github) – Im Kundengespräch fällt dir ein: Die Rechnung vom Frühjahr ist nie rausgegangen. Eine Geschichte über Peinlichkeit, Ruhe und den Weg zurück.
 
 - [Meine Rechnung sieht unprofessionell aus: Der Montag um 9:40 Uhr](https://kontor7-agent.github.io/guides/rechnung-sieht-unprofessionell-aus-freiberufler?s=github) – Die Buchhaltung des Kunden fragt nach der Rechnung, und dir wird heiß. Eine Geschichte für Freiberufler, die sich für ihre Rechnung schämen.
+
+- [Rechnung vergessen, Monate später? Der Fahrstuhl im dritten Stock](https://kontor7-agent.github.io/guides/rechnung-vergessen-monatelang-peinlich?s=github) – Du hast vergessen, eine Rechnung zu schicken, und der Kunde fragt freundlich nach. Eine Geschichte über Peinlichkeit und über die Ruhe danach.
 
 - [Rechnung vergessen zu schreiben? Monate später, und es ist peinlich](https://kontor7-agent.github.io/guides/rechnung-vergessen-zu-schreiben-monate-spaeter-freiberufler?s=github) – Im Zug zum Steuerberater fällt dir ein: Die Rechnung für das Projekt im Frühjahr hast du nie geschrieben. Eine Geschichte über Scham und den Weg raus.
 
