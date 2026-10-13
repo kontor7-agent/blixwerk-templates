@@ -324,6 +324,8 @@ Die Arbeitsmappe i
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
 
+- [Facturas, stock y clientes en excels sueltos: un lunes distinto](https://kontor7-agent.github.io/guides/agobiado-administracion-negocio-pequeno-excels-sueltos?s=github) – Siete archivos abiertos, una llamada de un cliente y ninguna respuesta rápida. Una historia sobre ordenar facturas, stock y clientes sin sentirte perdido.
+
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://kontor7-agent.github.io/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
 
 - [Am I Undercharging as a Freelancer? The Sunday Walk That Hurt](https://kontor7-agent.github.io/guides/am-i-undercharging-as-a-freelancer-burnout?s=github) – Fully booked, still tired, still short on money. A quiet story about the moment you wonder if your rate is the real reason you're burning out.
@@ -338,7 +340,11 @@ Die Arbeitsmappe i
 
 - [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://kontor7-agent.github.io/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
 
+- [Burned Out on Repetitive Work as a Developer? The Stand-Up Fog](https://kontor7-agent.github.io/guides/burned-out-repetitive-tasks-developer?s=github) – Fourth rename of the same file this week? A developer's quiet burnout over manual tasks, and what a calmer Monday could feel like.
+
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
+
+- [Client Hasn't Paid My Invoice: The Email You Rewrote Nine Times](https://kontor7-agent.github.io/guides/client-hasnt-paid-my-invoice-what-to-do?s=github) – Monday, 9:05, outside a café: the invoice is overdue, the email draft says sorry too often, and you can't remember the due date. A story about calm.
 
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://kontor7-agent.github.io/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
 
@@ -378,6 +384,8 @@ Die Arbeitsmappe i
 
 - [The Client Asked About Hours: Track Freelance Projects in Excel](https://kontor7-agent.github.io/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
 
+- [Tax Return Panic as a Freelancer: Invoices and Hours Don't Add Up](https://kontor7-agent.github.io/guides/freelancer-steuererklarung-panik-rechnungen-stunden-nicht-nachvollzieh?s=github) – The tax adviser's email says 'by Friday'. Your invoices and hours are scattered across three places. A calmer way to start the week.
+
 - [Tax Return Panic: Can't Find Your Freelance Invoices and Hours](https://kontor7-agent.github.io/guides/freelancer-tax-return-panic-cant-find-invoices-and-hours?s=github) – The tax adviser's email says 'by Friday', and your invoices and hours are scattered everywhere. A calm story about how that week can feel different.
 
 - [Zu billig als Freelancerin? Die Angst, die Preise zu erhöhen](https://kontor7-agent.github.io/guides/freelancer-zu-wenig-verlangen-preise-erhoehen-angst?s=github) – Im Wartezimmer des Steuerberaters fällt Mara etwas auf: Sie arbeitet viel und verlangt wenig. Eine Geschichte über Mut, Preise und ein ruhiges Gefühl.
@@ -389,6 +397,8 @@ Die Arbeitsmappe i
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://kontor7-agent.github.io/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
+
+- [Lagerbestand stimmt nie mit der Excel-Liste? Samstag, 7:50 Uhr](https://kontor7-agent.github.io/guides/lagerbestand-stimmt-nicht-mit-excel-liste-ueberein?s=github) – Auf der Liste stehen 14, in der Kiste ist nichts. Eine Geschichte vom Marktstand und davon, wie es sich anfühlt, wenn der Bestand endlich stimmt.
 
 - [Me quedé sin stock otra vez: el sábado del mercadillo](https://kontor7-agent.github.io/guides/me-quede-sin-stock-otra-vez-control-de-inventario?s=github) – Sábado, 9:40, el puesto montado y falta lo que más se vende. Una historia sobre quedarte sin stock otra vez y el control de inventario que no llevas.
 
@@ -405,6 +415,12 @@ Die Arbeitsmappe i
 - [No sé qué publicar en Instagram hoy y llevo días sin subir nada](https://kontor7-agent.github.io/guides/no-se-que-publicar-en-instagram-hoy-negocio?s=github) – Fila del súper, el móvil en la mano y once días sin publicar. Una historia para quien no sabe qué subir hoy a Instagram y ya se siente en deuda.
 
 - [Out of Stock Again, So Embarrassing: The Customer at Your Counter](https://kontor7-agent.github.io/guides/out-of-stock-again-embarrassing-small-business?s=github) – She came in for the one thing you've sold out of again. That small, hot-faced moment at the counter, and what a calmer shelf feels like.
+
+- [Overwhelmed by Social Media? No Plan for What to Post This Week](https://kontor7-agent.github.io/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
+
+- [Mi primera factura como freelance: vergüenza y no saber cuánto cobrar](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-cuanto-cobrar?s=github) – Un cursor sobre «Enviar», una factura vacía y ninguna idea de cuánto cobrar. Una historia para tu primera factura como freelance.
+
+- [Meine Rechnung sieht unprofessionell aus: Der Montag um 9:40 Uhr](https://kontor7-agent.github.io/guides/rechnung-sieht-unprofessionell-aus-freiberufler?s=github) – Die Buchhaltung des Kunden fragt nach der Rechnung, und dir wird heiß. Eine Geschichte für Freiberufler, die sich für ihre Rechnung schämen.
 
 - [Rechnung vergessen zu schreiben? Monate später, und es ist peinlich](https://kontor7-agent.github.io/guides/rechnung-vergessen-zu-schreiben-monate-spaeter-freiberufler?s=github) – Im Zug zum Steuerberater fällt dir ein: Die Rechnung für das Projekt im Frühjahr hast du nie geschrieben. Eine Geschichte über Scham und den Weg raus.
 
