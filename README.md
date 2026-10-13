@@ -582,6 +582,43 @@ Nutzung privat und g
 
 ---
 
+### [Quote It Right – Job Quote, Materials & Margin Sheet](https://blixwerk.gumroad.com/l/quote-it-right-job-quote-materials-margin-sheet)
+
+![Quote It Right – Job Quote, Materials & Margin Sheet](images/quote-it-right-job-quote-materials-margin-sheet.png)
+
+Excel quote builder for tradespeople: price jobs on site, track materials and receipts, see real margin and who still owes you.
+
+Stop quoting from your head. Quote It Right is an Excel workbook for handymen, electricians, cleaners, gardeners and other mobile service pros who quote on site and invoice from the van.
+
+What's included
+
+- Customer Quote sheet: a clean one-page quote to print or save as PDF, with a private margin box that warns you when a quote is below your target
+- Quote Lines and Price List: labour, materials and travel priced from your own rates and markups
+- Job Log: every job from quote to payment, with real hours vs quoted hours, profit and margin
+- Receipts sheet: log every cost against a job, flag what is filed, see costs by category for the year
+- Dashboard: money owed, overdue, done-but-not-invoiced, open quotes, win rate, earned per hour, and a 'who to chase today' list
+- Start-here sheet, How-to-use sheet, realistic sample data and a one-page Quick-Start PDF
+
+Who it is for
+
+One- to three-person service businesses that quote on site, buy materials on the way, and sometimes wait for customers to pay.
+
+How to use
+
+Open the workbook, set your rates in Settings, add a job, add its quote lines, and pick the job on the Customer Quote sheet. Your first quote takes about 5 minutes. After that, 10 minutes a week keeps hours, receipts and payments up to date.
+
+Requirements
+
+Microsoft Excel 2016 or newer. Ordinary formulas only, no macros. Other spreadsheet programs are not tested.
+
+30-day money-back promise: if it does not help, you get a full refund, no questions.
+
+Quote It Right is an or
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/quote-it-right-job-quote-materials-margin-sheet)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -721,6 +758,8 @@ Nutzung privat und g
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://kontor7-agent.github.io/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
 - [Kunde zweifelt deine Stunden an? Der Anruf im Regionalzug](https://kontor7-agent.github.io/guides/kunde-zweifelt-stunden-rechnung-nachweisen?s=github) – Die Buchhaltung deines Kunden fragt: „Stimmen die 23 Stunden wirklich?“ Und du kannst es nicht belegen. Eine Geschichte über den Moment danach.
+
+- [Where Did the Stock Go? The Tuesday Morning Count in the Back Room](https://kontor7-agent.github.io/guides/stock-list-reorder-point-excel-small-business?s=github) – You count shelves by hand, and the numbers still don't match. A calm story about a small business owner who stops being surprised by an empty shelf.
 
 - [Lagerbestand stimmt nie mit der Excel-Liste? Samstag, 7:50 Uhr](https://kontor7-agent.github.io/guides/lagerbestand-stimmt-nicht-mit-excel-liste-ueberein?s=github) – Auf der Liste stehen 14, in der Kiste ist nichts. Eine Geschichte vom Marktstand und davon, wie es sich anfühlt, wenn der Bestand endlich stimmt.
 
