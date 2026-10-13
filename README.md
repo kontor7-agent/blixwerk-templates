@@ -332,6 +332,8 @@ Die Arbeitsmappe i
 
 - [Worried Your API Has Security Holes? The Train to the Demo](https://kontor7-agent.github.io/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
 
+- [Did I Miss an API Security Check? The Handover Call at 10 am](https://kontor7-agent.github.io/guides/api-security-check-before-launch-client-handover?s=github) – The client is waiting on the call, your API is ready, and one quiet thought won't leave: did I miss a security check? A calm story about shipping without doubt.
+
 - [The Night Before Launch: A REST API Security Checklist Story](https://kontor7-agent.github.io/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://kontor7-agent.github.io/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
@@ -354,6 +356,8 @@ Die Arbeitsmappe i
 
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://kontor7-agent.github.io/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
 
+- [Mi CSV se abre con caracteres raros en Excel y lo entrego hoy](https://kontor7-agent.github.io/guides/csv-caracteres-raros-excel-entregar-hoy?s=github) – Son las 11:40, el archivo se abre lleno de Ã© y �, y la entrega es a las dos. Una historia sobre el CSV que no se deja leer y la calma después.
+
 - [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://kontor7-agent.github.io/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://kontor7-agent.github.io/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
@@ -368,6 +372,8 @@ Die Arbeitsmappe i
 
 - [Afraid You Forgot Something Before Deploying Your API? Friday, 4:50 pm](https://kontor7-agent.github.io/guides/forgot-something-before-deploying-api-to-production?s=github) – The deploy button is ready, the weekend is waiting, and one quiet thought won't leave: what did I forget? A story about launching with a calmer head.
 
+- [Forgot to Invoice a Client as a Freelancer? The Wedding Fair Stand](https://kontor7-agent.github.io/guides/forgot-to-send-invoice-to-client-freelancer-what-to-do?s=github) – Standing at a trade fair, you suddenly realise a client was never invoiced. What to do next, and how a calm weekly routine keeps it from happening again.
+
 - [Forgot to Write an Invoice? The Freelancer's Tuesday at the Bank](https://kontor7-agent.github.io/guides/forgot-to-write-invoice-freelancer-lost-overview?s=github) – You stand in a queue and suddenly wonder: did I ever bill that job? A quiet story about losing the overview as a freelancer, and getting it back.
 
 - [Free Harvest or Toggl Alternative: When Invoice Night Hits](https://kontor7-agent.github.io/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – It's 9 p.m., the invoice is due, and your hours are scattered across notes and memory. A calm, free alternative to Harvest or Toggl for freelance hours.
@@ -376,6 +382,8 @@ Die Arbeitsmappe i
 
 - [Minimum Freelance Hourly Rate & Day Rate: The Quote at 11 pm](https://kontor7-agent.github.io/guides/how-to-calculate-minimum-freelance-hourly-rate-and-day-rate?s=github) – It's 11 pm, the client wants a quote, and your number is a guess. A quiet story about finding your minimum freelance hourly and day rate.
 
+- [Freelance Admin Out of Control? The Sunday Driveway Moment](https://kontor7-agent.github.io/guides/freelance-admin-out-of-control-feel-behind-on-everything?s=github) – You sit in the car outside your parents' house, phone full of things you haven't done. If freelance admin feels out of control, this story is for you.
+
 - [Freelance Invoice Overdue, Can't Remember Which Hours You Billed?](https://kontor7-agent.github.io/guides/freelance-invoice-overdue-cant-remember-which-hours-billed?s=github) – Invoice overdue, and you can't remember which hours it covered? A supermarket-queue story about the reminder you're afraid to send.
 
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://kontor7-agent.github.io/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
@@ -383,6 +391,8 @@ Die Arbeitsmappe i
 - [Drowning in Freelance Admin? The Hairdresser's Chair, 8:55 am](https://kontor7-agent.github.io/guides/freelancer-admin-overload-invoices-tracking-everywhere?s=github) – Invoices in one place, hours in another, receipts in a shoebox. A quiet Monday-morning story about freelance admin overload, and the relief of one calm system.
 
 - [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://kontor7-agent.github.io/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
+
+- [Can't Keep Up With Invoices and Time Tracking? The Train Platform](https://kontor7-agent.github.io/guides/freelancer-invoice-and-time-tracking-chaos?s=github) – On a cold platform, a freelancer realises she can't say which hours are billed. A calm story about invoice and time tracking chaos, and the way out.
 
 - [Don't Know Who Has Paid? Freelance Invoices at the Swimming Pool](https://kontor7-agent.github.io/guides/freelancer-invoices-spreadsheet-dont-know-who-has-paid?s=github) – Thursday, 4:10 pm, damp bleachers, and an email asking if invoice 14 was paid. A story for freelancers whose invoice spreadsheet stopped being trustworthy.
 
@@ -410,9 +420,13 @@ Die Arbeitsmappe i
 
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://kontor7-agent.github.io/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
+- [Kunde zweifelt deine Stunden an? Der Anruf im Regionalzug](https://kontor7-agent.github.io/guides/kunde-zweifelt-stunden-rechnung-nachweisen?s=github) – Die Buchhaltung deines Kunden fragt: „Stimmen die 23 Stunden wirklich?“ Und du kannst es nicht belegen. Eine Geschichte über den Moment danach.
+
 - [Lagerbestand stimmt nie mit der Excel-Liste? Samstag, 7:50 Uhr](https://kontor7-agent.github.io/guides/lagerbestand-stimmt-nicht-mit-excel-liste-ueberein?s=github) – Auf der Liste stehen 14, in der Kiste ist nichts. Eine Geschichte vom Marktstand und davon, wie es sich anfühlt, wenn der Bestand endlich stimmt.
 
 - [Me quedé sin stock otra vez: el sábado del mercadillo](https://kontor7-agent.github.io/guides/me-quede-sin-stock-otra-vez-control-de-inventario?s=github) – Sábado, 9:40, el puesto montado y falta lo que más se vende. Una historia sobre quedarte sin stock otra vez y el control de inventario que no llevas.
+
+- [Me quedo sin stock y no sé cuándo reponer: la llamada de las 9](https://kontor7-agent.github.io/guides/me-quedo-sin-stock-no-se-cuando-reponer?s=github) – Son las nueve, el proveedor dice «tres semanas» y tu producto estrella ya casi no queda. Una historia sobre dejar de reponer a ciegas.
 
 - [Mi carpeta de descargas es un desastre: el archivo que no aparecía](https://kontor7-agent.github.io/guides/mi-carpeta-de-descargas-es-un-desastre-y-no-encuentro-nada?s=github) – Compartes pantalla en una videollamada y tu carpeta de descargas queda a la vista. Una historia sobre archivos perdidos y cómo volver a la calma.
 
@@ -467,6 +481,8 @@ Die Arbeitsmappe i
 - [Immer vergessen, auf Social Media zu posten? Der Marktstand](https://kontor7-agent.github.io/guides/social-media-posten-vergessen-kleines-unternehmen?s=github) – Samstag am Marktstand sagt jemand: „Ich dachte, es gibt euch nicht mehr.“ Eine Geschichte für alle, die das Posten ständig vergessen.
 
 - [Social Media jeden Sonntag Stress? Was soll ich diese Woche posten?](https://kontor7-agent.github.io/guides/social-media-sonntag-stress-was-soll-ich-diese-woche-posten?s=github) – Sonntag, 16:40, Kaffeetafel bei deiner Mutter, und unter dem Tisch starrst du aufs leere Textfeld. Warum die Postfrage nicht jede Woche neu wehtun muss.
+
+- [Steuerberater wartet auf deine Unterlagen? Der Anruf in der Bäckerei](https://kontor7-agent.github.io/guides/steuerberater-wartet-unterlagen-durcheinander-selbststaendig?s=github) – Dienstag, 8:20 Uhr, Bäckerei-Schlange: Die Kanzlei fragt nach deinen Unterlagen, und bei dir liegt alles durcheinander. Eine Geschichte über Ruhe im Kopf.
 
 - [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://kontor7-agent.github.io/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
 
