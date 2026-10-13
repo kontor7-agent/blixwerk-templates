@@ -793,6 +793,8 @@ Quote It Right is an or
 
 - [Mi primera factura como freelance: vergüenza y no saber cuánto cobrar](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-cuanto-cobrar?s=github) – Un cursor sobre «Enviar», una factura vacía y ninguna idea de cuánto cobrar. Una historia para tu primera factura como freelance.
 
+- [Quoted on the Doorstep, Lost Money by Friday: Quotes for Tradespeople](https://kontor7-agent.github.io/guides/excel-quote-template-for-tradespeople-price-jobs-on-site?s=github) – You said a number in the customer's kitchen and regretted it in the van. A calm look at pricing jobs on site and finally seeing what you really earned.
+
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://kontor7-agent.github.io/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
 
 - [Rechnung monatelang nicht geschrieben? Der Satz im Videocall](https://kontor7-agent.github.io/guides/rechnung-monatelang-nicht-geschrieben-nachtraeglich-schicken?s=github) – Im Kundengespräch fällt dir ein: Die Rechnung vom Frühjahr ist nie rausgegangen. Eine Geschichte über Peinlichkeit, Ruhe und den Weg zurück.
