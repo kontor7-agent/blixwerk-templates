@@ -343,6 +343,43 @@ Start with the tracker: enter one client, one project and one invoice and watch 
 
 ---
 
+### [Freelancer Client Email Prompt Pack (60 AI prompts)](https://blixwerk.gumroad.com/l/freelancer-client-email-prompt-pack)
+
+![Freelancer Client Email Prompt Pack (60 AI prompts)](images/freelancer-client-email-prompt-pack.png)
+
+60 copy-paste AI prompts for invoice reminders, price rises, scope creep, no's and more. Placeholders, tone variants, examples. PDF + Markdown.
+
+Say the awkward thing calmly, in two minutes, in your own voice.
+
+Chasing an unpaid invoice, raising your price, pushing back on scope creep: the hard part is rarely the idea, it is the wording. This pack gives you 60 ready-to-use prompts for ChatGPT, Claude, Gemini and other chat assistants.
+
+What is included
+
+- 60 prompts in 8 situations: unpaid invoices (friendly to firm), price increases, scope creep, proposal follow-ups, late feedback, saying no, testimonials and referrals, project wrap-up
+- Each prompt has clear [PLACEHOLDERS], two tone variants and an example output
+- A Voice Block method so the drafts sound like you
+- Formatted PDF, one-page Quick-Start PDF, plus Markdown and plain-text copies for easy copy and paste
+
+Who it is for
+
+Freelancers and solo self-employed people (designers, developers, writers, consultants, coaches) who dread awkward client emails.
+
+How to use
+
+Pick your situation, copy the prompt, add your Voice Block, fill in the brackets, check the result and send.
+
+Requirements
+
+Any AI chat assistant and a PDF reader. Nothing to install. The pack helps with wording and does not replace a tax professional, accountant or lawyer; check contract terms and local rules yourself.
+
+30-day money-back promise: if it does not help, full refund, no questions. Personal and commercial use in your own business; no resale or redistribution.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatically.
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/freelancer-client-email-prompt-pack)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -371,6 +408,10 @@ Start with the tracker: enter one client, one project and one invoice and watch 
 
 - [Client Hasn't Paid My Invoice: The Email You Rewrote Nine Times](https://kontor7-agent.github.io/guides/client-hasnt-paid-my-invoice-what-to-do?s=github) – Monday, 9:05, outside a café: the invoice is overdue, the email draft says sorry too often, and you can't remember the due date. A story about calm.
 
+- [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://kontor7-agent.github.io/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
+
+- [Mi cliente me pide rebaja y no sé qué responder: la llamada](https://kontor7-agent.github.io/guides/cliente-me-pide-rebaja-precio-no-se-que-responder-freelance?s=github) – Suena el móvil, el cliente dice «¿me haces un precio?» y te quedas en blanco. Una historia sobre responder a una rebaja con calma.
+
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://kontor7-agent.github.io/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
 
 - [¿Cobro muy poco como freelance? La cola del súper me lo dijo](https://kontor7-agent.github.io/guides/cobro-muy-poco-como-freelance?s=github) – Una cola de supermercado, una pregunta inocente y un número que no te sale. Una historia para quien sospecha que cobra menos de lo que vale.
@@ -392,6 +433,8 @@ Start with the tracker: enter one client, one project and one invoice and watch 
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://kontor7-agent.github.io/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
 
 - [Mi Excel tiene duplicados y fechas mal escritas: el lunes del cierre](https://kontor7-agent.github.io/guides/excel-datos-duplicados-fechas-mal-escritas?s=github) – Son las nueve de la mañana, el cliente espera tu lista y tu Excel tiene filas repetidas y fechas que no cuadran. Una historia sobre recuperar la calma.
+
+- [Excel con espacios y nombres mal escritos: no lo limpio a mano](https://kontor7-agent.github.io/guides/excel-espacios-nombres-mal-escritos-limpiar-datos?s=github) – Jueves por la mañana, 412 filas con espacios y nombres mal escritos y una entrega a mediodía. Una historia para quien no puede limpiar tanto dato a mano.
 
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://kontor7-agent.github.io/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
@@ -419,7 +462,11 @@ Start with the tracker: enter one client, one project and one invoice and watch 
 
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://kontor7-agent.github.io/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
 
+- [My Freelance Rate Is Too Low and No One Pushes Back: The Yes](https://kontor7-agent.github.io/guides/freelance-rate-too-low-clients-never-push-back?s=github) – The client said yes in four seconds. Your stomach dropped. If nobody ever pushes back on your freelance rate, this story is for you.
+
 - [Drowning in Freelance Admin? The Hairdresser's Chair, 8:55 am](https://kontor7-agent.github.io/guides/freelancer-admin-overload-invoices-tracking-everywhere?s=github) – Invoices in one place, hours in another, receipts in a shoebox. A quiet Monday-morning story about freelance admin overload, and the relief of one calm system.
+
+- [Who Owes Me, What Do I Charge, Where Did My Time Go?](https://kontor7-agent.github.io/guides/freelancer-money-clarity-who-owes-me-what-to-charge-where-time-goes?s=github) – A holiday that isn't one: the ferry, the phone, and three questions about money and time you couldn't answer. A calmer way to run your week.
 
 - [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://kontor7-agent.github.io/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
 
@@ -456,6 +503,8 @@ Start with the tracker: enter one client, one project and one invoice and watch 
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
 - [Kunde fragt nach deinem Stundensatz? Der Moment nach dem Räuspern](https://kontor7-agent.github.io/guides/kunde-fragt-nach-stundensatz-was-sagen?s=github) – Der Kunde fragt im Videocall nach deinem Stundensatz, und dir fällt nur eine Zahl ein, die du sofort bereust. Eine Geschichte über den Moment danach.
+
+- [Kunde ignoriert deine Rechnung? Der Urlaubstag am Baggersee](https://kontor7-agent.github.io/guides/kunde-ignoriert-rechnung-nachfassen?s=github) – Du liegst am See, aber im Kopf bleibt die unbeantwortete Rechnung. Eine Geschichte darüber, wie Nachfassen ruhiger werden kann.
 
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://kontor7-agent.github.io/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
@@ -540,6 +589,8 @@ Start with the tracker: enter one client, one project and one invoice and watch 
 - [Tired of Manual Data Cleanup Every Week? The Airport Gate Fix](https://kontor7-agent.github.io/guides/tired-of-manual-data-cleanup-file-chores-developer?s=github) – Waiting at the gate, you're renaming files and fixing a CSV by hand again. A story about weekly developer chores and what a quiet Monday can feel like.
 
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://kontor7-agent.github.io/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
+
+- [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://kontor7-agent.github.io/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
 
 - [Me da vergüenza subir mis tarifas a clientes antiguos](https://kontor7-agent.github.io/guides/verguenza-subir-tarifas-clientes-antiguos-freelance?s=github) – Llevas tres años cobrando lo mismo a Marta y cada vez que abres el correo para avisarla, cierras la pestaña. Una historia sobre subir tarifas sin sudar.
 
