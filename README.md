@@ -320,6 +320,29 @@ Die Arbeitsmappe i
 
 ---
 
+### [Freelancer Calm Kit – Get Paid, Price Right, Plan Your Year (6 Tools)](https://blixwerk.gumroad.com/l/freelancer-calm-kit)
+
+![Freelancer Calm Kit – Get Paid, Price Right, Plan Your Year (6 Tools)](images/freelancer-calm-kit.png)
+
+Know who owes you, what to charge and where your time goes – 6 templates & prompt packs in one kit.
+
+Everything a freelancer needs to feel calm about money and admin – in one download.
+
+Included (6 tools, 51 $ if bought separately):
+
+- Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
+- Know Your Rate – Free Freelance Rate Calculator + Invoice Template (Excel) – Find your minimum hourly and day rate, then send a clean printable invoice. Excel workbook with auto totals, tax line and due date.
+- Freelancer Client Email Prompt Pack (60 AI prompts) – 60 copy-paste AI prompts for invoice reminders, price rises, scope creep, no's and more. Placeholders, tone variants, examples. PDF + Markdown.
+- Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel) – Excel receipt log, year-end checklist, deadline tracker and progress bar – end the January receipt scramble. Organisational only.
+- 2027 Freelance Business Planner (Excel) – Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
+- Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
+
+Start with the tracker: enter one client, one project and one invoice and watch the dashboard fill in. Excel templates, tested in LibreOffi
+
+**Price:** 29 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/freelancer-calm-kit)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -355,6 +378,8 @@ Die Arbeitsmappe i
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://kontor7-agent.github.io/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://kontor7-agent.github.io/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
+
+- [Llevo años cobrando de menos y me da miedo subir mis tarifas](https://kontor7-agent.github.io/guides/creo-que-llevo-anos-cobrando-poco-miedo-a-subir-tarifas?s=github) – Una mañana de domingo en el mercado, una cifra en la libreta y la sospecha de que llevas años cobrando de menos. Y el miedo a decirlo en voz alta.
 
 - [Mi CSV se abre con caracteres raros en Excel y lo entrego hoy](https://kontor7-agent.github.io/guides/csv-caracteres-raros-excel-entregar-hoy?s=github) – Son las 11:40, el archivo se abre lleno de Ã© y �, y la entrega es a las dos. Una historia sobre el CSV que no se deja leer y la calma después.
 
@@ -402,6 +427,8 @@ Die Arbeitsmappe i
 
 - [Can't Keep Up With Invoices and Time Tracking? The Train Platform](https://kontor7-agent.github.io/guides/freelancer-invoice-and-time-tracking-chaos?s=github) – On a cold platform, a freelancer realises she can't say which hours are billed. A calm story about invoice and time tracking chaos, and the way out.
 
+- [Invoice Chaos as a Freelancer: What Did I Bill, What's Still Open?](https://kontor7-agent.github.io/guides/freelancer-invoice-chaos-cant-keep-track-of-billed-and-open?s=github) – Your client asks, 'Did you send the March invoice?' and you honestly don't know. A story about invoice chaos and finally seeing what's billed and open.
+
 - [Don't Know Who Has Paid? Freelance Invoices at the Swimming Pool](https://kontor7-agent.github.io/guides/freelancer-invoices-spreadsheet-dont-know-who-has-paid?s=github) – Thursday, 4:10 pm, damp bleachers, and an email asking if invoice 14 was paid. A story for freelancers whose invoice spreadsheet stopped being trustworthy.
 
 - [Overwhelmed by Invoices and Timesheets? The Supermarket Queue](https://kontor7-agent.github.io/guides/freelancer-overwhelmed-invoices-timesheets-whats-paid?s=github) – Standing in the checkout queue, you can't say which invoices are paid. A calm story about invoices, timesheets and finally seeing the whole picture.
@@ -417,6 +444,8 @@ Die Arbeitsmappe i
 - [Tax Return Panic: Can't Find Your Freelance Invoices and Hours](https://kontor7-agent.github.io/guides/freelancer-tax-return-panic-cant-find-invoices-and-hours?s=github) – The tax adviser's email says 'by Friday', and your invoices and hours are scattered everywhere. A calm story about how that week can feel different.
 
 - [Freelancer Tax Return Stress: Invoices and Hours That Won't Add Up](https://kontor7-agent.github.io/guides/freelancer-tax-return-stress-invoices-hours-dont-add-up?s=github) – The tax adviser's call is tomorrow, and your invoices and hours tell two different stories. A calm look at how that knot loosens.
+
+- [Den ganzen Monat gearbeitet und kaum Geld übrig? Der Wertstoffhof](https://kontor7-agent.github.io/guides/freelancer-viel-gearbeitet-kaum-geld-uebrig?s=github) – Samstagvormittag in der Schlange am Wertstoffhof: Die Banking-App zeigt weniger, als du erwartet hast. Was du als Freelancer falsch machst? Vielleicht nichts.
 
 - [Zu billig als Freelancerin? Die Angst, die Preise zu erhöhen](https://kontor7-agent.github.io/guides/freelancer-zu-wenig-verlangen-preise-erhoehen-angst?s=github) – Im Wartezimmer des Steuerberaters fällt Mara etwas auf: Sie arbeitet viel und verlangt wenig. Eine Geschichte über Mut, Preise und ein ruhiges Gefühl.
 
@@ -491,6 +520,8 @@ Die Arbeitsmappe i
 - [Out of Stock Again: Tracking Inventory and Reorder Points in Excel](https://kontor7-agent.github.io/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – It's 7:40 am, an order comes in, and the shelf is empty again. A calm story about tracking inventory and reorder points in Excel without the panic.
 
 - [Keep Running Out of Stock? The Post Office Queue Reorder Moment](https://kontor7-agent.github.io/guides/small-business-keep-running-out-of-stock-when-to-reorder?s=github) – Twelve people in the post office queue, one email on your phone: the last jar is gone again. A calm story about knowing when to reorder.
+
+- [Admin Drowning Your Small Business? The Van Lunch in the Rain](https://kontor7-agent.github.io/guides/small-business-owner-drowning-in-admin-spreadsheets-everywhere?s=github) – Rain on the windscreen, a sandwich going cold, and six spreadsheets that never agree. A story for small business owners drowning in admin.
 
 - [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://kontor7-agent.github.io/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
 
