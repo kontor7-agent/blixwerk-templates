@@ -546,6 +546,42 @@ Included (7 products, 72 USD if bought separately):
 
 ---
 
+### [Lagerbestand & Nachbestell-Tracker (Excel, Deutsch)](https://blixwerk.gumroad.com/l/lagerbestand-nachbestellung-excel-vorlage)
+
+![Lagerbestand & Nachbestell-Tracker (Excel, Deutsch)](images/lagerbestand-nachbestellung-excel-vorlage.png)
+
+Excel-Vorlage: Artikelstamm, Zu-/Abgänge, Meldebestand, Bestellvorschläge je Lieferant und Dashboard. Mit Beispieldaten.
+
+Nie wieder ausverkauft – und kein Kapital unnötig im Lager gebunden. Der Lagerbestand &amp; Nachbestell-Tracker zeigt dir in Excel, welche Artikel bald ausgehen, was du bei welchem Lieferanten bestellen solltest und welche Ware zu lange liegt.
+
+Das ist enthalten
+
+- Excel-Datei leer zum Starten und Excel-Datei mit Beispieldaten (33 Artikel, 5 Lieferanten, mehrere hundert Buchungen)
+- Artikelstamm mit Lieferant, EK-/VK-Preis, Lagerort, Mindestbestellmenge und Verpackungseinheit
+- Buchungsblatt für Zu- und Abgänge mit Auswahllisten (Wareneingang, Warenausgang, Retouren, Inventurkorrektur)
+- Automatischer Meldebestand und Sicherheitsbestand, Reichweite in Tagen, Status je Artikel
+- Bestellvorschläge je Lieferant inkl. Mindestbestellwert-Prüfung und druckbare Bestellliste
+- Dashboard mit Kennzahlen, Diagrammen, Kapital in Überbestand und den 10 dringendsten Artikeln
+- Anleitung im Arbeitsblatt und als PDF-Kurzanleitung
+
+Für wen?
+
+Kleine Läden, Online-Händler und Manufakturen in Deutschland, die ihr Lager ohne teure Software im Griff haben wollen.
+
+So funktioniert es
+
+Lieferanten und Lieferzeiten eintragen, Artikel anlegen, Zu- und Abgänge buchen – die Vorlage berechnet Bestand, Meldebestand und Bestellmenge selbst. Alle Texte, Euro-Formate und das Datumsformat TT.MM.JJJJ sind auf Deutschland ausgelegt.
+
+Voraussetzungen
+
+Excel 2016 oder neuer bzw. LibreOffice Calc. Keine Makros, keine Internetverbindung. Kapazität: 200 Artikel, 3.000 Buchungen, 20 Lieferanten.
+
+Nutzung privat und g
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/lagerbestand-nachbestellung-excel-vorlage)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -567,6 +603,8 @@ Included (7 products, 72 USD if bought separately):
 - [Steuerberater Appointment Next Week? The Folder Called 'Misc'](https://kontor7-agent.github.io/guides/steuerberater-termin-belege-uebersicht-excel-vorlage?s=github) – The tax advisor's email says 'please send your documents.' You open a folder called 'Misc'. A calm story about receipts, overview and a year-end that feels light.
 
 - [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://kontor7-agent.github.io/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
+
+- [Too Many Freelance Spreadsheets? The Monday Kettle Moment](https://kontor7-agent.github.io/guides/excel-trackers-for-freelancers-one-download?s=github) – Invoices in one file, hours in another, prices in a third. A Monday-morning story for freelancers who want their Excel trackers in one calm place.
 
 - [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://kontor7-agent.github.io/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
 
