@@ -324,7 +324,7 @@ Die Arbeitsmappe i
 
 ![Freelancer Calm Kit – Get Paid, Price Right, Plan Your Year (6 Tools)](images/freelancer-calm-kit.png)
 
-Know who owes you, what to charge and where your time goes – 6 templates & prompt packs in one kit.
+Know who owes you, what to charge and where your time goes – 6 tools + onboarding bonus. 29 $ for the first 50.
 
 Everything a freelancer needs to feel calm about money and admin – in one download.
 
@@ -337,7 +337,7 @@ Included (6 tools, 51 $ if bought separately):
 - 2027 Freelance Business Planner (Excel) – Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
 - Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
 
-Start with the tracker: enter one client, one project and one invoice and watch the dashboard fill in. Excel templates, tested in LibreOffi
+🎁 Bonus included: Freelancer Client Onboarding & Project Kickoff Kit (12 $ on its own) – welcome email, kickoff checklist and scope templat
 
 **Price:** 29 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/freelancer-calm-kit)**
 
@@ -691,11 +691,15 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
+- [Think You're Charging Too Little? The Coworking Kitchen Moment](https://kontor7-agent.github.io/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
+
 - [Client Hasn't Paid My Invoice: The Email You Rewrote Nine Times](https://kontor7-agent.github.io/guides/client-hasnt-paid-my-invoice-what-to-do?s=github) – Monday, 9:05, outside a café: the invoice is overdue, the email draft says sorry too often, and you can't remember the due date. A story about calm.
 
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://kontor7-agent.github.io/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
 
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://kontor7-agent.github.io/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
+
+- [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://kontor7-agent.github.io/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
 
 - [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://kontor7-agent.github.io/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
 
@@ -811,11 +815,15 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://kontor7-agent.github.io/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
+- [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://kontor7-agent.github.io/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
+
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
 - [Can't Word the Price Increase Email? The Football Pitch Bench](https://kontor7-agent.github.io/guides/ai-prompts-client-emails-german-freelancers-price-increase-reminder?s=github) – Thursday, 5:10 pm, phone in hand, one client email you can't word. A story about du or Sie, awkward asks, and getting your voice back.
 
 - [Kunde fragt nach deinem Stundensatz? Der Moment nach dem Räuspern](https://kontor7-agent.github.io/guides/kunde-fragt-nach-stundensatz-was-sagen?s=github) – Der Kunde fragt im Videocall nach deinem Stundensatz, und dir fällt nur eine Zahl ein, die du sofort bereust. Eine Geschichte über den Moment danach.
+
+- [Kunde meldet sich nicht nach der Rechnung? Der Waschsalon](https://kontor7-agent.github.io/guides/kunde-ghostet-nach-rechnung-was-schreiben?s=github) – Die Fotos waren begeistert angenommen, die Rechnung ist raus, dann Funkstille. Eine Geschichte über das Schweigen danach und den ersten ruhigen Satz.
 
 - [Kunde ignoriert deine Rechnung? Der Urlaubstag am Baggersee](https://kontor7-agent.github.io/guides/kunde-ignoriert-rechnung-nachfassen?s=github) – Du liegst am See, aber im Kopf bleibt die unbeantwortete Rechnung. Eine Geschichte darüber, wie Nachfassen ruhiger werden kann.
 
@@ -871,6 +879,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Quoted on the Doorstep, Lost Money by Friday: Quotes for Tradespeople](https://kontor7-agent.github.io/guides/excel-quote-template-for-tradespeople-price-jobs-on-site?s=github) – You said a number in the customer's kitchen and regretted it in the van. A calm look at pricing jobs on site and finally seeing what you really earned.
 
+- [Quoted a Job, Materials Cost More Than I Thought: The Builders' Merchant](https://kontor7-agent.github.io/guides/quoted-a-job-and-materials-cost-more-than-i-thought?s=github) – You quoted the bathroom last week. At the merchant's counter, the total on the screen is higher than your number. Here is what that moment really costs.
+
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://kontor7-agent.github.io/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
 
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://kontor7-agent.github.io/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
@@ -886,6 +896,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Rechnung vergessen zu schreiben? Monate später, und es ist peinlich](https://kontor7-agent.github.io/guides/rechnung-vergessen-zu-schreiben-monate-spaeter-freiberufler?s=github) – Im Zug zum Steuerberater fällt dir ein: Die Rechnung für das Projekt im Frühjahr hast du nie geschrieben. Eine Geschichte über Scham und den Weg raus.
 
 - [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://kontor7-agent.github.io/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
+
+- [Se acaba el año y tengo los recibos de autónomo hechos un lío](https://kontor7-agent.github.io/guides/recibos-autonomo-desordenados-fin-de-ano?s=github) – Es 27 de diciembre, estás en casa de tu madre y en la maleta llevas una bolsa de recibos. Una historia para quien odia el pánico de enero.
 
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://kontor7-agent.github.io/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
 
@@ -904,6 +916,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://kontor7-agent.github.io/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
 
 - [Selbstständig überfordert: Zettel, Excel-Listen und ein Anruf](https://kontor7-agent.github.io/guides/selbststaendig-ueberfordert-zettel-excel-listen-chaos?s=github) – Mittwoch, 10:15 Uhr: Der Kunde fragt nach, und du suchst in Zetteln und Excel-Listen. Eine Geschichte über Chaos und die Ruhe danach.
+
+- [Self-Employed Hairdresser: What Did I Actually Earn This Week?](https://kontor7-agent.github.io/guides/self-employed-hairdresser-dont-know-how-much-i-earn-each-week?s=github) – Tuesday lunch, a sandwich in the back room, and no idea what your week really brought in. A story for self-employed stylists who want to know.
 
 - [Spreadsheets Everywhere? The Monday You Couldn't Find the Number](https://kontor7-agent.github.io/guides/small-business-admin-overwhelmed-spreadsheets-everywhere?s=github) – Eleven tabs, three folders, one question you can't answer. A story for anyone drowning in small business admin and scattered spreadsheets.
 
@@ -936,6 +950,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://kontor7-agent.github.io/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
 
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://kontor7-agent.github.io/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
+
+- [Unangenehme Mail an den Kunden: Der Cursor blinkt seit 40 Minuten](https://kontor7-agent.github.io/guides/unangenehme-mail-an-kunden-schreiben-freelancer?s=github) – Dienstag, 9:50 Uhr, ein leeres Mailfenster und kein Satz, der passt. Eine Geschichte für alle, die vor schwierigen Kundenmails zurückschrecken.
 
 - [I Underpriced a Job and I'm Losing Money: What Do I Do?](https://kontor7-agent.github.io/guides/underpriced-a-job-losing-money-what-do-i-do?s=github) – Halfway through the job, you realise the price was too low. A calm story about the sinking feeling, what to do next, and quoting without guessing.
 
