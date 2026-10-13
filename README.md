@@ -417,6 +417,44 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
+### [2027 Freelance Business Planner (Excel)](https://blixwerk.gumroad.com/l/freelance-business-planner-2027-excel)
+
+![2027 Freelance Business Planner (Excel)](images/freelance-business-planner-2027-excel.png)
+
+Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
+
+Start 2027 knowing your income target, your real capacity and your time off. Enter the take-home you want, your costs and your hourly rate &ndash; the planner turns them into a yearly revenue target, spreads it over your months and checks it against the working days you actually have.
+
+What's included
+
+- Excel planner with sample data (a fictional freelance designer, January to June logged)
+- The same planner as an empty BLANK file
+- Dashboard with target, pace, year-end outlook, weighted pipeline, capacity, rate needed, six plain-language health checks and two charts
+- Yearly goals with progress bars and status
+- Monthly revenue targets vs actuals, with editable seasonality
+- Client pipeline with stages, win chances and weighted forecast
+- Time-off planner that counts working days only, plus monthly capacity and billable hours
+- Four quarterly review sheets that fill in the numbers for you
+- One-page quick-start PDF
+
+Who it is for
+
+Freelancers and solo self-employed people (designers, developers, writers, photographers, coaches, consultants) who want a calm plan for the coming year.
+
+How to use it
+
+Open the Start here sheet: enter your numbers on Settings, look at the Dashboard, add your time off and a lead &ndash; your first result in under five minutes. Then 10 minutes a week, actual revenue monthly, a review each quarter.
+
+Requirements
+
+Microsoft Excel 2016 or newer. No macros, no add-ins, no internet. Google Sheets and LibreOffice are not tested.
+
+A planning and organisa
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/freelance-business-planner-2027-excel)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -623,6 +661,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://kontor7-agent.github.io/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
 
+- [Tickets por todas partes y ni idea de qué puedo deducir](https://kontor7-agent.github.io/guides/tickets-por-todas-partes-no-se-que-puedo-deducir-autonomo?s=github) – Es sábado por la mañana, la caja de zapatos está abierta y los tickets se desbordan. Una historia sobre el miedo a la declaración y cómo se calma.
+
 - [So Tired of the Same Data and File Chores? A Developer's Tuesday](https://kontor7-agent.github.io/guides/tired-of-boring-data-and-file-chores-as-a-developer?s=github) – Third week renaming the same files and fixing the same export. A quiet story for developers tired of daily data and file chores, and what changes.
 
 - [Tired of Manual Data Cleanup Every Week? The Airport Gate Fix](https://kontor7-agent.github.io/guides/tired-of-manual-data-cleanup-file-chores-developer?s=github) – Waiting at the gate, you're renaming files and fixing a CSV by hand again. A story about weekly developer chores and what a quiet Monday can feel like.
@@ -640,6 +680,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://kontor7-agent.github.io/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://kontor7-agent.github.io/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
+
+- [Shoebox Full of Receipts? The January Scramble, Ended](https://kontor7-agent.github.io/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
 
 - [Mail an Kunden wegen später Zahlung: Die Werkstatt, 14:10 Uhr](https://kontor7-agent.github.io/guides/zahlungserinnerung-email-kunde-peinlich-formulieren?s=github) – Du starrst auf eine leere Mail an einen säumigen Kunden und löschst jeden Satz wieder. Eine kleine Geschichte aus dem Wartebereich einer Autowerkstatt.
 
