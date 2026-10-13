@@ -455,6 +455,45 @@ A planning and organisa
 
 ---
 
+### [KI-Prompts für Kundenkommunikation (60 Prompts, Deutsch)](https://blixwerk.gumroad.com/l/ki-prompts-kundenkommunikation-selbststaendige)
+
+![KI-Prompts für Kundenkommunikation (60 Prompts, Deutsch)](images/ki-prompts-kundenkommunikation-selbststaendige.png)
+
+60 deutsche KI-Prompts für Zahlungserinnerung, Preiserhöhung, Absagen & Nachfassen. Mit du/Sie-Varianten und Beispielen. PDF + Markdown.
+
+Schwierige Kundennachrichten, fertig formuliert. Zahlungserinnerung, Preiserhöhung, Nein sagen, Angebot nachfassen: Du weißt, was du sagen willst, aber nicht wie. Mit diesen 60 Prompts bekommst du in Minuten einen ruhigen, klaren Text, den du nur noch prüfen und absenden musst.
+
+Was ist enthalten?
+
+- 60 deutsche Prompts für ChatGPT, Claude und Gemini in 8 Situationen: Zahlungserinnerung (freundlich bis bestimmt), Preiserhöhung, Zusatzwünsche, Angebot nachfassen, Feedback anfordern, Absagen, Referenzen erbitten, Projektabschluss
+- Platzhalter in eckigen Klammern, Tonwahl und Anrede (du/Sie) in jedem Prompt
+- Zu jedem Prompt eine Beispielantwort
+- Basis-Prompt, Checkliste vor dem Senden, Hinweise zu Datenschutz
+- Als PDF zum Lesen und als Markdown zum Kopieren
+
+Für wen?
+
+Für Selbstständige und Freiberufler in Deutschland, Österreich und der Schweiz, die allein arbeiten und ihre Kundenkommunikation ruhiger und schneller erledigen wollen.
+
+So geht es
+
+- Basis-Prompt einmal in den KI-Chat einfügen.
+- Passenden Prompt wählen und kopieren.
+- Platzhalter ersetzen, du/Sie und Ton festlegen.
+- Ergebnis prüfen und senden.
+
+Voraussetzungen
+
+Ein Zugang zu ChatGPT, Claude oder Gemini (kostenlose Versionen genügen meist) und ein PDF-Reader.
+
+Hinweis: Dieses Paket ersetzt keine Steuerberatung, Buchhaltung oder Rechtsberatung (does not replace a tax professional, accountant or lawyer). Es liefert Formulierungshilfen; Fristen, Mahnkosten und Verträge prüfst du selbst oder mit Fachleuten.
+
+30 T
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/ki-prompts-kundenkommunikation-selbststaendige)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -532,6 +571,8 @@ A planning and organisa
 - [Minimum Freelance Hourly Rate & Day Rate: The Quote at 11 pm](https://kontor7-agent.github.io/guides/how-to-calculate-minimum-freelance-hourly-rate-and-day-rate?s=github) – It's 11 pm, the client wants a quote, and your number is a guess. A quiet story about finding your minimum freelance hourly and day rate.
 
 - [Freelance Admin Out of Control? The Sunday Driveway Moment](https://kontor7-agent.github.io/guides/freelance-admin-out-of-control-feel-behind-on-everything?s=github) – You sit in the car outside your parents' house, phone full of things you haven't done. If freelance admin feels out of control, this story is for you.
+
+- [Plan Your 2027 Freelance Income and Time Off: The Question at Lunch](https://kontor7-agent.github.io/guides/freelance-business-planner-2027-excel-income-capacity-time-off?s=github) – A friend asks when you're taking a break next year, and you realise you can't answer. A calm way to plan 2027 income, capacity and time off in Excel.
 
 - [Freelance Invoice Overdue, Can't Remember Which Hours You Billed?](https://kontor7-agent.github.io/guides/freelance-invoice-overdue-cant-remember-which-hours-billed?s=github) – Invoice overdue, and you can't remember which hours it covered? A supermarket-queue story about the reminder you're afraid to send.
 
