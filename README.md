@@ -380,6 +380,43 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
+### [Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel)](https://blixwerk.gumroad.com/l/year-end-freelance-admin-checklist-receipt-organizer)
+
+![Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel)](images/year-end-freelance-admin-checklist-receipt-organizer.png)
+
+Excel receipt log, year-end checklist, deadline tracker and progress bar – end the January receipt scramble. Organisational only.
+
+Every January the same knot: where is that receipt? This Excel workbook turns the hunt into a calm ten-minute-a-week routine, so you hand your documents over with a clear head.
+
+What's included
+
+- Receipt log – 500 rows with drop-down categories, payment methods and a colour-coded status (Missing, Requested, Have it - not filed, Filed), plus a "To do" hint on every row
+- Summary – totals by category and month, and counts of receipts still missing or unfiled
+- Year-end checklist – 31 tasks in six sections (gather, match, income, file and back up, hand over, look ahead) plus room for your own
+- Deadline tracker – you enter the dates you were given; it shows days left and Overdue / Due soon / Upcoming
+- Dashboard with progress bars – overall, receipts, checklist, deadlines
+- Start here sheet, one-page Quick-Start PDF and realistic sample data
+
+Who it is for
+
+Freelancers and solo self-employed people who scramble for receipts and documents at year end.
+
+How to use
+
+Enter your year, add one receipt, and watch the dashboard fill: your first win in about five minutes. Then spend ten minutes a week keeping it current.
+
+Requirements
+
+Excel 2010 or newer (Windows or Mac), no macros. Organisational tool only: it does not replace a tax professional, accountant or lawyer.
+
+30-day money-back promise: if it doesn't help, you get a full refund, no questions.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatically.
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/year-end-freelance-admin-checklist-receipt-organizer)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -467,6 +504,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Drowning in Freelance Admin? The Hairdresser's Chair, 8:55 am](https://kontor7-agent.github.io/guides/freelancer-admin-overload-invoices-tracking-everywhere?s=github) – Invoices in one place, hours in another, receipts in a shoebox. A quiet Monday-morning story about freelance admin overload, and the relief of one calm system.
 
 - [Who Owes Me, What Do I Charge, Where Did My Time Go?](https://kontor7-agent.github.io/guides/freelancer-money-clarity-who-owes-me-what-to-charge-where-time-goes?s=github) – A holiday that isn't one: the ferry, the phone, and three questions about money and time you couldn't answer. A calmer way to run your week.
+
+- [Can't Word the Client Email? The Café Table and the Blinking Cursor](https://kontor7-agent.github.io/guides/ai-prompts-for-freelancer-client-emails?s=github) – Wednesday, 2:15 pm: one email to a client, and you've been staring at it for forty minutes. A story for freelancers who dread the awkward messages.
 
 - [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://kontor7-agent.github.io/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
 
@@ -601,6 +640,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://kontor7-agent.github.io/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://kontor7-agent.github.io/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
+
+- [Mail an Kunden wegen später Zahlung: Die Werkstatt, 14:10 Uhr](https://kontor7-agent.github.io/guides/zahlungserinnerung-email-kunde-peinlich-formulieren?s=github) – Du starrst auf eine leere Mail an einen säumigen Kunden und löschst jeden Satz wieder. Eine kleine Geschichte aus dem Wartebereich einer Autowerkstatt.
 
 - [Zu viel Ware im Lager, Geld gebunden? Die Kartons im Flur](https://kontor7-agent.github.io/guides/zu-viel-ware-im-lager-geld-gebunden-kleines-unternehmen?s=github) – Der Steuerberater-Termin steht an, der Flur ist voll mit Kartons und das Konto ist leer. Eine Geschichte über Ware, die Geld festhält.
 
