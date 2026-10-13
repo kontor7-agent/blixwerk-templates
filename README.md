@@ -677,6 +677,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://kontor7-agent.github.io/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
 
+- [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://kontor7-agent.github.io/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
+
 - [Steuerberater Appointment Next Week? The Folder Called 'Misc'](https://kontor7-agent.github.io/guides/steuerberater-termin-belege-uebersicht-excel-vorlage?s=github) – The tax advisor's email says 'please send your documents.' You open a folder called 'Misc'. A calm story about receipts, overview and a year-end that feels light.
 
 - [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://kontor7-agent.github.io/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
@@ -693,9 +695,15 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://kontor7-agent.github.io/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
 
+- [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://kontor7-agent.github.io/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
+
 - [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://kontor7-agent.github.io/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
 
+- [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://kontor7-agent.github.io/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
+
 - [Mi cliente me pide rebaja y no sé qué responder: la llamada](https://kontor7-agent.github.io/guides/cliente-me-pide-rebaja-precio-no-se-que-responder-freelance?s=github) – Suena el móvil, el cliente dice «¿me haces un precio?» y te quedas en blanco. Una historia sobre responder a una rebaja con calma.
+
+- [Mi cliente no contesta mis correos: cómo escribirle sin quedar mal](https://kontor7-agent.github.io/guides/cliente-no-contesta-mis-correos-como-escribirle-sin-quedar-mal?s=github) – Llevas diez días sin respuesta y el cursor parpadea sobre «Solo quería saber si…». Una historia sobre escribir a un cliente callado sin sentirte pesada.
 
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://kontor7-agent.github.io/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
 
@@ -789,6 +797,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Viel gearbeitet, am Monatsende bleibt nichts übrig? Das Wartezimmer](https://kontor7-agent.github.io/guides/freiberufler-arbeitet-viel-monatsende-bleibt-nichts-uebrig?s=github) – Du arbeitest und arbeitest, und am Monatsende ist das Konto trotzdem fast leer. Eine Geschichte aus dem Wartezimmer der Steuerberaterin.
 
+- [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://kontor7-agent.github.io/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
+
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://kontor7-agent.github.io/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
@@ -847,6 +857,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Meine Rechnung sieht unprofessionell aus: Der Montag um 9:40 Uhr](https://kontor7-agent.github.io/guides/rechnung-sieht-unprofessionell-aus-freiberufler?s=github) – Die Buchhaltung des Kunden fragt nach der Rechnung, und dir wird heiß. Eine Geschichte für Freiberufler, die sich für ihre Rechnung schämen.
 
+- [Rechnung vergessen, Monate her: Die Mail aus der Buchhaltung](https://kontor7-agent.github.io/guides/rechnung-vergessen-monate-peinlich-buchhaltung-mail?s=github) – Montag, 9:12 Uhr: Eine Mail aus der Buchhaltung deines Kunden, und du ahnst, welche Rechnung fehlt. Eine Geschichte über Peinlichkeit und Ruhe.
+
 - [Rechnung vergessen, Monate später? Der Fahrstuhl im dritten Stock](https://kontor7-agent.github.io/guides/rechnung-vergessen-monatelang-peinlich?s=github) – Du hast vergessen, eine Rechnung zu schicken, und der Kunde fragt freundlich nach. Eine Geschichte über Peinlichkeit und über die Ruhe danach.
 
 - [Rechnung vergessen zu schreiben? Monate später, und es ist peinlich](https://kontor7-agent.github.io/guides/rechnung-vergessen-zu-schreiben-monate-spaeter-freiberufler?s=github) – Im Zug zum Steuerberater fällt dir ein: Die Rechnung für das Projekt im Frühjahr hast du nie geschrieben. Eine Geschichte über Scham und den Weg raus.
@@ -894,6 +906,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://kontor7-agent.github.io/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
 
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://kontor7-agent.github.io/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
+
+- [Underquoted a Job and Lost Money? The Tiles on Thursday Morning](https://kontor7-agent.github.io/guides/underquoted-a-job-and-lost-money-contractor?s=github) – You quoted the bathroom job in ten minutes on the doorstep. By Thursday, the tiles told you the truth. A story for contractors who underquoted.
 
 - [Me da vergüenza subir mis tarifas a clientes antiguos](https://kontor7-agent.github.io/guides/verguenza-subir-tarifas-clientes-antiguos-freelance?s=github) – Llevas tres años cobrando lo mismo a Marta y cada vez que abres el correo para avisarla, cierras la pestaña. Una historia sobre subir tarifas sin sudar.
 
