@@ -980,6 +980,10 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
 
+- [La agencia no me paga la factura y me da apuro reclamar](https://kontor7-agent.github.io/guides/agencia-de-traduccion-no-me-paga-la-factura-me-da-apuro-reclamar?s=github) – Viernes, 14:10, el menú del día sin tocar y la app del banco abierta. La agencia de traducción sigue sin pagar y tú sigues sin saber cómo reclamar.
+
+- [Agency Paid Late Again? A Translator's Quiet Tuesday Lunch](https://kontor7-agent.github.io/guides/translator-agency-paid-late-how-to-chase-invoice-politely?s=github) – The agency invoice is 60 days old and you can't find the right words. A translator's lunch-break story about chasing late payment without the knot.
+
 - [Facturas, stock y clientes en excels sueltos: un lunes distinto](https://kontor7-agent.github.io/guides/agobiado-administracion-negocio-pequeno-excels-sueltos?s=github) – Siete archivos abiertos, una llamada de un cliente y ninguna respuesta rápida. Una historia sobre ordenar facturas, stock y clientes sin sentirte perdido.
 
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://kontor7-agent.github.io/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
@@ -1041,6 +1045,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://kontor7-agent.github.io/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
 
 - [Client Paid Only Part of My Invoice: The Monday Bank Notification](https://kontor7-agent.github.io/guides/client-paid-only-part-of-my-invoice-whats-outstanding?s=github) – The money arrived, but it's not the full amount. Now you can't tell what's still outstanding. A short story about a Monday morning, and the calm after.
+
+- [Client Paid the Wrong Amount? The Copy Shop and the 2,000 Mystery](https://kontor7-agent.github.io/guides/client-paid-wrong-amount-invoice-what-is-still-owed?s=github) – A payment lands, but it matches nothing. Two invoices, one transfer, a gap you can't explain. A quiet story about knowing what's still owed.
 
 - [Client Pushing Back on Your Invoice Amount? The Pharmacy Queue](https://kontor7-agent.github.io/guides/client-pushing-back-on-invoice-amount-what-do-i-say?s=github) – The client wrote 'this seems higher than expected.' You're in a pharmacy queue with a phone in your hand. A calm story about finding the words.
 
@@ -1304,6 +1310,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Lost Track of Shoots and Deposits? The Photographer's Tuesday Call](https://kontor7-agent.github.io/guides/photographer-client-shoot-deposit-invoice-tracker-excel?s=github) – A client asks where the gallery is while you stand in a car park, unsure. A photographer's story about deposits, deadlines and one calm overview.
 
+- [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://kontor7-agent.github.io/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
+
 - [Planning a Freelance Year on Unpredictable Income: The Paint Counter](https://kontor7-agent.github.io/guides/plan-freelance-year-unpredictable-income?s=github) – The paint is mixing, the calendar is blank, and next year's income is a guess. A gentle story about planning a freelance year without pretending.
 
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://kontor7-agent.github.io/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
@@ -1423,6 +1431,10 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Underquoted a Job and Lost Money? The Tiles on Thursday Morning](https://kontor7-agent.github.io/guides/underquoted-a-job-and-lost-money-contractor?s=github) – You quoted the bathroom job in ten minutes on the doorstep. By Thursday, the tiles told you the truth. A story for contractors who underquoted.
 
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://kontor7-agent.github.io/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
+
+- [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://kontor7-agent.github.io/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
+
+- [Vendo lo que hago a mano y no sé si pierdo dinero: la fila del correo](https://kontor7-agent.github.io/guides/vendo-productos-hechos-a-mano-no-se-si-pierdo-dinero-con-mis-precios?s=github) – Tres paquetes, una fila en el correo y una duda: ¿gano algo con lo que vendo hecho a mano? Una historia sobre precios, comisiones y calma.
 
 - [Weniger als Mindestlohn als Selbstständige? Die Frage beim Kuchen](https://kontor7-agent.github.io/guides/verdiene-ich-als-selbststaendiger-weniger-als-mindestlohn?s=github) – Sonntag, Geburtstagskaffee, ein Satz vom Schwager – und plötzlich fragst du dich: Verdiene ich als Selbstständige weniger als Mindestlohn?
 
