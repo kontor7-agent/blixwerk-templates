@@ -767,6 +767,41 @@ Microsoft Excel 2016 or newer. No macros, no internet needed. Other spreadsheet 
 
 ---
 
+### [Price Your Handmade Work Right – Cost, Fees & Profit Calculator](https://blixwerk.gumroad.com/l/price-your-handmade-work-right-cost-fees-profit-)
+
+![Price Your Handmade Work Right – Cost, Fees & Profit Calculator](images/price-your-handmade-work-right-cost-fees-profit-.png)
+
+Excel workbook for makers: see cost, fees and profit per product, get a suggested price, and track market and online sales in one place.
+
+You sell a bestseller every week – but after fees, shipping, packaging and your own time, does it earn anything? This Excel workbook shows you, product by product, in plain numbers.
+
+What's included
+
+- Excel workbook with 8 sheets: Start Here, Settings, Materials, Recipes, Products, Custom Quote, Sales Log, Dashboard
+- Full cost per item (materials, packaging, your time, overhead), fees per channel (Etsy, Shopify, market stall, direct orders – editable), profit, margin and real hourly earnings
+- Break-even price and suggested price, with a verdict per product: Loses money, Below your target or On target
+- Custom Quote sheet: the lowest price that still works, a recommended price and a calm sentence to send, so you stop undercharging out of guilt
+- One Sales Log for market-day takings and online orders, plus a Dashboard by channel and product
+- Realistic sample data (a candle maker) and a one-page quick-start PDF
+
+Who it is for
+
+Solo makers on Etsy, Shopify, DaWanda-style marketplaces or at markets who are not yet sure they are pricing properly.
+
+How to use it
+
+Open Start Here. In five minutes you set your hourly pay, spot the sample product that loses money, and fix its price. Then replace the sample data with your own. Weekly routine: ten minutes.
+
+Requirements
+
+Microsoft Excel 2016 or newer. Fee rates in the file are examples – check your platform's current fees. This tool helps you organise your numbers and does not replace a tax professional, accountant or lawyer.
+
+30-day
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/price-your-handmade-work-right-cost-fees-profit-)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -909,6 +944,10 @@ Microsoft Excel 2016 or newer. No macros, no internet needed. Other spreadsheet 
 
 - [Forgot to Write an Invoice? The Freelancer's Tuesday at the Bank](https://kontor7-agent.github.io/guides/forgot-to-write-invoice-freelancer-lost-overview?s=github) – You stand in a queue and suddenly wonder: did I ever bill that job? A quiet story about losing the overview as a freelancer, and getting it back.
 
+- [Fotoshooting nicht abgerechnet? Der Download-Hinweis um 12:40](https://kontor7-agent.github.io/guides/fotograf-rechnung-vergessen-nach-shooting?s=github) – Die Galerie ist längst geliefert, die Rechnung nie geschrieben. Eine Fotografin, ein Bahnhofscafé und der Moment, in dem sie es merkt.
+
+- [Soy fotógrafo autónomo y olvidé cobrar el resto de la sesión](https://kontor7-agent.github.io/guides/fotografo-autonomo-olvido-cobrar-resto-sesiones-pagos-cliente?s=github) – La galería ya está entregada, el cliente da las gracias y tú no recuerdas si pagó el resto. Una mañana de lunes, y cómo se siente tener los pagos claros.
+
 - [Free Harvest or Toggl Alternative: When Invoice Night Hits](https://kontor7-agent.github.io/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – It's 9 p.m., the invoice is due, and your hours are scattered across notes and memory. A calm, free alternative to Harvest or Toggl for freelance hours.
 
 - [Who Still Owes You? Tracking Unpaid Invoices in Excel, Free](https://kontor7-agent.github.io/guides/free-excel-template-track-unpaid-invoices-overdue-client-payments-free?s=github) – It's 11 pm, you're scrolling your inbox to work out who hasn't paid. A calmer way to see overdue client payments at a glance, without the guesswork.
@@ -996,6 +1035,8 @@ Microsoft Excel 2016 or newer. No macros, no internet needed. Other spreadsheet 
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
 - [Can't Word the Price Increase Email? The Football Pitch Bench](https://kontor7-agent.github.io/guides/ai-prompts-client-emails-german-freelancers-price-increase-reminder?s=github) – Thursday, 5:10 pm, phone in hand, one client email you can't word. A story about du or Sie, awkward asks, and getting your voice back.
+
+- [What Does Each Service Earn? The Nail Tech at the Wholesaler Till](https://kontor7-agent.github.io/guides/what-does-each-service-earn-nail-tech-stylist-price-list?s=github) – The card machine shows 187 euros for gel, foils and tips, and you can't say which service paid for it. A story for solo stylists, nail techs and barbers.
 
 - [Kunde antwortet nicht auf dein Angebot? Der Dienstag im Zug](https://kontor7-agent.github.io/guides/kunde-antwortet-nicht-auf-mein-angebot?s=github) – Das Angebot ist raus, der Posteingang bleibt still. Eine Geschichte über Warten, Zweifeln und den Mut, ruhig und freundlich nachzufragen.
 
