@@ -730,6 +730,43 @@ Microsoft Excel 2016 or newer. No macros, no add-ins, no internet connection. Cu
 
 ---
 
+### [Know What Each Service Really Earns – Product Cost & Price List Sheet](https://blixwerk.gumroad.com/l/know-what-each-service-really-earns-product-cost)
+
+![Know What Each Service Really Earns – Product Cost & Price List Sheet](images/know-what-each-service-really-earns-product-cost.png)
+
+Excel sheet for solo stylists, nail techs, lash artists & barbers: see what each service earns after colour, time and rent. Plus price list.
+
+The colour invoice went up. Do your services still earn anything? This Excel workbook shows you, service by service, what is really left for you per hour – calmly, in about ten minutes a week.
+
+What's included
+
+- Excel workbook with 9 sheets: Start here, How to use, Settings, Supplies, Recipes, Services, Price List, Takings, No-Shows
+- Product cost per gram, ml or piece, and what changed since your last supplier invoice
+- Per service: materials, card fee, studio share, what is left per hour, suggested price and a clear status (Healthy / Below your goal / Loses money)
+- A printable client price list that fills itself
+- Daily takings check (diary vs. cash, card, other, tips) so Sunday night adds up
+- No-show log: lost income, empty chair hours, repeat clients
+- Realistic sample data for a fictional studio, drop-down lists and input checks
+- One-page quick-start PDF
+
+Who it is for
+
+Solo stylists, nail techs, lash artists and barbers who rent a chair or run a one-person studio.
+
+How to use
+
+Open the 'Start here' sheet and follow five short steps with the sample data (about 5 minutes). Then replace the yellow sample cells with your own rent, products and services. Yellow cells are for your input, grey cells calculate.
+
+Requirements
+
+Microsoft Excel 2016 or newer. No macros, no internet needed. Other spreadsheet programs were not tested.
+
+30-day money-back promise: if it doesn't help, full refund, no questions. Personal and commercial use in your own business; no resale or redistri
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/know-what-each-service-really-earns-product-cost)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1037,6 +1074,8 @@ Microsoft Excel 2016 or newer. No macros, no add-ins, no internet connection. Cu
 - [I Keep Overselling and Disappointing Customers: The Candle Fair](https://kontor7-agent.github.io/guides/overselling-products-small-shop-disappointing-customers?s=github) – Sorry, that one's gone. You typed it again. A small-shop story about overselling, apologies, and the calm of knowing what's really on your shelf.
 
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://kontor7-agent.github.io/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
+
+- [Lost Track of Shoots and Deposits? The Photographer's Tuesday Call](https://kontor7-agent.github.io/guides/photographer-client-shoot-deposit-invoice-tracker-excel?s=github) – A client asks where the gallery is while you stand in a car park, unsure. A photographer's story about deposits, deadlines and one calm overview.
 
 - [Planning a Freelance Year on Unpredictable Income: The Paint Counter](https://kontor7-agent.github.io/guides/plan-freelance-year-unpredictable-income?s=github) – The paint is mixing, the calendar is blank, and next year's income is a guess. A gentle story about planning a freelance year without pretending.
 
