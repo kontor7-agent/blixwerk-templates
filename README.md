@@ -659,6 +659,40 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
+### [Lessons Taught, Lessons Paid – Lesson Log & Invoice Tracker](https://blixwerk.gumroad.com/l/lessons-taught-lessons-paid-lesson-log-invoice-t)
+
+![Lessons Taught, Lessons Paid – Lesson Log & Invoice Tracker](images/lessons-taught-lessons-paid-lesson-log-invoice-t.png)
+
+Excel lesson log & invoice tracker for private tutors: see who is behind, what late cancellations cost, and when to raise your rate.
+
+Know who is behind, what late cancellations cost you, and when to raise your rate &ndash; in ten minutes a week.
+
+Lessons Taught, Lessons Paid is a calm Excel workbook for private music teachers, language teachers and tutors. Log every lesson slot, put lessons on invoices, record payments &ndash; and the dashboard shows exactly who owes you what.
+
+What's included
+
+- Workbook with realistic sample data, so you see it working at once
+- The same workbook empty, ready for your own students
+- Dashboard: waiting, overdue and not-yet-invoiced money, monthly numbers, &ldquo;Who is behind&rdquo;, 6-month chart
+- Lesson log with statuses (taught, late cancel, no-show, cancelled in time, teacher cancelled, trial) and your own billed % per status
+- Invoice and payment tracker with due dates, part payments and overdue status
+- One-page printable invoice for any invoice number (print or save as PDF)
+- Rate Check: years since your last rate rise and what a new rate adds per year
+- Ready-to-adapt messages: friendly and clear payment reminders, lesson policy, late-cancellation reply, rate-increase note
+- Start-here sheet with a first win in 5 minutes, plus a one-page Quick-Start PDF
+
+Who it is for
+
+Adult-facing private teachers and tutors who work alone: music, languages, test prep. You record only dates, minutes and payments &ndash; no data about children is needed.
+
+How to use
+
+Enter your rate in Settings, add a student, log a lesson, add an invoice number, record a payment &ndash; then ope
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/lessons-taught-lessons-paid-lesson-log-invoice-t)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -871,6 +905,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Kein Plan fürs neue Jahr als Freelancer? Die Frage am Kaffeetisch](https://kontor7-agent.github.io/guides/kein-plan-neues-jahr-freelancer-jahresplanung?s=github) – Zwischen den Jahren fragt jemand: „Und, wie läuft's nächstes Jahr?“ Und du hast keine Antwort. Eine Geschichte über Ruhe im Kopf für Selbstständige.
 
+- [Keine Ahnung, wie viel dir Kunden schulden? Die Kaffeemaschine](https://kontor7-agent.github.io/guides/keine-ahnung-wie-viel-kunden-mir-schulden-freelancer?s=github) – Donnerstag, 10:20 Uhr: Die Steuerberaterin fragt nach offenen Rechnungen und du kannst nur schätzen. Eine Geschichte über den Moment, in dem das aufhört.
+
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://kontor7-agent.github.io/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
 - [Can't Word the Price Increase Email? The Football Pitch Bench](https://kontor7-agent.github.io/guides/ai-prompts-client-emails-german-freelancers-price-increase-reminder?s=github) – Thursday, 5:10 pm, phone in hand, one client email you can't word. A story about du or Sie, awkward asks, and getting your voice back.
@@ -961,6 +997,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Quoted on the Doorstep, Lost Money by Friday: Quotes for Tradespeople](https://kontor7-agent.github.io/guides/excel-quote-template-for-tradespeople-price-jobs-on-site?s=github) – You said a number in the customer's kitchen and regretted it in the van. A calm look at pricing jobs on site and finally seeing what you really earned.
 
+- [Quoted a Job and Forgot Labour Costs? The Wardrobe Doorway Friday](https://kontor7-agent.github.io/guides/quoted-a-job-and-forgot-labour-costs?s=github) – The customer says it's exactly on budget, and you realise the quote never included your own labour. A story for tradespeople who price on site.
+
 - [Quoted a Job, Materials Cost More Than I Thought: The Builders' Merchant](https://kontor7-agent.github.io/guides/quoted-a-job-and-materials-cost-more-than-i-thought?s=github) – You quoted the bathroom last week. At the merchant's counter, the total on the screen is higher than your number. Here is what that moment really costs.
 
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://kontor7-agent.github.io/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
@@ -1033,6 +1071,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Steuerfrist naht, Belege-Chaos? Die Mail am Montag um 8:05](https://kontor7-agent.github.io/guides/steuerfrist-belege-chaos-freelancer-unterlagen-sortieren?s=github) – Montagmorgen, eine Mail vom Steuerberater, und deine Belege liegen überall verstreut. Eine Geschichte über das Chaos davor und die Ruhe danach.
 
+- [Stock que no se vende y dinero parado: el martes de la gestoría](https://kontor7-agent.github.io/guides/stock-acumulado-que-no-se-vende-dinero-parado-pequeno-negocio?s=github) – La gestora te pide el valor de tu almacén y no lo sabes. Una historia sobre stock acumulado, dinero parado y cómo respirar con más calma.
+
 - [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://kontor7-agent.github.io/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
 
 - [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://kontor7-agent.github.io/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
@@ -1040,6 +1080,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Stunden nicht aufgeschrieben, Rechnung unmöglich? Die Waschanlage](https://kontor7-agent.github.io/guides/stunden-vergessen-aufzuschreiben-rechnung-nicht-moeglich?s=github) – Freitag, 12:10, Waschanlage: Der Kunde will die Rechnung, aber deine Stunden stehen nirgends. Eine Geschichte über Ruhe statt Rätselraten.
 
 - [Tardo una hora en escribir un correo a un cliente: el lunes de las 9:40](https://kontor7-agent.github.io/guides/tardo-una-hora-en-escribir-un-correo-a-un-cliente?s=github) – Son las 9:40, el café se enfría y el correo para tu cliente sigue en blanco. Una historia sobre bloquearse al escribir y cómo soltar ese nudo.
+
+- [Need to Tell a Client Their Work Needs Revisions? The Lift Doors](https://kontor7-agent.github.io/guides/tell-client-work-needs-revisions-without-upsetting-them?s=github) – You're holding a draft that isn't right and a client who loves it. The pause before you hit send, and how it can feel lighter.
 
 - [Tickets por todas partes y ni idea de qué puedo deducir](https://kontor7-agent.github.io/guides/tickets-por-todas-partes-no-se-que-puedo-deducir-autonomo?s=github) – Es sábado por la mañana, la caja de zapatos está abierta y los tickets se desbordan. Una historia sobre el miedo a la declaración y cómo se calma.
 
