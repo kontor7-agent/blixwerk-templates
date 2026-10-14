@@ -697,6 +697,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://kontor7-agent.github.io/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
 
+- [Client Keeps Asking for Extra Work for Free? What Do I Say?](https://kontor7-agent.github.io/guides/client-keeps-asking-for-extra-work-for-free-freelancer-what-do-i-say?s=github) – A client slips in 'one more small thing' again. A story about the pause before you answer, and finding words that are kind, clear and still yours.
+
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://kontor7-agent.github.io/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
 
 - [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://kontor7-agent.github.io/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
@@ -715,6 +717,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [¿Cobro muy poco como freelance? La cola del súper me lo dijo](https://kontor7-agent.github.io/guides/cobro-muy-poco-como-freelance?s=github) – Una cola de supermercado, una pregunta inocente y un número que no te sale. Una historia para quien sospecha que cobra menos de lo que vale.
 
+- [Creo que cobro poco a mis clientes y me da miedo subir tarifas](https://kontor7-agent.github.io/guides/cobro-poco-a-mis-clientes-miedo-subir-tarifas?s=github) – Un jueves, junto a la máquina de café del coworking, una frase te hace dudar de lo que cobras. Una historia para quien teme subir sus tarifas.
+
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://kontor7-agent.github.io/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://kontor7-agent.github.io/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
@@ -728,6 +732,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://kontor7-agent.github.io/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
 - [Hours Lost to Data and File Chores? The Dentist Waiting Room](https://kontor7-agent.github.io/guides/developer-wasting-hours-on-data-and-file-chores?s=github) – You meant to read a paper in the waiting room, but you were rebuilding last week's file chores in your head. A quiet story for developers who want those hours back.
+
+- [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://kontor7-agent.github.io/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
 
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://kontor7-agent.github.io/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
 
@@ -763,6 +769,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Running Your Freelance Business on Sticky Notes and Panic?](https://kontor7-agent.github.io/guides/freelance-business-running-on-sticky-notes-and-panic?s=github) – Yellow notes on the monitor, a phone full of reminders, and a quiet fear you've missed something. A story for freelancers who want their head back.
 
+- [Freelance Feast and Famine: Worried About Next Month's Income?](https://kontor7-agent.github.io/guides/freelance-income-feast-and-famine-worried-about-next-month?s=github) – Three invoices paid in one week, then silence. If you lie awake wondering about next month, this story about a ceramic tiler's Monday is for you.
+
 - [Freelance Invoice Overdue, Can't Remember Which Hours You Billed?](https://kontor7-agent.github.io/guides/freelance-invoice-overdue-cant-remember-which-hours-billed?s=github) – Invoice overdue, and you can't remember which hours it covered? A supermarket-queue story about the reminder you're afraid to send.
 
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://kontor7-agent.github.io/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
@@ -776,6 +784,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Who Owes Me, What Do I Charge, Where Did My Time Go?](https://kontor7-agent.github.io/guides/freelancer-money-clarity-who-owes-me-what-to-charge-where-time-goes?s=github) – A holiday that isn't one: the ferry, the phone, and three questions about money and time you couldn't answer. A calmer way to run your week.
 
 - [Can't Word the Client Email? The Café Table and the Blinking Cursor](https://kontor7-agent.github.io/guides/ai-prompts-for-freelancer-client-emails?s=github) – Wednesday, 2:15 pm: one email to a client, and you've been staring at it for forty minutes. A story for freelancers who dread the awkward messages.
+
+- [Feeling Behind on Everything as a Freelancer? The School Gate, 3:15](https://kontor7-agent.github.io/guides/freelancer-falling-behind-on-everything?s=github) – You stand at the school gate with forty unread emails and one thought: I'm falling behind on everything. A quiet story about getting the floor back.
 
 - [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://kontor7-agent.github.io/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
 
@@ -827,6 +837,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Kunde ignoriert deine Rechnung? Der Urlaubstag am Baggersee](https://kontor7-agent.github.io/guides/kunde-ignoriert-rechnung-nachfassen?s=github) – Du liegst am See, aber im Kopf bleibt die unbeantwortete Rechnung. Eine Geschichte darüber, wie Nachfassen ruhiger werden kann.
 
+- [Kunde kürzt einfach deine Rechnung? Was tun, wenn die Tankstelle wartet](https://kontor7-agent.github.io/guides/kunde-kuerzt-rechnung-was-tun?s=github) – Auf dem Konto fehlen 380 Euro, im Verwendungszweck steht nur „gekürzt“. Eine Geschichte für alle, die nicht wissen, was sie jetzt sagen sollen.
+
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://kontor7-agent.github.io/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://kontor7-agent.github.io/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
@@ -858,6 +870,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [No sé organizar mi año como autónomo y siento que voy a ciegas](https://kontor7-agent.github.io/guides/no-se-como-organizar-mi-ano-como-autonomo?s=github) – Es lunes, abres el calendario y no ves el año, solo el mes que viene. Una historia sobre ir a ciegas como autónomo y sobre cómo se siente ver el camino.
 
 - [No sé cuántas horas trabajé para cada cliente y olvidé facturas](https://kontor7-agent.github.io/guides/no-se-cuantas-horas-he-trabajado-para-cada-cliente-facturas-olvidadas?s=github) – Un cliente te pregunta cuántas horas llevas y no lo sabes. Una historia sobre facturas olvidadas y la calma de volver a verlo todo claro.
+
+- [No sé cuánto gano de verdad en mi peluquería a fin de mes](https://kontor7-agent.github.io/guides/no-se-cuanto-gano-de-verdad-en-mi-peluqueria-a-fin-de-mes?s=github) – Lunes a las 9:15, la caja de galletas, el datáfono y el alquiler del sillón. Una historia para quien trabaja mucho y no sabe qué le queda a fin de mes.
 
 - [No sé cuánto he ganado este mes como autónomo: el día 30](https://kontor7-agent.github.io/guides/no-se-cuanto-he-ganado-este-mes-como-autonomo?s=github) – Tu pareja pregunta cuánto has ganado este mes y tú no sabes qué contestar. Una historia sobre el agobio de no ver tus números y la calma de verlos.
 
@@ -902,6 +916,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://kontor7-agent.github.io/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
 
 - [Repetitive Data Chores Eating Your Week? The Cold Monday Coffee](https://kontor7-agent.github.io/guides/repetitive-data-and-file-chores-at-work?s=github) – Monday, 8:40 am, coffee going cold while you rename files and fix the same export again. A story for anyone tired of repetitive data and file chores.
+
+- [Salon immer voll, aber was verdienst du wirklich? 8:40 am Automat](https://kontor7-agent.github.io/guides/salon-immer-voll-aber-wie-viel-verdiene-ich-eigentlich?s=github) – Du arbeitest die ganze Woche am Stuhl und weißt trotzdem nicht, was bei dir ankommt. Eine Geschichte vom Einzahlautomat und von ruhigeren Montagen.
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://kontor7-agent.github.io/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
 
