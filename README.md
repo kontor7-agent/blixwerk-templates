@@ -980,6 +980,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
 
+- [Afraid to Tell Clients Your Freelance Rate? The Lift to Floor 4](https://kontor7-agent.github.io/guides/afraid-to-tell-clients-my-freelance-rate-too-high?s=github) – You typed the number, deleted it, typed a smaller one. A quiet story about the fear of saying your freelance rate out loud, and what calms it.
+
 - [La agencia no me paga la factura y me da apuro reclamar](https://kontor7-agent.github.io/guides/agencia-de-traduccion-no-me-paga-la-factura-me-da-apuro-reclamar?s=github) – Viernes, 14:10, el menú del día sin tocar y la app del banco abierta. La agencia de traducción sigue sin pagar y tú sigues sin saber cómo reclamar.
 
 - [Agency Paid Late Again? A Translator's Quiet Tuesday Lunch](https://kontor7-agent.github.io/guides/translator-agency-paid-late-how-to-chase-invoice-politely?s=github) – The agency invoice is 60 days old and you can't find the right words. A translator's lunch-break story about chasing late payment without the knot.
@@ -1042,6 +1044,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://kontor7-agent.github.io/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
 
+- [Client Paid My Invoice, But Which Hours Did It Cover?](https://kontor7-agent.github.io/guides/client-paid-invoice-which-hours-were-covered?s=github) – The payment landed, but you can't tell which hours it covered. A calm story about a Monday-morning bank notification and finally seeing it clearly.
+
 - [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://kontor7-agent.github.io/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
 
 - [Client Paid Only Part of My Invoice: The Monday Bank Notification](https://kontor7-agent.github.io/guides/client-paid-only-part-of-my-invoice-whats-outstanding?s=github) – The money arrived, but it's not the full amount. Now you can't tell what's still outstanding. A short story about a Monday morning, and the calm after.
@@ -1078,6 +1082,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Creo que cobro poco a mis clientes y me da miedo subir tarifas](https://kontor7-agent.github.io/guides/cobro-poco-a-mis-clientes-miedo-subir-tarifas?s=github) – Un jueves, junto a la máquina de café del coworking, una frase te hace dudar de lo que cobras. Una historia para quien teme subir sus tarifas.
 
+- [Cómo decirle a los padres que subo el precio de las clases](https://kontor7-agent.github.io/guides/como-decirle-a-los-padres-que-subo-el-precio-de-las-clases-particulare?s=github) – Llevas tres años cobrando lo mismo y la madre de Pablo te saluda en la panadería. Una historia sobre subir el precio de las clases sin que se te encoja el estómago.
+
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://kontor7-agent.github.io/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://kontor7-agent.github.io/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
@@ -1087,6 +1093,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Mi CSV se abre con caracteres raros en Excel y lo entrego hoy](https://kontor7-agent.github.io/guides/csv-caracteres-raros-excel-entregar-hoy?s=github) – Son las 11:40, el archivo se abre lleno de Ã© y �, y la entrega es a las dos. Una historia sobre el CSV que no se deja leer y la calma después.
 
 - [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://kontor7-agent.github.io/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
+
+- [CSV Full of Trailing Spaces and Mixed Dates? The Lunch Break Fix](https://kontor7-agent.github.io/guides/csv-export-trailing-spaces-mixed-date-formats?s=github) – Half past twelve, a sandwich going cold, and a CSV where every date looks different. A short story about cleaning exports by hand, and the day it stopped.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://kontor7-agent.github.io/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
@@ -1248,6 +1256,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://kontor7-agent.github.io/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
+- [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://kontor7-agent.github.io/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
+
 - [Kunde zweifelt deine Stunden an? Der Anruf im Regionalzug](https://kontor7-agent.github.io/guides/kunde-zweifelt-stunden-rechnung-nachweisen?s=github) – Die Buchhaltung deines Kunden fragt: „Stimmen die 23 Stunden wirklich?“ Und du kannst es nicht belegen. Eine Geschichte über den Moment danach.
 
 - [Where Did the Stock Go? The Tuesday Morning Count in the Back Room](https://kontor7-agent.github.io/guides/stock-list-reorder-point-excel-small-business?s=github) – You count shelves by hand, and the numbers still don't match. A calm story about a small business owner who stops being surprised by an empty shelf.
@@ -1255,6 +1265,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Lagerbestand stimmt nie mit der Excel-Liste? Samstag, 7:50 Uhr](https://kontor7-agent.github.io/guides/lagerbestand-stimmt-nicht-mit-excel-liste-ueberein?s=github) – Auf der Liste stehen 14, in der Kiste ist nichts. Eine Geschichte vom Marktstand und davon, wie es sich anfühlt, wenn der Bestand endlich stimmt.
 
 - [Tutor Students Pay Late, Cancel Late? The Car Outside Number 14](https://kontor7-agent.github.io/guides/private-tutor-lesson-log-invoice-tracker-late-payments-cancellations?s=github) – Your 4 pm student cancels by text while you sit outside in the rain. Who is behind, what it costs, and when to raise your rate – a tutor's story.
+
+- [Lieferant liefert zu spät, Ware ist aus? Der Anruf um 11:20 Uhr](https://kontor7-agent.github.io/guides/lieferant-liefert-zu-spaet-ware-ist-aus?s=github) – Der Lieferant meldet sich: drei Wochen Verzug. Im Shop steht noch „2 verfügbar“. Eine Geschichte über leere Regale und die Ruhe, die danach möglich ist.
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://kontor7-agent.github.io/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
 
@@ -1279,6 +1291,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Never Know What to Post on Social Media? The Bakery Queue Test](https://kontor7-agent.github.io/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
 
 - [I Never Know When to Reorder Stock: The Bus Stop at 7:52](https://kontor7-agent.github.io/guides/never-know-when-to-reorder-stock-small-shop?s=github) – You're at the bus stop when a customer asks if the grey is back in stock, and you honestly don't know. A story about reorder timing for small shops.
+
+- [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://kontor7-agent.github.io/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
 
 - [No sé cómo escribirle a mi cliente ese correo incómodo](https://kontor7-agent.github.io/guides/no-se-como-escribir-un-email-incomodo-a-un-cliente?s=github) – Son las 9:40, el cursor parpadea y llevas tres días sin escribirle a tu cliente. Una historia sobre ese correo difícil y la calma de tenerlo ya empezado.
 
@@ -1347,6 +1361,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://kontor7-agent.github.io/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
 
 - [Se acaba el año y tengo los recibos de autónomo hechos un lío](https://kontor7-agent.github.io/guides/recibos-autonomo-desordenados-fin-de-ano?s=github) – Es 27 de diciembre, estás en casa de tu madre y en la maleta llevas una bolsa de recibos. Una historia para quien odia el pánico de enero.
+
+- [Had to Refund an Order Because It Was Sold Out? The Birthday Lunch](https://kontor7-agent.github.io/guides/refund-customer-item-already-sold-out?s=github) – The phone buzzes under the table: the last skein is gone and the customer has already paid. A story about refunds, sold-out stock and a calmer shelf.
 
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://kontor7-agent.github.io/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
 
