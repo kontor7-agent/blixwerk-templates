@@ -1076,7 +1076,11 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://kontor7-agent.github.io/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
 
+- [Un cliente nuevo me pide trabajo gratis para probar: ¿qué respondo?](https://kontor7-agent.github.io/guides/cliente-nuevo-pide-trabajo-gratis-para-probar-que-responder?s=github) – El mensaje llega en el tren: «Haznos una prueba gratis y luego vemos». Una historia sobre el nudo en el estómago y cómo responder sin quedar mal.
+
 - [Mi cliente paga tarde y no llego a la cuota de autónomos](https://kontor7-agent.github.io/guides/cliente-paga-tarde-no-llego-cuota-autonomos?s=github) – El día 28, el móvil vibra con el aviso del banco y la factura de tu cliente sigue sin pagarse. Una historia sobre cobrar tarde y recuperar la calma.
+
+- [Cliente tóxico y autónomo: cómo dejarlo sin quedar mal (un lunes)](https://kontor7-agent.github.io/guides/cliente-toxico-autonomo-como-dejar-de-trabajar-con-el-sin-quedar-mal?s=github) – Lunes, 9:10, otro mensaje de ese cliente. Una historia sobre cómo despedirte de un cliente tóxico sin quedar mal y recuperar la calma.
 
 - [¿Cobro muy poco como freelance? La cola del súper me lo dijo](https://kontor7-agent.github.io/guides/cobro-muy-poco-como-freelance?s=github) – Una cola de supermercado, una pregunta inocente y un número que no te sale. Una historia para quien sospecha que cobra menos de lo que vale.
 
@@ -1171,6 +1175,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Anxious About 2027 Income as a Freelancer? The Allotment Gate](https://kontor7-agent.github.io/guides/freelancer-anxious-about-2027-income-not-sure-what-i-will-earn?s=github) – Not sure what you'll earn in 2027? A quiet Saturday morning, one blank page, and a calmer way to look at the year ahead as a freelancer.
 
 - [Who Owes Me, What Do I Charge, Where Did My Time Go?](https://kontor7-agent.github.io/guides/freelancer-money-clarity-who-owes-me-what-to-charge-where-time-goes?s=github) – A holiday that isn't one: the ferry, the phone, and three questions about money and time you couldn't answer. A calmer way to run your week.
+
+- [Don't Know What You'll Earn Next Month? The Mechanic's Quote](https://kontor7-agent.github.io/guides/freelancer-cash-flow-stress-no-idea-what-ill-earn-next-month?s=github) – The mechanic says 640 and your mind goes blank: what is actually coming in next month? A quiet story about freelance cash flow stress and the calm after.
 
 - [Can't Word the Client Email? The Café Table and the Blinking Cursor](https://kontor7-agent.github.io/guides/ai-prompts-for-freelancer-client-emails?s=github) – Wednesday, 2:15 pm: one email to a client, and you've been staring at it for forty minutes. A story for freelancers who dread the awkward messages.
 
@@ -1286,6 +1292,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://kontor7-agent.github.io/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
+- [Parents Forget to Pay for Music Lessons? The Hallway Handover](https://kontor7-agent.github.io/guides/music-teacher-parents-forget-to-pay-for-lessons?s=github) – The cello case is by the door, the envelope hasn't come, and you smile anyway. A gentle story for music teachers whose parents forget to pay.
+
 - [Never Know What to Post? The Wednesday Tram Ride Behind Again](https://kontor7-agent.github.io/guides/never-know-what-to-post-on-social-media-feel-behind?s=github) – On the 8:12 tram, you realise you've posted nothing since last Thursday. If you never know what to post on social media, this one is for you.
 
 - [Never Know What to Post on Social Media? The Bakery Queue Test](https://kontor7-agent.github.io/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
@@ -1322,6 +1330,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://kontor7-agent.github.io/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
+- [Client Paid a Deposit, Can't Remember What's Still Owed? Photographer](https://kontor7-agent.github.io/guides/photographer-client-paid-deposit-cant-remember-what-is-still-owed?s=github) – A client asks, 'What was left to pay again?' and you can't say. A photographer's Monday morning at the studio door, and the calmer way to start it.
+
 - [Lost Track of Shoots and Deposits? The Photographer's Tuesday Call](https://kontor7-agent.github.io/guides/photographer-client-shoot-deposit-invoice-tracker-excel?s=github) – A client asks where the gallery is while you stand in a car park, unsure. A photographer's story about deposits, deadlines and one calm overview.
 
 - [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://kontor7-agent.github.io/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
@@ -1351,6 +1361,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Rechnung monatelang nicht geschrieben? Der Satz im Videocall](https://kontor7-agent.github.io/guides/rechnung-monatelang-nicht-geschrieben-nachtraeglich-schicken?s=github) – Im Kundengespräch fällt dir ein: Die Rechnung vom Frühjahr ist nie rausgegangen. Eine Geschichte über Peinlichkeit, Ruhe und den Weg zurück.
 
 - [Meine Rechnung sieht unprofessionell aus: Der Montag um 9:40 Uhr](https://kontor7-agent.github.io/guides/rechnung-sieht-unprofessionell-aus-freiberufler?s=github) – Die Buchhaltung des Kunden fragt nach der Rechnung, und dir wird heiß. Eine Geschichte für Freiberufler, die sich für ihre Rechnung schämen.
+
+- [Rechnung vergessen, Monate her? Die Schlange am Wochenmarkt](https://kontor7-agent.github.io/guides/rechnung-vergessen-monate-her-peinlich?s=github) – Samstag, Wochenmarkt: Die Kundin fragt nach deiner Rechnung, die du im März vergessen hast. Eine Geschichte über Peinlichkeit und einen ruhigeren Weg.
 
 - [Rechnung vergessen, Monate her: Die Mail aus der Buchhaltung](https://kontor7-agent.github.io/guides/rechnung-vergessen-monate-peinlich-buchhaltung-mail?s=github) – Montag, 9:12 Uhr: Eine Mail aus der Buchhaltung deines Kunden, und du ahnst, welche Rechnung fehlt. Eine Geschichte über Peinlichkeit und Ruhe.
 
@@ -1403,6 +1415,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Out of Stock Again: Tracking Inventory and Reorder Points in Excel](https://kontor7-agent.github.io/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – It's 7:40 am, an order comes in, and the shelf is empty again. A calm story about tracking inventory and reorder points in Excel without the panic.
 
 - [Keep Running Out of Stock? The Post Office Queue Reorder Moment](https://kontor7-agent.github.io/guides/small-business-keep-running-out-of-stock-when-to-reorder?s=github) – Twelve people in the post office queue, one email on your phone: the last jar is gone again. A calm story about knowing when to reorder.
+
+- [Keep Running Out of Your Best Seller? The Dog Park Shout-Out](https://kontor7-agent.github.io/guides/small-business-keeps-running-out-of-best-selling-product?s=github) – A local shout-out lands, your bestseller is nearly gone, and you're standing in a muddy dog park. A calm story about running out, and what changes after.
 
 - [Admin Drowning Your Small Business? The Van Lunch in the Rain](https://kontor7-agent.github.io/guides/small-business-owner-drowning-in-admin-spreadsheets-everywhere?s=github) – Rain on the windscreen, a sandwich going cold, and six spreadsheets that never agree. A story for small business owners drowning in admin.
 
