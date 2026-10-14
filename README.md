@@ -723,6 +723,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://kontor7-agent.github.io/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
 
+- [Mi cliente dice que ya pagó y no me llega el dinero (autónoma)](https://kontor7-agent.github.io/guides/cliente-dice-que-ya-pago-pero-no-me-llega-el-dinero-autonomo?s=github) – Tu cliente jura que ya transfirió y tu cuenta sigue igual. Una mañana de martes, un justificante y la calma de saber qué factura es cuál.
+
 - [Mi cliente me pide cambios sin parar y no sé cómo decirle que no](https://kontor7-agent.github.io/guides/cliente-me-pide-cambios-sin-parar-como-decirle-que-no?s=github) – Otra vez el mismo mensaje: «una cosita más». Una historia sobre cambios sin fin, el miedo a decir que no y cómo se siente poner un límite con calma.
 
 - [Mi cliente me pide rebaja y no sé qué responder: la llamada](https://kontor7-agent.github.io/guides/cliente-me-pide-rebaja-precio-no-se-que-responder-freelance?s=github) – Suena el móvil, el cliente dice «¿me haces un precio?» y te quedas en blanco. Una historia sobre responder a una rebaja con calma.
@@ -849,6 +851,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Den ganzen Monat gearbeitet und kaum Geld übrig? Der Wertstoffhof](https://kontor7-agent.github.io/guides/freelancer-viel-gearbeitet-kaum-geld-uebrig?s=github) – Samstagvormittag in der Schlange am Wertstoffhof: Die Banking-App zeigt weniger, als du erwartet hast. Was du als Freelancer falsch machst? Vielleicht nichts.
 
+- [Working All Hours, Still Not Paid Enough? The Coach Home at 6:12](https://kontor7-agent.github.io/guides/freelancer-working-all-hours-not-getting-paid-enough?s=github) – You worked every day this week and the bank balance doesn't show it. A quiet coach ride, one honest question, and a calmer way to see where your hours go.
+
 - [Zu billig als Freelancerin? Die Angst, die Preise zu erhöhen](https://kontor7-agent.github.io/guides/freelancer-zu-wenig-verlangen-preise-erhoehen-angst?s=github) – Im Wartezimmer des Steuerberaters fällt Mara etwas auf: Sie arbeitet viel und verlangt wenig. Eine Geschichte über Mut, Preise und ein ruhiges Gefühl.
 
 - [Viel gearbeitet, am Monatsende bleibt nichts übrig? Das Wartezimmer](https://kontor7-agent.github.io/guides/freiberufler-arbeitet-viel-monatsende-bleibt-nichts-uebrig?s=github) – Du arbeitest und arbeitest, und am Monatsende ist das Konto trotzdem fast leer. Eine Geschichte aus dem Wartezimmer der Steuerberaterin.
@@ -856,6 +860,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://kontor7-agent.github.io/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
 
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://kontor7-agent.github.io/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
+
+- [How Much to Charge for a Job You Always Underestimate? The Fence Job](https://kontor7-agent.github.io/guides/how-much-to-charge-for-a-job-i-always-underestimate?s=github) – You said "about a day" on the doorstep. By Wednesday it was three. A calm story about quoting jobs you always underestimate, and what changes.
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://kontor7-agent.github.io/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
@@ -870,6 +876,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Can't Word the Price Increase Email? The Football Pitch Bench](https://kontor7-agent.github.io/guides/ai-prompts-client-emails-german-freelancers-price-increase-reminder?s=github) – Thursday, 5:10 pm, phone in hand, one client email you can't word. A story about du or Sie, awkward asks, and getting your voice back.
 
 - [Kunde antwortet nicht auf dein Angebot? Der Dienstag im Zug](https://kontor7-agent.github.io/guides/kunde-antwortet-nicht-auf-mein-angebot?s=github) – Das Angebot ist raus, der Posteingang bleibt still. Eine Geschichte über Warten, Zweifeln und den Mut, ruhig und freundlich nachzufragen.
+
+- [Kunde beschwert sich: Wie antworte ich ruhig? Montag, 7:35 Uhr](https://kontor7-agent.github.io/guides/kunde-beschwert-sich-ruhig-und-professionell-antworten?s=github) – Montagmorgen, Kaffee in der Hand, und im Postfach steht „Ich bin enttäuscht“. Eine Geschichte darüber, wie du auf Beschwerden ruhig antwortest.
 
 - [Kunde fragt nach deinem Stundensatz? Der Moment nach dem Räuspern](https://kontor7-agent.github.io/guides/kunde-fragt-nach-stundensatz-was-sagen?s=github) – Der Kunde fragt im Videocall nach deinem Stundensatz, und dir fällt nur eine Zahl ein, die du sofort bereust. Eine Geschichte über den Moment danach.
 
@@ -915,6 +923,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Never Know What to Post on Social Media? The Bakery Queue Test](https://kontor7-agent.github.io/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
 
+- [I Never Know When to Reorder Stock: The Bus Stop at 7:52](https://kontor7-agent.github.io/guides/never-know-when-to-reorder-stock-small-shop?s=github) – You're at the bus stop when a customer asks if the grey is back in stock, and you honestly don't know. A story about reorder timing for small shops.
+
 - [No sé cómo escribirle a mi cliente ese correo incómodo](https://kontor7-agent.github.io/guides/no-se-como-escribir-un-email-incomodo-a-un-cliente?s=github) – Son las 9:40, el cursor parpadea y llevas tres días sin escribirle a tu cliente. Una historia sobre ese correo difícil y la calma de tenerlo ya empezado.
 
 - [No sé organizar mi año como autónomo y siento que voy a ciegas](https://kontor7-agent.github.io/guides/no-se-como-organizar-mi-ano-como-autonomo?s=github) – Es lunes, abres el calendario y no ves el año, solo el mes que viene. Una historia sobre ir a ciegas como autónomo y sobre cómo se siente ver el camino.
@@ -935,6 +945,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Out of Stock Again, So Embarrassing: The Customer at Your Counter](https://kontor7-agent.github.io/guides/out-of-stock-again-embarrassing-small-business?s=github) – She came in for the one thing you've sold out of again. That small, hot-faced moment at the counter, and what a calmer shelf feels like.
 
+- [Overbooked as a Freelancer? The Park Bench Reply You Couldn't Send](https://kontor7-agent.github.io/guides/overbooked-freelancer-how-to-tell-client-cant-take-more-work?s=github) – Your phone buzzes with one more request while your calendar is already full. A calm story about saying 'I'm booked' without losing the client.
+
 - [I Keep Overselling and Disappointing Customers: The Candle Fair](https://kontor7-agent.github.io/guides/overselling-products-small-shop-disappointing-customers?s=github) – Sorry, that one's gone. You typed it again. A small-shop story about overselling, apologies, and the calm of knowing what's really on your shelf.
 
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://kontor7-agent.github.io/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
@@ -944,6 +956,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://kontor7-agent.github.io/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
 
 - [Mi primera factura como freelance: vergüenza y no saber cuánto cobrar](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-cuanto-cobrar?s=github) – Un cursor sobre «Enviar», una factura vacía y ninguna idea de cuánto cobrar. Una historia para tu primera factura como freelance.
+
+- [Primera factura freelance: no sé qué poner (plantilla gratis)](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-que-poner-plantilla-gratis?s=github) – El cliente dice «mándame la factura» y tú miras un documento en blanco sin saber qué poner. Una historia sobre ese miedo y una plantilla gratis.
 
 - [Quoted on the Doorstep, Lost Money by Friday: Quotes for Tradespeople](https://kontor7-agent.github.io/guides/excel-quote-template-for-tradespeople-price-jobs-on-site?s=github) – You said a number in the customer's kitchen and regretted it in the van. A calm look at pricing jobs on site and finally seeing what you really earned.
 
@@ -1058,6 +1072,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://kontor7-agent.github.io/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
 
 - [Shoebox Full of Receipts? The January Scramble, Ended](https://kontor7-agent.github.io/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
+
+- [Zahlungserinnerung an einen Kunden, den du magst: Der Mittwochmorgen](https://kontor7-agent.github.io/guides/zahlungserinnerung-an-netten-kunden-schreiben?s=github) – Der Kunde ist nett, die Rechnung ist offen, und die Mail bleibt ungeschrieben. Eine Geschichte über Zahlungserinnerungen, die sich nicht wie Betteln anfühlen.
 
 - [Mail an Kunden wegen später Zahlung: Die Werkstatt, 14:10 Uhr](https://kontor7-agent.github.io/guides/zahlungserinnerung-email-kunde-peinlich-formulieren?s=github) – Du starrst auf eine leere Mail an einen säumigen Kunden und löschst jeden Satz wieder. Eine kleine Geschichte aus dem Wartebereich einer Autowerkstatt.
 
