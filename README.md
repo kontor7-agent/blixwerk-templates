@@ -701,9 +701,13 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Client Keeps Asking for Extra Work for Free? What Do I Say?](https://kontor7-agent.github.io/guides/client-keeps-asking-for-extra-work-for-free-freelancer-what-do-i-say?s=github) – A client slips in 'one more small thing' again. A story about the pause before you answer, and finding words that are kind, clear and still yours.
 
+- [Client Ignoring Your Emails? The Recycling Centre Queue](https://kontor7-agent.github.io/guides/client-keeps-ignoring-my-emails-what-to-write?s=github) – Third email sent, still silence. In a queue of cars full of glass, you realise the problem isn't the client. It's the blank page. A short story.
+
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://kontor7-agent.github.io/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
 
 - [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://kontor7-agent.github.io/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
+
+- [Client Says Invoice Was Already Paid? The Car Park Before the Call](https://kontor7-agent.github.io/guides/client-says-invoice-already-paid-cant-prove-it?s=github) – Your client swears the invoice was paid. Your records say nothing either way. A short story about that knot in your stomach, and what calms it.
 
 - [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://kontor7-agent.github.io/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
 
@@ -738,6 +742,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Dreading Year-End Bookkeeping? No Idea Where Your Receipts Are](https://kontor7-agent.github.io/guides/dreading-year-end-bookkeeping-freelancer-receipts?s=github) – A video call that starts late, a reminder you've snoozed since October, and the quiet dread of not knowing where your receipts are. A calmer year-end is possible.
 
 - [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://kontor7-agent.github.io/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
+
+- [Envié el presupuesto y el cliente no responde: ¿le escribo otra vez?](https://kontor7-agent.github.io/guides/envie-el-presupuesto-y-el-cliente-no-responde?s=github) – Nueve días sin respuesta a tu presupuesto y la duda en la sala de espera: ¿escribo otra vez o parezco pesado? Una historia para quien se reconoce.
 
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://kontor7-agent.github.io/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
 
@@ -865,6 +871,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://kontor7-agent.github.io/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
 
+- [Me da vergüenza decirle mi precio a un cliente nuevo: el café](https://kontor7-agent.github.io/guides/me-da-verguenza-decirle-mi-precio-a-un-cliente-nuevo-freelance?s=github) – Estás en un café con un cliente nuevo y te pregunta cuánto cobras. Una historia para quien siente que el precio se le atasca en la garganta.
+
 - [Me quedé sin stock otra vez: el sábado del mercadillo](https://kontor7-agent.github.io/guides/me-quede-sin-stock-otra-vez-control-de-inventario?s=github) – Sábado, 9:40, el puesto montado y falta lo que más se vende. Una historia sobre quedarte sin stock otra vez y el control de inventario que no llevas.
 
 - [Me quedo sin stock y no sé cuándo reponer: la llamada de las 9](https://kontor7-agent.github.io/guides/me-quedo-sin-stock-no-se-cuando-reponer?s=github) – Son las nueve, el proveedor dice «tres semanas» y tu producto estrella ya casi no queda. Una historia sobre dejar de reponer a ciegas.
@@ -937,6 +945,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://kontor7-agent.github.io/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
 
+- [Scope Creep: Client Keeps Adding Work? The Campsite Bank Holiday](https://kontor7-agent.github.io/guides/scope-creep-client-keeps-adding-work-how-to-push-back?s=github) – One bar of signal on a bank holiday, and the client wants 'just one more thing'. A calm story about scope creep and finding your words to push back.
+
 - [Se me olvidó facturar a un cliente y han pasado semanas](https://kontor7-agent.github.io/guides/se-me-olvido-facturar-a-un-cliente-semanas?s=github) – Ves tus fotos en las redes de un cliente y te das cuenta: nunca le enviaste la factura. Una historia sobre el despiste y cómo se vuelve a respirar.
 
 - [Se me olvidó facturar a un cliente y ya pasó un mes: la llamada](https://kontor7-agent.github.io/guides/se-me-olvido-facturar-a-un-cliente-y-ya-paso-un-mes?s=github) – Una llamada de martes, una pregunta sencilla y un mes de trabajo sin facturar. Para quien se olvidó de cobrar y no sabe cómo decirlo.
@@ -950,6 +960,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Selbstständig überfordert: Zettel, Excel-Listen und ein Anruf](https://kontor7-agent.github.io/guides/selbststaendig-ueberfordert-zettel-excel-listen-chaos?s=github) – Mittwoch, 10:15 Uhr: Der Kunde fragt nach, und du suchst in Zetteln und Excel-Listen. Eine Geschichte über Chaos und die Ruhe danach.
 
 - [Self-Employed Hairdresser: What Did I Actually Earn This Week?](https://kontor7-agent.github.io/guides/self-employed-hairdresser-dont-know-how-much-i-earn-each-week?s=github) – Tuesday lunch, a sandwich in the back room, and no idea what your week really brought in. A story for self-employed stylists who want to know.
+
+- [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://kontor7-agent.github.io/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
 
 - [Spreadsheets Everywhere? The Monday You Couldn't Find the Number](https://kontor7-agent.github.io/guides/small-business-admin-overwhelmed-spreadsheets-everywhere?s=github) – Eleven tabs, three folders, one question you can't answer. A story for anyone drowning in small business admin and scattered spreadsheets.
 
@@ -996,6 +1008,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://kontor7-agent.github.io/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
 
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://kontor7-agent.github.io/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
+
+- [Wie sage ich dem Kunden, dass es teurer wird? Der Bahnsteig um 7:48](https://kontor7-agent.github.io/guides/wie-sage-ich-dem-kunden-dass-es-teurer-wird?s=github) – Der Entwurf liegt seit März im Handy: Preiserhöhung ankündigen. Eine Geschichte vom Bahnsteig und davon, wie ein ruhiger Satz plötzlich leichter fällt.
 
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://kontor7-agent.github.io/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
 
