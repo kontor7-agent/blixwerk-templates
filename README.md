@@ -918,6 +918,41 @@ Included (8 products, 90 USD if bought separately):
 
 ---
 
+### [Per-Word to Real Hourly – Translator Rate & Job Tracker](https://blixwerk.gumroad.com/l/per-word-to-real-hourly-translator-rate-job-trac)
+
+![Per-Word to Real Hourly – Translator Rate & Job Tracker](images/per-word-to-real-hourly-translator-rate-job-trac.png)
+
+Turn per-word rates into real hourly pay, track CAT discounts and rush fees, and see which agency pays late. Excel tracker for translators.
+
+Know what each job really paid per hour – and which invoice is still open.
+
+An agency pays 60 days late and you can't tell which invoice it was. Word counts, rush fees and CAT discounts leave you unsure what a job earned. A client asks for a lower per-word rate and you can't show what it costs you. This Excel workbook answers all three in about ten minutes a week.
+
+What's included
+
+- Start-here sheet: your first win in 5 minutes
+- Jobs sheet: new / fuzzy / repetition word counts, rush surcharge, minimum fee, hours worked – fee, real hourly, due date and status calculate automatically (per word, per hour, per minute or flat fee)
+- Overview: real hourly vs your target, money still to collect, overdue invoices, average days to payment, table by client
+- Clients sheet with payment terms
+- Rate check: what a requested rate cut costs per month and per year, the volume needed to break even, and a rate × speed grid
+- Realistic sample data (invented jobs and clients), a how-to sheet, a one-page quick-start PDF and an email-template file (payment reminders, rate-cut replies, rush quotes)
+
+Who it is for
+
+Freelance translators, interpreters and subtitlers with per-word or per-hour work.
+
+How to use
+
+Type your target hourly rate, add a client, add one job, and watch the Overview fill. Yellow cells are yours, grey cells calculate.
+
+Requirements
+
+Microsoft Excel 2010 or newer. No macros, no internet connection. Not tested in Google Sheets or LibreOffice. It helps you organise your own numbe
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/per-word-to-real-hourly-translator-rate-job-trac)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1257,6 +1292,8 @@ Included (8 products, 90 USD if bought separately):
 - [Quoted a Job, Materials Cost More Than I Thought: The Builders' Merchant](https://kontor7-agent.github.io/guides/quoted-a-job-and-materials-cost-more-than-i-thought?s=github) – You quoted the bathroom last week. At the merchant's counter, the total on the screen is higher than your number. Here is what that moment really costs.
 
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://kontor7-agent.github.io/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
+
+- [Raise Your Lesson Rate Without Dread: The Piano Stool at 3:40](https://kontor7-agent.github.io/guides/raise-lesson-rate-private-tutor-price-increase-letter?s=github) – Your lesson rate hasn't moved in four years and the letter sits unwritten. A quiet story about finally saying the new price in your own calm voice.
 
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://kontor7-agent.github.io/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
 
