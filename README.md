@@ -693,6 +693,43 @@ Enter your rate in Settings, add a student, log a lesson, add an invoice number,
 
 ---
 
+### [Photographer Client, Shoot & Invoice Tracker (Excel)](https://blixwerk.gumroad.com/l/photographer-client-shoot-invoice-tracker-xlsx)
+
+![Photographer Client, Shoot & Invoice Tracker (Excel)](images/photographer-client-shoot-invoice-tracker-xlsx.png)
+
+Excel tracker for photographers: clients, shoots, deposits, gallery deadlines and invoice status on one dashboard.
+
+Know who owes you, which shoots are coming up and what is still to deliver - in ten minutes a week.
+
+Shoots, deposits, deliveries and unpaid balances get lost between email, calendar and notes. This Excel workbook puts them in one calm place.
+
+What's included
+
+- Dashboard: money waiting, overdue, not yet invoiced, received and booked this year, next shoots, invoices that need a nudge, deliveries to do, monthly chart
+- Clients sheet with automatic totals per client
+- Shoots sheet: status, package fee, deposit due and received, edit and gallery deadlines (Late / Due soon / On track)
+- Invoices sheet: deposit, balance and full-payment invoices with automatic due date, status, days overdue and a suggested next step
+- Six ready-to-adapt message templates (deposit, balance, three reminder levels, gallery delivery)
+- Realistic fictional sample data and a one-page Quick-Start PDF
+
+Who it is for
+
+Solo wedding, portrait, family, headshot and event photographers who want to stop chasing deposits and balances from memory.
+
+How to use
+
+Open the file, look at the sample dashboard, enter your deposit % and payment terms in Settings, add one client, one shoot and one deposit invoice, and watch the dashboard fill. Then clear the sample data and use it weekly for ten minutes.
+
+Requirements
+
+Microsoft Excel 2016 or newer. No macros, no add-ins, no internet connection. Currency-neutral. Room for 300 clients, shoots and invoices.
+
+30-day money-back promise: if it doesn't help, you get a full refu
+
+**Price:** 14 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/photographer-client-shoot-invoice-tracker-xlsx)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -709,11 +746,15 @@ Enter your rate in Settings, add a student, log a lesson, add an invoice number,
 
 - [The Night Before Launch: A REST API Security Checklist Story](https://kontor7-agent.github.io/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
+- [Auftrag ablehnen ohne schlechtes Gewissen? Die Mail um 8:50 Uhr](https://kontor7-agent.github.io/guides/auftrag-ablehnen-ohne-schlechtes-gewissen-freiberufler?s=github) – Die Anfrage klingt gut, der Preis nicht, die Woche ist voll. Eine Geschichte darüber, wie ein Nein sich anfühlen kann, ohne dass du dich dafür rechtfertigst.
+
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://kontor7-agent.github.io/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
 
 - [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://kontor7-agent.github.io/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
 
 - [Steuerberater Appointment Next Week? The Folder Called 'Misc'](https://kontor7-agent.github.io/guides/steuerberater-termin-belege-uebersicht-excel-vorlage?s=github) – The tax advisor's email says 'please send your documents.' You open a folder called 'Misc'. A calm story about receipts, overview and a year-end that feels light.
+
+- [Belege das ganze Jahr vergessen? Selbstständig zwischen den Jahren](https://kontor7-agent.github.io/guides/belege-vergessen-selbststaendig-was-jetzt?s=github) – Zwischen den Jahren, Laptop auf dem Küchentisch der Eltern und kein einziger Beleg sortiert. Eine Geschichte über Ruhe nach dem Belege-Chaos.
 
 - [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://kontor7-agent.github.io/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
 
@@ -726,6 +767,8 @@ Enter your rate in Settings, add a student, log a lesson, add an invoice number,
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://kontor7-agent.github.io/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
+
+- [Doy clases particulares, pagan tarde y cancelan: ¿cómo llevo las cuentas?](https://kontor7-agent.github.io/guides/clases-particulares-alumnos-pagan-tarde-cancelan-llevar-cuentas?s=github) – Son las 16:10, esperas en la parada y llega otro «perdona, hoy no puedo». Una historia para quien da clases y ya no sabe quién le debe qué.
 
 - [Client Asking for a Discount? How to Reply Without Losing Them](https://kontor7-agent.github.io/guides/client-asking-for-discount-how-to-reply-freelance?s=github) – The email says 'any chance of a better price?' and your stomach drops. A calm story about replying to a discount request without losing the client.
 
@@ -741,9 +784,13 @@ Enter your rate in Settings, add a student, log a lesson, add an invoice number,
 
 - [Client Ignoring Your Emails? The Recycling Centre Queue](https://kontor7-agent.github.io/guides/client-keeps-ignoring-my-emails-what-to-write?s=github) – Third email sent, still silence. In a queue of cars full of glass, you realise the problem isn't the client. It's the blank page. A short story.
 
+- [Client Keeps Moving the Deadline? The Email You Dread Writing](https://kontor7-agent.github.io/guides/client-keeps-moving-the-deadline-email?s=github) – The third 'can we push it a week?' arrives while you're in the bakery queue. Here's how the dreaded deadline email stops feeling like a confrontation.
+
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://kontor7-agent.github.io/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
 
 - [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://kontor7-agent.github.io/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
+
+- [Client Paid Only Part of My Invoice: The Monday Bank Notification](https://kontor7-agent.github.io/guides/client-paid-only-part-of-my-invoice-whats-outstanding?s=github) – The money arrived, but it's not the full amount. Now you can't tell what's still outstanding. A short story about a Monday morning, and the calm after.
 
 - [Client Pushing Back on Your Invoice Amount? The Pharmacy Queue](https://kontor7-agent.github.io/guides/client-pushing-back-on-invoice-amount-what-do-i-say?s=github) – The client wrote 'this seems higher than expected.' You're in a pharmacy queue with a phone in your hand. A calm story about finding the words.
 
@@ -758,6 +805,8 @@ Enter your rate in Settings, add a student, log a lesson, add an invoice number,
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://kontor7-agent.github.io/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
 
 - [Mi cliente dice que ya pagó y no me llega el dinero (autónoma)](https://kontor7-agent.github.io/guides/cliente-dice-que-ya-pago-pero-no-me-llega-el-dinero-autonomo?s=github) – Tu cliente jura que ya transfirió y tu cuenta sigue igual. Una mañana de martes, un justificante y la calma de saber qué factura es cuál.
+
+- [Mi cliente me escribe a todas horas y no sé poner límites: domingo](https://kontor7-agent.github.io/guides/cliente-me-escribe-fuera-de-horario-como-poner-limites?s=github) – Domingo, 11:40, el móvil vibra otra vez. Una historia sobre el cliente que escribe fuera de horario y cómo se siente poner un límite sin culpa.
 
 - [Mi cliente me pide cambios sin parar y no sé cómo decirle que no](https://kontor7-agent.github.io/guides/cliente-me-pide-cambios-sin-parar-como-decirle-que-no?s=github) – Otra vez el mismo mensaje: «una cosita más». Una historia sobre cambios sin fin, el miedo a decir que no y cómo se siente poner un límite con calma.
 
@@ -938,6 +987,8 @@ Enter your rate in Settings, add a student, log a lesson, add an invoice number,
 - [Where Did the Stock Go? The Tuesday Morning Count in the Back Room](https://kontor7-agent.github.io/guides/stock-list-reorder-point-excel-small-business?s=github) – You count shelves by hand, and the numbers still don't match. A calm story about a small business owner who stops being surprised by an empty shelf.
 
 - [Lagerbestand stimmt nie mit der Excel-Liste? Samstag, 7:50 Uhr](https://kontor7-agent.github.io/guides/lagerbestand-stimmt-nicht-mit-excel-liste-ueberein?s=github) – Auf der Liste stehen 14, in der Kiste ist nichts. Eine Geschichte vom Marktstand und davon, wie es sich anfühlt, wenn der Bestand endlich stimmt.
+
+- [Tutor Students Pay Late, Cancel Late? The Car Outside Number 14](https://kontor7-agent.github.io/guides/private-tutor-lesson-log-invoice-tracker-late-payments-cancellations?s=github) – Your 4 pm student cancels by text while you sit outside in the rain. Who is behind, what it costs, and when to raise your rate – a tutor's story.
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://kontor7-agent.github.io/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
 
