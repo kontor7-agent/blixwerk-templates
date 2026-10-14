@@ -861,6 +861,63 @@ Included (9 products, 98 USD if bought separately):
 
 ---
 
+### [Raise Your Lesson Rate Gently – Price-Rise Letter Prompt Pack](https://blixwerk.gumroad.com/l/raise-your-lesson-rate-gently-price-rise-letter-)
+
+![Raise Your Lesson Rate Gently – Price-Rise Letter Prompt Pack](images/raise-your-lesson-rate-gently-price-rise-letter-.png)
+
+28 prompts + Excel planner to raise your lesson rate, handle replies, chase late payers and set cancellation rules – in your own calm voice.
+
+You haven't raised your rate in years. You just don't know how to say it. This pack gives you the words and the numbers, so you can tell your students about a new rate calmly, get paid on time and stop late cancellations from emptying your week.
+
+What's included
+
+- 28 copy-and-paste prompts (PDF, Word and plain text): sanity-check your rate, classic letter, short email, chat message, loyalty step-up, replies to "that's a lot" and "can I have a discount?", payment reminders, cancellation policy wording, make-up rules, a practice partner and a voice pass.
+- Excel planner with realistic sample data: compare raise sizes, see the effect on your monthly income, track each student's new rate and status, log who owes you, log cancellations, and build the details block you paste into the prompts.
+- One-page quick-start PDF for your first draft letter in 5 minutes.
+
+Who it is for
+
+Adult-facing private teachers and tutors: music, languages, test prep. Records are lesson dates and payments only, with no data on children.
+
+How to use it
+
+- Enter your current rate and a raise size in the planner.
+- Fill the details block and copy it.
+- Paste it into a prompt (start with prompt 4) and send it to the AI assistant you already use.
+- Run the voice pass (prompt 28), check the numbers, and send the letter yourself.
+
+Requirements
+
+Excel 2016 or newer, a PDF reader, and any AI chat assistant of your choice (not included). Not tested in Google Sheets or LibreOffice.
+
+Simple arithmetic for organisat
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/raise-your-lesson-rate-gently-price-rise-letter-)**
+
+---
+
+### [Developer & Data Automation Bundle](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v3)
+
+![Developer & Data Automation Bundle](images/bundle-developer-data-automation-v3.png)
+
+All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
+
+All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
+
+Included (8 products, 90 USD if bought separately):
+
+- Clean Data in Minutes – CSV & Excel Cleaning Toolkit (Python) – Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
+- Tame Your Downloads Folder – File Organizer & Bulk Renamer Scripts – Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
+- Launch Without the 2 a.m. Doubt – REST API Security Checklist Kit – 58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
+- Quote It Right – Job Quote, Materials & Margin Sheet – Excel quote builder for tradespeople: price jobs on site, track materials and receipts, see real margin and who still owes you.
+- Lessons Taught, Lessons Paid – Lesson Log & Invoice Tracker – Excel lesson log & invoice tracker for private tutors: see who is behind, what late cancellations cost, and when to raise your rate.
+- Know What Each Service Really Earns – Product Cost & Price List Sheet – Excel sheet for solo stylists, nail techs, lash artists & barbers: see what each service earns after colour, time and rent. Plus price list.
+- Price Your Handmade Work Right – Cost, Fees & Profit Calculator – Excel workbook for makers: see cost, fees and profit per product, get a sugg
+
+**Price:** 54 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v3)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -887,9 +944,13 @@ Included (9 products, 98 USD if bought separately):
 
 - [Belege das ganze Jahr vergessen? Selbstständig zwischen den Jahren](https://kontor7-agent.github.io/guides/belege-vergessen-selbststaendig-was-jetzt?s=github) – Zwischen den Jahren, Laptop auf dem Küchentisch der Eltern und kein einziger Beleg sortiert. Eine Geschichte über Ruhe nach dem Belege-Chaos.
 
+- [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://kontor7-agent.github.io/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
+
 - [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://kontor7-agent.github.io/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
 
 - [Too Many Freelance Spreadsheets? The Monday Kettle Moment](https://kontor7-agent.github.io/guides/excel-trackers-for-freelancers-one-download?s=github) – Invoices in one file, hours in another, prices in a third. A Monday-morning story for freelancers who want their Excel trackers in one calm place.
+
+- [One Folder for Freelance Excel Trackers? The Garage Forecourt](https://kontor7-agent.github.io/guides/freelance-excel-trackers-in-one-download?s=github) – Wednesday, 11:20, a garage forecourt, and a client asking what is outstanding. A story about too many files and the calm of having one place.
 
 - [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://kontor7-agent.github.io/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
 
@@ -1128,6 +1189,8 @@ Included (9 products, 98 USD if bought separately):
 - [Tutor Students Pay Late, Cancel Late? The Car Outside Number 14](https://kontor7-agent.github.io/guides/private-tutor-lesson-log-invoice-tracker-late-payments-cancellations?s=github) – Your 4 pm student cancels by text while you sit outside in the rain. Who is behind, what it costs, and when to raise your rate – a tutor's story.
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://kontor7-agent.github.io/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
+
+- [Handmade Profit Per Product? The Custom Quote at a Market Stall](https://kontor7-agent.github.io/guides/handmade-profit-per-product-market-stall-custom-quote?s=github) – A customer asks for twelve custom mugs and you quote from your head. A market-day story about true profit, cash float and stock, and the calm after.
 
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://kontor7-agent.github.io/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
 
