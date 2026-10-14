@@ -802,6 +802,65 @@ Microsoft Excel 2016 or newer. Fee rates in the file are examples – check your
 
 ---
 
+### [Market Day Calm – Stall Stock, Sales & Float Tracker](https://blixwerk.gumroad.com/l/market-day-calm-stall-stock-sales-float-tracker)
+
+![Market Day Calm – Stall Stock, Sales & Float Tracker](images/market-day-calm-stall-stock-sales-float-tracker.png)
+
+Excel tracker for makers: true profit per product after fees and your time, market-day cash float, stock levels and custom quotes.
+
+After fees, shipping, materials and your own time – does your bestseller actually earn anything? Market Day Calm puts your Etsy orders, web-shop sales and market-stall cash box in one calm Excel workbook, so you stop juggling two notebooks.
+
+What's included
+
+- Excel workbook with realistic sample data (a fictional maker) – plus an empty BLANK copy for your own numbers
+- Start Here sheet: your first win in 5 minutes
+- Products: true cost including your time, profit per unit on Etsy, web shop, market cash and market card, verdict Healthy / Thin / Loses money, and the price that leaves you a cushion
+- Sales Log: up to 500 sale lines with fees, postage, costs and profit calculated for you
+- Market Days: expected vs counted cash, difference, profit per stall hour – was the market worth it?
+- Stock: make-more alerts, weeks of cover, money tied up in slow stock
+- Cash Count: count the float and the box by note and coin
+- Custom Quote: floor, fair and comfortable price for custom orders, plus phrases you can borrow
+- Overview: totals, channel comparison, bestseller check
+- One-page quick-start PDF
+
+Who it is for
+
+Solo makers and small sellers on Etsy, Shopify-style web shops, marketplaces and craft markets who are not yet sure they price properly.
+
+How to use it
+
+Type your hourly rate and your platform fees on Settings, enter one product, log one sale – the Overview fills. Ten minutes a week keeps it current.
+
+Requirements
+
+Microsoft Excel. Other spreadsheet apps are untested. No mac
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/market-day-calm-stall-stock-sales-float-tracker)**
+
+---
+
+### [Freelancer & Small Business Excel Bundle](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v4)
+
+![Freelancer & Small Business Excel Bundle](images/bundle-freelancer-small-business-excel-v4.png)
+
+All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
+
+All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
+
+Included (9 products, 98 USD if bought separately):
+
+- Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
+- Never Sold Out by Surprise – Inventory & Reorder Tracker (Excel) – Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
+- Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
+- Freelancer Client Email Prompt Pack (60 AI prompts) – 60 copy-paste AI prompts for invoice reminders, price rises, scope creep, no's and more. Placeholders, tone variants, examples. PDF + Markdown.
+- Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel) – Excel receipt log, year-end checklist, deadline tracker and progress bar – end the January receipt scramble. Organisational only.
+- 2027 Freelance Business Planner (Excel) – Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
+- Belege- & Jahresend-Organizer für Selbstständige (Excel) – Excel-Vorlage auf Deutsch: Belegliste, Monats- und Jahresauswertun
+
+**Price:** 59 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v4)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1121,6 +1180,8 @@ Microsoft Excel 2016 or newer. Fee rates in the file are examples – check your
 - [Planning a Freelance Year on Unpredictable Income: The Paint Counter](https://kontor7-agent.github.io/guides/plan-freelance-year-unpredictable-income?s=github) – The paint is mixing, the calendar is blank, and next year's income is a guess. A gentle story about planning a freelance year without pretending.
 
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://kontor7-agent.github.io/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
+
+- [Does Your Bestseller Earn Anything? Pricing Handmade Work](https://kontor7-agent.github.io/guides/how-to-price-handmade-products-after-fees?s=github) – The candle jar sells out every market day, but after fees, wax and packaging, does it earn anything? A quiet story about pricing handmade work.
 
 - [Mi primera factura como freelance: vergüenza y no saber cuánto cobrar](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-cuanto-cobrar?s=github) – Un cursor sobre «Enviar», una factura vacía y ninguna idea de cuánto cobrar. Una historia para tu primera factura como freelance.
 
