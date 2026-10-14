@@ -1273,6 +1273,8 @@ Microsoft Excel 2010 or newer. No macros, no internet connection. Not tested in 
 
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://kontor7-agent.github.io/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
 
+- [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://kontor7-agent.github.io/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
+
 - [Lost Track of Shoots and Deposits? The Photographer's Tuesday Call](https://kontor7-agent.github.io/guides/photographer-client-shoot-deposit-invoice-tracker-excel?s=github) – A client asks where the gallery is while you stand in a car park, unsure. A photographer's story about deposits, deadlines and one calm overview.
 
 - [Planning a Freelance Year on Unpredictable Income: The Paint Counter](https://kontor7-agent.github.io/guides/plan-freelance-year-unpredictable-income?s=github) – The paint is mixing, the calendar is blank, and next year's income is a guess. A gentle story about planning a freelance year without pretending.
