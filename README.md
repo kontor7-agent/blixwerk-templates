@@ -953,6 +953,29 @@ Microsoft Excel 2010 or newer. No macros, no internet connection. Not tested in 
 
 ---
 
+### [Agency Payment Chaser – Invoice Follow-Up Prompt Pack for Translators](https://blixwerk.gumroad.com/l/agency-payment-chaser-invoice-follow-up-prompt-p)
+
+![Agency Payment Chaser – Invoice Follow-Up Prompt Pack for Translators](images/agency-payment-chaser-invoice-follow-up-prompt-p.png)
+
+30 copy-paste prompts to chase late agency invoices politely, plus a tracker showing who owes you and what to send. For translators.
+
+Stop wondering which agency still owes you – and stop dreading the reminder email. Agency Payment Chaser gives freelance translators, interpreters and subtitlers 30 ready-to-use prompts for any AI chat assistant, plus an Excel workbook that tells you who to chase today and which prompt to use.
+
+What's included
+
+- Excel workbook: Start-here sheet, Overview, Invoice Tracker (200 rows with formulas: due date, status, days overdue, chase step), Prompt Library, Job Calculator (CAT weights, rush and minimum fee, effective rate per word and per hour), Rate Cut Impact (what a lower per-word rate costs per month and year), Agency Scorecard, Settings
+- 30 prompts: a 5-step chase ladder (courtesy nudge to final notice), call script, thank-you, answers to "we pay when our client pays", "never received your invoice", rejected invoices, disputes, part payments and changed payment terms, invoice lines for word counts and CAT discounts, replying to rate-cut requests, interpreting and subtitling invoice notes, vetting a new agency, weekly and monthly reviews, matching a deposit to an invoice
+- The same prompts as plain text (Markdown)
+- One-page Quick-Start PDF and realistic (fictional) sample data
+
+Who it is for: freelance translators, interpreters and subtitlers with per-word, per-hour or per-minute work who work alone and want to get paid on time without awkwardness.
+
+How to use it: open the Tracker, type one real invoice into the yellow cells, read the suggested chase step (for example "P
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/agency-payment-chaser-invoice-follow-up-prompt-p)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1089,6 +1112,8 @@ Microsoft Excel 2010 or newer. No macros, no internet connection. Not tested in 
 
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://kontor7-agent.github.io/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
 
+- [Keep Forgetting to Chase Unpaid Invoices? The Fishmonger's Queue](https://kontor7-agent.github.io/guides/forget-to-chase-unpaid-invoices-freelancer?s=github) – You meant to chase that invoice three weeks ago. A Saturday queue, a number in your head, and a calmer way to remember who still owes you.
+
 - [Forgot to Send an Invoice as a Freelancer? The Waiting Room](https://kontor7-agent.github.io/guides/forgot-invoice-freelancer-lost-overview?s=github) – Thursday, 10:20, a waiting room, and a sudden thought: did you ever send that invoice? A calm story about losing track and getting the overview back.
 
 - [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://kontor7-agent.github.io/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
@@ -1172,6 +1197,8 @@ Microsoft Excel 2010 or newer. No macros, no internet connection. Not tested in 
 - [Viel gearbeitet, am Monatsende bleibt nichts übrig? Das Wartezimmer](https://kontor7-agent.github.io/guides/freiberufler-arbeitet-viel-monatsende-bleibt-nichts-uebrig?s=github) – Du arbeitest und arbeitest, und am Monatsende ist das Konto trotzdem fast leer. Eine Geschichte aus dem Wartezimmer der Steuerberaterin.
 
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://kontor7-agent.github.io/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
+
+- [Is My Freelance Day Rate Too Low? The Soft-Play Birthday Party](https://kontor7-agent.github.io/guides/how-do-i-know-if-my-freelance-day-rate-is-too-low?s=github) – A birthday party, a stranger's casual question, and the number you said too fast. A quiet story about how you know your day rate is too low.
 
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://kontor7-agent.github.io/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
 
@@ -1385,6 +1412,8 @@ Microsoft Excel 2010 or newer. No macros, no internet connection. Not tested in 
 
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://kontor7-agent.github.io/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
 
+- [Traductor freelance: me pagan por palabra, ¿y por hora?](https://kontor7-agent.github.io/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
+
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://kontor7-agent.github.io/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
 
 - [Unangenehme Mail an den Kunden: Der Cursor blinkt seit 40 Minuten](https://kontor7-agent.github.io/guides/unangenehme-mail-an-kunden-schreiben-freelancer?s=github) – Dienstag, 9:50 Uhr, ein leeres Mailfenster und kein Satz, der passt. Eine Geschichte für alle, die vor schwierigen Kundenmails zurückschrecken.
@@ -1394,6 +1423,8 @@ Microsoft Excel 2010 or newer. No macros, no internet connection. Not tested in 
 - [Underquoted a Job and Lost Money? The Tiles on Thursday Morning](https://kontor7-agent.github.io/guides/underquoted-a-job-and-lost-money-contractor?s=github) – You quoted the bathroom job in ten minutes on the doorstep. By Thursday, the tiles told you the truth. A story for contractors who underquoted.
 
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://kontor7-agent.github.io/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
+
+- [Weniger als Mindestlohn als Selbstständige? Die Frage beim Kuchen](https://kontor7-agent.github.io/guides/verdiene-ich-als-selbststaendiger-weniger-als-mindestlohn?s=github) – Sonntag, Geburtstagskaffee, ein Satz vom Schwager – und plötzlich fragst du dich: Verdiene ich als Selbstständige weniger als Mindestlohn?
 
 - [Me da vergüenza subir mis tarifas a clientes antiguos](https://kontor7-agent.github.io/guides/verguenza-subir-tarifas-clientes-antiguos-freelance?s=github) – Llevas tres años cobrando lo mismo a Marta y cada vez que abres el correo para avisarla, cierras la pestaña. Una historia sobre subir tarifas sin sudar.
 
