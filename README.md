@@ -1032,6 +1032,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://kontor7-agent.github.io/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
+- [ChatGPT Mahnung freundlich formulieren? Wartenummer 47 im Bürgeramt](https://kontor7-agent.github.io/guides/chatgpt-mahnung-an-kunden-freundlich-formulieren?s=github) – Du hast ChatGPT gefragt, aber die Mahnung klingt wie ein Amtsbrief. Eine Geschichte über Wartenummer 47 und den Satz, der endlich nach dir klingt.
+
 - [Doy clases particulares, pagan tarde y cancelan: ¿cómo llevo las cuentas?](https://kontor7-agent.github.io/guides/clases-particulares-alumnos-pagan-tarde-cancelan-llevar-cuentas?s=github) – Son las 16:10, esperas en la parada y llega otro «perdona, hoy no puedo». Una historia para quien da clases y ya no sabe quién le debe qué.
 
 - [Client Asking for a Discount? How to Reply Without Losing Them](https://kontor7-agent.github.io/guides/client-asking-for-discount-how-to-reply-freelance?s=github) – The email says 'any chance of a better price?' and your stomach drops. A calm story about replying to a discount request without losing the client.
@@ -1120,6 +1122,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://kontor7-agent.github.io/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
+- [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://kontor7-agent.github.io/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
+
 - [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://kontor7-agent.github.io/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
 
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://kontor7-agent.github.io/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
@@ -1127,6 +1131,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Hours Lost to Data and File Chores? The Dentist Waiting Room](https://kontor7-agent.github.io/guides/developer-wasting-hours-on-data-and-file-chores?s=github) – You meant to read a paper in the waiting room, but you were rebuilding last week's file chores in your head. A quiet story for developers who want those hours back.
 
 - [Do I Charge Enough as a Freelancer? The Plumber at the Kitchen Door](https://kontor7-agent.github.io/guides/do-i-charge-enough-as-a-freelancer?s=github) – A plumber hands over a bill without flinching, and a freelancer wonders why she can't do the same. A quiet story about charging enough and feeling paid.
+
+- [Does My Hourly Rate Cover Taxes and Unpaid Time? The Bus Home](https://kontor7-agent.github.io/guides/does-my-hourly-rate-cover-taxes-and-unpaid-time?s=github) – On the bus home, a nice number on an invoice suddenly feels too small. A quiet story about rates, taxes and the hours nobody pays you for.
 
 - [Can't Reply to a Difficult Client Email? The Ironing Board Monday](https://kontor7-agent.github.io/guides/dont-know-how-to-reply-to-difficult-client-email-freelance?s=github) – The email lands at 7:52 on a Monday. You read it four times and still don't know what to write. A story for freelancers who freeze on hard replies.
 
@@ -1493,6 +1499,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Tired of Manual Data Cleanup Every Week? The Airport Gate Fix](https://kontor7-agent.github.io/guides/tired-of-manual-data-cleanup-file-chores-developer?s=github) – Waiting at the gate, you're renaming files and fixing a CSV by hand again. A story about weekly developer chores and what a quiet Monday can feel like.
 
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://kontor7-agent.github.io/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
+
+- [Trabajo muchas horas y gano poco como freelance: el tren de vuelta](https://kontor7-agent.github.io/guides/trabajo-muchas-horas-gano-poco-freelance-que-hago-mal?s=github) – Jueves, 18:10, en el tren de vuelta de una reunión. Trabajas más que nunca y la cuenta no lo refleja. Una historia para quien se pregunta qué hace mal.
 
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://kontor7-agent.github.io/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
 
