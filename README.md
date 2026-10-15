@@ -1266,6 +1266,8 @@ This kit is a communication and organisation
 
 - [Can't Remember Which Companies Replied? The Dentist Call](https://kontor7-agent.github.io/guides/cant-remember-which-companies-replied-job-applications?s=github) – You've sent dozens of applications and a recruiter just phoned. Which company was this? A calm story about losing track, and getting your head back.
 
+- [Forgot Which Jobs You Applied To? The Tram Stop Voicemail](https://kontor7-agent.github.io/guides/cant-remember-which-jobs-i-applied-to-and-followed-up?s=github) – A recruiter calls back and you can't place the company. If you've lost track of which jobs you applied to and followed up on, this story is for you.
+
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://kontor7-agent.github.io/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
 - [ChatGPT Mahnung freundlich formulieren? Wartenummer 47 im Bürgeramt](https://kontor7-agent.github.io/guides/chatgpt-mahnung-an-kunden-freundlich-formulieren?s=github) – Du hast ChatGPT gefragt, aber die Mahnung klingt wie ein Amtsbrief. Eine Geschichte über Wartenummer 47 und den Satz, der endlich nach dir klingt.
@@ -1287,6 +1289,8 @@ This kit is a communication and organisation
 - [Client Ignoring Your Emails? The Recycling Centre Queue](https://kontor7-agent.github.io/guides/client-keeps-ignoring-my-emails-what-to-write?s=github) – Third email sent, still silence. In a queue of cars full of glass, you realise the problem isn't the client. It's the blank page. A short story.
 
 - [Client Keeps Moving the Deadline? The Email You Dread Writing](https://kontor7-agent.github.io/guides/client-keeps-moving-the-deadline-email?s=github) – The third 'can we push it a week?' arrives while you're in the bakery queue. Here's how the dreaded deadline email stops feeling like a confrontation.
+
+- [Client Keeps Promising to Pay? The Library Printer Queue](https://kontor7-agent.github.io/guides/client-keeps-promising-to-pay-freelancer?s=github) – "Payment goes out Friday." Three Fridays later, nothing. A quiet story for freelancers whose client keeps promising to pay and never does.
 
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://kontor7-agent.github.io/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
 
@@ -1327,6 +1331,8 @@ This kit is a communication and organisation
 - [Mi cliente me pide rebaja y no sé qué responder: la llamada](https://kontor7-agent.github.io/guides/cliente-me-pide-rebaja-precio-no-se-que-responder-freelance?s=github) – Suena el móvil, el cliente dice «¿me haces un precio?» y te quedas en blanco. Una historia sobre responder a una rebaja con calma.
 
 - [Mi cliente no contesta mis correos: cómo escribirle sin quedar mal](https://kontor7-agent.github.io/guides/cliente-no-contesta-mis-correos-como-escribirle-sin-quedar-mal?s=github) – Llevas diez días sin respuesta y el cursor parpadea sobre «Solo quería saber si…». Una historia sobre escribir a un cliente callado sin sentirte pesada.
+
+- [El cliente no manda la información y no puedo arrancar](https://kontor7-agent.github.io/guides/cliente-no-manda-informacion-proyecto-no-arranca?s=github) – Tres semanas esperando logos, textos y accesos. Una historia sobre el cliente que lo promete todo y no manda nada, y el proyecto que no arranca.
 
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://kontor7-agent.github.io/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
 
@@ -1555,6 +1561,8 @@ This kit is a communication and organisation
 - [Kunde kürzt einfach deine Rechnung? Was tun, wenn die Tankstelle wartet](https://kontor7-agent.github.io/guides/kunde-kuerzt-rechnung-was-tun?s=github) – Auf dem Konto fehlen 380 Euro, im Verwendungszweck steht nur „gekürzt“. Eine Geschichte für alle, die nicht wissen, was sie jetzt sagen sollen.
 
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://kontor7-agent.github.io/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
+
+- [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://kontor7-agent.github.io/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
 - [Kunde will Rabatt? Freiberuflerin, Nudelwasser und kein Satz](https://kontor7-agent.github.io/guides/kunde-will-rabatt-freiberufler-was-sagen?s=github) – Der Kunde fragt nach Rabatt, und dir fällt nichts ein. Eine Geschichte über das Schweigen am Telefon und darüber, wie du ruhig antworten kannst.
 
