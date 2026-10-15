@@ -1216,6 +1216,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Can't Word the Client Email? The Café Table and the Blinking Cursor](https://kontor7-agent.github.io/guides/ai-prompts-for-freelancer-client-emails?s=github) – Wednesday, 2:15 pm: one email to a client, and you've been staring at it for forty minutes. A story for freelancers who dread the awkward messages.
 
+- [Double Billed a Client by Accident? The Monday Phone Call](https://kontor7-agent.github.io/guides/freelancer-double-billed-client-by-accident-how-to-keep-track?s=github) – You sent the same invoice twice and the client noticed first. A quiet story about the sinking feeling, and what a calmer way to keep track feels like.
+
 - [Feeling Behind on Everything as a Freelancer? The School Gate, 3:15](https://kontor7-agent.github.io/guides/freelancer-falling-behind-on-everything?s=github) – You stand at the school gate with forty unread emails and one thought: I'm falling behind on everything. A quiet story about getting the floor back.
 
 - [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://kontor7-agent.github.io/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
@@ -1438,6 +1440,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://kontor7-agent.github.io/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
 
+- [Schwierige Kunden-Mails: Vier Entwürfe am Spielfeldrand](https://kontor7-agent.github.io/guides/schwierige-mails-an-kunden-freelance?s=github) – Vier Entwürfe im Postfach, keiner abgeschickt. Eine Geschichte über schwierige Mails an Kunden, die du ewig vor dir herschiebst – und wie es leichter wird.
+
 - [Scope Creep: Client Keeps Adding Work? The Campsite Bank Holiday](https://kontor7-agent.github.io/guides/scope-creep-client-keeps-adding-work-how-to-push-back?s=github) – One bar of signal on a bank holiday, and the client wants 'just one more thing'. A calm story about scope creep and finding your words to push back.
 
 - [Se acaba 2026 y no tengo plan para 2027 como autónomo: la llamada](https://kontor7-agent.github.io/guides/se-acaba-2026-sin-plan-2027-autonomo?s=github) – Un cliente pregunta por enero y tú no sabes qué responder. Una historia sobre llegar a fin de año sin plan y cómo se siente por fin ver el año que viene.
@@ -1469,6 +1473,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Keep Running Out of Your Best Seller? The Dog Park Shout-Out](https://kontor7-agent.github.io/guides/small-business-keeps-running-out-of-best-selling-product?s=github) – A local shout-out lands, your bestseller is nearly gone, and you're standing in a muddy dog park. A calm story about running out, and what changes after.
 
 - [Admin Drowning Your Small Business? The Van Lunch in the Rain](https://kontor7-agent.github.io/guides/small-business-owner-drowning-in-admin-spreadsheets-everywhere?s=github) – Rain on the windscreen, a sandwich going cold, and six spreadsheets that never agree. A story for small business owners drowning in admin.
+
+- [Shop Keeps Overselling Stock? The Wedding Pew Buzz](https://kontor7-agent.github.io/guides/small-shop-keeps-overselling-items-not-in-stock?s=github) – Your phone buzzes mid-vows: another order for something you no longer have. A calm story for small shop owners tired of overselling and apologising.
 
 - [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://kontor7-agent.github.io/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
 
@@ -1519,6 +1525,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Vendo lo que hago a mano y no sé si pierdo dinero: la fila del correo](https://kontor7-agent.github.io/guides/vendo-productos-hechos-a-mano-no-se-si-pierdo-dinero-con-mis-precios?s=github) – Tres paquetes, una fila en el correo y una duda: ¿gano algo con lo que vendo hecho a mano? Una historia sobre precios, comisiones y calma.
 
 - [Weniger als Mindestlohn als Selbstständige? Die Frage beim Kuchen](https://kontor7-agent.github.io/guides/verdiene-ich-als-selbststaendiger-weniger-als-mindestlohn?s=github) – Sonntag, Geburtstagskaffee, ein Satz vom Schwager – und plötzlich fragst du dich: Verdiene ich als Selbstständige weniger als Mindestlohn?
+
+- [Me da vergüenza pedir un anticipo a un cliente nuevo](https://kontor7-agent.github.io/guides/verguenza-pedir-anticipo-cliente-nuevo-autonomo?s=github) – El cliente nuevo dice «empezamos ya» y tú tienes el correo del anticipo a medio escribir. Una historia sobre cómo pedirlo sin sentir que molestas.
 
 - [Me da vergüenza subir mis tarifas a clientes antiguos](https://kontor7-agent.github.io/guides/verguenza-subir-tarifas-clientes-antiguos-freelance?s=github) – Llevas tres años cobrando lo mismo a Marta y cada vez que abres el correo para avisarla, cierras la pestaña. Una historia sobre subir tarifas sin sudar.
 
