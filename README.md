@@ -1218,6 +1218,8 @@ This kit is a communication and organisation
 
 - [The Night Before Launch: A REST API Security Checklist Story](https://kontor7-agent.github.io/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
+- [Applied to Too Many Jobs? The Unknown Number Call](https://kontor7-agent.github.io/guides/applied-to-so-many-jobs-cant-remember-which-replied?s=github) – An unknown number rings at the self-checkout and you can't place the company. A story about blurred job applications, and the calm that follows.
+
 - [Applied to So Many Jobs? The Family Brunch Question](https://kontor7-agent.github.io/guides/applied-to-so-many-jobs-cant-remember-who-replied?s=github) – Someone asks, 'Have you heard back?' and you can't say which companies you even wrote to. A calm story about job applications and finding your footing.
 
 - [Apunto las horas de mis clientes en el móvil y se me escapan](https://kontor7-agent.github.io/guides/apunto-las-horas-de-mis-clientes-en-el-movil-y-se-me-escapan?s=github) – Estás en el tren, abres las notas del móvil y no recuerdas cuántas horas le dedicaste a ese cliente. Una historia para quien siempre pierde horas sin cobrar.
@@ -1313,6 +1315,8 @@ This kit is a communication and organisation
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://kontor7-agent.github.io/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
 
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://kontor7-agent.github.io/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
+
+- [Mi cliente dice que pagará la semana que viene y no paga](https://kontor7-agent.github.io/guides/cliente-dice-que-pagara-la-semana-que-viene-y-nunca-paga?s=github) – En la cola de la panadería lees otra vez «te pago la semana que viene». Una historia para quien persigue cobros sin sentirse pesado.
 
 - [Mi cliente dice que ya pagó y no me llega el dinero (autónoma)](https://kontor7-agent.github.io/guides/cliente-dice-que-ya-pago-pero-no-me-llega-el-dinero-autonomo?s=github) – Tu cliente jura que ya transfirió y tu cuenta sigue igual. Una mañana de martes, un justificante y la calma de saber qué factura es cuál.
 
@@ -1724,6 +1728,8 @@ This kit is a communication and organisation
 
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://kontor7-agent.github.io/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
 
+- [Server Disk Full From Old Backups? The Hut on the Hill](https://kontor7-agent.github.io/guides/server-disk-full-old-backups?s=github) – Day off, soup on the table, and a phone buzzing: disk full. A story about old backups nobody cleaned up, and what a quiet Monday feels like instead.
+
 - [Server Disk Full Again? Old Log Files and a 7:45 Client Call](https://kontor7-agent.github.io/guides/server-disk-full-old-log-files?s=github) – The disk is full again, and the culprit is months of old log files. A calm story about the Monday it stopped happening, and what changed.
 
 - [Spreadsheets Everywhere? The Monday You Couldn't Find the Number](https://kontor7-agent.github.io/guides/small-business-admin-overwhelmed-spreadsheets-everywhere?s=github) – Eleven tabs, three folders, one question you can't answer. A story for anyone drowning in small business admin and scattered spreadsheets.
@@ -1813,6 +1819,8 @@ This kit is a communication and organisation
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://kontor7-agent.github.io/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
 
 - [Windows Server Logs Filling Up Again? The Sports Day Call](https://kontor7-agent.github.io/guides/windows-server-logs-filling-disk-automate-cleanup?s=github) – Windows server logs filled the disk again, and the call came mid-egg-and-spoon race. A calm story about letting cleanup run itself, quietly, every week.
+
+- [Wo habe ich mich beworben? Der Anruf im Funkloch](https://kontor7-agent.github.io/guides/wo-habe-ich-mich-beworben-bewerbungen-ueberblick?s=github) – Der Anruf kommt im ICE, und du weißt nicht mehr, auf welche Stelle er sich bezieht. Eine Geschichte über Bewerbungen, Überblick und ein ruhigeres Gefühl.
 
 - [Wochenlang nichts auf Instagram gepostet? Die Hundewiese, 16:30](https://kontor7-agent.github.io/guides/wochenlang-nichts-auf-instagram-gepostet-schlechtes-gewissen-selbststa?s=github) – Seit Wochen kein Post, und dann fragt jemand beiläufig nach. Eine Geschichte über das schlechte Gewissen auf Instagram und wie es leiser werden kann.
 
