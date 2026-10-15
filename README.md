@@ -773,28 +773,6 @@ Microsoft Excel. Other spreadsheet apps are untested. No mac
 
 ---
 
-### [Freelancer & Small Business Excel Bundle](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v4)
-
-![Freelancer & Small Business Excel Bundle](images/bundle-freelancer-small-business-excel-v4.png)
-
-All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
-
-All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
-
-Included (9 products, 98 USD if bought separately):
-
-- Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
-- Never Sold Out by Surprise – Inventory & Reorder Tracker (Excel) – Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
-- Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
-- Freelancer Client Email Prompt Pack (60 AI prompts) – 60 copy-paste AI prompts for invoice reminders, price rises, scope creep, no's and more. Placeholders, tone variants, examples. PDF + Markdown.
-- Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel) – Excel receipt log, year-end checklist, deadline tracker and progress bar – end the January receipt scramble. Organisational only.
-- 2027 Freelance Business Planner (Excel) – Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
-- Belege- & Jahresend-Organizer für Selbstständige (Excel) – Excel-Vorlage auf Deutsch: Belegliste, Monats- und Jahresauswertun
-
-**Price:** 59 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v4)**
-
----
-
 ### [Raise Your Lesson Rate Gently – Price-Rise Letter Prompt Pack](https://blixwerk.gumroad.com/l/raise-your-lesson-rate-gently-price-rise-letter-)
 
 ![Raise Your Lesson Rate Gently – Price-Rise Letter Prompt Pack](images/raise-your-lesson-rate-gently-price-rise-letter-.png)
@@ -827,28 +805,6 @@ Excel 2016 or newer, a PDF reader, and any AI chat assistant of your choice (not
 Simple arithmetic for organisat
 
 **Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/raise-your-lesson-rate-gently-price-rise-letter-)**
-
----
-
-### [Developer & Data Automation Bundle](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v3)
-
-![Developer & Data Automation Bundle](images/bundle-developer-data-automation-v3.png)
-
-All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
-
-All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
-
-Included (8 products, 90 USD if bought separately):
-
-- Clean Data in Minutes – CSV & Excel Cleaning Toolkit (Python) – Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
-- Tame Your Downloads Folder – File Organizer & Bulk Renamer Scripts – Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
-- Launch Without the 2 a.m. Doubt – REST API Security Checklist Kit – 58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
-- Quote It Right – Job Quote, Materials & Margin Sheet – Excel quote builder for tradespeople: price jobs on site, track materials and receipts, see real margin and who still owes you.
-- Lessons Taught, Lessons Paid – Lesson Log & Invoice Tracker – Excel lesson log & invoice tracker for private tutors: see who is behind, what late cancellations cost, and when to raise your rate.
-- Know What Each Service Really Earns – Product Cost & Price List Sheet – Excel sheet for solo stylists, nail techs, lash artists & barbers: see what each service earns after colour, time and rent. Plus price list.
-- Price Your Handmade Work Right – Cost, Fees & Profit Calculator – Excel workbook for makers: see cost, fees and profit per product, get a sugg
-
-**Price:** 54 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v3)**
 
 ---
 
@@ -1197,6 +1153,42 @@ Personal and commercial use allowed; no resale or redistribution. It is a paper 
 This product was created with AI assistance by an autonomous AI agent and checked automatically.
 
 **Price:** 8 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/adhd-friendly-planner-printable-pdf)**
+
+---
+
+### [Chase Money Without Begging – Payment Reminder Email Kit & Overdue Tracker](https://blixwerk.gumroad.com/l/payment-reminder-kit-for-freelancers)
+
+![Chase Money Without Begging – Payment Reminder Email Kit & Overdue Tracker](images/payment-reminder-kit-for-freelancers.png)
+
+12 calm reminder emails (English + German), an escalation timeline PDF and an Excel overdue tracker that tells you the next step.
+
+Chasing money feels like begging. This kit makes it routine. You get fixed, ready-to-edit wording for every stage of a late invoice, so you stop putting the message off and stop wondering who still owes you.
+
+What's included
+
+- 12 reminder emails in a calm, professional tone: courtesy heads-up, friendly nudge, day 7, day 14, day 21 with a deadline, day 30 final notice, three emails for agencies that pay 60 days late, plus resend, partial payment and thank-you.
+- English and German versions (Word and plain text for copy and paste).
+- Escalation timeline (PDF, one page) showing which message to send on which day, in English and German.
+- Excel overdue tracker with days-late formulas, a 'next step' column that names the email to send today, a weekly overview with an ageing chart, dropdowns and sample data.
+- One-page quick-start PDF.
+
+Who it is for
+
+Freelancers and solo self-employed people (designers, developers, writers, translators, tutors, coaches) who dread chasing late invoices and don't know what to write.
+
+How to use it
+
+Open the tracker, enter an invoice, see which email number to send, copy that email, replace the [brackets], send, and note the date. Ten minutes a week keeps you on top of it.
+
+Requirements
+
+Microsoft Excel 2013 or newer for the tracker (other spreadsheet programs not tested), Word or any text editor, and a PDF reader.
+
+30-day money-back promise: if it doesn't help, you get a full refund, no questions asked.
+
+This kit is a communication and organisation
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/payment-reminder-kit-for-freelancers)**
 
 ---
 
