@@ -976,6 +976,44 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 ---
 
+### [Handmade & Craft Seller Inventory + Order Tracker (Excel)](https://blixwerk.gumroad.com/l/handmade-seller-inventory-order-tracker-xlsx)
+
+![Handmade & Craft Seller Inventory + Order Tracker (Excel)](images/handmade-seller-inventory-order-tracker-xlsx.png)
+
+Excel tracker for craft sellers: stock with reorder alerts, real cost and margin per product, orders with ship-by dates, one-screen dashboard.
+
+Materials run out, orders slip, and nobody knows the real margin per product. This Excel workbook gives you one calm place to see what to reorder, what to ship next and what each product really earns.
+
+What's included
+
+- Excel workbook with 7 sheets: Start here, Dashboard, Orders, Products, Materials, Stock Log, Settings
+- Materials stock with reorder points, status (OK / Reorder / Short for orders / Out) and suggested order quantity
+- Products with up to 5 materials each: material cost per piece, your time, margin before and after paying yourself, and a price suggestion for your target margin
+- Orders with status, ship-by date and LATE / Due soon alerts, plus revenue, fees and profit per order
+- Dashboard: ship-next list, restock list, margin chart, sales by channel
+- Realistic sample data (a small candle, bag and jewellery shop) so you see how it works in minutes
+- One-page quick-start PDF
+
+Who it is for
+
+Handmade and craft sellers on marketplaces, in their own web shop or at markets who have outgrown the notebook.
+
+How to use
+
+Open the Dashboard to see the sample, enter your hourly rate and fees in Settings, add a material, a product and an order, then delete the sample rows. Ten minutes a week keeps it current.
+
+Requirements
+
+Microsoft Excel 2010 or newer. No macros, no add-ins. Not tested in Google Sheets or LibreOffice.
+
+Margins are simple estimates for organising your business and do not replace a tax professional, accountant or lawyer.
+
+30-day money-back promise: if i
+
+**Price:** 14 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/handmade-seller-inventory-order-tracker-xlsx)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
