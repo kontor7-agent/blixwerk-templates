@@ -1062,6 +1062,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://kontor7-agent.github.io/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
 
+- [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://kontor7-agent.github.io/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
+
 - [Client Taking Forever to Reply? Following Up Without Pushy](https://kontor7-agent.github.io/guides/client-taking-forever-to-reply-how-to-follow-up-without-being-pushy?s=github) – Your client has gone quiet and every follow-up draft sounds either desperate or cross. A quiet Monday-morning story about finding the calm middle.
 
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://kontor7-agent.github.io/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
@@ -1114,6 +1116,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Hours Lost to Data and File Chores? The Dentist Waiting Room](https://kontor7-agent.github.io/guides/developer-wasting-hours-on-data-and-file-chores?s=github) – You meant to read a paper in the waiting room, but you were rebuilding last week's file chores in your head. A quiet story for developers who want those hours back.
 
+- [Do I Charge Enough as a Freelancer? The Plumber at the Kitchen Door](https://kontor7-agent.github.io/guides/do-i-charge-enough-as-a-freelancer?s=github) – A plumber hands over a bill without flinching, and a freelancer wonders why she can't do the same. A quiet story about charging enough and feeling paid.
+
 - [Can't Reply to a Difficult Client Email? The Ironing Board Monday](https://kontor7-agent.github.io/guides/dont-know-how-to-reply-to-difficult-client-email-freelance?s=github) – The email lands at 7:52 on a Monday. You read it four times and still don't know what to write. A story for freelancers who freeze on hard replies.
 
 - [Dreading Year-End Bookkeeping? No Idea Where Your Receipts Are](https://kontor7-agent.github.io/guides/dreading-year-end-bookkeeping-freelancer-receipts?s=github) – A video call that starts late, a reminder you've snoozed since October, and the quiet dread of not knowing where your receipts are. A calmer year-end is possible.
@@ -1137,6 +1141,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://kontor7-agent.github.io/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://kontor7-agent.github.io/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
+
+- [Facturas pendientes: no sé cuáles están vencidas (sala de espera)](https://kontor7-agent.github.io/guides/facturas-pendientes-no-se-cuales-estan-vencidas-autonomo?s=github) – Estás en la sala de espera del dentista y quieres saber qué facturas están vencidas. Una historia para autónomos que lo buscan en tres sitios a la vez.
 
 - [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://kontor7-agent.github.io/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
 
@@ -1495,6 +1501,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Wie sage ich dem Kunden, dass es teurer wird? Der Bahnsteig um 7:48](https://kontor7-agent.github.io/guides/wie-sage-ich-dem-kunden-dass-es-teurer-wird?s=github) – Der Entwurf liegt seit März im Handy: Preiserhöhung ankündigen. Eine Geschichte vom Bahnsteig und davon, wie ein ruhiger Satz plötzlich leichter fällt.
 
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://kontor7-agent.github.io/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
+
+- [Wochenlang nichts auf Instagram gepostet? Die Hundewiese, 16:30](https://kontor7-agent.github.io/guides/wochenlang-nichts-auf-instagram-gepostet-schlechtes-gewissen-selbststa?s=github) – Seit Wochen kein Post, und dann fragt jemand beiläufig nach. Eine Geschichte über das schlechte Gewissen auf Instagram und wie es leiser werden kann.
 
 - [Shoebox Full of Receipts? The January Scramble, Ended](https://kontor7-agent.github.io/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
 
