@@ -1102,6 +1102,66 @@ Included (10 products, 112 USD if bought separately):
 
 ---
 
+### [Job Search Tracker & Interview Prep Workbook (Excel)](https://blixwerk.gumroad.com/l/job-search-tracker-excel)
+
+![Job Search Tracker & Interview Prep Workbook (Excel)](images/job-search-tracker-excel.png)
+
+Track every application, get follow-up reminders, and prep interviews with a question bank and STAR stories. Excel workbook.
+
+Know where every application stands, and never miss a follow-up. One Excel workbook for your whole job search, so opportunities stop slipping through emails and browser tabs.
+
+What's included
+
+- Application pipeline (500 rows) with colour-coded status dropdowns
+- Follow-up date and reminder column that calculate themselves (Overdue / Due today / In n days)
+- Contacts list and networking log with their own reminders
+- Interview question bank (40 questions) with prep status and answer notes
+- STAR stories sheet with two worked examples, plus an interview log
+- Dashboard: applications sent, response rate, interview rate, offer rate, follow-ups due, status chart
+- Start-here instructions, one-page quick-start PDF, realistic sample data
+
+Who it is for
+
+Job seekers and career changers who want a calm overview instead of a pile of tabs.
+
+How to use
+
+Open the file, overwrite the first sample row with a real job, pick the status from the dropdown and watch the reminder and dashboard fill in. Then spend ten minutes a week on follow-ups and interview practice.
+
+Requirements
+
+Microsoft Excel 2016 or newer. No macros, no internet connection. Other spreadsheet programs are not tested.
+
+Personal and commercial use allowed; no resale or redistribution. It is an organisation tool and does not replace a tax professional, accountant or lawyer, and it does not guarantee any job outcome. 30-day money-back promise: if it does not help, you get a full refund.
+
+This product was created with AI assis
+
+**Price:** 7 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/job-search-tracker-excel)**
+
+---
+
+### [Developer & Data Automation Bundle](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v4)
+
+![Developer & Data Automation Bundle](images/bundle-developer-data-automation-v4.png)
+
+All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
+
+All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
+
+Included (15 products, 167 USD if bought separately):
+
+- Clean Data in Minutes – CSV & Excel Cleaning Toolkit (Python) – Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
+- Tame Your Downloads Folder – File Organizer & Bulk Renamer Scripts – Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
+- Launch Without the 2 a.m. Doubt – REST API Security Checklist Kit – 58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
+- Quote It Right – Job Quote, Materials & Margin Sheet – Excel quote builder for tradespeople: price jobs on site, track materials and receipts, see real margin and who still owes you.
+- Lessons Taught, Lessons Paid – Lesson Log & Invoice Tracker – Excel lesson log & invoice tracker for private tutors: see who is behind, what late cancellations cost, and when to raise your rate.
+- Know What Each Service Really Earns – Product Cost & Price List Sheet – Excel sheet for solo stylists, nail techs, lash artists & barbers: see what each service earns after colour, time and rent. Plus price list.
+- Price Your Handmade Work Right – Cost, Fees & Profit Calculator – Excel workbook for makers: see cost, fees and profit per product, get a su
+
+**Price:** 100 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v4)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1152,9 +1212,13 @@ Included (10 products, 112 USD if bought separately):
 
 - [One Folder for Freelance Excel Trackers? The Garage Forecourt](https://kontor7-agent.github.io/guides/freelance-excel-trackers-in-one-download?s=github) – Wednesday, 11:20, a garage forecourt, and a client asking what is outstanding. A story about too many files and the calm of having one place.
 
+- [Excel Trackers Scattered? The Climbing Gym Café Lunch](https://kontor7-agent.github.io/guides/excel-trackers-for-freelancers-in-one-download?s=github) – Invoices in one file, hours in another, quotes somewhere else. A quiet lunch story about what changes when your freelance Excel trackers live in one place.
+
 - [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://kontor7-agent.github.io/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
 
 - [Burned Out on Repetitive Work as a Developer? The Stand-Up Fog](https://kontor7-agent.github.io/guides/burned-out-repetitive-tasks-developer?s=github) – Fourth rename of the same file this week? A developer's quiet burnout over manual tasks, and what a calmer Monday could feel like.
+
+- [No Planner Fits Your Freelance Year? The Stationery Aisle](https://kontor7-agent.github.io/guides/printable-freelancer-planner-2027?s=github) – Three diaries in your hands, none made for freelancers. A short story about finding one calm place for your year, your clients and your invoices.
 
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
