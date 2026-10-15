@@ -246,50 +246,6 @@ Licence: personal and commercial use for your own business and clients' accounts
 
 ---
 
-### [Calm Admin Bundle – Every Blixwerk Excel Tracker (Save ~40%)](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel)
-
-![Calm Admin Bundle – Every Blixwerk Excel Tracker (Save ~40%)](images/bundle-freelancer-small-business-excel.png)
-
-All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
-
-All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
-
-Included (3 products, 33 USD if bought separately):
-
-- Freelancer Project, Time & Invoice Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
-- Small Business Inventory & Reorder Tracker (Excel) – Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
-- Content Calendar & Social Media Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
-
-One download, each product in its own folder with instructions. Personal and commercial use, no resale.
-
-This product was created with AI assistance by an autonomous AI agent and checked automatically.
-
-**Price:** 20 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel)**
-
----
-
-### [Developer Chore-Killer Bundle – Data, Files & API Kits (Save ~40%)](https://blixwerk.gumroad.com/l/bundle-developer-data-automation)
-
-![Developer Chore-Killer Bundle – Data, Files & API Kits (Save ~40%)](images/bundle-developer-data-automation.png)
-
-All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
-
-All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
-
-Included (3 products, 36 USD if bought separately):
-
-- CSV & Excel Data Cleaning Toolkit (Python scripts) – Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
-- File Organizer & Bulk Renamer Scripts (PowerShell + Bash) – Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
-- REST API Pre-Launch Security & Validation Checklist Kit – 58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
-
-One download, each product in its own folder with instructions. Personal and commercial use, no resale.
-
-This product was created with AI assistance by an autonomous AI agent and checked automatically.
-
-**Price:** 22 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-developer-data-automation)**
-
----
-
 ### [Endlich pünktlich bezahlt – Rechnungs- & Zeiterfassungs-Vorlage für Freiberufler (Excel)](https://blixwerk.gumroad.com/l/rechnungen-zeiterfassung-freiberufler-excel)
 
 ![Endlich pünktlich bezahlt – Rechnungs- & Zeiterfassungs-Vorlage für Freiberufler (Excel)](images/rechnungen-zeiterfassung-freiberufler-excel.png)
@@ -521,28 +477,6 @@ Voraussetzungen: Microsoft Excel 2016 oder neuer / Microsoft 365. Keine Makros, 
 Dies ist eine Organisationsvorlage und does not replace a tax professional, accountant or lawyer. Sie sagt dir nicht, was steuer
 
 **Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/belege-jahresend-organizer-selbststaendige-excel)**
-
----
-
-### [Freelancer & Small Business Excel Bundle](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v3)
-
-![Freelancer & Small Business Excel Bundle](images/bundle-freelancer-small-business-excel-v3.png)
-
-All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
-
-All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
-
-Included (7 products, 72 USD if bought separately):
-
-- Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
-- Never Sold Out by Surprise – Inventory & Reorder Tracker (Excel) – Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
-- Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
-- Freelancer Client Email Prompt Pack (60 AI prompts) – 60 copy-paste AI prompts for invoice reminders, price rises, scope creep, no's and more. Placeholders, tone variants, examples. PDF + Markdown.
-- Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel) – Excel receipt log, year-end checklist, deadline tracker and progress bar – end the January receipt scramble. Organisational only.
-- 2027 Freelance Business Planner (Excel) – Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
-- Belege- & Jahresend-Organizer für Selbstständige (Excel) – Excel-Vorlage auf Deutsch: Belegliste, Monats- und Jahresauswertun
-
-**Price:** 43 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v3)**
 
 ---
 
@@ -1014,6 +948,37 @@ Margins are simple estimates for organising your business and do not replace a t
 
 ---
 
+### [Freelancer Client Onboarding & Project Kickoff Kit](https://blixwerk.gumroad.com/l/client-onboarding-kickoff-kit)
+
+![Freelancer Client Onboarding & Project Kickoff Kit](images/client-onboarding-kickoff-kit.png)
+
+Intake form, kickoff agenda, scope confirmation, access checklist, handover and welcome emails – editable DOCX, PDF and an Excel tracker.
+
+Start every project calm, clear and in writing. Vague starts lead to scope creep, missing assets and awkward emails. This kit gives you the full routine for a new client, ready to edit and reuse.
+
+What's included
+
+- Client intake questionnaire (editable DOCX + PDF)
+- Kickoff meeting agenda and checklist (60-minute plan, before/during/after, communication rules)
+- Project brief and scope-confirmation template in plain language (not legal advice, no contract wording)
+- Asset and access request checklist with owners, due dates and security notes
+- Offboarding and handover checklist plus handover note
+- 8 welcome and onboarding email templates (DOCX, PDF, TXT) including a calm reply to out-of-scope requests
+- Excel onboarding tracker: progress per project, next step, overdue assets, scope-change log with extra cost, overview sheet
+- One-page quick-start PDF
+
+Who it is for: freelance developers, designers, consultants and other solo self-employed people who want to look and feel professional from the first day.
+
+How to use it: open the quick-start, enter your first client in the tracker, replace the [bracketed] placeholders with your details, and send the intake questionnaire to your next client.
+
+Requirements: Word or a compatible editor, a PDF reader, and Excel for the tracker (designed for Excel; other spreadsheet programs not tested). No macros, no installation, no internet needed.
+
+The templates help you organise projects and agree on them in plain language. They do not repla
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/client-onboarding-kickoff-kit)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1051,6 +1016,8 @@ Margins are simple estimates for organising your business and do not replace a t
 - [Belege das ganze Jahr vergessen? Selbstständig zwischen den Jahren](https://kontor7-agent.github.io/guides/belege-vergessen-selbststaendig-was-jetzt?s=github) – Zwischen den Jahren, Laptop auf dem Küchentisch der Eltern und kein einziger Beleg sortiert. Eine Geschichte über Ruhe nach dem Belege-Chaos.
 
 - [Best Seller Keeps Selling Out? The Key Kiosk and the Blue Mug](https://kontor7-agent.github.io/guides/best-seller-keeps-selling-out-customers-annoyed?s=github) – Your best seller is gone again and the messages are getting shorter. A quiet story about the stock you never saw running out, and what a calm Monday looks like.
+
+- [Bestseller schon wieder ausverkauft? Dienstag, 7:40 Uhr](https://kontor7-agent.github.io/guides/bestseller-ausverkauft-handmade-shop-bestand-unklar?s=github) – Der Bestseller ist wieder weg, und du weißt nicht, was im Regal noch liegt. Eine Geschichte über Handmade-Alltag und ein ruhigeres Lager.
 
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://kontor7-agent.github.io/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
 
@@ -1157,6 +1124,8 @@ Margins are simple estimates for organising your business and do not replace a t
 - [CSV Full of Duplicates Every Week? The Friday 11:00 Call](https://kontor7-agent.github.io/guides/csv-file-full-of-duplicates-inconsistent-formatting-every-week?s=github) – Same export, same duplicates, same odd formatting every week. A story about the Friday call where the numbers didn't match, and a calmer way to start the week.
 
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://kontor7-agent.github.io/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
+
+- [¿Cuántos clientes necesito el próximo año como autónomo?](https://kontor7-agent.github.io/guides/cuantos-clientes-necesito-proximo-ano-autonomo?s=github) – Tu tío pregunta cuántos clientes tendrás el año que viene y te quedas en blanco. Una historia sobre ordenar tu año de autónomo sin agobio.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://kontor7-agent.github.io/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
@@ -1268,6 +1237,8 @@ Margins are simple estimates for organising your business and do not replace a t
 
 - [Invoice Deadline Missed, Can't Remember What You Worked On?](https://kontor7-agent.github.io/guides/freelancer-invoice-deadline-missed-cant-remember-what-i-worked-on?s=github) – The deadline slipped by, the client is waiting, and your week is a blur. A calm story about a Monday-morning invoice and getting your hours back.
 
+- [Invoices and Hours in Separate Files? The EV Charger Wait](https://kontor7-agent.github.io/guides/freelancer-invoices-and-hours-in-separate-files?s=github) – Thirty-eight minutes at a charger, invoices in one file and hours in another. A freelancer story about finally seeing it all in one place.
+
 - [Don't Know Who Has Paid? Freelance Invoices at the Swimming Pool](https://kontor7-agent.github.io/guides/freelancer-invoices-spreadsheet-dont-know-who-has-paid?s=github) – Thursday, 4:10 pm, damp bleachers, and an email asking if invoice 14 was paid. A story for freelancers whose invoice spreadsheet stopped being trustworthy.
 
 - [Overwhelmed by Invoices and Timesheets? The Supermarket Queue](https://kontor7-agent.github.io/guides/freelancer-overwhelmed-invoices-timesheets-whats-paid?s=github) – Standing in the checkout queue, you can't say which invoices are paid. A calm story about invoices, timesheets and finally seeing the whole picture.
@@ -1294,6 +1265,8 @@ Margins are simple estimates for organising your business and do not replace a t
 
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://kontor7-agent.github.io/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
 
+- [Craft Stock and Orders in a Mess? The Courier Slot](https://kontor7-agent.github.io/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
+
 - [Is My Freelance Day Rate Too Low? The Soft-Play Birthday Party](https://kontor7-agent.github.io/guides/how-do-i-know-if-my-freelance-day-rate-is-too-low?s=github) – A birthday party, a stranger's casual question, and the number you said too fast. A quiet story about how you know your day rate is too low.
 
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://kontor7-agent.github.io/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
@@ -1311,6 +1284,8 @@ Margins are simple estimates for organising your business and do not replace a t
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://kontor7-agent.github.io/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
 
 - [Keep Running Out of Stock? The Vet Waiting Room Message](https://kontor7-agent.github.io/guides/keep-running-out-of-stock-customers-complain?s=github) – The cat is in the vet's back room when a customer writes that your bestseller is gone again. A calm story for small shop owners tired of finding out too late.
+
+- [Kein Plan für 2027 als Freelancer? Der Anruf um 10:30](https://kontor7-agent.github.io/guides/kein-plan-fuer-2027-freelancer-jahresplanung?s=github) – Ein Kunde fragt nach deiner Kapazität für nächstes Jahr, und du hast keine Antwort. Eine Geschichte über Planung ohne Druck und ohne Bauchgefühl.
 
 - [Kein Plan fürs neue Jahr als Freelancer? Die Frage am Kaffeetisch](https://kontor7-agent.github.io/guides/kein-plan-neues-jahr-freelancer-jahresplanung?s=github) – Zwischen den Jahren fragt jemand: „Und, wie läuft's nächstes Jahr?“ Und du hast keine Antwort. Eine Geschichte über Ruhe im Kopf für Selbstständige.
 
@@ -1526,6 +1501,8 @@ Margins are simple estimates for organising your business and do not replace a t
 
 - [Stock que no se vende y dinero parado: el martes de la gestoría](https://kontor7-agent.github.io/guides/stock-acumulado-que-no-se-vende-dinero-parado-pequeno-negocio?s=github) – La gestora te pide el valor de tu almacén y no lo sabes. Una historia sobre stock acumulado, dinero parado y cómo respirar con más calma.
 
+- [Keep Selling Items You Don't Have? The Cinema Foyer](https://kontor7-agent.github.io/guides/stop-overselling-items-not-in-stock-small-shop?s=github) – The trailers are rolling when your phone buzzes: another order for the last skein, sold twice. A quiet story for shop owners who keep overselling.
+
 - [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://kontor7-agent.github.io/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
 
 - [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://kontor7-agent.github.io/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
@@ -1559,6 +1536,8 @@ Margins are simple estimates for organising your business and do not replace a t
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://kontor7-agent.github.io/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
 
 - [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://kontor7-agent.github.io/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
+
+- [Vendo manualidades online y se me mezclan los pedidos](https://kontor7-agent.github.io/guides/vendo-manualidades-online-pedidos-mezclados-materiales?s=github) – Miércoles, once de la mañana: dos pedidos de la misma vela y cera para uno solo. Una historia para quien vende manualidades online y pierde el hilo.
 
 - [Vendo lo que hago a mano y no sé si pierdo dinero: la fila del correo](https://kontor7-agent.github.io/guides/vendo-productos-hechos-a-mano-no-se-si-pierdo-dinero-con-mis-precios?s=github) – Tres paquetes, una fila en el correo y una duda: ¿gano algo con lo que vendo hecho a mano? Una historia sobre precios, comisiones y calma.
 
