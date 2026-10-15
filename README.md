@@ -1218,6 +1218,8 @@ This kit is a communication and organisation
 
 - [The Night Before Launch: A REST API Security Checklist Story](https://kontor7-agent.github.io/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
+- [Applied to So Many Jobs? The Family Brunch Question](https://kontor7-agent.github.io/guides/applied-to-so-many-jobs-cant-remember-who-replied?s=github) – Someone asks, 'Have you heard back?' and you can't say which companies you even wrote to. A calm story about job applications and finding your footing.
+
 - [Apunto las horas de mis clientes en el móvil y se me escapan](https://kontor7-agent.github.io/guides/apunto-las-horas-de-mis-clientes-en-el-movil-y-se-me-escapan?s=github) – Estás en el tren, abres las notas del móvil y no recuerdas cuántas horas le dedicaste a ese cliente. Una historia para quien siempre pierde horas sin cobrar.
 
 - [Auftrag ablehnen ohne schlechtes Gewissen? Die Mail um 8:50 Uhr](https://kontor7-agent.github.io/guides/auftrag-ablehnen-ohne-schlechtes-gewissen-freiberufler?s=github) – Die Anfrage klingt gut, der Preis nicht, die Woche ist voll. Eine Geschichte darüber, wie ein Nein sich anfühlen kann, ohne dass du dich dafür rechtfertigst.
@@ -1235,6 +1237,8 @@ This kit is a communication and organisation
 - [Best Seller Keeps Selling Out? The Key Kiosk and the Blue Mug](https://kontor7-agent.github.io/guides/best-seller-keeps-selling-out-customers-annoyed?s=github) – Your best seller is gone again and the messages are getting shorter. A quiet story about the stock you never saw running out, and what a calm Monday looks like.
 
 - [Bestseller schon wieder ausverkauft? Dienstag, 7:40 Uhr](https://kontor7-agent.github.io/guides/bestseller-ausverkauft-handmade-shop-bestand-unklar?s=github) – Der Bestseller ist wieder weg, und du weißt nicht, was im Regal noch liegt. Eine Geschichte über Handmade-Alltag und ein ruhigeres Lager.
+
+- [Bewerbungen im Überblick behalten? Der Anruf an der Ampel](https://kontor7-agent.github.io/guides/bewerbungen-ueberblick-behalten-excel?s=github) – Du hast dich so oft beworben, dass du nicht mehr weißt, wo. Eine Geschichte über einen Anruf an der Ampel und wie wieder Ruhe in dein Bewerben kommt.
 
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://kontor7-agent.github.io/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
 
@@ -1379,6 +1383,8 @@ This kit is a communication and organisation
 - [Envié el presupuesto y el cliente no responde: ¿le escribo otra vez?](https://kontor7-agent.github.io/guides/envie-el-presupuesto-y-el-cliente-no-responde?s=github) – Nueve días sin respuesta a tu presupuesto y la duda en la sala de espera: ¿escribo otra vez o parezco pesado? Una historia para quien se reconoce.
 
 - [Erste Rechnung als Freiberufler: Mache ich was falsch?](https://kontor7-agent.github.io/guides/erste-rechnung-freiberufler-angst-fehler?s=github) – Donnerstag, 14:32 Uhr, Gleis 4: Der Zug hat Verspätung, die erste Rechnung liegt fertig da, und du traust dich nicht, auf Senden zu drücken.
+
+- [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://kontor7-agent.github.io/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://kontor7-agent.github.io/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
 
@@ -1564,6 +1570,8 @@ This kit is a communication and organisation
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://kontor7-agent.github.io/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
 
+- [Mandé muchos currículums y no sé quién me ha respondido](https://kontor7-agent.github.io/guides/mande-muchos-curriculums-no-se-quien-me-ha-respondido?s=github) – Te llaman de un número desconocido y no sabes a qué empresa mandaste el currículum. Una historia sobre ordenar tu búsqueda de empleo sin agobio.
+
 - [Handmade Profit Per Product? The Custom Quote at a Market Stall](https://kontor7-agent.github.io/guides/handmade-profit-per-product-market-stall-custom-quote?s=github) – A customer asks for twelve custom mugs and you quote from your head. A market-day story about true profit, cash float and stock, and the calm after.
 
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://kontor7-agent.github.io/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
@@ -1617,6 +1625,8 @@ This kit is a communication and organisation
 - [I Keep Overselling and Disappointing Customers: The Candle Fair](https://kontor7-agent.github.io/guides/overselling-products-small-shop-disappointing-customers?s=github) – Sorry, that one's gone. You typed it again. A small-shop story about overselling, apologies, and the calm of knowing what's really on your shelf.
 
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://kontor7-agent.github.io/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
+
+- [Chasing Late Payment Feels Like Begging? The Gate at 7:40](https://kontor7-agent.github.io/guides/how-to-chase-late-payment-without-feeling-pushy?s=github) – You're standing at the school gate, thumb over 'send', and the reminder still isn't written. A quiet story about chasing money without feeling like you're begging.
 
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://kontor7-agent.github.io/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
@@ -1690,6 +1700,8 @@ This kit is a communication and organisation
 
 - [Se acaba 2026 y no tengo plan para 2027 como autónomo: la llamada](https://kontor7-agent.github.io/guides/se-acaba-2026-sin-plan-2027-autonomo?s=github) – Un cliente pregunta por enero y tú no sabes qué responder. Una historia sobre llegar a fin de año sin plan y cómo se siente por fin ver el año que viene.
 
+- [Se me borró la carpeta del trabajo: sin copia, un martes](https://kontor7-agent.github.io/guides/se-me-borro-la-carpeta-del-trabajo-sin-copia-de-seguridad?s=github) – Martes, 9:10: la carpeta del cliente ya no está y no hay copia de seguridad. Una historia sobre ese vacío en el estómago y la calma que llega después.
+
 - [Se me olvidó facturar a un cliente y han pasado semanas](https://kontor7-agent.github.io/guides/se-me-olvido-facturar-a-un-cliente-semanas?s=github) – Ves tus fotos en las redes de un cliente y te das cuenta: nunca le enviaste la factura. Una historia sobre el despiste y cómo se vuelve a respirar.
 
 - [Se me olvidó facturar a un cliente y ya pasó un mes: la llamada](https://kontor7-agent.github.io/guides/se-me-olvido-facturar-a-un-cliente-y-ya-paso-un-mes?s=github) – Una llamada de martes, una pregunta sencilla y un mes de trabajo sin facturar. Para quien se olvidó de cobrar y no sabe cómo decirlo.
@@ -1707,6 +1719,8 @@ This kit is a communication and organisation
 - [Self-Employed Hairdresser, No Idea What You Earn After Chair Rent?](https://kontor7-agent.github.io/guides/self-employed-hairdresser-earnings-after-chair-rent?s=github) – The rent leaves your account on the 1st and you still can't say what's actually yours. A quiet story for chair-renting stylists.
 
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://kontor7-agent.github.io/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
+
+- [Server Disk Full Again? Old Log Files and a 7:45 Client Call](https://kontor7-agent.github.io/guides/server-disk-full-old-log-files?s=github) – The disk is full again, and the culprit is months of old log files. A calm story about the Monday it stopped happening, and what changed.
 
 - [Spreadsheets Everywhere? The Monday You Couldn't Find the Number](https://kontor7-agent.github.io/guides/small-business-admin-overwhelmed-spreadsheets-everywhere?s=github) – Eleven tabs, three folders, one question you can't answer. A story for anyone drowning in small business admin and scattered spreadsheets.
 
