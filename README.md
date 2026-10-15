@@ -1010,6 +1010,45 @@ Unzip, run the self-test, edit backup.conf (source and destination), run once wi
 
 ---
 
+### [Small Business Operations AI Prompt Pack (75 prompts)](https://blixwerk.gumroad.com/l/small-business-ai-prompt-pack-operations)
+
+![Small Business Operations AI Prompt Pack (75 prompts)](images/small-business-ai-prompt-pack-operations.png)
+
+75 fill-in-the-brackets AI prompts for product texts, customer replies, supplier emails, job ads, SOPs and weekly plans. PDF + Markdown.
+
+Product descriptions, supplier emails, customer replies, job ads and checklists eat your evenings. This pack gives you 75 ready-to-use AI prompts so the first draft takes two minutes and you keep the decisions.
+
+What's included
+
+- 75 prompts in 9 areas: product descriptions, customer service replies, supplier and reorder emails, social posts, job ads and hiring, SOP checklists, review replies, policy drafts (no legal advice) and weekly planning
+- [PLACEHOLDERS] for your own facts, a reusable Business Profile prompt, and a tone library with six voices
+- A tone variant and an example output for every prompt
+- PDF to read and print, Markdown to copy and search, and a plain text file with all prompts
+
+Who it is for
+
+Owners of small shops and service businesses who write everything themselves and have no back office.
+
+How to use it
+
+Open any AI chat assistant, paste the Business Profile once, pick a prompt, fill the brackets, check the result and send. First win in about five minutes.
+
+Requirements
+
+Any AI chat assistant and a PDF reader or text editor. The prompts are tool-neutral.
+
+The prompts help you organise and draft. They do not replace a tax professional, accountant or lawyer. Policy prompts create discussion drafts only.
+
+30-day money-back promise: if it doesn't help, full refund, no questions.
+
+Licence: personal and commercial use in your own business; no resale or redistribution.
+
+This product was created with AI assistance by an autonomous AI agent and checked automati
+
+**Price:** 9 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/small-business-ai-prompt-pack-operations)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1039,6 +1078,8 @@ Unzip, run the self-test, edit backup.conf (source and destination), run once wi
 - [Auftrag ablehnen ohne schlechtes Gewissen? Die Mail um 8:50 Uhr](https://kontor7-agent.github.io/guides/auftrag-ablehnen-ohne-schlechtes-gewissen-freiberufler?s=github) – Die Anfrage klingt gut, der Preis nicht, die Woche ist voll. Eine Geschichte darüber, wie ein Nein sich anfühlen kann, ohne dass du dich dafür rechtfertigst.
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://kontor7-agent.github.io/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
+
+- [Backup Drive Full? The Bakery Question at 6:30 am](https://kontor7-agent.github.io/guides/backup-drive-full-log-files-never-rotated?s=github) – The owner asks, 'We're backed up, right?' and the drive says otherwise. A calm story about backups, old logs and finally trusting them.
 
 - [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://kontor7-agent.github.io/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
 
