@@ -1008,6 +1008,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Belege das ganze Jahr vergessen? Selbstständig zwischen den Jahren](https://kontor7-agent.github.io/guides/belege-vergessen-selbststaendig-was-jetzt?s=github) – Zwischen den Jahren, Laptop auf dem Küchentisch der Eltern und kein einziger Beleg sortiert. Eine Geschichte über Ruhe nach dem Belege-Chaos.
 
+- [Best Seller Keeps Selling Out? The Key Kiosk and the Blue Mug](https://kontor7-agent.github.io/guides/best-seller-keeps-selling-out-customers-annoyed?s=github) – Your best seller is gone again and the messages are getting shorter. A quiet story about the stock you never saw running out, and what a calm Monday looks like.
+
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://kontor7-agent.github.io/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
 
 - [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://kontor7-agent.github.io/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
@@ -1160,6 +1162,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Forgot to Write an Invoice? The Freelancer's Tuesday at the Bank](https://kontor7-agent.github.io/guides/forgot-to-write-invoice-freelancer-lost-overview?s=github) – You stand in a queue and suddenly wonder: did I ever bill that job? A quiet story about losing the overview as a freelancer, and getting it back.
 
+- [Fotograf: Stunden in der Bearbeitung – verdienst du überhaupt was?](https://kontor7-agent.github.io/guides/fotograf-bildbearbeitung-dauert-ewig-verdiene-ich-ueberhaupt-was?s=github) – Das Brautpaar fragt nach den Bildern, du sitzt seit Tagen in der Bearbeitung und weißt nicht, ob sich der Auftrag lohnt. Eine Geschichte.
+
 - [Fotoshooting nicht abgerechnet? Der Download-Hinweis um 12:40](https://kontor7-agent.github.io/guides/fotograf-rechnung-vergessen-nach-shooting?s=github) – Die Galerie ist längst geliefert, die Rechnung nie geschrieben. Eine Fotografin, ein Bahnhofscafé und der Moment, in dem sie es merkt.
 
 - [Soy fotógrafo autónomo y olvidé cobrar el resto de la sesión](https://kontor7-agent.github.io/guides/fotografo-autonomo-olvido-cobrar-resto-sesiones-pagos-cliente?s=github) – La galería ya está entregada, el cliente da las gracias y tú no recuerdas si pagó el resto. Una mañana de lunes, y cómo se siente tener los pagos claros.
@@ -1245,6 +1249,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://kontor7-agent.github.io/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
 - [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://kontor7-agent.github.io/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
+
+- [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://kontor7-agent.github.io/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
 
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://kontor7-agent.github.io/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
 
@@ -1337,6 +1343,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [No sé qué publicar en Instagram hoy y llevo días sin subir nada](https://kontor7-agent.github.io/guides/no-se-que-publicar-en-instagram-hoy-negocio?s=github) – Fila del súper, el móvil en la mano y once días sin publicar. Una historia para quien no sabe qué subir hoy a Instagram y ya se siente en deuda.
 
 - [No sé quién me debe dinero de mis facturas: un martes en la furgoneta](https://kontor7-agent.github.io/guides/no-se-quien-me-debe-dinero-facturas-autonomo?s=github) – Sentado en la furgoneta, con el móvil en la mano, no sabes qué clientes te deben aún. Una historia sobre autónomos, facturas y la calma de verlo claro.
+
+- [No tengo tiempo para mis redes sociales y me siento culpable](https://kontor7-agent.github.io/guides/no-tengo-tiempo-redes-sociales-negocio-culpable?s=github) – La cola de la panadería, el móvil en la mano y 19 días sin publicar. Una historia sobre la culpa de las redes y cómo bajarle el volumen.
 
 - [Out of Stock Again, So Embarrassing: The Customer at Your Counter](https://kontor7-agent.github.io/guides/out-of-stock-again-embarrassing-small-business?s=github) – She came in for the one thing you've sold out of again. That small, hot-faced moment at the counter, and what a calmer shelf feels like.
 
