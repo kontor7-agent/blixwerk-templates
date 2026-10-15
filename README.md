@@ -979,6 +979,37 @@ The templates help you organise projects and agree on them in plain language. Th
 
 ---
 
+### [Backup & Log Rotation Scripts (PowerShell + Bash)](https://blixwerk.gumroad.com/l/backup-log-rotation-scripts)
+
+![Backup & Log Rotation Scripts (PowerShell + Bash)](images/backup-log-rotation-scripts.png)
+
+Incremental snapshot backups, retention, log rotation and scheduling for Windows and Linux. Dry-run mode and a logfile for every run.
+
+Stop hoping your backups happen and your disk doesn't fill up. Two small, readable tool sets - PowerShell for Windows, Bash for Linux - that back up your folders, expire old copies and compress growing log files. Set it up once, schedule it, and check a logfile instead of worrying.
+
+What's included
+
+- Incremental folder backup (PowerShell + Bash): each run creates a dated snapshot that looks like a full copy; unchanged files are hard-linked, so they cost almost no extra space
+- One simple config file per platform: several sources, exclude patterns, destination, snapshot name
+- Retention policy: keep the last N snapshots and/or the last X days - the newest is never deleted, and nothing is deleted after a run with errors
+- Log rotation and compression: .gz archives, size threshold, copy-truncate or rename method, archive expiry
+- Dry-run mode (nothing is changed) and a logfile for every single run, plus exit codes for monitoring
+- Built-in self-test scripts that prove everything works on your machine in a temporary folder
+- Step-by-step Task Scheduler, cron and systemd timer guide
+- README with restore instructions and a troubleshooting table, plus a 2-page Quick Start PDF
+
+Who it is for
+
+Small-business owners, freelancers, sysadmins and developers who run Windows or Linux machines and want reliable, understandable backup and log cleanup without installing a big backup suite.
+
+How to use
+
+Unzip, run the self-test, edit backup.conf (source and destination), run once with the dry
+
+**Price:** 14 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/backup-log-rotation-scripts)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1058,6 +1089,8 @@ The templates help you organise projects and agree on them in plain language. Th
 - [Client Keeps Moving the Deadline? The Email You Dread Writing](https://kontor7-agent.github.io/guides/client-keeps-moving-the-deadline-email?s=github) – The third 'can we push it a week?' arrives while you're in the bakery queue. Here's how the dreaded deadline email stops feeling like a confrontation.
 
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://kontor7-agent.github.io/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
+
+- [New Client Onboarding Chaos? The Reception Chair at 9:50](https://kontor7-agent.github.io/guides/freelancer-client-onboarding-kickoff-checklist?s=github) – You're in a new client's lobby with the scope scattered across three emails and half the logins missing. A calmer way to begin every project.
 
 - [Client Paid My Invoice, But Which Hours Did It Cover?](https://kontor7-agent.github.io/guides/client-paid-invoice-which-hours-were-covered?s=github) – The payment landed, but you can't tell which hours it covered. A calm story about a Monday-morning bank notification and finally seeing it clearly.
 
@@ -1148,6 +1181,8 @@ The templates help you organise projects and agree on them in plain language. Th
 - [Dreading Year-End Freelance Paperwork? The Hotel Breakfast Reminder](https://kontor7-agent.github.io/guides/dreading-year-end-freelance-paperwork-dont-know-where-to-start?s=github) – A calendar reminder pops up over your hotel coffee: 'Year-end admin.' You feel your stomach drop and have no idea where to start. A short story.
 
 - [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://kontor7-agent.github.io/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
+
+- [Empecé con un cliente sin contrato y todo se desordena](https://kontor7-agent.github.io/guides/empece-con-un-cliente-sin-contrato-condiciones-claras?s=github) – Dijiste que sí con un mensaje rápido y ahora nadie recuerda qué estaba incluido. Una historia sobre empezar bien con un cliente nuevo.
 
 - [Envié el presupuesto y el cliente no responde: ¿le escribo otra vez?](https://kontor7-agent.github.io/guides/envie-el-presupuesto-y-el-cliente-no-responde?s=github) – Nueve días sin respuesta a tu presupuesto y la duda en la sala de espera: ¿escribo otra vez o parezco pesado? Una historia para quien se reconoce.
 
@@ -1298,6 +1333,8 @@ The templates help you organise projects and agree on them in plain language. Th
 - [What Does Each Service Earn? The Nail Tech at the Wholesaler Till](https://kontor7-agent.github.io/guides/what-does-each-service-earn-nail-tech-stylist-price-list?s=github) – The card machine shows 187 euros for gel, foils and tips, and you can't say which service paid for it. A story for solo stylists, nail techs and barbers.
 
 - [Kunde antwortet nicht auf dein Angebot? Der Dienstag im Zug](https://kontor7-agent.github.io/guides/kunde-antwortet-nicht-auf-mein-angebot?s=github) – Das Angebot ist raus, der Posteingang bleibt still. Eine Geschichte über Warten, Zweifeln und den Mut, ruhig und freundlich nachzufragen.
+
+- [Rechnung nie bekommen? Wenn der Kunde das behauptet](https://kontor7-agent.github.io/guides/kunde-behauptet-rechnung-nie-bekommen?s=github) – Der Kunde sagt, er habe deine Rechnung nie bekommen. Du stehst im Freibad, das Handy am Ohr, und weißt nicht mehr genau, wann du sie geschickt hast.
 
 - [Kunde beschwert sich: Wie antworte ich ruhig? Montag, 7:35 Uhr](https://kontor7-agent.github.io/guides/kunde-beschwert-sich-ruhig-und-professionell-antworten?s=github) – Montagmorgen, Kaffee in der Hand, und im Postfach steht „Ich bin enttäuscht“. Eine Geschichte darüber, wie du auf Beschwerden ruhig antwortest.
 
