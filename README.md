@@ -1000,6 +1000,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [The Night Before Launch: A REST API Security Checklist Story](https://kontor7-agent.github.io/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
+- [Apunto las horas de mis clientes en el móvil y se me escapan](https://kontor7-agent.github.io/guides/apunto-las-horas-de-mis-clientes-en-el-movil-y-se-me-escapan?s=github) – Estás en el tren, abres las notas del móvil y no recuerdas cuántas horas le dedicaste a ese cliente. Una historia para quien siempre pierde horas sin cobrar.
+
 - [Auftrag ablehnen ohne schlechtes Gewissen? Die Mail um 8:50 Uhr](https://kontor7-agent.github.io/guides/auftrag-ablehnen-ohne-schlechtes-gewissen-freiberufler?s=github) – Die Anfrage klingt gut, der Preis nicht, die Woche ist voll. Eine Geschichte darüber, wie ein Nein sich anfühlen kann, ohne dass du dich dafür rechtfertigst.
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://kontor7-agent.github.io/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
@@ -1117,6 +1119,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://kontor7-agent.github.io/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://kontor7-agent.github.io/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
+
+- [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://kontor7-agent.github.io/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
 
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://kontor7-agent.github.io/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
 
@@ -1252,6 +1256,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://kontor7-agent.github.io/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
+- [Need More Time on a Client Project? The Bank Holiday Kitchen Table](https://kontor7-agent.github.io/guides/how-to-tell-client-you-need-more-time-on-project?s=github) – The deadline is Friday and the work won't be ready. You're at your parents' kitchen table, rewriting one sentence to a client. A calmer way through.
+
 - [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://kontor7-agent.github.io/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
 
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://kontor7-agent.github.io/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
@@ -1367,6 +1373,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Client Paid a Deposit, Can't Remember What's Still Owed? Photographer](https://kontor7-agent.github.io/guides/photographer-client-paid-deposit-cant-remember-what-is-still-owed?s=github) – A client asks, 'What was left to pay again?' and you can't say. A photographer's Monday morning at the studio door, and the calmer way to start it.
 
 - [Lost Track of Shoots and Deposits? The Photographer's Tuesday Call](https://kontor7-agent.github.io/guides/photographer-client-shoot-deposit-invoice-tracker-excel?s=github) – A client asks where the gallery is while you stand in a car park, unsure. A photographer's story about deposits, deadlines and one calm overview.
+
+- [Forgot the Balance After a Wedding Shoot? The Physio Corridor](https://kontor7-agent.github.io/guides/photographer-forgot-balance-owed-after-wedding-shoot?s=github) – Three months after the wedding, a tagged photo reminds you: the final balance was never chased. A calm story for photographers, and what changes after.
 
 - [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://kontor7-agent.github.io/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
 
