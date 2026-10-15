@@ -1049,6 +1049,59 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ---
 
+### [Calm Year 2027 – Printable Freelancer Planner (A4, Letter & 6x9 book interior)](https://blixwerk.gumroad.com/l/calm-year-planner-2027-printable)
+
+![Calm Year 2027 – Printable Freelancer Planner (A4, Letter & 6x9 book interior)](images/calm-year-planner-2027-printable.png)
+
+Printable 2027 freelancer planner: 12 monthly spreads, 52 weekly pages, client and invoice logs. A4, Letter + 6x9 book interior PDFs.
+
+Start 2027 with a plan for your income, your clients and your time off. Calm Year 2027 is a quiet, minimal paper planner for freelancers and the self-employed who like to plan on paper. Ten minutes a week: know who owes you, what you are aiming for and where your time goes.
+
+What's included
+
+- 3 PDFs: A4, US Letter and a 6x9 inch paperback interior (interior only, no cover)
+- 120+ pages each
+- 2027 at a glance, goals &amp; income target, yearly income and time-off plan
+- 12 monthly spreads: calendar, income target vs received, clients/projects, invoices to send, time off
+- 52 weekly pages: top 3 priorities, daily plan with billable hours, invoices sent/paid, one calm win
+- 4 quarterly reviews and a 2-page year-end review
+- Client tracker, client profiles and an invoice log (264 lines)
+- 20 notes pages (dot grid and lined)
+- Clickable month tabs and navigation links in the A4/Letter files
+- Quick-start page and README
+
+Who it is for: designers, developers, writers, photographers, coaches, consultants and other solo self-employed people who want a calm overview of the year.
+
+How to use it: print at 100%, fill in your goals and income target, then spend 10 minutes on Sunday (priorities, invoices) and 5 minutes on Friday (hours, wins). Or use the A4/Letter PDF on a tablet with a handwriting app.
+
+6x9 book interior: page size 6x9 in, no bleed, inside margin 0.875 in, outside 0.6 in, even page count, black &amp; white friendly. Interior only; you supply the cover. Check your printe
+
+**Price:** 12 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/calm-year-planner-2027-printable)**
+
+---
+
+### [Freelancer & Small Business Excel Bundle](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v5)
+
+![Freelancer & Small Business Excel Bundle](images/bundle-freelancer-small-business-excel-v5.png)
+
+All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
+
+All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
+
+Included (10 products, 112 USD if bought separately):
+
+- Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
+- Never Sold Out by Surprise – Inventory & Reorder Tracker (Excel) – Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
+- Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
+- Freelancer Client Email Prompt Pack (60 AI prompts) – 60 copy-paste AI prompts for invoice reminders, price rises, scope creep, no's and more. Placeholders, tone variants, examples. PDF + Markdown.
+- Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel) – Excel receipt log, year-end checklist, deadline tracker and progress bar – end the January receipt scramble. Organisational only.
+- 2027 Freelance Business Planner (Excel) – Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
+- Belege- & Jahresend-Organizer für Selbstständige (Excel) – Excel-Vorlage auf Deutsch: Belegliste, Monats- und Jahresauswert
+
+**Price:** 67 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v5)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1556,6 +1609,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://kontor7-agent.github.io/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
 
 - [Spreadsheets Everywhere? The Monday You Couldn't Find the Number](https://kontor7-agent.github.io/guides/small-business-admin-overwhelmed-spreadsheets-everywhere?s=github) – Eleven tabs, three folders, one question you can't answer. A story for anyone drowning in small business admin and scattered spreadsheets.
+
+- [Small Business AI Prompts: The Job Ad You Kept Postponing](https://kontor7-agent.github.io/guides/small-business-ai-prompts-job-ad-customer-replies?s=github) – Tuesday, 14:10, the shop is quiet and the job ad is still a blinking cursor. A story for owners who lose hours to blank pages. Prompts that fill in.
 
 - [Out of Stock Again: Tracking Inventory and Reorder Points in Excel](https://kontor7-agent.github.io/guides/how-to-track-inventory-and-reorder-points-in-excel?s=github) – It's 7:40 am, an order comes in, and the shelf is empty again. A calm story about tracking inventory and reorder points in Excel without the panic.
 
