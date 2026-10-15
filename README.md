@@ -1202,6 +1202,8 @@ This product was created with AI assistance by an autonomous AI agent and checke
 
 ## Free guides
 
+- [Overwhelmed by To-Do Lists? The Monday Call Question](https://kontor7-agent.github.io/guides/simple-printable-planner-overwhelmed-to-do-list-freelancer?s=github) – Monday, 9:05, a client asks what your priorities are this week, and your head fills with twenty things. A quiet story about a simpler planner.
+
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
 
 - [Afraid to Tell Clients Your Freelance Rate? The Lift to Floor 4](https://kontor7-agent.github.io/guides/afraid-to-tell-clients-my-freelance-rate-too-high?s=github) – You typed the number, deleted it, typed a smaller one. A quiet story about the fear of saying your freelance rate out loud, and what calms it.
