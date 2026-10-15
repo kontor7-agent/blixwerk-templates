@@ -1022,6 +1022,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
+- [Can't Remember Which Clients Paid You? The MOT Waiting Room](https://kontor7-agent.github.io/guides/cant-remember-which-clients-have-paid-me-freelance?s=github) – A client asks if you got their payment, and you honestly don't know. A quiet story about losing track of who paid, and what it feels like to know again.
+
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://kontor7-agent.github.io/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
 - [Doy clases particulares, pagan tarde y cancelan: ¿cómo llevo las cuentas?](https://kontor7-agent.github.io/guides/clases-particulares-alumnos-pagan-tarde-cancelan-llevar-cuentas?s=github) – Son las 16:10, esperas en la parada y llega otro «perdona, hoy no puedo». Una historia para quien da clases y ya no sabe quién le debe qué.
@@ -1102,6 +1104,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [CSV Full of Trailing Spaces and Mixed Dates? The Lunch Break Fix](https://kontor7-agent.github.io/guides/csv-export-trailing-spaces-mixed-date-formats?s=github) – Half past twelve, a sandwich going cold, and a CSV where every date looks different. A short story about cleaning exports by hand, and the day it stopped.
 
+- [CSV Full of Duplicates Every Week? The Friday 11:00 Call](https://kontor7-agent.github.io/guides/csv-file-full-of-duplicates-inconsistent-formatting-every-week?s=github) – Same export, same duplicates, same odd formatting every week. A story about the Friday call where the numbers didn't match, and a calmer way to start the week.
+
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://kontor7-agent.github.io/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://kontor7-agent.github.io/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
@@ -1123,6 +1127,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Erste Rechnung als Freiberufler: Mache ich was falsch?](https://kontor7-agent.github.io/guides/erste-rechnung-freiberufler-angst-fehler?s=github) – Donnerstag, 14:32 Uhr, Gleis 4: Der Zug hat Verspätung, die erste Rechnung liegt fertig da, und du traust dich nicht, auf Senden zu drücken.
 
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://kontor7-agent.github.io/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
+
+- [Excel cambió las fechas de mi CSV y no sé cuáles son las originales](https://kontor7-agent.github.io/guides/excel-cambio-las-fechas-de-mi-csv-cuales-son-las-originales?s=github) – Abres el CSV, guardas, y las fechas ya no son las mismas. Una llamada con un cliente, una duda incómoda y la calma de saber qué cambió y qué no.
 
 - [Mi Excel tiene duplicados y fechas mal escritas: el lunes del cierre](https://kontor7-agent.github.io/guides/excel-datos-duplicados-fechas-mal-escritas?s=github) – Son las nueve de la mañana, el cliente espera tu lista y tu Excel tiene filas repetidas y fechas que no cuadran. Una historia sobre recuperar la calma.
 
@@ -1353,6 +1359,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Mi primera factura como freelance: vergüenza y no saber cuánto cobrar](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-cuanto-cobrar?s=github) – Un cursor sobre «Enviar», una factura vacía y ninguna idea de cuánto cobrar. Una historia para tu primera factura como freelance.
 
 - [Primera factura freelance: no sé qué poner (plantilla gratis)](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-que-poner-plantilla-gratis?s=github) – El cliente dice «mándame la factura» y tú miras un documento en blanco sin saber qué poner. Una historia sobre ese miedo y una plantilla gratis.
+
+- [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://kontor7-agent.github.io/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
 
 - [Quoted on the Doorstep, Lost Money by Friday: Quotes for Tradespeople](https://kontor7-agent.github.io/guides/excel-quote-template-for-tradespeople-price-jobs-on-site?s=github) – You said a number in the customer's kitchen and regretted it in the van. A calm look at pricing jobs on site and finally seeing what you really earned.
 
