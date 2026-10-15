@@ -1262,6 +1262,8 @@ This kit is a communication and organisation
 
 - [Can't Remember Which Clients Paid You? The MOT Waiting Room](https://kontor7-agent.github.io/guides/cant-remember-which-clients-have-paid-me-freelance?s=github) – A client asks if you got their payment, and you honestly don't know. A quiet story about losing track of who paid, and what it feels like to know again.
 
+- [Can't Remember Which Companies Replied? The Dentist Call](https://kontor7-agent.github.io/guides/cant-remember-which-companies-replied-job-applications?s=github) – You've sent dozens of applications and a recruiter just phoned. Which company was this? A calm story about losing track, and getting your head back.
+
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://kontor7-agent.github.io/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
 - [ChatGPT Mahnung freundlich formulieren? Wartenummer 47 im Bürgeramt](https://kontor7-agent.github.io/guides/chatgpt-mahnung-an-kunden-freundlich-formulieren?s=github) – Du hast ChatGPT gefragt, aber die Mahnung klingt wie ein Amtsbrief. Eine Geschichte über Wartenummer 47 und den Satz, der endlich nach dir klingt.
@@ -1652,6 +1654,8 @@ This kit is a communication and organisation
 
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://kontor7-agent.github.io/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
 
+- [Quittung verloren – Betriebsausgabe weg? Der Parkautomat](https://kontor7-agent.github.io/guides/quittung-verloren-betriebsausgabe-was-tun-selbststaendig?s=github) – Der Parkautomat spuckt kein Ticket aus, die Quittung ist weg. Eine Geschichte über verlorene Belege und die Ruhe, die entsteht, wenn alles einen Platz hat.
+
 - [Quoted on the Doorstep, Lost Money by Friday: Quotes for Tradespeople](https://kontor7-agent.github.io/guides/excel-quote-template-for-tradespeople-price-jobs-on-site?s=github) – You said a number in the customer's kitchen and regretted it in the van. A calm look at pricing jobs on site and finally seeing what you really earned.
 
 - [Quoted a Job and Forgot Labour Costs? The Wardrobe Doorway Friday](https://kontor7-agent.github.io/guides/quoted-a-job-and-forgot-labour-costs?s=github) – The customer says it's exactly on budget, and you realise the quote never included your own labour. A story for tradespeople who price on site.
@@ -1760,6 +1764,8 @@ This kit is a communication and organisation
 
 - [Need to Tell a Client Their Work Needs Revisions? The Lift Doors](https://kontor7-agent.github.io/guides/tell-client-work-needs-revisions-without-upsetting-them?s=github) – You're holding a draft that isn't right and a client who loves it. The pause before you hit send, and how it can feel lighter.
 
+- [Tengo TDAH, trabajo por mi cuenta y me agobio cada día](https://kontor7-agent.github.io/guides/tengo-tdah-trabajo-por-mi-cuenta-olvido-tareas-agobio?s=github) – En la cola del súper, el móvil vibra y recuerdas lo que olvidaste. Una historia para autónomos con TDAH que se agobian cada día y buscan algo de calma.
+
 - [Tickets por todas partes y ni idea de qué puedo deducir](https://kontor7-agent.github.io/guides/tickets-por-todas-partes-no-se-que-puedo-deducir-autonomo?s=github) – Es sábado por la mañana, la caja de zapatos está abierta y los tickets se desbordan. Una historia sobre el miedo a la declaración y cómo se calma.
 
 - [So Tired of the Same Data and File Chores? A Developer's Tuesday](https://kontor7-agent.github.io/guides/tired-of-boring-data-and-file-chores-as-a-developer?s=github) – Third week renaming the same files and fixing the same export. A quiet story for developers tired of daily data and file chores, and what changes.
@@ -1805,6 +1811,8 @@ This kit is a communication and organisation
 - [Wie sage ich dem Kunden, dass es teurer wird? Der Bahnsteig um 7:48](https://kontor7-agent.github.io/guides/wie-sage-ich-dem-kunden-dass-es-teurer-wird?s=github) – Der Entwurf liegt seit März im Handy: Preiserhöhung ankündigen. Eine Geschichte vom Bahnsteig und davon, wie ein ruhiger Satz plötzlich leichter fällt.
 
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://kontor7-agent.github.io/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
+
+- [Windows Server Logs Filling Up Again? The Sports Day Call](https://kontor7-agent.github.io/guides/windows-server-logs-filling-disk-automate-cleanup?s=github) – Windows server logs filled the disk again, and the call came mid-egg-and-spoon race. A calm story about letting cleanup run itself, quietly, every week.
 
 - [Wochenlang nichts auf Instagram gepostet? Die Hundewiese, 16:30](https://kontor7-agent.github.io/guides/wochenlang-nichts-auf-instagram-gepostet-schlechtes-gewissen-selbststa?s=github) – Seit Wochen kein Post, und dann fragt jemand beiläufig nach. Eine Geschichte über das schlechte Gewissen auf Instagram und wie es leiser werden kann.
 
