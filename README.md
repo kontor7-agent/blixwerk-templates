@@ -990,6 +990,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://kontor7-agent.github.io/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
 
+- [Am I Losing Money on My Handmade Products After Fees?](https://kontor7-agent.github.io/guides/am-i-losing-money-on-my-handmade-products-after-fees?s=github) – Your bestseller sells every week, but after fees, postage and materials you can't say what's left. A quiet Sunday at the craft fair, and a calmer way to look.
+
 - [Am I Undercharging as a Freelancer? The Sunday Walk That Hurt](https://kontor7-agent.github.io/guides/am-i-undercharging-as-a-freelancer-burnout?s=github) – Fully booked, still tired, still short on money. A quiet story about the moment you wonder if your rate is the real reason you're burning out.
 
 - [Worried Your API Has Security Holes? The Train to the Demo](https://kontor7-agent.github.io/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
@@ -1085,6 +1087,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://kontor7-agent.github.io/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
 
 - [Un cliente nuevo me pide trabajo gratis para probar: ¿qué respondo?](https://kontor7-agent.github.io/guides/cliente-nuevo-pide-trabajo-gratis-para-probar-que-responder?s=github) – El mensaje llega en el tren: «Haznos una prueba gratis y luego vemos». Una historia sobre el nudo en el estómago y cómo responder sin quedar mal.
+
+- [Mi cliente paga a 90 días y no llego a fin de mes: el bus del 28](https://kontor7-agent.github.io/guides/cliente-paga-a-90-dias-no-llego-a-fin-de-mes-autonomo?s=github) – El día 28, en el autobús, abres la app del banco: la factura a 90 días no llega y el alquiler sí. Una historia para autónomos que cobran tarde.
 
 - [Mi cliente paga tarde y no llego a la cuota de autónomos](https://kontor7-agent.github.io/guides/cliente-paga-tarde-no-llego-cuota-autonomos?s=github) – El día 28, el móvil vibra con el aviso del banco y la factura de tu cliente sigue sin pagarse. Una historia sobre cobrar tarde y recuperar la calma.
 
@@ -1253,6 +1257,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://kontor7-agent.github.io/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
 
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://kontor7-agent.github.io/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
+
+- [Keep Running Out of Stock? The Vet Waiting Room Message](https://kontor7-agent.github.io/guides/keep-running-out-of-stock-customers-complain?s=github) – The cat is in the vet's back room when a customer writes that your bestseller is gone again. A calm story for small shop owners tired of finding out too late.
 
 - [Kein Plan fürs neue Jahr als Freelancer? Die Frage am Kaffeetisch](https://kontor7-agent.github.io/guides/kein-plan-neues-jahr-freelancer-jahresplanung?s=github) – Zwischen den Jahren fragt jemand: „Und, wie läuft's nächstes Jahr?“ Und du hast keine Antwort. Eine Geschichte über Ruhe im Kopf für Selbstständige.
 
@@ -1499,6 +1505,8 @@ How to use it: open the Tracker, type one real invoice into the yellow cells, re
 - [Weniger als Mindestlohn als Selbstständige? Die Frage beim Kuchen](https://kontor7-agent.github.io/guides/verdiene-ich-als-selbststaendiger-weniger-als-mindestlohn?s=github) – Sonntag, Geburtstagskaffee, ein Satz vom Schwager – und plötzlich fragst du dich: Verdiene ich als Selbstständige weniger als Mindestlohn?
 
 - [Me da vergüenza subir mis tarifas a clientes antiguos](https://kontor7-agent.github.io/guides/verguenza-subir-tarifas-clientes-antiguos-freelance?s=github) – Llevas tres años cobrando lo mismo a Marta y cada vez que abres el correo para avisarla, cierras la pestaña. Una historia sobre subir tarifas sin sudar.
+
+- [Verkauft, was du nicht hast? Der Paketshop um 10:05 Uhr](https://kontor7-agent.github.io/guides/verkauft-ware-nicht-auf-lager-kleiner-shop?s=github) – Bestellung eingegangen, Regal leer. Eine Geschichte für kleine Shops, die Ware verkauft haben, die nicht auf Lager ist – und wie wieder Ruhe einkehrt.
 
 - [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://kontor7-agent.github.io/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
 
