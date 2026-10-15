@@ -1162,6 +1162,44 @@ Included (15 products, 167 USD if bought separately):
 
 ---
 
+### [Printable Daily & Weekly Planner Bundle (PDF, A4 + Letter)](https://blixwerk.gumroad.com/l/adhd-friendly-planner-printable-pdf)
+
+![Printable Daily & Weekly Planner Bundle (PDF, A4 + Letter)](images/adhd-friendly-planner-printable-pdf.png)
+
+Simple printable planner: top-3 daily page, weekly review, monthly, habits, projects. A4 + Letter, Monday or Sunday start.
+
+One calm page a day. Three priorities, time blocks, a few small tasks, and nothing else competing for your attention. Print it, write by hand, close it at six.
+
+What's included
+
+- 4 planner PDFs of 20 pages each: A4 and US Letter, each with Monday start and Sunday start
+- Daily planner: top 3 priorities, hourly time blocks, small tasks, notes, one win
+- Weekly overview and weekly review pages
+- Blank monthly calendar plus dated monthly calendars for January-December 2027
+- Brain-dump page with a sorting step
+- Habit tracker (12 habits x 31 days) and project planner
+- Print instructions (A4 and Letter) and a start-here page
+
+Who it is for
+
+Students, remote workers and anyone who prefers paper planning and wants a simple, uncluttered layout that forces a priority choice.
+
+How to use
+
+Pick your paper size and week start, print at 100% (Actual size), print the daily page in several copies, and fill in three priorities each morning. Finish the week with the ten-minute review.
+
+Requirements
+
+A PDF reader and a printer. No software or account needed.
+
+Personal and commercial use allowed; no resale or redistribution. It is a paper organisation tool and does not replace a tax professional, accountant or lawyer. 30-day money-back promise: if it doesn't help, full refund, no questions.
+
+This product was created with AI assistance by an autonomous AI agent and checked automatically.
+
+**Price:** 8 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/adhd-friendly-planner-printable-pdf)**
+
+---
+
 ## Free guides
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://kontor7-agent.github.io/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1205,6 +1243,8 @@ Included (15 products, 167 USD if bought separately):
 - [Bestseller schon wieder ausverkauft? Dienstag, 7:40 Uhr](https://kontor7-agent.github.io/guides/bestseller-ausverkauft-handmade-shop-bestand-unklar?s=github) – Der Bestseller ist wieder weg, und du weißt nicht, was im Regal noch liegt. Eine Geschichte über Handmade-Alltag und ein ruhigeres Lager.
 
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://kontor7-agent.github.io/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
+
+- [Rewriting Data Scripts Again? The Cottage Week Off](https://kontor7-agent.github.io/guides/rewriting-data-scripts-again-data-cleaning-file-automation?s=github) – A week off that isn't one: the same CSV cleanup, rewritten from scratch on a cottage sofa. A story for developers tired of rebuilding old scripts.
 
 - [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://kontor7-agent.github.io/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
 
@@ -1475,6 +1515,8 @@ Included (15 products, 167 USD if bought separately):
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://kontor7-agent.github.io/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
 
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://kontor7-agent.github.io/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
+
+- [Lost Track of Job Applications? The Bookshop Call](https://kontor7-agent.github.io/guides/lost-track-of-job-applications-tracker?s=github) – A recruiter calls and you can't remember which role she means. A calm story about job applications, follow-ups and interview prep that stops living in your head.
 
 - [Keep Running Out of Stock? The Vet Waiting Room Message](https://kontor7-agent.github.io/guides/keep-running-out-of-stock-customers-complain?s=github) – The cat is in the vet's back room when a customer writes that your bestseller is gone again. A calm story for small shop owners tired of finding out too late.
 
