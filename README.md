@@ -1414,6 +1414,8 @@ This kit is a communication and organisation
 
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://kontor7-agent.github.io/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
+- [Excel cambió mis números a 1,2E+15 y ya lo mandé](https://kontor7-agent.github.io/guides/excel-numeros-largos-notacion-cientifica-ya-lo-mande?s=github) – Tu clienta te llama por el archivo: los números largos se ven como 1,23E+15 y ya lo enviaste. Una historia para respirar y volver a confiar en tus datos.
+
 - [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://kontor7-agent.github.io/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
 
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://kontor7-agent.github.io/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
@@ -1574,6 +1576,8 @@ This kit is a communication and organisation
 
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://kontor7-agent.github.io/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
 
+- [Kunde: „Zahlung ist raus“ – aber kein Geld? Der Imbiss](https://kontor7-agent.github.io/guides/kunde-sagt-zahlung-ist-raus-aber-kein-geld-da?s=github) – „Die Überweisung ist raus“, sagt der Kunde, aber auf dem Konto ist nichts. Eine Mittagspause im Transporter und die Ruhe, die danach möglich ist.
+
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://kontor7-agent.github.io/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://kontor7-agent.github.io/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
@@ -1617,6 +1621,8 @@ This kit is a communication and organisation
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://kontor7-agent.github.io/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
 - [Parents Forget to Pay for Music Lessons? The Hallway Handover](https://kontor7-agent.github.io/guides/music-teacher-parents-forget-to-pay-for-lessons?s=github) – The cello case is by the door, the envelope hasn't come, and you smile anyway. A gentle story for music teachers whose parents forget to pay.
+
+- [Music Students Cancel Late and Don't Pay? The Guitar Shop](https://kontor7-agent.github.io/guides/music-teacher-students-cancel-last-minute-not-paying?s=github) – Your phone buzzes at the shop till: another late cancellation. And who still owes you for March? A music teacher's quiet moment of clarity.
 
 - [Never Know What to Post? The Wednesday Tram Ride Behind Again](https://kontor7-agent.github.io/guides/never-know-what-to-post-on-social-media-feel-behind?s=github) – On the 8:12 tram, you realise you've posted nothing since last Thursday. If you never know what to post on social media, this one is for you.
 
@@ -1835,6 +1841,8 @@ This kit is a communication and organisation
 - [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://kontor7-agent.github.io/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
 
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://kontor7-agent.github.io/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
+
+- [Wedding Photographer: Client Hasn't Paid the Balance?](https://kontor7-agent.github.io/guides/wedding-photographer-client-hasnt-paid-remaining-balance?s=github) – The gallery is delivered, the couple is thrilled, and the remaining balance is still open. A calm story for wedding photographers who hate chasing money.
 
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://kontor7-agent.github.io/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
