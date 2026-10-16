@@ -1194,6 +1194,8 @@ Included (16 products, 175 USD if bought separately):
 
 ## Free guides
 
+- [Abschlagsrechnung vergessen? Projekt fertig, kein Geld](https://blixwerkstudio.com/guides/abschlagsrechnung-vergessen-projekt-fertig-kunde-hat-nichts-gezahlt?s=github) – Die Terrasse ist fertig, der Kunde strahlt, und dir fällt ein: Es gab nie eine Abschlagsrechnung. Eine Geschichte über Ruhe im Zahlungsfluss.
+
 - [Overwhelmed by To-Do Lists? The Monday Call Question](https://blixwerkstudio.com/guides/simple-printable-planner-overwhelmed-to-do-list-freelancer?s=github) – Monday, 9:05, a client asks what your priorities are this week, and your head fills with twenty things. A quiet story about a simpler planner.
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://blixwerkstudio.com/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1283,6 +1285,8 @@ Included (16 products, 175 USD if bought separately):
 - [ChatGPT Mahnung freundlich formulieren? Wartenummer 47 im Bürgeramt](https://blixwerkstudio.com/guides/chatgpt-mahnung-an-kunden-freundlich-formulieren?s=github) – Du hast ChatGPT gefragt, aber die Mahnung klingt wie ein Amtsbrief. Eine Geschichte über Wartenummer 47 und den Satz, der endlich nach dir klingt.
 
 - [Doy clases particulares, pagan tarde y cancelan: ¿cómo llevo las cuentas?](https://blixwerkstudio.com/guides/clases-particulares-alumnos-pagan-tarde-cancelan-llevar-cuentas?s=github) – Son las 16:10, esperas en la parada y llega otro «perdona, hoy no puedo». Una historia para quien da clases y ya no sabe quién le debe qué.
+
+- [Client Agreed to Pay but Keeps Making Excuses? Freelancer](https://blixwerkstudio.com/guides/client-agreed-to-pay-but-keeps-making-excuses-freelancer?s=github) – They said yes, they'll pay. Then came the excuses. A quiet story about a Thursday pickup line, and how chasing money can feel calmer.
 
 - [Client Asking for a Discount? How to Reply Without Losing Them](https://blixwerkstudio.com/guides/client-asking-for-discount-how-to-reply-freelance?s=github) – The email says 'any chance of a better price?' and your stomach drops. A calm story about replying to a discount request without losing the client.
 
@@ -1560,6 +1564,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://blixwerkstudio.com/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
 
+- [Invoiced the Same Hours Twice? The Red Light at 8:42](https://blixwerkstudio.com/guides/invoiced-same-hours-twice-freelance?s=github) – You think you billed the same hours twice. A freelancer's story from a pedestrian crossing, and how a calmer Monday feels when your hours and invoices line up.
+
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://blixwerkstudio.com/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
 
 - [Lost Track of Job Applications? The Bookshop Call](https://blixwerkstudio.com/guides/lost-track-of-job-applications-tracker?s=github) – A recruiter calls and you can't remember which role she means. A calm story about job applications, follow-ups and interview prep that stops living in your head.
@@ -1641,6 +1647,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me quedo sin stock y no sé cuándo reponer: la llamada de las 9](https://blixwerkstudio.com/guides/me-quedo-sin-stock-no-se-cuando-reponer?s=github) – Son las nueve, el proveedor dice «tres semanas» y tu producto estrella ya casi no queda. Una historia sobre dejar de reponer a ciegas.
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
+
+- [Mezclo gastos personales y del negocio: ¿y ahora qué?](https://blixwerkstudio.com/guides/mezclo-gastos-personales-y-del-negocio-autonomo?s=github) – Estás en la gasolinera con un ticket en la mano y no sabes si es del negocio o de casa. Una historia para autónomos con los gastos revueltos.
 
 - [Mi carpeta de descargas es un desastre: el archivo que no aparecía](https://blixwerkstudio.com/guides/mi-carpeta-de-descargas-es-un-desastre-y-no-encuentro-nada?s=github) – Compartes pantalla en una videollamada y tu carpeta de descargas queda a la vista. Una historia sobre archivos perdidos y cómo volver a la calma.
 
