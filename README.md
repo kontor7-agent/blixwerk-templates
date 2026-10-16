@@ -1384,6 +1384,8 @@ This kit is a communication and organisation
 
 - [Hours Lost to Data and File Chores? The Dentist Waiting Room](https://kontor7-agent.github.io/guides/developer-wasting-hours-on-data-and-file-chores?s=github) – You meant to read a paper in the waiting room, but you were rebuilding last week's file chores in your head. A quiet story for developers who want those hours back.
 
+- [Disco lleno de logs y servidor caído: la llamada de las 9](https://kontor7-agent.github.io/guides/disco-servidor-lleno-logs-rotar?s=github) – Se cayó la tienda de tu cliente porque el disco se llenó de logs. Una historia sobre rotarlos a tiempo y empezar el lunes sin sobresaltos.
+
 - [Do I Charge Enough as a Freelancer? The Plumber at the Kitchen Door](https://kontor7-agent.github.io/guides/do-i-charge-enough-as-a-freelancer?s=github) – A plumber hands over a bill without flinching, and a freelancer wonders why she can't do the same. A quiet story about charging enough and feeling paid.
 
 - [Does My Hourly Rate Cover Taxes and Unpaid Time? The Bus Home](https://kontor7-agent.github.io/guides/does-my-hourly-rate-cover-taxes-and-unpaid-time?s=github) – On the bus home, a nice number on an invoice suddenly feels too small. A quiet story about rates, taxes and the hours nobody pays you for.
@@ -1582,6 +1584,8 @@ This kit is a communication and organisation
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://kontor7-agent.github.io/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
+- [Kunde verspricht Zahlung, aber nichts kommt? Die Parkbank](https://kontor7-agent.github.io/guides/kunde-verspricht-zahlung-aber-nichts-kommt-freelancer?s=github) – Donnerstag, 12:20, Banking-App zum x-ten Mal: Der Kunde verspricht zu zahlen, aber nichts kommt. Eine Geschichte über mehr Ruhe.
+
 - [Kunde will Rabatt? Freiberuflerin, Nudelwasser und kein Satz](https://kontor7-agent.github.io/guides/kunde-will-rabatt-freiberufler-was-sagen?s=github) – Der Kunde fragt nach Rabatt, und dir fällt nichts ein. Eine Geschichte über das Schweigen am Telefon und darüber, wie du ruhig antworten kannst.
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://kontor7-agent.github.io/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
@@ -1684,6 +1688,8 @@ This kit is a communication and organisation
 
 - [Primera factura freelance: no sé qué poner (plantilla gratis)](https://kontor7-agent.github.io/guides/primera-factura-freelance-no-se-que-poner-plantilla-gratis?s=github) – El cliente dice «mándame la factura» y tú miras un documento en blanco sin saber qué poner. Una historia sobre ese miedo y una plantilla gratis.
 
+- [Profit on Handmade Items After Etsy Fees? The Frame Shop](https://kontor7-agent.github.io/guides/profit-on-handmade-items-after-etsy-fees?s=github) – The framer asked how your Etsy shop was going and you said 'good!' without knowing. A quiet story about handmade profit after fees, and what eases the doubt.
+
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://kontor7-agent.github.io/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
 
 - [Quittung verloren – Betriebsausgabe weg? Der Parkautomat](https://kontor7-agent.github.io/guides/quittung-verloren-betriebsausgabe-was-tun-selbststaendig?s=github) – Der Parkautomat spuckt kein Ticket aus, die Quittung ist weg. Eine Geschichte über verlorene Belege und die Ruhe, die entsteht, wenn alles einen Platz hat.
@@ -1781,6 +1787,8 @@ This kit is a communication and organisation
 - [Immer vergessen, auf Social Media zu posten? Der Marktstand](https://kontor7-agent.github.io/guides/social-media-posten-vergessen-kleines-unternehmen?s=github) – Samstag am Marktstand sagt jemand: „Ich dachte, es gibt euch nicht mehr.“ Eine Geschichte für alle, die das Posten ständig vergessen.
 
 - [Social Media jeden Sonntag Stress? Was soll ich diese Woche posten?](https://kontor7-agent.github.io/guides/social-media-sonntag-stress-was-soll-ich-diese-woche-posten?s=github) – Sonntag, 16:40, Kaffeetafel bei deiner Mutter, und unter dem Tisch starrst du aufs leere Textfeld. Warum die Postfrage nicht jede Woche neu wehtun muss.
+
+- [Fixing a Messy CSV Again? The Sunday Roast Interruption](https://kontor7-agent.github.io/guides/spent-all-evening-fixing-messy-csv-file?s=github) – Another evening gone to a messy CSV file? A Sunday-lunch scene about getting those hours back, and what a calmer Monday could feel like.
 
 - [Steuerberater wartet auf deine Unterlagen? Der Anruf in der Bäckerei](https://kontor7-agent.github.io/guides/steuerberater-wartet-unterlagen-durcheinander-selbststaendig?s=github) – Dienstag, 8:20 Uhr, Bäckerei-Schlange: Die Kanzlei fragt nach deinen Unterlagen, und bei dir liegt alles durcheinander. Eine Geschichte über Ruhe im Kopf.
 
