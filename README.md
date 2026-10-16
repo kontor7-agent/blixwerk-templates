@@ -1214,6 +1214,28 @@ Included (12 products, 128 USD if bought separately):
 
 ---
 
+### [Developer & Data Automation Bundle](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v5)
+
+![Developer & Data Automation Bundle](images/bundle-developer-data-automation-v5.png)
+
+All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
+
+All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
+
+Included (16 products, 175 USD if bought separately):
+
+- Clean Data in Minutes – CSV & Excel Cleaning Toolkit (Python) – Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
+- Tame Your Downloads Folder – File Organizer & Bulk Renamer Scripts – Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
+- Launch Without the 2 a.m. Doubt – REST API Security Checklist Kit – 58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
+- Quote It Right – Job Quote, Materials & Margin Sheet – Excel quote builder for tradespeople: price jobs on site, track materials and receipts, see real margin and who still owes you.
+- Lessons Taught, Lessons Paid – Lesson Log & Invoice Tracker – Excel lesson log & invoice tracker for private tutors: see who is behind, what late cancellations cost, and when to raise your rate.
+- Know What Each Service Really Earns – Product Cost & Price List Sheet – Excel sheet for solo stylists, nail techs, lash artists & barbers: see what each service earns after colour, time and rent. Plus price list.
+- Price Your Handmade Work Right – Cost, Fees & Profit Calculator – Excel workbook for makers: see cost, fees and profit per product, get a su
+
+**Price:** 105 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v5)**
+
+---
+
 ## Free guides
 
 - [Overwhelmed by To-Do Lists? The Monday Call Question](https://blixwerkstudio.com/guides/simple-printable-planner-overwhelmed-to-do-list-freelancer?s=github) – Monday, 9:05, a client asks what your priorities are this week, and your head fills with twenty things. A quiet story about a simpler planner.
@@ -1277,6 +1299,8 @@ Included (12 products, 128 USD if bought separately):
 - [One Folder for Freelance Excel Trackers? The Garage Forecourt](https://blixwerkstudio.com/guides/freelance-excel-trackers-in-one-download?s=github) – Wednesday, 11:20, a garage forecourt, and a client asking what is outstanding. A story about too many files and the calm of having one place.
 
 - [Excel Trackers Scattered? The Climbing Gym Café Lunch](https://blixwerkstudio.com/guides/excel-trackers-for-freelancers-in-one-download?s=github) – Invoices in one file, hours in another, quotes somewhere else. A quiet lunch story about what changes when your freelance Excel trackers live in one place.
+
+- [Need a Tracker for Every Problem? The Bus Shelter Call](https://blixwerkstudio.com/guides/excel-trackers-freelancers-one-download?s=github) – One file for invoices, another for hours, a third for prices, and none of them talk. A quiet story about finally having one calm place for it all.
 
 - [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://blixwerkstudio.com/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
 
@@ -1357,6 +1381,8 @@ Included (12 products, 128 USD if bought separately):
 - [Mi cliente dice que ya pagó y no me llega el dinero (autónoma)](https://blixwerkstudio.com/guides/cliente-dice-que-ya-pago-pero-no-me-llega-el-dinero-autonomo?s=github) – Tu cliente jura que ya transfirió y tu cuenta sigue igual. Una mañana de martes, un justificante y la calma de saber qué factura es cuál.
 
 - [Mi cliente me escribe a todas horas y no sé poner límites: domingo](https://blixwerkstudio.com/guides/cliente-me-escribe-fuera-de-horario-como-poner-limites?s=github) – Domingo, 11:40, el móvil vibra otra vez. Una historia sobre el cliente que escribe fuera de horario y cómo se siente poner un límite sin culpa.
+
+- [Mi cliente me paga por partes y no sé cuánto me debe](https://blixwerkstudio.com/guides/cliente-me-paga-por-partes-cuanto-me-debe?s=github) – 300 euros un día, 450 otro, y en plena llamada no sabes cuánto falta. Una historia sobre pagos parciales y la calma de ver la cifra exacta.
 
 - [Mi cliente me pide cambios sin parar y no sé cómo decirle que no](https://blixwerkstudio.com/guides/cliente-me-pide-cambios-sin-parar-como-decirle-que-no?s=github) – Otra vez el mismo mensaje: «una cosita más». Una historia sobre cambios sin fin, el miedo a decir que no y cómo se siente poner un límite con calma.
 
@@ -1873,6 +1899,8 @@ Included (12 products, 128 USD if bought separately):
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://blixwerkstudio.com/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
 
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://blixwerkstudio.com/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
+
+- [Überblick über Kunden und Projekte verloren? Montag, 9:02](https://blixwerkstudio.com/guides/ueberblick-kunden-projekte-verloren-freiberufler?s=github) – Der Kunde fragt nach dem Stand – und du suchst in Mails und Notizen. Eine Geschichte für Freiberufler, die den Überblick zurückwollen.
 
 - [Unangenehme Mail an den Kunden: Der Cursor blinkt seit 40 Minuten](https://blixwerkstudio.com/guides/unangenehme-mail-an-kunden-schreiben-freelancer?s=github) – Dienstag, 9:50 Uhr, ein leeres Mailfenster und kein Satz, der passt. Eine Geschichte für alle, die vor schwierigen Kundenmails zurückschrecken.
 
