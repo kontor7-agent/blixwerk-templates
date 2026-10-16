@@ -1314,6 +1314,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [New Client Onboarding Chaos? The Reception Chair at 9:50](https://blixwerkstudio.com/guides/freelancer-client-onboarding-kickoff-checklist?s=github) – You're in a new client's lobby with the scope scattered across three emails and half the logins missing. A calmer way to begin every project.
 
+- [Client Paid Half My Invoice, Now Silent? The Jetty at Noon](https://blixwerkstudio.com/guides/client-paid-half-my-invoice-and-wont-answer-emails?s=github) – Half the money arrived, then silence. A Sunday on a rented rowing boat, one unanswered email, and a calmer way to follow up without begging.
+
 - [Client Paid My Invoice, But Which Hours Did It Cover?](https://blixwerkstudio.com/guides/client-paid-invoice-which-hours-were-covered?s=github) – The payment landed, but you can't tell which hours it covered. A calm story about a Monday-morning bank notification and finally seeing it clearly.
 
 - [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://blixwerkstudio.com/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
@@ -1343,6 +1345,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://blixwerkstudio.com/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
 
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://blixwerkstudio.com/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
+
+- [Entregué el trabajo, el cliente desapareció y no me paga](https://blixwerkstudio.com/guides/cliente-desaparecio-despues-de-entregar-el-trabajo-no-paga?s=github) – Entregaste el trabajo, él dejó de contestar y la factura sigue ahí. Una historia sobre cobrar sin suplicar y recuperar la calma.
 
 - [Mi cliente dice que pagará la semana que viene y no paga](https://blixwerkstudio.com/guides/cliente-dice-que-pagara-la-semana-que-viene-y-nunca-paga?s=github) – En la cola de la panadería lees otra vez «te pago la semana que viene». Una historia para quien persigue cobros sin sentirse pesado.
 
@@ -1501,6 +1505,8 @@ Included (16 products, 175 USD if bought separately):
 - [Anxious About 2027 Income as a Freelancer? The Allotment Gate](https://blixwerkstudio.com/guides/freelancer-anxious-about-2027-income-not-sure-what-i-will-earn?s=github) – Not sure what you'll earn in 2027? A quiet Saturday morning, one blank page, and a calmer way to look at the year ahead as a freelancer.
 
 - [Who Owes Me, What Do I Charge, Where Did My Time Go?](https://blixwerkstudio.com/guides/freelancer-money-clarity-who-owes-me-what-to-charge-where-time-goes?s=github) – A holiday that isn't one: the ferry, the phone, and three questions about money and time you couldn't answer. A calmer way to run your week.
+
+- [Which Hours Did You Invoice? The Wedding Lobby at 4:20](https://blixwerkstudio.com/guides/freelancer-cant-tell-which-hours-were-invoiced?s=github) – A freelancer in a hotel lobby, a client asking about hours, and no idea what was already invoiced. A story about getting that certainty back.
 
 - [Don't Know What You'll Earn Next Month? The Mechanic's Quote](https://blixwerkstudio.com/guides/freelancer-cash-flow-stress-no-idea-what-ill-earn-next-month?s=github) – The mechanic says 640 and your mind goes blank: what is actually coming in next month? A quiet story about freelance cash flow stress and the calm after.
 
@@ -1665,6 +1671,8 @@ Included (16 products, 175 USD if bought separately):
 - [Music Students Cancel Late and Don't Pay? The Guitar Shop](https://blixwerkstudio.com/guides/music-teacher-students-cancel-last-minute-not-paying?s=github) – Your phone buzzes at the shop till: another late cancellation. And who still owes you for March? A music teacher's quiet moment of clarity.
 
 - [Nail Tech: How Much Do I Actually Make After Booth Rent?](https://blixwerkstudio.com/guides/nail-tech-how-much-do-i-actually-make-after-booth-rent?s=github) – The rental form asks for your monthly income and you freeze. A nail tech story about booth rent, products and finding the number you actually keep.
+
+- [Neukunde Vorkasse verlangen? Die Mail am Freitagmittag](https://blixwerkstudio.com/guides/neukunde-vorkasse-verlangen-traue-mich-nicht?s=github) – Neuer Kunde, großer Auftrag, und du traust dich nicht, Vorkasse zu verlangen? Eine Geschichte über den einen Satz, der Ruhe bringt.
 
 - [Never Know What to Post? The Wednesday Tram Ride Behind Again](https://blixwerkstudio.com/guides/never-know-what-to-post-on-social-media-feel-behind?s=github) – On the 8:12 tram, you realise you've posted nothing since last Thursday. If you never know what to post on social media, this one is for you.
 
