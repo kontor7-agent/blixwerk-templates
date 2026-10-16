@@ -1262,6 +1262,8 @@ This kit is a communication and organisation
 
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
+- [Can't Track Job Applications? The Noodle Stall Email](https://kontor7-agent.github.io/guides/cant-keep-track-of-job-applications?s=github) – An interview invite arrives and you can't remember the company. A lunchtime story for anyone losing track of job applications and who replied.
+
 - [Can't Remember Which Clients Paid You? The MOT Waiting Room](https://kontor7-agent.github.io/guides/cant-remember-which-clients-have-paid-me-freelance?s=github) – A client asks if you got their payment, and you honestly don't know. A quiet story about losing track of who paid, and what it feels like to know again.
 
 - [Can't Remember Which Companies Replied? The Dentist Call](https://kontor7-agent.github.io/guides/cant-remember-which-companies-replied-job-applications?s=github) – You've sent dozens of applications and a recruiter just phoned. Which company was this? A calm story about losing track, and getting your head back.
@@ -1354,6 +1356,8 @@ This kit is a communication and organisation
 
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://kontor7-agent.github.io/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
+- [Correos del negocio sin fin: ¿qué delego a la IA?](https://kontor7-agent.github.io/guides/correos-del-negocio-que-delegar-a-la-ia?s=github) – Miércoles, 11:15, la bandeja llena de correos del negocio. Una historia sobre qué delegar a la IA y qué seguir haciendo tú, con calma.
+
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://kontor7-agent.github.io/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
 
 - [Llevo años cobrando de menos y me da miedo subir mis tarifas](https://kontor7-agent.github.io/guides/creo-que-llevo-anos-cobrando-poco-miedo-a-subir-tarifas?s=github) – Una mañana de domingo en el mercado, una cifra en la libreta y la sospecha de que llevas años cobrando de menos. Y el miedo a decirlo en voz alta.
@@ -1419,6 +1423,8 @@ This kit is a communication and organisation
 - [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://kontor7-agent.github.io/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
 
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://kontor7-agent.github.io/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
+
+- [Overdue Invoice Follow-Up Without Sounding Desperate](https://kontor7-agent.github.io/guides/follow-up-overdue-invoice-without-sounding-rude?s=github) – You're in the cheese queue, the invoice is 19 days late, and every email draft sounds either grovelling or furious. There's a calmer way to follow up.
 
 - [Keep Forgetting to Chase Unpaid Invoices? The Fishmonger's Queue](https://kontor7-agent.github.io/guides/forget-to-chase-unpaid-invoices-freelancer?s=github) – You meant to chase that invoice three weeks ago. A Saturday queue, a number in your head, and a calmer way to remember who still owes you.
 
@@ -1567,6 +1573,8 @@ This kit is a communication and organisation
 - [Kunde kürzt einfach deine Rechnung? Was tun, wenn die Tankstelle wartet](https://kontor7-agent.github.io/guides/kunde-kuerzt-rechnung-was-tun?s=github) – Auf dem Konto fehlen 380 Euro, im Verwendungszweck steht nur „gekürzt“. Eine Geschichte für alle, die nicht wissen, was sie jetzt sagen sollen.
 
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://kontor7-agent.github.io/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
+
+- [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://kontor7-agent.github.io/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://kontor7-agent.github.io/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
