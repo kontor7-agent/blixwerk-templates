@@ -1208,6 +1208,8 @@ This kit is a communication and organisation
 
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://kontor7-agent.github.io/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
 
+- [Out of Stock Too Late Again? The Café Lids at 7:20 am](https://kontor7-agent.github.io/guides/always-find-out-too-late-product-out-of-stock?s=github) – Seven twenty, the queue is out the door, and the lids are gone. A short story for anyone who always finds out too late that something is out of stock.
+
 - [Am I Losing Money on My Handmade Products After Fees?](https://kontor7-agent.github.io/guides/am-i-losing-money-on-my-handmade-products-after-fees?s=github) – Your bestseller sells every week, but after fees, postage and materials you can't say what's left. A quiet Sunday at the craft fair, and a calmer way to look.
 
 - [Am I Undercharging as a Freelancer? The Sunday Walk That Hurt](https://kontor7-agent.github.io/guides/am-i-undercharging-as-a-freelancer-burnout?s=github) – Fully booked, still tired, still short on money. A quiet story about the moment you wonder if your rate is the real reason you're burning out.
@@ -1261,6 +1263,8 @@ This kit is a communication and organisation
 - [No Planner Fits Your Freelance Year? The Stationery Aisle](https://kontor7-agent.github.io/guides/printable-freelancer-planner-2027?s=github) – Three diaries in your hands, none made for freelancers. A short story about finding one calm place for your year, your clients and your invoices.
 
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://kontor7-agent.github.io/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
+
+- [Can't Keep Track of Job Applications? The Parkrun Question](https://kontor7-agent.github.io/guides/cant-keep-track-of-job-applications-who-got-back-to-me?s=github) – Someone asks how the job search is going and you can't say who replied. A calm story about losing track of applications, and the quiet way out.
 
 - [Can't Track Job Applications? The Noodle Stall Email](https://kontor7-agent.github.io/guides/cant-keep-track-of-job-applications?s=github) – An interview invite arrives and you can't remember the company. A lunchtime story for anyone losing track of job applications and who replied.
 
@@ -1545,6 +1549,8 @@ This kit is a communication and organisation
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://kontor7-agent.github.io/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
 
 - [Lost Track of Job Applications? The Bookshop Call](https://kontor7-agent.github.io/guides/lost-track-of-job-applications-tracker?s=github) – A recruiter calls and you can't remember which role she means. A calm story about job applications, follow-ups and interview prep that stops living in your head.
+
+- [Kassenbons verblasst? Das Thermopapier im Ordner](https://kontor7-agent.github.io/guides/kassenbons-verblasst-thermopapier-selbststaendig-was-tun?s=github) – Mittwoch, 11:20 Uhr: Der Bon aus dem Frühjahr ist leer, der Steuerberater-Termin ist Freitag. Eine Geschichte über verblasste Belege und ruhigere Jahre.
 
 - [Keep Running Out of Stock? The Vet Waiting Room Message](https://kontor7-agent.github.io/guides/keep-running-out-of-stock-customers-complain?s=github) – The cat is in the vet's back room when a customer writes that your bestseller is gone again. A calm story for small shop owners tired of finding out too late.
 
@@ -1833,6 +1839,8 @@ This kit is a communication and organisation
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://kontor7-agent.github.io/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
 
 - [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://kontor7-agent.github.io/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
+
+- [Vendí un producto sin stock y no sé qué decirle al cliente](https://kontor7-agent.github.io/guides/vendi-producto-sin-stock-que-decirle-al-cliente?s=github) – Jueves a mediodía: un pedido de una pieza que ya no existe y un cliente esperando. Una historia sobre el stock que sorprende y la calma que vuelve.
 
 - [Vendo manualidades online y se me mezclan los pedidos](https://kontor7-agent.github.io/guides/vendo-manualidades-online-pedidos-mezclados-materiales?s=github) – Miércoles, once de la mañana: dos pedidos de la misma vela y cera para uno solo. Una historia para quien vende manualidades online y pierde el hilo.
 
