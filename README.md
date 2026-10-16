@@ -1036,28 +1036,6 @@ How to use it: print at 100%, fill in your goals and income target, then spend 1
 
 ---
 
-### [Freelancer & Small Business Excel Bundle](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v5)
-
-![Freelancer & Small Business Excel Bundle](images/bundle-freelancer-small-business-excel-v5.png)
-
-All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
-
-All Blixwerk Excel trackers for freelancers and small businesses in one download – save about 40%.
-
-Included (10 products, 112 USD if bought separately):
-
-- Get Paid On Time – Freelance Invoice, Hours & Client Tracker (Excel) – Excel tracker for clients, projects, hours and invoices: auto invoice numbers, due dates, overdue flags, dashboard. Sample data + PDF guide.
-- Never Sold Out by Surprise – Inventory & Reorder Tracker (Excel) – Excel inventory tracker with automatic reorder alerts, stock value and dashboard. Sample + blank template, PDF guide. No subscription.
-- Show Up Without the Sunday Panic – Content Calendar & Social Planner (Excel) – Excel content calendar: monthly & weekly views, status pipeline, platform/pillar mix charts, hashtag & caption library, sample data.
-- Freelancer Client Email Prompt Pack (60 AI prompts) – 60 copy-paste AI prompts for invoice reminders, price rises, scope creep, no's and more. Placeholders, tone variants, examples. PDF + Markdown.
-- Year-End Admin Checklist & Receipt Organizer for Freelancers (Excel) – Excel receipt log, year-end checklist, deadline tracker and progress bar – end the January receipt scramble. Organisational only.
-- 2027 Freelance Business Planner (Excel) – Plan your 2027 income, capacity and time off in Excel: revenue targets vs actuals, pipeline, vacation planner, quarterly reviews, dashboard.
-- Belege- & Jahresend-Organizer für Selbstständige (Excel) – Excel-Vorlage auf Deutsch: Belegliste, Monats- und Jahresauswert
-
-**Price:** 67 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-freelancer-small-business-excel-v5)**
-
----
-
 ### [Job Search Tracker & Interview Prep Workbook (Excel)](https://blixwerk.gumroad.com/l/job-search-tracker-excel)
 
 ![Job Search Tracker & Interview Prep Workbook (Excel)](images/job-search-tracker-excel.png)
@@ -1093,28 +1071,6 @@ Personal and commercial use allowed; no resale or redistribution. It is an organ
 This product was created with AI assis
 
 **Price:** 7 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/job-search-tracker-excel)**
-
----
-
-### [Developer & Data Automation Bundle](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v4)
-
-![Developer & Data Automation Bundle](images/bundle-developer-data-automation-v4.png)
-
-All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
-
-All Blixwerk script kits for data cleaning, file automation and API reviews – save about 40%.
-
-Included (15 products, 167 USD if bought separately):
-
-- Clean Data in Minutes – CSV & Excel Cleaning Toolkit (Python) – Clean messy CSV/Excel exports in minutes: dedupe, fix dates, phones, encoding, split, merge, validate. Dry-run + change report.
-- Tame Your Downloads Folder – File Organizer & Bulk Renamer Scripts – Sort, rename, de-duplicate and archive messy folders with a preview mode and a CSV undo log. PowerShell + Bash, scheduler guide included.
-- Launch Without the 2 a.m. Doubt – REST API Security Checklist Kit – 58-item API review kit: PDF + XLSX tracker, curl tests, auth-route scanner script and client report template for Node/Express and Python.
-- Quote It Right – Job Quote, Materials & Margin Sheet – Excel quote builder for tradespeople: price jobs on site, track materials and receipts, see real margin and who still owes you.
-- Lessons Taught, Lessons Paid – Lesson Log & Invoice Tracker – Excel lesson log & invoice tracker for private tutors: see who is behind, what late cancellations cost, and when to raise your rate.
-- Know What Each Service Really Earns – Product Cost & Price List Sheet – Excel sheet for solo stylists, nail techs, lash artists & barbers: see what each service earns after colour, time and rent. Plus price list.
-- Price Your Handmade Work Right – Cost, Fees & Profit Calculator – Excel workbook for makers: see cost, fees and profit per product, get a su
-
-**Price:** 100 USD · **[Get it on Gumroad](https://blixwerk.gumroad.com/l/bundle-developer-data-automation-v4)**
 
 ---
 
@@ -1334,6 +1290,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Hasn't Paid My Invoice: The Email You Rewrote Nine Times](https://blixwerkstudio.com/guides/client-hasnt-paid-my-invoice-what-to-do?s=github) – Monday, 9:05, outside a café: the invoice is overdue, the email draft says sorry too often, and you can't remember the due date. A story about calm.
 
+- [Client Ignoring Overdue Reminders? The Ice Rink Bench](https://blixwerkstudio.com/guides/client-ignoring-overdue-invoice-reminders-what-else-can-i-do?s=github) – Three reminders sent, three times silence. On a cold rink bench, a freelancer finds a calmer way to chase an overdue invoice. A short story.
+
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://blixwerkstudio.com/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
 
 - [Client Keeps Asking for Extra Work for Free? What Do I Say?](https://blixwerkstudio.com/guides/client-keeps-asking-for-extra-work-for-free-freelancer-what-do-i-say?s=github) – A client slips in 'one more small thing' again. A story about the pause before you answer, and finding words that are kind, clear and still yours.
@@ -1544,6 +1502,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Feeling Behind on Everything as a Freelancer? The School Gate, 3:15](https://blixwerkstudio.com/guides/freelancer-falling-behind-on-everything?s=github) – You stand at the school gate with forty unread emails and one thought: I'm falling behind on everything. A quiet story about getting the floor back.
 
+- [Freelance Finances a Mess? The Tyre Fitter's Waiting Area](https://blixwerkstudio.com/guides/freelancer-finances-a-mess-where-to-start?s=github) – Your freelance money feels like a mess and you don't know where to start. A quiet story from a tyre garage waiting room, and a calmer way in.
+
 - [Forgot Invoices as a Freelancer? The Lake Week You Couldn't Enjoy](https://blixwerkstudio.com/guides/freelancer-forgot-invoices-lost-overview?s=github) – You're at the lake, finally off. Then a client asks about an invoice you can't place. A story about losing the overview as a freelancer, and getting it back.
 
 - [Forgot to Write an Invoice as a Freelancer? The Bike Shop Message](https://blixwerkstudio.com/guides/freelancer-forgot-to-write-invoice-lost-overview?s=github) – A friendly email from a client, a bike on the repair stand, and one question: did I ever send that invoice? A story for freelancers who lost track.
@@ -1708,6 +1668,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No sé cuántas horas trabajé para cada cliente y olvidé facturas](https://blixwerkstudio.com/guides/no-se-cuantas-horas-he-trabajado-para-cada-cliente-facturas-olvidadas?s=github) – Un cliente te pregunta cuántas horas llevas y no lo sabes. Una historia sobre facturas olvidadas y la calma de volver a verlo todo claro.
 
+- [No sé cuánto cobrar por servicio y temo perder dinero](https://blixwerkstudio.com/guides/no-se-cuanto-cobrar-por-cada-servicio-miedo-perder-dinero?s=github) – Lunes, 8:50, un mensaje: «¿cuánto cuestan las mechas?» Y tú sueltas un precio de memoria. Una historia sobre cobrar sin miedo a perder dinero.
+
 - [No sé cuánto gano de verdad en mi peluquería a fin de mes](https://blixwerkstudio.com/guides/no-se-cuanto-gano-de-verdad-en-mi-peluqueria-a-fin-de-mes?s=github) – Lunes a las 9:15, la caja de galletas, el datáfono y el alquiler del sillón. Una historia para quien trabaja mucho y no sabe qué le queda a fin de mes.
 
 - [No sé cuánto he ganado este mes como autónomo: el día 30](https://blixwerkstudio.com/guides/no-se-cuanto-he-ganado-este-mes-como-autonomo?s=github) – Tu pareja pregunta cuánto has ganado este mes y tú no sabes qué contestar. Una historia sobre el agobio de no ver tus números y la calma de verlos.
@@ -1793,6 +1755,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnung vergessen zu schreiben? Monate später, und es ist peinlich](https://blixwerkstudio.com/guides/rechnung-vergessen-zu-schreiben-monate-spaeter-freiberufler?s=github) – Im Zug zum Steuerberater fällt dir ein: Die Rechnung für das Projekt im Frühjahr hast du nie geschrieben. Eine Geschichte über Scham und den Weg raus.
 
 - [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://blixwerkstudio.com/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
+
+- [Rechnungsnummer doppelt vergeben? Der Anruf um 9:15](https://blixwerkstudio.com/guides/rechnungsnummer-doppelt-vergeben-was-jetzt-freiberufler?s=github) – Zwei Rechnungen, eine Nummer: Mara hört es am Telefon. Eine ruhige Geschichte über doppelt vergebene Rechnungsnummern und was danach leichter wird.
 
 - [Se acaba el año y tengo los recibos de autónomo hechos un lío](https://blixwerkstudio.com/guides/recibos-autonomo-desordenados-fin-de-ano?s=github) – Es 27 de diciembre, estás en casa de tu madre y en la maleta llevas una bolsa de recibos. Una historia para quien odia el pánico de enero.
 
