@@ -1246,6 +1246,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Bewerbungen im Überblick behalten? Der Anruf an der Ampel](https://blixwerkstudio.com/guides/bewerbungen-ueberblick-behalten-excel?s=github) – Du hast dich so oft beworben, dass du nicht mehr weißt, wo. Eine Geschichte über einen Anruf an der Ampel und wie wieder Ruhe in dein Bewerben kommt.
 
+- [Billed the Same Week Twice? The Cheese Counter Ticket](https://blixwerkstudio.com/guides/billed-same-week-twice-which-hours-invoiced?s=github) – You think you billed the same week twice and can't tell which hours are invoiced. A quiet story about a Saturday queue, two PDFs, and getting calm back.
+
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://blixwerkstudio.com/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
 
 - [Rewriting Data Scripts Again? The Cottage Week Off](https://blixwerkstudio.com/guides/rewriting-data-scripts-again-data-cleaning-file-automation?s=github) – A week off that isn't one: the same CSV cleanup, rewritten from scratch on a cottage sofa. A story for developers tired of rebuilding old scripts.
@@ -1325,6 +1327,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Pushing Back on Your Invoice Amount? The Pharmacy Queue](https://blixwerkstudio.com/guides/client-pushing-back-on-invoice-amount-what-do-i-say?s=github) – The client wrote 'this seems higher than expected.' You're in a pharmacy queue with a phone in your hand. A calm story about finding the words.
 
 - [Client Said My Freelance Rate Is Too High: The Pause on the Call](https://blixwerkstudio.com/guides/client-said-my-freelance-rate-is-too-high-what-do-i-say?s=github) – Thursday, 2:10 pm. The client says your rate is too high and the washing machine keeps spinning. What do you say? A short story about a calmer answer.
+
+- [Client Promised to Pay Friday, Three Fridays Ago?](https://blixwerkstudio.com/guides/client-said-pay-friday-three-fridays-now?s=github) – Friday again and no payment. A story about the third 'I'll pay on Friday' reply, and what changes when chasing stops feeling like begging.
 
 - [Client Says Invoice Was Already Paid? The Car Park Before the Call](https://blixwerkstudio.com/guides/client-says-invoice-already-paid-cant-prove-it?s=github) – Your client swears the invoice was paid. Your records say nothing either way. A short story about that knot in your stomach, and what calms it.
 
@@ -1842,6 +1846,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Steuerfrist naht, Belege-Chaos? Die Mail am Montag um 8:05](https://blixwerkstudio.com/guides/steuerfrist-belege-chaos-freelancer-unterlagen-sortieren?s=github) – Montagmorgen, eine Mail vom Steuerberater, und deine Belege liegen überall verstreut. Eine Geschichte über das Chaos davor und die Ruhe danach.
 
+- [Steuernachzahlung selbstständig: Kein Geld zurückgelegt?](https://blixwerkstudio.com/guides/steuernachzahlung-selbststaendig-kein-geld-zurueckgelegt?s=github) – Der Brief liegt im Briefkasten, das Konto ist halbleer. Eine Geschichte für alle, die bei der Steuernachzahlung nichts zurückgelegt haben.
+
 - [Stock que no se vende y dinero parado: el martes de la gestoría](https://blixwerkstudio.com/guides/stock-acumulado-que-no-se-vende-dinero-parado-pequeno-negocio?s=github) – La gestora te pide el valor de tu almacén y no lo sabes. Una historia sobre stock acumulado, dinero parado y cómo respirar con más calma.
 
 - [Keep Selling Items You Don't Have? The Cinema Foyer](https://blixwerkstudio.com/guides/stop-overselling-items-not-in-stock-small-shop?s=github) – The trailers are rolling when your phone buzzes: another order for the last skein, sold twice. A quiet story for shop owners who keep overselling.
@@ -1897,6 +1903,8 @@ Included (16 products, 175 USD if bought separately):
 - [Weniger als Mindestlohn als Selbstständige? Die Frage beim Kuchen](https://blixwerkstudio.com/guides/verdiene-ich-als-selbststaendiger-weniger-als-mindestlohn?s=github) – Sonntag, Geburtstagskaffee, ein Satz vom Schwager – und plötzlich fragst du dich: Verdiene ich als Selbstständige weniger als Mindestlohn?
 
 - [Me da vergüenza pedir un anticipo a un cliente nuevo](https://blixwerkstudio.com/guides/verguenza-pedir-anticipo-cliente-nuevo-autonomo?s=github) – El cliente nuevo dice «empezamos ya» y tú tienes el correo del anticipo a medio escribir. Una historia sobre cómo pedirlo sin sentir que molestas.
+
+- [Vergüenza de reclamar intereses de demora a otro autónomo](https://blixwerkstudio.com/guides/verguenza-reclamar-intereses-de-demora-cliente-autonomo?s=github) – Tu cliente también es autónomo, paga tarde y reclamarle intereses te da apuro. Una mañana de trimestre, una historia para quien se reconoce.
 
 - [Me da vergüenza subir mis tarifas a clientes antiguos](https://blixwerkstudio.com/guides/verguenza-subir-tarifas-clientes-antiguos-freelance?s=github) – Llevas tres años cobrando lo mismo a Marta y cada vez que abres el correo para avisarla, cierras la pestaña. Una historia sobre subir tarifas sin sudar.
 
