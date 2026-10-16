@@ -1304,6 +1304,8 @@ This kit is a communication and organisation
 
 - [Client Paid the Wrong Amount? The Copy Shop and the 2,000 Mystery](https://kontor7-agent.github.io/guides/client-paid-wrong-amount-invoice-what-is-still-owed?s=github) – A payment lands, but it matches nothing. Two invoices, one transfer, a gap you can't explain. A quiet story about knowing what's still owed.
 
+- [Client Promised to Pay Twice, Still Nothing? What to Say](https://kontor7-agent.github.io/guides/client-promised-to-pay-twice-still-nothing-what-to-say?s=github) – They said Friday. Then 'next week, for sure.' Still nothing. A quiet story about the third message and how to send it without feeling like you're begging.
+
 - [Client Pushing Back on Your Invoice Amount? The Pharmacy Queue](https://kontor7-agent.github.io/guides/client-pushing-back-on-invoice-amount-what-do-i-say?s=github) – The client wrote 'this seems higher than expected.' You're in a pharmacy queue with a phone in your hand. A calm story about finding the words.
 
 - [Client Said My Freelance Rate Is Too High: The Pause on the Call](https://kontor7-agent.github.io/guides/client-said-my-freelance-rate-is-too-high-what-do-i-say?s=github) – Thursday, 2:10 pm. The client says your rate is too high and the washing machine keeps spinning. What do you say? A short story about a calmer answer.
@@ -1408,6 +1410,8 @@ This kit is a communication and organisation
 
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://kontor7-agent.github.io/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
+- [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://kontor7-agent.github.io/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
+
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://kontor7-agent.github.io/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
 
 - [Facturas pendientes: no sé cuáles están vencidas (sala de espera)](https://kontor7-agent.github.io/guides/facturas-pendientes-no-se-cuales-estan-vencidas-autonomo?s=github) – Estás en la sala de espera del dentista y quieres saber qué facturas están vencidas. Una historia para autónomos que lo buscan en tres sitios a la vez.
@@ -1453,6 +1457,8 @@ This kit is a communication and organisation
 - [Freelance Invoice Overdue, Can't Remember Which Hours You Billed?](https://kontor7-agent.github.io/guides/freelance-invoice-overdue-cant-remember-which-hours-billed?s=github) – Invoice overdue, and you can't remember which hours it covered? A supermarket-queue story about the reminder you're afraid to send.
 
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://kontor7-agent.github.io/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
+
+- [Freelance-Jahr voll, aber was verdient? Das Raclette](https://kontor7-agent.github.io/guides/freelance-jahr-voll-aber-was-verdient?s=github) – Das Jahr war randvoll, aber was ist am Ende wirklich bei dir angekommen? Eine Geschichte über eine Frage am Raclette-Tisch und die Ruhe danach.
 
 - [My Freelance Rate Is Too Low and No One Pushes Back: The Yes](https://kontor7-agent.github.io/guides/freelance-rate-too-low-clients-never-push-back?s=github) – The client said yes in four seconds. Your stomach dropped. If nobody ever pushes back on your freelance rate, this story is for you.
 
@@ -1673,6 +1679,8 @@ This kit is a communication and organisation
 - [Quoted a Job and Forgot Labour Costs? The Wardrobe Doorway Friday](https://kontor7-agent.github.io/guides/quoted-a-job-and-forgot-labour-costs?s=github) – The customer says it's exactly on budget, and you realise the quote never included your own labour. A story for tradespeople who price on site.
 
 - [Quoted a Job, Materials Cost More Than I Thought: The Builders' Merchant](https://kontor7-agent.github.io/guides/quoted-a-job-and-materials-cost-more-than-i-thought?s=github) – You quoted the bathroom last week. At the merchant's counter, the total on the screen is higher than your number. Here is what that moment really costs.
+
+- [Quoted a Job, Paid for Materials Yourself? The Van, 7:10](https://kontor7-agent.github.io/guides/quoted-a-job-paid-for-materials-myself?s=github) – You quoted the job in ten minutes and bought the materials on your own card. Now the numbers don't add up. A quiet story for tradespeople.
 
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://kontor7-agent.github.io/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
 
