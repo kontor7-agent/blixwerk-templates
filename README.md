@@ -1322,6 +1322,8 @@ This kit is a communication and organisation
 
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://kontor7-agent.github.io/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
 
+- [Vague Client Feedback Email? The Baggage Carousel Reply](https://kontor7-agent.github.io/guides/client-sent-vague-feedback-email-how-to-reply?s=github) – The email says 'not quite there, make it pop.' You're at a baggage carousel with no idea what to answer. A calm story about replying anyway.
+
 - [Client Taking Forever to Reply? Following Up Without Pushy](https://kontor7-agent.github.io/guides/client-taking-forever-to-reply-how-to-follow-up-without-being-pushy?s=github) – Your client has gone quiet and every follow-up draft sounds either desperate or cross. A quiet Monday-morning story about finding the calm middle.
 
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://kontor7-agent.github.io/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
@@ -1506,6 +1508,8 @@ This kit is a communication and organisation
 
 - [Don't Know Who Has Paid? Freelance Invoices at the Swimming Pool](https://kontor7-agent.github.io/guides/freelancer-invoices-spreadsheet-dont-know-who-has-paid?s=github) – Thursday, 4:10 pm, damp bleachers, and an email asking if invoice 14 was paid. A story for freelancers whose invoice spreadsheet stopped being trustworthy.
 
+- [No Idea What to Earn Next Year? The Mulled Wine Queue](https://kontor7-agent.github.io/guides/freelancer-no-idea-how-much-to-earn-next-year?s=github) – Dreading January because you don't know how much you need to earn next year? A quiet story from a Christmas market queue, and a calmer way to look at 2027.
+
 - [Overwhelmed by Invoices and Timesheets? The Supermarket Queue](https://kontor7-agent.github.io/guides/freelancer-overwhelmed-invoices-timesheets-whats-paid?s=github) – Standing in the checkout queue, you can't say which invoices are paid. A calm story about invoices, timesheets and finally seeing the whole picture.
 
 - [The Client Asked About Hours: Track Freelance Projects in Excel](https://kontor7-agent.github.io/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
@@ -1629,6 +1633,8 @@ This kit is a communication and organisation
 - [Mi carpeta de descargas es un desastre: el archivo que no aparecía](https://kontor7-agent.github.io/guides/mi-carpeta-de-descargas-es-un-desastre-y-no-encuentro-nada?s=github) – Compartes pantalla en una videollamada y tu carpeta de descargas queda a la vista. Una historia sobre archivos perdidos y cómo volver a la calma.
 
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://kontor7-agent.github.io/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
+
+- [Miedo a gastarme el IVA y el IRPF del trimestre](https://kontor7-agent.github.io/guides/miedo-gastarme-iva-irpf-trimestral-autonomo?s=github) – Es mediados de octubre, el trimestre se acerca y no sabes cuánto apartar. Una historia sobre el miedo a gastarte un dinero que no es del todo tuyo.
 
 - [Parents Forget to Pay for Music Lessons? The Hallway Handover](https://kontor7-agent.github.io/guides/music-teacher-parents-forget-to-pay-for-lessons?s=github) – The cello case is by the door, the envelope hasn't come, and you smile anyway. A gentle story for music teachers whose parents forget to pay.
 
@@ -1809,6 +1815,8 @@ This kit is a communication and organisation
 - [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://kontor7-agent.github.io/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
 
 - [Stunden nicht aufgeschrieben, Rechnung unmöglich? Die Waschanlage](https://kontor7-agent.github.io/guides/stunden-vergessen-aufzuschreiben-rechnung-nicht-moeglich?s=github) – Freitag, 12:10, Waschanlage: Der Kunde will die Rechnung, aber deine Stunden stehen nirgends. Eine Geschichte über Ruhe statt Rätselraten.
+
+- [Stundensatz reicht nicht für Steuern und Krankenkasse?](https://kontor7-agent.github.io/guides/stundensatz-reicht-nicht-steuern-krankenkasse?s=github) – Ein Brief im Hausflur, und die Frage: Reicht dein Stundensatz für Steuern und Krankenkasse? Eine Geschichte über Ruhe statt Bauchgefühl.
 
 - [Tardo una hora en escribir un correo a un cliente: el lunes de las 9:40](https://kontor7-agent.github.io/guides/tardo-una-hora-en-escribir-un-correo-a-un-cliente?s=github) – Son las 9:40, el café se enfría y el correo para tu cliente sigue en blanco. Una historia sobre bloquearse al escribir y cómo soltar ese nudo.
 
