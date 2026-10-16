@@ -1620,6 +1620,8 @@ This kit is a communication and organisation
 
 - [Handmade Profit Per Product? The Custom Quote at a Market Stall](https://kontor7-agent.github.io/guides/handmade-profit-per-product-market-stall-custom-quote?s=github) – A customer asks for twelve custom mugs and you quote from your head. A market-day story about true profit, cash float and stock, and the calm after.
 
+- [Material ausgegangen, Bestellungen offen? Mittwoch, 15:10](https://kontor7-agent.github.io/guides/material-ausgegangen-mitten-in-den-bestellungen?s=github) – Elf Bestellungen, fünf Dochte im Karton: Eine Kerzengießerin merkt mitten im Auftrag, dass das Material fehlt. Eine beispielhafte Geschichte.
+
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://kontor7-agent.github.io/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
 
 - [Me da vergüenza decirle mi precio a un cliente nuevo: el café](https://kontor7-agent.github.io/guides/me-da-verguenza-decirle-mi-precio-a-un-cliente-nuevo-freelance?s=github) – Estás en un café con un cliente nuevo y te pregunta cuánto cobras. Una historia para quien siente que el precio se le atasca en la garganta.
@@ -1716,6 +1718,8 @@ This kit is a communication and organisation
 
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://kontor7-agent.github.io/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
 
+- [Quoted a Job, Materials Cost More? The Deck Rail Call](https://kontor7-agent.github.io/guides/quoted-job-materials-cost-more-how-to-stop?s=github) – You quoted from memory, then the timber invoice landed. A short story for tradespeople about materials, margin and quoting without the knot in your stomach.
+
 - [Raise Your Lesson Rate Without Dread: The Piano Stool at 3:40](https://kontor7-agent.github.io/guides/raise-lesson-rate-private-tutor-price-increase-letter?s=github) – Your lesson rate hasn't moved in four years and the letter sits unwritten. A quiet story about finally saying the new price in your own calm voice.
 
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://kontor7-agent.github.io/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
@@ -1741,6 +1745,8 @@ This kit is a communication and organisation
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://kontor7-agent.github.io/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
 
 - [Hundreds of Files With Random Names? The Photographer's Handover](https://kontor7-agent.github.io/guides/rename-hundreds-of-files-with-random-names-windows?s=github) – Three hundred files named IMG_4471 and scan_final2. The client is on screen-share and you can't find a thing. A story about renaming, and the calm after.
+
+- [Renombrar cientos de archivos a mano en Windows: un lunes](https://kontor7-agent.github.io/guides/renombrar-cientos-de-archivos-windows?s=github) – Son las 9:40, tienes 340 archivos con nombres imposibles y una entrega a las 11. Una historia sobre renombrar en Windows sin perder la mañana.
 
 - [Repetitive Data Chores Eating Your Week? The Cold Monday Coffee](https://kontor7-agent.github.io/guides/repetitive-data-and-file-chores-at-work?s=github) – Monday, 8:40 am, coffee going cold while you rename files and fix the same export again. A story for anyone tired of repetitive data and file chores.
 
@@ -1775,6 +1781,8 @@ This kit is a communication and organisation
 - [Self-Employed Hairdresser, No Idea What You Earn After Chair Rent?](https://kontor7-agent.github.io/guides/self-employed-hairdresser-earnings-after-chair-rent?s=github) – The rent leaves your account on the 1st and you still can't say what's actually yours. A quiet story for chair-renting stylists.
 
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://kontor7-agent.github.io/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
+
+- [Handmade Profit After Fees? The Payout at the Checkout](https://kontor7-agent.github.io/guides/selling-handmade-not-sure-profit-after-fees?s=github) – The payout notification looked lower than the month felt. A maker's moment in the checkout queue, and what it's like to finally see profit after fees.
 
 - [Server Disk Full From Old Backups? The Hut on the Hill](https://kontor7-agent.github.io/guides/server-disk-full-old-backups?s=github) – Day off, soup on the table, and a phone buzzing: disk full. A story about old backups nobody cleaned up, and what a quiet Monday feels like instead.
 
