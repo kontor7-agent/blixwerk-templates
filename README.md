@@ -1292,6 +1292,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Rewriting Data Scripts Again? The Cottage Week Off](https://blixwerkstudio.com/guides/rewriting-data-scripts-again-data-cleaning-file-automation?s=github) – A week off that isn't one: the same CSV cleanup, rewritten from scratch on a cottage sofa. A story for developers tired of rebuilding old scripts.
 
+- [Scattered Data Scripts? The Shoe Repair Counter](https://blixwerkstudio.com/guides/scattered-data-scripts-one-toolbox-developer?s=github) – Three chores, three half-remembered scripts, and a Monday morning at a shoe repair counter. A story for developers tired of rebuilding the same tools.
+
 - [Tuesday, 9:40 am: The Client Call Where Your Script Failed](https://blixwerkstudio.com/guides/script-kits-data-cleaning-file-automation-api-review?s=github) – A video call, a shared screen, and a script that worked yesterday. A story about small scripts you can trust, and the calm that comes with them.
 
 - [Too Many Freelance Spreadsheets? The Monday Kettle Moment](https://blixwerkstudio.com/guides/excel-trackers-for-freelancers-one-download?s=github) – Invoices in one file, hours in another, prices in a third. A Monday-morning story for freelancers who want their Excel trackers in one calm place.
