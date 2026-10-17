@@ -1478,6 +1478,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot to Write an Invoice? The Freelancer's Tuesday at the Bank](https://blixwerkstudio.com/guides/forgot-to-write-invoice-freelancer-lost-overview?s=github) – You stand in a queue and suddenly wonder: did I ever bill that job? A quiet story about losing the overview as a freelancer, and getting it back.
 
+- [Fotos geliefert, Restzahlung offen? Die Raststätte, 13:15](https://blixwerkstudio.com/guides/foto-restzahlung-offen-kunde-hat-alle-bilder?s=github) – Alle Fotos sind raus, der Restbetrag fehlt noch. Eine Fotografin an der Raststätte und die Ruhe, die kommt, wenn du siehst, was offen ist.
+
 - [Fotograf: Stunden in der Bearbeitung – verdienst du überhaupt was?](https://blixwerkstudio.com/guides/fotograf-bildbearbeitung-dauert-ewig-verdiene-ich-ueberhaupt-was?s=github) – Das Brautpaar fragt nach den Bildern, du sitzt seit Tagen in der Bearbeitung und weißt nicht, ob sich der Auftrag lohnt. Eine Geschichte.
 
 - [Fotoshooting nicht abgerechnet? Der Download-Hinweis um 12:40](https://blixwerkstudio.com/guides/fotograf-rechnung-vergessen-nach-shooting?s=github) – Die Galerie ist längst geliefert, die Rechnung nie geschrieben. Eine Fotografin, ein Bahnhofscafé und der Moment, in dem sie es merkt.
@@ -1766,9 +1768,13 @@ Included (16 products, 175 USD if bought separately):
 
 - [Parents Pay Tutoring Late? The Half-Term Zoo Queue](https://blixwerkstudio.com/guides/private-tutor-parents-paying-late-awkward-asking?s=github) – Parents keep paying late and asking feels awkward? A tutor stands in a zoo queue, trying to remember who owes what. A calmer way to see it.
 
+- [Students Forget to Pay for Lessons? The 12:50 Sandwich](https://blixwerkstudio.com/guides/private-tutor-students-forget-to-pay-for-lessons?s=github) – Four minutes between two video lessons, a sandwich going dry, and a question you can't ask: who hasn't paid? A story for private tutors.
+
 - [Profit on Handmade Items After Etsy Fees? The Frame Shop](https://blixwerkstudio.com/guides/profit-on-handmade-items-after-etsy-fees?s=github) – The framer asked how your Etsy shop was going and you said 'good!' without knowing. A quiet story about handmade profit after fees, and what eases the doubt.
 
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://blixwerkstudio.com/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
+
+- [Mi proyecto se alargó y cobré lo mismo como autónomo](https://blixwerkstudio.com/guides/proyecto-se-alargo-cobre-lo-mismo-autonomo?s=github) – En la cola del pan llega el mensaje: «¿Cerramos ya?». El proyecto duró el triple y la factura es la misma. Una historia sobre verlo a tiempo.
 
 - [Quittung verloren – Betriebsausgabe weg? Der Parkautomat](https://blixwerkstudio.com/guides/quittung-verloren-betriebsausgabe-was-tun-selbststaendig?s=github) – Der Parkautomat spuckt kein Ticket aus, die Quittung ist weg. Eine Geschichte über verlorene Belege und die Ruhe, die entsteht, wenn alles einen Platz hat.
 
@@ -1917,6 +1923,8 @@ Included (16 products, 175 USD if bought separately):
 - [Trabajo muchas horas y gano poco como freelance: el tren de vuelta](https://blixwerkstudio.com/guides/trabajo-muchas-horas-gano-poco-freelance-que-hago-mal?s=github) – Jueves, 18:10, en el tren de vuelta de una reunión. Trabajas más que nunca y la cuenta no lo refleja. Una historia para quien se pregunta qué hace mal.
 
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://blixwerkstudio.com/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
+
+- [Translator Per-Word Rate to Hourly Pay? The Bike Shop](https://blixwerkstudio.com/guides/translator-per-word-rate-to-hourly-pay?s=github) – A rush job, a CAT discount, a per-word rate you never converted. A translator's Thursday at the bike shop, and the calm of knowing your hourly pay.
 
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://blixwerkstudio.com/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
 
