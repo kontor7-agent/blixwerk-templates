@@ -1398,6 +1398,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
 
+- [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
+
 - [¿Cuántos clientes necesito el próximo año como autónomo?](https://blixwerkstudio.com/guides/cuantos-clientes-necesito-proximo-ano-autonomo?s=github) – Tu tío pregunta cuántos clientes tendrás el año que viene y te quedas en blanco. Una historia sobre ordenar tu año de autónomo sin agobio.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
@@ -1417,6 +1419,8 @@ Included (16 products, 175 USD if bought separately):
 - [Does My Hourly Rate Cover Taxes and Unpaid Time? The Bus Home](https://blixwerkstudio.com/guides/does-my-hourly-rate-cover-taxes-and-unpaid-time?s=github) – On the bus home, a nice number on an invoice suddenly feels too small. A quiet story about rates, taxes and the hours nobody pays you for.
 
 - [Can't Reply to a Difficult Client Email? The Ironing Board Monday](https://blixwerkstudio.com/guides/dont-know-how-to-reply-to-difficult-client-email-freelance?s=github) – The email lands at 7:52 on a Monday. You read it four times and still don't know what to write. A story for freelancers who freeze on hard replies.
+
+- [Dreading a Difficult Client Email? The Fitting Room](https://blixwerkstudio.com/guides/dreading-difficult-client-email-freelancer-what-to-say?s=github) – The client's email sits unanswered while you wait behind a fitting room curtain. For freelancers who don't know what to say, and how that knot can loosen.
 
 - [Dreading Year-End Bookkeeping? No Idea Where Your Receipts Are](https://blixwerkstudio.com/guides/dreading-year-end-bookkeeping-freelancer-receipts?s=github) – A video call that starts late, a reminder you've snoozed since October, and the quiet dread of not knowing where your receipts are. A calmer year-end is possible.
 
@@ -1632,6 +1636,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde zweifelt deine Stunden an? Der Anruf im Regionalzug](https://blixwerkstudio.com/guides/kunde-zweifelt-stunden-rechnung-nachweisen?s=github) – Die Buchhaltung deines Kunden fragt: „Stimmen die 23 Stunden wirklich?“ Und du kannst es nicht belegen. Eine Geschichte über den Moment danach.
 
+- [Kunden höflich kündigen als Freelancer? Die Sonntagsmail](https://blixwerkstudio.com/guides/kunden-hoeflich-kuendigen-freelancer?s=github) – Sonntag, 15:40: Eine Nachricht vom anstrengenden Kunden, und dein Magen zieht sich zusammen. Eine Geschichte über das Ende einer Zusammenarbeit.
+
 - [Where Did the Stock Go? The Tuesday Morning Count in the Back Room](https://blixwerkstudio.com/guides/stock-list-reorder-point-excel-small-business?s=github) – You count shelves by hand, and the numbers still don't match. A calm story about a small business owner who stops being surprised by an empty shelf.
 
 - [Lagerbestand stimmt nie mit der Excel-Liste? Samstag, 7:50 Uhr](https://blixwerkstudio.com/guides/lagerbestand-stimmt-nicht-mit-excel-liste-ueberein?s=github) – Auf der Liste stehen 14, in der Kiste ist nichts. Eine Geschichte vom Marktstand und davon, wie es sich anfühlt, wenn der Bestand endlich stimmt.
@@ -1779,6 +1785,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnungsnummer doppelt vergeben? Der Anruf um 9:15](https://blixwerkstudio.com/guides/rechnungsnummer-doppelt-vergeben-was-jetzt-freiberufler?s=github) – Zwei Rechnungen, eine Nummer: Mara hört es am Telefon. Eine ruhige Geschichte über doppelt vergebene Rechnungsnummern und was danach leichter wird.
 
 - [Se acaba el año y tengo los recibos de autónomo hechos un lío](https://blixwerkstudio.com/guides/recibos-autonomo-desordenados-fin-de-ano?s=github) – Es 27 de diciembre, estás en casa de tu madre y en la maleta llevas una bolsa de recibos. Una historia para quien odia el pánico de enero.
+
+- [Recruiter Called, Forgot You Applied? The Cloakroom Ticket](https://blixwerkstudio.com/guides/recruiter-called-forgot-which-jobs-i-applied-to?s=github) – The recruiter says your name warmly. You have no idea which job she means. A short story about that blank moment, and what a calmer job search feels like.
 
 - [Had to Refund an Order Because It Was Sold Out? The Birthday Lunch](https://blixwerkstudio.com/guides/refund-customer-item-already-sold-out?s=github) – The phone buzzes under the table: the last skein is gone and the customer has already paid. A story about refunds, sold-out stock and a calmer shelf.
 
