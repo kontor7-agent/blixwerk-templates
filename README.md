@@ -1370,6 +1370,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://blixwerkstudio.com/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
 
+- [Cliente nuevo y no sé qué preguntarle antes de empezar](https://blixwerkstudio.com/guides/cliente-nuevo-no-se-que-preguntar-antes-de-empezar-proyecto?s=github) – Cinco minutos para la llamada con tu cliente nuevo y la libreta en blanco. Una historia sobre empezar un proyecto sin miedo a olvidar lo importante.
+
 - [Un cliente nuevo me pide trabajo gratis para probar: ¿qué respondo?](https://blixwerkstudio.com/guides/cliente-nuevo-pide-trabajo-gratis-para-probar-que-responder?s=github) – El mensaje llega en el tren: «Haznos una prueba gratis y luego vemos». Una historia sobre el nudo en el estómago y cómo responder sin quedar mal.
 
 - [Mi cliente paga a 90 días y no llego a fin de mes: el bus del 28](https://blixwerkstudio.com/guides/cliente-paga-a-90-dias-no-llego-a-fin-de-mes-autonomo?s=github) – El día 28, en el autobús, abres la app del banco: la factura a 90 días no llega y el alquiler sí. Una historia para autónomos que cobran tarde.
@@ -1413,6 +1415,8 @@ Included (16 products, 175 USD if bought separately):
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
 - [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://blixwerkstudio.com/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
+
+- [Freelance Receipts a Mess in December? The Advent Door](https://blixwerkstudio.com/guides/december-freelance-receipts-a-mess-where-to-start?s=github) – It's December, your receipts are in a carrier bag, and you don't know where to start. A quiet Monday-morning story about a calmer way into year-end.
 
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://blixwerkstudio.com/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
 
@@ -1793,6 +1797,8 @@ Included (16 products, 175 USD if bought separately):
 - [Raise Your Lesson Rate Without Dread: The Piano Stool at 3:40](https://blixwerkstudio.com/guides/raise-lesson-rate-private-tutor-price-increase-letter?s=github) – Your lesson rate hasn't moved in four years and the letter sits unwritten. A quiet story about finally saying the new price in your own calm voice.
 
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
+
+- [Rechnung letzten Monat geschrieben? Das Hallenbad, 9:20](https://blixwerkstudio.com/guides/rechnung-letzten-monat-geschrieben-freelancer-vergessen?s=github) – Samstag im Hallenbad, Handy in der Hand: Hast du im September die Rechnung geschrieben? Eine Geschichte über den Zweifel – und über mehr Ruhe.
 
 - [Rechnung monatelang nicht geschrieben? Der Satz im Videocall](https://blixwerkstudio.com/guides/rechnung-monatelang-nicht-geschrieben-nachtraeglich-schicken?s=github) – Im Kundengespräch fällt dir ein: Die Rechnung vom Frühjahr ist nie rausgegangen. Eine Geschichte über Peinlichkeit, Ruhe und den Weg zurück.
 
