@@ -1516,6 +1516,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Einkommen schwankt jeden Monat? Der Parkplatz vor der Kita](https://blixwerkstudio.com/guides/freelance-einkommen-schwankt-naechstes-jahr-planen?s=github) – Freitag, 16:25 Uhr, Parkplatz vor der Kita: Ein Monat voll, der nächste leer. Wie sich das nächste Jahr plötzlich weniger wie Glücksspiel anfühlt.
 
+- [Rate Too Low for Taxes and Holidays? The Museum Café](https://blixwerkstudio.com/guides/freelance-hourly-rate-cover-taxes-holidays?s=github) – A friend mentions her paid holiday and your stomach drops. Does your freelance hourly rate cover taxes and time off? A quiet story about finding out.
+
 - [Freelance Feast and Famine: Worried About Next Month's Income?](https://blixwerkstudio.com/guides/freelance-income-feast-and-famine-worried-about-next-month?s=github) – Three invoices paid in one week, then silence. If you lie awake wondering about next month, this story about a ceramic tiler's Monday is for you.
 
 - [Freelance Invoice Overdue, Can't Remember Which Hours You Billed?](https://blixwerkstudio.com/guides/freelance-invoice-overdue-cant-remember-which-hours-billed?s=github) – Invoice overdue, and you can't remember which hours it covered? A supermarket-queue story about the reminder you're afraid to send.
@@ -1586,6 +1588,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://blixwerkstudio.com/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
 
+- [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
+
 - [Craft Stock and Orders in a Mess? The Courier Slot](https://blixwerkstudio.com/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
 
 - [Is My Freelance Day Rate Too Low? The Soft-Play Birthday Party](https://blixwerkstudio.com/guides/how-do-i-know-if-my-freelance-day-rate-is-too-low?s=github) – A birthday party, a stranger's casual question, and the number you said too fast. A quiet story about how you know your day rate is too low.
@@ -1650,6 +1654,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
 
+- [Kunde sagt „Zahlung kommt“, nichts passiert? Regentag](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelance?s=github) – Dritte Woche „kommt diese Woche“, und du sitzt in der Ferienwohnung und aktualisierst das Konto. Eine Geschichte über Ruhe, wenn Geld auf sich warten lässt.
+
 - [Zahlung wird veranlasst – seit Wochen? Der Kleingarten](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelancer-f889?s=github) – Der Kunde sagt seit Wochen, die Zahlung sei unterwegs, aber auf dem Konto passiert nichts. Eine Geschichte über das Warten und wie es leiser wird.
 
 - [Zahlung kommt angeblich, aber nichts? Der Friseurstuhl](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelancer?s=github) – Folie im Haar, Handy im Schoß, wieder nur „kommt diese Woche“. Eine Geschichte über leere Zahlungszusagen und darüber, wie ruhiges Nachfassen sich anfühlt.
@@ -1699,6 +1705,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me quedo sin stock y no sé cuándo reponer: la llamada de las 9](https://blixwerkstudio.com/guides/me-quedo-sin-stock-no-se-cuando-reponer?s=github) – Son las nueve, el proveedor dice «tres semanas» y tu producto estrella ya casi no queda. Una historia sobre dejar de reponer a ciegas.
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
+
+- [Messy CSV Exports Every Week? The Cabin Draining Board](https://blixwerkstudio.com/guides/messy-csv-exports-every-week-fixing-by-hand?s=github) – Half-term in a rented cabin, laptop on the draining board, and the same messy CSV to fix by hand again. A story for anyone who loses hours to exports.
 
 - [Mezclo gastos personales y del negocio: ¿y ahora qué?](https://blixwerkstudio.com/guides/mezclo-gastos-personales-y-del-negocio-autonomo?s=github) – Estás en la gasolinera con un ticket en la mano y no sabes si es del negocio o de casa. Una historia para autónomos con los gastos revueltos.
 
