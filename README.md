@@ -1622,6 +1622,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
 
+- [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
+
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
 - [Kunde verspricht Zahlung, aber nichts kommt? Die Parkbank](https://blixwerkstudio.com/guides/kunde-verspricht-zahlung-aber-nichts-kommt-freelancer?s=github) – Donnerstag, 12:20, Banking-App zum x-ten Mal: Der Kunde verspricht zu zahlen, aber nichts kommt. Eine Geschichte über mehr Ruhe.
@@ -1686,7 +1688,11 @@ Included (16 products, 175 USD if bought separately):
 
 - [I Never Know When to Reorder Stock: The Bus Stop at 7:52](https://blixwerkstudio.com/guides/never-know-when-to-reorder-stock-small-shop?s=github) – You're at the bus stop when a customer asks if the grey is back in stock, and you honestly don't know. A story about reorder timing for small shops.
 
+- [New Freelance Client, No Process? The Porridge Monday](https://blixwerkstudio.com/guides/new-freelance-client-no-process-messy-start?s=github) – A new client says 'let's start Monday' and your process is scattered emails and guesswork. A short story about a calmer first week.
+
 - [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://blixwerkstudio.com/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
+
+- [No sé a qué precio vender lo hecho a mano y me da miedo](https://blixwerkstudio.com/guides/no-se-a-que-precio-vender-mis-productos-hechos-a-mano?s=github) – La dueña de la tienda pregunta tu precio y se te escapa uno demasiado bajo. Una historia para quien hace cosas a mano y teme ponerlas caras.
 
 - [No sé cómo escribirle a mi cliente ese correo incómodo](https://blixwerkstudio.com/guides/no-se-como-escribir-un-email-incomodo-a-un-cliente?s=github) – Son las 9:40, el cursor parpadea y llevas tres días sin escribirle a tu cliente. Una historia sobre ese correo difícil y la calma de tenerlo ya empezado.
 
@@ -1743,6 +1749,8 @@ Included (16 products, 175 USD if bought separately):
 - [Primera factura freelance: no sé qué poner (plantilla gratis)](https://blixwerkstudio.com/guides/primera-factura-freelance-no-se-que-poner-plantilla-gratis?s=github) – El cliente dice «mándame la factura» y tú miras un documento en blanco sin saber qué poner. Una historia sobre ese miedo y una plantilla gratis.
 
 - [Tutoring Parent Pays Late Again? The Station Café at 4:10](https://blixwerkstudio.com/guides/private-tutor-parent-pays-late-awkward-to-ask?s=github) – A parent pays late again and asking feels awkward. A tutor's quiet afternoon between two lessons, and what changes when you can finally see who is behind.
+
+- [Parents Pay Tutoring Late? The Half-Term Zoo Queue](https://blixwerkstudio.com/guides/private-tutor-parents-paying-late-awkward-asking?s=github) – Parents keep paying late and asking feels awkward? A tutor stands in a zoo queue, trying to remember who owes what. A calmer way to see it.
 
 - [Profit on Handmade Items After Etsy Fees? The Frame Shop](https://blixwerkstudio.com/guides/profit-on-handmade-items-after-etsy-fees?s=github) – The framer asked how your Etsy shop was going and you said 'good!' without knowing. A quiet story about handmade profit after fees, and what eases the doubt.
 
