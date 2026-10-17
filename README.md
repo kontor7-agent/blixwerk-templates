@@ -1280,6 +1280,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Remember Which Companies Replied? The Dentist Call](https://blixwerkstudio.com/guides/cant-remember-which-companies-replied-job-applications?s=github) – You've sent dozens of applications and a recruiter just phoned. Which company was this? A calm story about losing track, and getting your head back.
 
+- [Forgot Which Projects You Invoiced? The Flower Stall](https://blixwerkstudio.com/guides/cant-remember-which-freelance-projects-invoiced?s=github) – Saturday market, a bunch of tulips, and one question you can't answer: did you invoice that project? A calm story about knowing, not guessing.
+
 - [Forgot Which Jobs You Applied To? The Tram Stop Voicemail](https://blixwerkstudio.com/guides/cant-remember-which-jobs-i-applied-to-and-followed-up?s=github) – A recruiter calls back and you can't place the company. If you've lost track of which jobs you applied to and followed up on, this story is for you.
 
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://blixwerkstudio.com/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
@@ -1397,6 +1399,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Full of Trailing Spaces and Mixed Dates? The Lunch Break Fix](https://blixwerkstudio.com/guides/csv-export-trailing-spaces-mixed-date-formats?s=github) – Half past twelve, a sandwich going cold, and a CSV where every date looks different. A short story about cleaning exports by hand, and the day it stopped.
 
 - [CSV Full of Duplicates Every Week? The Friday 11:00 Call](https://blixwerkstudio.com/guides/csv-file-full-of-duplicates-inconsistent-formatting-every-week?s=github) – Same export, same duplicates, same odd formatting every week. A story about the Friday call where the numbers didn't match, and a calmer way to start the week.
+
+- [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
 
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
 
@@ -1626,6 +1630,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
 
+- [Zahlung kommt angeblich, aber nichts? Der Friseurstuhl](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelancer?s=github) – Folie im Haar, Handy im Schoß, wieder nur „kommt diese Woche“. Eine Geschichte über leere Zahlungszusagen und darüber, wie ruhiges Nachfassen sich anfühlt.
+
 - [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
@@ -1663,6 +1669,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://blixwerkstudio.com/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
 
 - [Me da vergüenza decirle mi precio a un cliente nuevo: el café](https://blixwerkstudio.com/guides/me-da-verguenza-decirle-mi-precio-a-un-cliente-nuevo-freelance?s=github) – Estás en un café con un cliente nuevo y te pregunta cuánto cobras. Una historia para quien siente que el precio se le atasca en la garganta.
+
+- [Me olvido de todo trabajando por mi cuenta: jueves, 16:55](https://blixwerkstudio.com/guides/me-olvido-de-todo-no-organizo-mi-semana-autonomo?s=github) – Estás en la puerta del colegio y recuerdas la entrega que prometiste. Una historia para quien trabaja por su cuenta y no consigue organizar su semana.
 
 - [Me quedé sin stock otra vez: el sábado del mercadillo](https://blixwerkstudio.com/guides/me-quede-sin-stock-otra-vez-control-de-inventario?s=github) – Sábado, 9:40, el puesto montado y falta lo que más se vende. Una historia sobre quedarte sin stock otra vez y el control de inventario que no llevas.
 
