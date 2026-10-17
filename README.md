@@ -1664,6 +1664,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
+- [Zahlung kommt, sagt der Kunde? Der Steuertermin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert?s=github) – „Die Zahlung kommt diese Woche.“ Zum dritten Mal. Eine Geschichte über Lenas Steuertermin und die Ruhe, die entsteht, wenn du weißt, was als Nächstes dran ist.
+
 - [Kunde verspricht Zahlung, aber nichts kommt? Die Parkbank](https://blixwerkstudio.com/guides/kunde-verspricht-zahlung-aber-nichts-kommt-freelancer?s=github) – Donnerstag, 12:20, Banking-App zum x-ten Mal: Der Kunde verspricht zu zahlen, aber nichts kommt. Eine Geschichte über mehr Ruhe.
 
 - [Kunde will Rabatt? Freiberuflerin, Nudelwasser und kein Satz](https://blixwerkstudio.com/guides/kunde-will-rabatt-freiberufler-was-sagen?s=github) – Der Kunde fragt nach Rabatt, und dir fällt nichts ein. Eine Geschichte über das Schweigen am Telefon und darüber, wie du ruhig antworten kannst.
@@ -1733,6 +1735,8 @@ Included (16 products, 175 USD if bought separately):
 - [New Freelance Client, No Idea How to Start? The Egg Queue](https://blixwerkstudio.com/guides/new-freelance-client-how-to-start-project?s=github) – The yes arrives while you queue for eggs. Now what? A calm story about starting a new freelance client project without winging it.
 
 - [New Freelance Client, No Process? The Porridge Monday](https://blixwerkstudio.com/guides/new-freelance-client-no-process-messy-start?s=github) – A new client says 'let's start Monday' and your process is scattered emails and guesswork. A short story about a calmer first week.
+
+- [No consigo organizar mi semana como autónomo y no avanzo](https://blixwerkstudio.com/guides/no-consigo-organizar-mi-semana-autonomo-no-avanzo?s=github) – Es miércoles, la semana se te ha ido en cosas pequeñas y sientes que no avanzas. Una historia para quien trabaja por su cuenta.
 
 - [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://blixwerkstudio.com/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
 
