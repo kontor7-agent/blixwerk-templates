@@ -1420,6 +1420,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
+- [Had to Cancel a Customer's Order? The Choir Break Text](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-had-to-cancel-embarrassing?s=github) – A customer ordered something you didn't have, and now you have to cancel. A quiet story about that hot-faced moment and how it stops repeating.
+
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
 - [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://blixwerkstudio.com/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
@@ -1750,6 +1752,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No tengo tiempo para mis redes sociales y me siento culpable](https://blixwerkstudio.com/guides/no-tengo-tiempo-redes-sociales-negocio-culpable?s=github) – La cola de la panadería, el móvil en la mano y 19 días sin publicar. Una historia sobre la culpa de las redes y cómo bajarle el volumen.
 
+- [Cuentas en libretas y papeles: cómo ordenarlas en Excel](https://blixwerkstudio.com/guides/ordenar-cuentas-negocio-excel-libretas-papeles?s=github) – Libretas, tickets y notas pegadas en la pared. Una tapicera, una llamada de un cliente y la sensación de que ordenar las cuentas sí es posible.
+
 - [Out of Stock Again, So Embarrassing: The Customer at Your Counter](https://blixwerkstudio.com/guides/out-of-stock-again-embarrassing-small-business?s=github) – She came in for the one thing you've sold out of again. That small, hot-faced moment at the counter, and what a calmer shelf feels like.
 
 - [Overbooked as a Freelancer? The Park Bench Reply You Couldn't Send](https://blixwerkstudio.com/guides/overbooked-freelancer-how-to-tell-client-cant-take-more-work?s=github) – Your phone buzzes with one more request while your calendar is already full. A calm story about saying 'I'm booked' without losing the client.
@@ -1870,6 +1874,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Selbstständig überfordert: Rechnungen, Stunden und Lager überall](https://blixwerkstudio.com/guides/selbstaendig-ueberfordert-rechnungen-stunden-lager-chaos?s=github) – Im Zug zum Steuerberater, fünf Orte für drei Themen: Rechnungen, Stunden, Lager. Eine Geschichte für alle, die das Gefühl kennen, nichts im Griff zu haben.
 
+- [Selbstgemachtes verkaufen – verdiene ich überhaupt was?](https://blixwerkstudio.com/guides/selbstgemachtes-verkaufen-preis-kalkulieren-verdiene-ich-was?s=github) – Sonntag, 14:20, Handwerkermarkt: Jemand fragt nach dem Preis deiner Kerze, und du weißt nicht, ob du daran überhaupt etwas verdienst.
+
 - [Selbstständig Jahresplanung 2027: Wo soll ich nur anfangen?](https://blixwerkstudio.com/guides/selbststaendig-jahresplanung-2027-wo-anfangen?s=github) – Am Stehtisch fragt jemand nach deinem 2027 und du sagst „läuft“. Eine Geschichte über den Moment, in dem aus Planlosigkeit ein erster ruhiger Schritt wird.
 
 - [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://blixwerkstudio.com/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
@@ -1883,6 +1889,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://blixwerkstudio.com/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
 
 - [Handmade Profit After Fees? The Payout at the Checkout](https://blixwerkstudio.com/guides/selling-handmade-not-sure-profit-after-fees?s=github) – The payout notification looked lower than the month felt. A maker's moment in the checkout queue, and what it's like to finally see profit after fees.
+
+- [Selling Lots of Handmade Items but No Real Profit?](https://blixwerkstudio.com/guides/selling-lots-of-handmade-items-real-profit?s=github) – Parcels go out every day, the stall sells well, yet the account stays thin. A story for makers who can't tell if they're really earning anything.
 
 - [Server Disk Full From Old Backups? The Hut on the Hill](https://blixwerkstudio.com/guides/server-disk-full-old-backups?s=github) – Day off, soup on the table, and a phone buzzing: disk full. A story about old backups nobody cleaned up, and what a quiet Monday feels like instead.
 
