@@ -1296,6 +1296,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Hasn't Paid My Invoice: The Email You Rewrote Nine Times](https://blixwerkstudio.com/guides/client-hasnt-paid-my-invoice-what-to-do?s=github) – Monday, 9:05, outside a café: the invoice is overdue, the email draft says sorry too often, and you can't remember the due date. A story about calm.
 
+- [Client Ignoring Your Invoice Email? Ticket Number 247](https://blixwerkstudio.com/guides/client-ignoring-follow-up-email-unpaid-invoice?s=github) – Your follow-up email sits unanswered and the invoice is weeks late. A quiet story about what to do next, without begging or panicking.
+
 - [Client Ignoring Overdue Reminders? The Ice Rink Bench](https://blixwerkstudio.com/guides/client-ignoring-overdue-invoice-reminders-what-else-can-i-do?s=github) – Three reminders sent, three times silence. On a cold rink bench, a freelancer finds a calmer way to chase an overdue invoice. A short story.
 
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://blixwerkstudio.com/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
@@ -1618,6 +1620,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://blixwerkstudio.com/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
 
+- [Kunde sagt „zu teuer“? Als Freiberufler im Videocall](https://blixwerkstudio.com/guides/kunde-sagt-ich-bin-zu-teuer-freiberufler?s=github) – Dienstag, 10:20 Uhr: Der Kunde sagt „zu teuer“, und du hörst dich schon Rabatt anbieten. Eine Geschichte über den Moment, der auch ruhig ausgehen kann.
+
 - [Kunde: „Zahlung ist raus“ – aber kein Geld? Der Imbiss](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-ist-raus-aber-kein-geld-da?s=github) – „Die Überweisung ist raus“, sagt der Kunde, aber auf dem Konto ist nichts. Eine Mittagspause im Transporter und die Ruhe, die danach möglich ist.
 
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
@@ -1687,6 +1691,8 @@ Included (16 products, 175 USD if bought separately):
 - [Never Know What to Post on Social Media? The Bakery Queue Test](https://blixwerkstudio.com/guides/never-know-what-to-post-on-social-media?s=github) – You're standing in a queue, phone out, and still have no idea what to post. A story about feeling overwhelmed by social media, and the calm after.
 
 - [I Never Know When to Reorder Stock: The Bus Stop at 7:52](https://blixwerkstudio.com/guides/never-know-when-to-reorder-stock-small-shop?s=github) – You're at the bus stop when a customer asks if the grey is back in stock, and you honestly don't know. A story about reorder timing for small shops.
+
+- [New Freelance Client, No Idea How to Start? The Egg Queue](https://blixwerkstudio.com/guides/new-freelance-client-how-to-start-project?s=github) – The yes arrives while you queue for eggs. Now what? A calm story about starting a new freelance client project without winging it.
 
 - [New Freelance Client, No Process? The Porridge Monday](https://blixwerkstudio.com/guides/new-freelance-client-no-process-messy-start?s=github) – A new client says 'let's start Monday' and your process is scattered emails and guesswork. A short story about a calmer first week.
 
@@ -1793,6 +1799,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnungsnummer doppelt vergeben? Der Anruf um 9:15](https://blixwerkstudio.com/guides/rechnungsnummer-doppelt-vergeben-was-jetzt-freiberufler?s=github) – Zwei Rechnungen, eine Nummer: Mara hört es am Telefon. Eine ruhige Geschichte über doppelt vergebene Rechnungsnummern und was danach leichter wird.
 
 - [Se acaba el año y tengo los recibos de autónomo hechos un lío](https://blixwerkstudio.com/guides/recibos-autonomo-desordenados-fin-de-ano?s=github) – Es 27 de diciembre, estás en casa de tu madre y en la maleta llevas una bolsa de recibos. Una historia para quien odia el pánico de enero.
+
+- [Factura vencida: recordárselo al cliente sin sonar borde](https://blixwerkstudio.com/guides/recordar-cliente-factura-vencida-sin-sonar-borde?s=github) – Son las 13:10, hay cola en el microondas y tu cliente lleva doce días de retraso. Del apuro a un recordatorio tranquilo, sin sonar borde.
 
 - [Recruiter Called, Forgot You Applied? The Cloakroom Ticket](https://blixwerkstudio.com/guides/recruiter-called-forgot-which-jobs-i-applied-to?s=github) – The recruiter says your name warmly. You have no idea which job she means. A short story about that blank moment, and what a calmer job search feels like.
 
