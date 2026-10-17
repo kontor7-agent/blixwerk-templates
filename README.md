@@ -1216,6 +1216,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Am I Undercharging as a Freelancer? The Sunday Walk That Hurt](https://blixwerkstudio.com/guides/am-i-undercharging-as-a-freelancer-burnout?s=github) – Fully booked, still tired, still short on money. A quiet story about the moment you wonder if your rate is the real reason you're burning out.
 
+- [Angry Customer Email? How to Reply: The Bakery Counter](https://blixwerkstudio.com/guides/angry-customer-email-how-to-reply-small-business?s=github) – An angry customer email lands at 8:05 on a Monday and your stomach drops. A calm story about replying without panic, defensiveness or three lost hours.
+
 - [Worried Your API Has Security Holes? The Train to the Demo](https://blixwerkstudio.com/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
 
 - [Did I Miss an API Security Check? The Handover Call at 10 am](https://blixwerkstudio.com/guides/api-security-check-before-launch-client-handover?s=github) – The client is waiting on the call, your API is ready, and one quiet thought won't leave: did I miss a security check? A calm story about shipping without doubt.
@@ -1267,6 +1269,8 @@ Included (16 products, 175 USD if bought separately):
 - [Six Spreadsheets, One Question: Excel Trackers for Freelancers](https://blixwerkstudio.com/guides/excel-trackers-for-freelancers-and-small-businesses?s=github) – The client asks one simple question on a call, and your answer lives in five different files. A story about finally having everything in one place.
 
 - [Burned Out on Repetitive Work as a Developer? The Stand-Up Fog](https://blixwerkstudio.com/guides/burned-out-repetitive-tasks-developer?s=github) – Fourth rename of the same file this week? A developer's quiet burnout over manual tasks, and what a calmer Monday could feel like.
+
+- [Buy Planners, Never Stick With Them? The ADHD Drawer](https://blixwerkstudio.com/guides/buy-planners-never-stick-with-them-adhd?s=github) – Four planners, all abandoned by February. A quiet story for freelancers with busy brains who keep starting over, and what a lighter page can change.
 
 - [No Planner Fits Your Freelance Year? The Stationery Aisle](https://blixwerkstudio.com/guides/printable-freelancer-planner-2027?s=github) – Three diaries in your hands, none made for freelancers. A short story about finding one calm place for your year, your clients and your invoices.
 
@@ -1439,6 +1443,8 @@ Included (16 products, 175 USD if bought separately):
 - [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://blixwerkstudio.com/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
 
 - [Empecé con un cliente sin contrato y todo se desordena](https://blixwerkstudio.com/guides/empece-con-un-cliente-sin-contrato-condiciones-claras?s=github) – Dijiste que sí con un mensaje rápido y ahora nadie recuerda qué estaba incluido. Una historia sobre empezar bien con un cliente nuevo.
+
+- [Entrevista mañana y no sé a quién envié mi currículum](https://blixwerkstudio.com/guides/entrevista-manana-no-se-que-preparar-curriculum-enviado?s=github) – Te llaman a las 14:10 para una entrevista mañana y no recuerdas qué empresa era. Una historia sobre ordenar la búsqueda y llegar con calma.
 
 - [Envié el presupuesto y el cliente no responde: ¿le escribo otra vez?](https://blixwerkstudio.com/guides/envie-el-presupuesto-y-el-cliente-no-responde?s=github) – Nueve días sin respuesta a tu presupuesto y la duda en la sala de espera: ¿escribo otra vez o parezco pesado? Una historia para quien se reconoce.
 
@@ -1629,6 +1635,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde kürzt einfach deine Rechnung? Was tun, wenn die Tankstelle wartet](https://blixwerkstudio.com/guides/kunde-kuerzt-rechnung-was-tun?s=github) – Auf dem Konto fehlen 380 Euro, im Verwendungszweck steht nur „gekürzt“. Eine Geschichte für alle, die nicht wissen, was sie jetzt sagen sollen.
 
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://blixwerkstudio.com/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
+
+- [Kunde reagiert nicht auf Mails? Der Radweg um 12:30 Uhr](https://blixwerkstudio.com/guides/kunde-reagiert-nicht-auf-mails-was-schreiben?s=github) – Dritte Mail, keine Antwort, und du weißt nicht, was du noch schreiben sollst. Eine Geschichte über Funkstille und den Satz, der wieder leichtfällt.
 
 - [Kunde sagt „zu teuer“? Als Freiberufler im Videocall](https://blixwerkstudio.com/guides/kunde-sagt-ich-bin-zu-teuer-freiberufler?s=github) – Dienstag, 10:20 Uhr: Der Kunde sagt „zu teuer“, und du hörst dich schon Rabatt anbieten. Eine Geschichte über den Moment, der auch ruhig ausgehen kann.
 
