@@ -1286,6 +1286,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot Which Projects You Invoiced? The Flower Stall](https://blixwerkstudio.com/guides/cant-remember-which-freelance-projects-invoiced?s=github) – Saturday market, a bunch of tulips, and one question you can't answer: did you invoice that project? A calm story about knowing, not guessing.
 
+- [Can't Remember Invoices You Sent? The Coffee Machine](https://blixwerkstudio.com/guides/cant-remember-which-invoices-ive-sent-freelance?s=github) – A client's accountant asks which invoice you meant, and you don't know what you've sent. A calm story about knowing where every invoice stands.
+
 - [Forgot Which Jobs You Applied To? The Tram Stop Voicemail](https://blixwerkstudio.com/guides/cant-remember-which-jobs-i-applied-to-and-followed-up?s=github) – A recruiter calls back and you can't place the company. If you've lost track of which jobs you applied to and followed up on, this story is for you.
 
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://blixwerkstudio.com/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
@@ -1405,6 +1407,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi CSV se abre con caracteres raros en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-caracteres-raros-excel-entregar-hoy?s=github) – Son las 11:40, el archivo se abre lleno de Ã© y �, y la entrega es a las dos. Una historia sobre el CSV que no se deja leer y la calma después.
 
 - [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://blixwerkstudio.com/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
+
+- [Messy CSV Export Every Week? The Conference Coffee Line](https://blixwerkstudio.com/guides/csv-export-full-of-messy-data-every-week?s=github) – The same messy CSV lands in your inbox every week, and every week you fix it by hand. A short story about the Monday it stopped being your job.
 
 - [CSV Full of Trailing Spaces and Mixed Dates? The Lunch Break Fix](https://blixwerkstudio.com/guides/csv-export-trailing-spaces-mixed-date-formats?s=github) – Half past twelve, a sandwich going cold, and a CSV where every date looks different. A short story about cleaning exports by hand, and the day it stopped.
 
@@ -1668,6 +1672,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde verspricht Zahlung, aber nichts kommt? Die Parkbank](https://blixwerkstudio.com/guides/kunde-verspricht-zahlung-aber-nichts-kommt-freelancer?s=github) – Donnerstag, 12:20, Banking-App zum x-ten Mal: Der Kunde verspricht zu zahlen, aber nichts kommt. Eine Geschichte über mehr Ruhe.
 
+- [Kunde will nur eine Kleinigkeit? Der Freitag um 16:50](https://blixwerkstudio.com/guides/kunde-will-noch-eine-kleinigkeit-nein-sagen-freelancer?s=github) – „Nur noch eine kleine Änderung“ – zum zwölften Mal. Eine Freitagsgeschichte aus der Kassenschlange über Scope Creep und den Mut, ruhig Nein zu sagen.
+
 - [Kunde will Rabatt? Freiberuflerin, Nudelwasser und kein Satz](https://blixwerkstudio.com/guides/kunde-will-rabatt-freiberufler-was-sagen?s=github) – Der Kunde fragt nach Rabatt, und dir fällt nichts ein. Eine Geschichte über das Schweigen am Telefon und darüber, wie du ruhig antworten kannst.
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
@@ -1707,6 +1713,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me quedo sin stock y no sé cuándo reponer: la llamada de las 9](https://blixwerkstudio.com/guides/me-quedo-sin-stock-no-se-cuando-reponer?s=github) – Son las nueve, el proveedor dice «tres semanas» y tu producto estrella ya casi no queda. Una historia sobre dejar de reponer a ciegas.
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
+
+- [Mensajes de clientes sin contestar y no tengo tiempo](https://blixwerkstudio.com/guides/mensajes-de-clientes-sin-contestar-no-tengo-tiempo?s=github) – Doce mensajes sin contestar y un bocadillo a medias en la furgoneta. Una historia para quien no tiene tiempo ni de responder a sus clientes.
 
 - [Messy CSV Exports Every Week? The Cabin Draining Board](https://blixwerkstudio.com/guides/messy-csv-exports-every-week-fixing-by-hand?s=github) – Half-term in a rented cabin, laptop on the draining board, and the same messy CSV to fix by hand again. A story for anyone who loses hours to exports.
 
