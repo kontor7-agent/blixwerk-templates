@@ -1344,6 +1344,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://blixwerkstudio.com/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
 
+- [Payment 'Coming' but Nothing Arrives? The Fuel Pump](https://blixwerkstudio.com/guides/client-says-payment-is-coming-but-nothing-arrives?s=github) – Your client swears the payment is on its way, but the account says otherwise. A calm story about what to say next, and how to stop dreading it.
+
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
 
 - [Vague Client Feedback Email? The Baggage Carousel Reply](https://blixwerkstudio.com/guides/client-sent-vague-feedback-email-how-to-reply?s=github) – The email says 'not quite there, make it pop.' You're at a baggage carousel with no idea what to answer. A calm story about replying anyway.
@@ -1359,6 +1361,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente dice que pagará la semana que viene y no paga](https://blixwerkstudio.com/guides/cliente-dice-que-pagara-la-semana-que-viene-y-nunca-paga?s=github) – En la cola de la panadería lees otra vez «te pago la semana que viene». Una historia para quien persigue cobros sin sentirse pesado.
 
 - [Mi cliente dice que ya pagó y no me llega el dinero (autónoma)](https://blixwerkstudio.com/guides/cliente-dice-que-ya-pago-pero-no-me-llega-el-dinero-autonomo?s=github) – Tu cliente jura que ya transfirió y tu cuenta sigue igual. Una mañana de martes, un justificante y la calma de saber qué factura es cuál.
+
+- [Cliente enfadado me manda un correo borde: ¿qué contesto?](https://blixwerkstudio.com/guides/cliente-enfadado-correo-borde-que-contestar-autonomo?s=github) – Un cliente enfadado te escribe un correo borde mientras haces cola en la panadería, y no sabes qué contestar. Una historia sobre recuperar la calma.
 
 - [Mi cliente me escribe a todas horas y no sé poner límites: domingo](https://blixwerkstudio.com/guides/cliente-me-escribe-fuera-de-horario-como-poner-limites?s=github) – Domingo, 11:40, el móvil vibra otra vez. Una historia sobre el cliente que escribe fuera de horario y cómo se siente poner un límite sin culpa.
 
@@ -1644,6 +1648,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
 
+- [Zahlung wird veranlasst – seit Wochen? Der Kleingarten](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelancer-f889?s=github) – Der Kunde sagt seit Wochen, die Zahlung sei unterwegs, aber auf dem Konto passiert nichts. Eine Geschichte über das Warten und wie es leiser wird.
+
 - [Zahlung kommt angeblich, aber nichts? Der Friseurstuhl](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelancer?s=github) – Folie im Haar, Handy im Schoß, wieder nur „kommt diese Woche“. Eine Geschichte über leere Zahlungszusagen und darüber, wie ruhiges Nachfassen sich anfühlt.
 
 - [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
@@ -1799,6 +1805,8 @@ Included (16 products, 175 USD if bought separately):
 - [Quoted a Job, Paid for Materials Yourself? The Van, 7:10](https://blixwerkstudio.com/guides/quoted-a-job-paid-for-materials-myself?s=github) – You quoted the job in ten minutes and bought the materials on your own card. Now the numbers don't add up. A quiet story for tradespeople.
 
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://blixwerkstudio.com/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
+
+- [Forgot Travel Time in Your Quote? The Ring Road at 7:55](https://blixwerkstudio.com/guides/quoted-job-forgot-travel-time-losing-money?s=github) – You quoted the job and forgot the driving. Now every trip across town eats your margin. A calm story about spotting it, and quoting differently next time.
 
 - [Quoted a Job, Materials Cost More? The Deck Rail Call](https://blixwerkstudio.com/guides/quoted-job-materials-cost-more-how-to-stop?s=github) – You quoted from memory, then the timber invoice landed. A short story for tradespeople about materials, margin and quoting without the knot in your stomach.
 
