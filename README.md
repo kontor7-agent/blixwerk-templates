@@ -1248,6 +1248,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Best Seller Out of Stock Again? The Platform at 8:03 am](https://blixwerkstudio.com/guides/best-seller-out-of-stock-again-customer-asked?s=github) – Your best seller sold out days ago and you only found out when a customer asked. A calm story about noticing sooner, before the message arrives.
 
+- [Best Seller Sold Out Unnoticed? The Beach Café Weekend](https://blixwerkstudio.com/guides/best-seller-sold-out-and-i-didnt-notice?s=github) – Your best seller was gone for days and nobody told you. A quiet story about a weekend away, a buzzing phone and a shelf that stops surprising you.
+
 - [Bestseller schon wieder ausverkauft? Dienstag, 7:40 Uhr](https://blixwerkstudio.com/guides/bestseller-ausverkauft-handmade-shop-bestand-unklar?s=github) – Der Bestseller ist wieder weg, und du weißt nicht, was im Regal noch liegt. Eine Geschichte über Handmade-Alltag und ein ruhigeres Lager.
 
 - [Bewerbungen im Überblick behalten? Der Anruf an der Ampel](https://blixwerkstudio.com/guides/bewerbungen-ueberblick-behalten-excel?s=github) – Du hast dich so oft beworben, dass du nicht mehr weißt, wo. Eine Geschichte über einen Anruf an der Ampel und wie wieder Ruhe in dein Bewerben kommt.
@@ -1383,6 +1385,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente dice que ya pagó y no me llega el dinero (autónoma)](https://blixwerkstudio.com/guides/cliente-dice-que-ya-pago-pero-no-me-llega-el-dinero-autonomo?s=github) – Tu cliente jura que ya transfirió y tu cuenta sigue igual. Una mañana de martes, un justificante y la calma de saber qué factura es cuál.
 
 - [Cliente enfadado me manda un correo borde: ¿qué contesto?](https://blixwerkstudio.com/guides/cliente-enfadado-correo-borde-que-contestar-autonomo?s=github) – Un cliente enfadado te escribe un correo borde mientras haces cola en la panadería, y no sabes qué contestar. Una historia sobre recuperar la calma.
+
+- [Me dijo que era caro y no supe qué responder (freelance)](https://blixwerkstudio.com/guides/cliente-me-dice-que-soy-caro-no-se-que-responder-freelance?s=github) – Te dicen «eres caro» y se te cierra la garganta. Una historia sobre dejar de improvisar tu precio y poder responder con calma.
 
 - [Mi cliente me escribe a todas horas y no sé poner límites: domingo](https://blixwerkstudio.com/guides/cliente-me-escribe-fuera-de-horario-como-poner-limites?s=github) – Domingo, 11:40, el móvil vibra otra vez. Una historia sobre el cliente que escribe fuera de horario y cómo se siente poner un límite sin culpa.
 
@@ -1707,6 +1711,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
+
+- [Kunde sagt „Zahlung kommt“? Die Kasse im Biomarkt](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance?s=github) – Der Kunde schreibt wieder „kommt diese Woche“. Eine Geschichte über Warten, Scham und die Ruhe, die entsteht, wenn du den nächsten Schritt kennst.
 
 - [Kunde sagt „Zahlung kommt“? Der Campingplatz-Dienstag](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelancer?s=github) – Der Kunde schreibt wieder, die Zahlung sei unterwegs. Dein Konto sagt etwas anderes, und du stehst im Urlaub am Waschbecken. Eine Geschichte über Ruhe.
 
@@ -2081,6 +2087,8 @@ Included (16 products, 175 USD if bought separately):
 - [Wo habe ich mich beworben? Der Anruf im Funkloch](https://blixwerkstudio.com/guides/wo-habe-ich-mich-beworben-bewerbungen-ueberblick?s=github) – Der Anruf kommt im ICE, und du weißt nicht mehr, auf welche Stelle er sich bezieht. Eine Geschichte über Bewerbungen, Überblick und ein ruhigeres Gefühl.
 
 - [Wochenlang nichts auf Instagram gepostet? Die Hundewiese, 16:30](https://blixwerkstudio.com/guides/wochenlang-nichts-auf-instagram-gepostet-schlechtes-gewissen-selbststa?s=github) – Seit Wochen kein Post, und dann fragt jemand beiläufig nach. Eine Geschichte über das schlechte Gewissen auf Instagram und wie es leiser werden kann.
+
+- [Worked More Hours Than You Invoiced? The Arrivals Hall](https://blixwerkstudio.com/guides/worked-more-hours-than-invoiced-freelance-quarter?s=github) – The quarter ends and your gut says you worked more than you billed. A quiet story from an airport arrivals hall about seeing your hours and invoices together.
 
 - [Shoebox Full of Receipts? The January Scramble, Ended](https://blixwerkstudio.com/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
 
