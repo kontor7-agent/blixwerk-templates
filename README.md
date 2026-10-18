@@ -1356,6 +1356,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
 
+- [Client Sent No Brief but Wants It Tomorrow? Farm Shop Box](https://blixwerkstudio.com/guides/client-sent-no-brief-expects-results-tomorrow-freelance?s=github) – No brief, no files, and a client who wants results tomorrow. A freelancer's Thursday at a farm shop, and a calmer way to begin next time.
+
 - [Client Sent a Rude Email? The Tailor's Pins and a Pause](https://blixwerkstudio.com/guides/client-sent-rude-email-how-to-respond?s=github) – The email was short, cold and unfair, and you read it standing on a tailor's footstool. A calm story about answering a rude client without losing your head.
 
 - [Vague Client Feedback Email? The Baggage Carousel Reply](https://blixwerkstudio.com/guides/client-sent-vague-feedback-email-how-to-reply?s=github) – The email says 'not quite there, make it pop.' You're at a baggage carousel with no idea what to answer. A calm story about replying anyway.
@@ -1467,6 +1469,8 @@ Included (16 products, 175 USD if bought separately):
 - [Entrevista mañana y no sé a quién envié mi currículum](https://blixwerkstudio.com/guides/entrevista-manana-no-se-que-preparar-curriculum-enviado?s=github) – Te llaman a las 14:10 para una entrevista mañana y no recuerdas qué empresa era. Una historia sobre ordenar la búsqueda y llegar con calma.
 
 - [Envié el presupuesto y el cliente no responde: ¿le escribo otra vez?](https://blixwerkstudio.com/guides/envie-el-presupuesto-y-el-cliente-no-responde?s=github) – Nueve días sin respuesta a tu presupuesto y la duda en la sala de espera: ¿escribo otra vez o parezco pesado? Una historia para quien se reconoce.
+
+- [Envié la factura y me dejó en visto: ¿qué hago?](https://blixwerkstudio.com/guides/envie-la-factura-y-el-cliente-me-dejo-en-visto?s=github) – Mandaste la factura, salió el doble check azul y después, nada. Una historia sobre el silencio de un cliente y cómo recuperar la calma.
 
 - [Erste Rechnung als Freiberufler: Mache ich was falsch?](https://blixwerkstudio.com/guides/erste-rechnung-freiberufler-angst-fehler?s=github) – Donnerstag, 14:32 Uhr, Gleis 4: Der Zug hat Verspätung, die erste Rechnung liegt fertig da, und du traust dich nicht, auf Senden zu drücken.
 
@@ -1659,6 +1663,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde meldet sich nicht nach der Rechnung? Der Waschsalon](https://blixwerkstudio.com/guides/kunde-ghostet-nach-rechnung-was-schreiben?s=github) – Die Fotos waren begeistert angenommen, die Rechnung ist raus, dann Funkstille. Eine Geschichte über das Schweigen danach und den ersten ruhigen Satz.
 
 - [Kunde ignoriert deine Rechnung? Der Urlaubstag am Baggersee](https://blixwerkstudio.com/guides/kunde-ignoriert-rechnung-nachfassen?s=github) – Du liegst am See, aber im Kopf bleibt die unbeantwortete Rechnung. Eine Geschichte darüber, wie Nachfassen ruhiger werden kann.
+
+- [Kunde ignoriert deine Mahn-Mails? Die Mülltonne, 7:15](https://blixwerkstudio.com/guides/kunde-ignoriert-ueberfaellige-rechnung-mails-was-schreiben?s=github) – Drei Mails, keine Antwort, und die Rechnung ist längst überfällig. Eine kleine Geschichte darüber, was du sagen kannst, ohne dich zu verbiegen.
 
 - [Kunde insolvent, Rechnung offen? Der Zahnarzt-Parkplatz](https://blixwerkstudio.com/guides/kunde-insolvent-rechnung-offen-was-tun-selbststaendig?s=github) – Die Mail vom Insolvenzverwalter kommt, als du im Auto auf den Zahnarzttermin wartest. Eine Geschichte über offene Rechnungen und wie du früher Ruhe hast.
 
@@ -1903,6 +1909,8 @@ Included (16 products, 175 USD if bought separately):
 - [Salon immer voll, aber was verdienst du wirklich? 8:40 am Automat](https://blixwerkstudio.com/guides/salon-immer-voll-aber-wie-viel-verdiene-ich-eigentlich?s=github) – Du arbeitest die ganze Woche am Stuhl und weißt trotzdem nicht, was bei dir ankommt. Eine Geschichte vom Einzahlautomat und von ruhigeren Montagen.
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://blixwerkstudio.com/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
+
+- [Scheduled Backup Failed? The Folder With No Recent Files](https://blixwerkstudio.com/guides/scheduled-backup-failed-backup-folder-no-recent-files?s=github) – You open the backup folder to find a file for a client and the newest one is months old. A calm story about that drop in your stomach, and what comes after.
 
 - [Schwierige Kunden-Mails: Vier Entwürfe am Spielfeldrand](https://blixwerkstudio.com/guides/schwierige-mails-an-kunden-freelance?s=github) – Vier Entwürfe im Postfach, keiner abgeschickt. Eine Geschichte über schwierige Mails an Kunden, die du ewig vor dir herschiebst – und wie es leichter wird.
 
