@@ -1196,6 +1196,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Abschlagsrechnung vergessen? Projekt fertig, kein Geld](https://blixwerkstudio.com/guides/abschlagsrechnung-vergessen-projekt-fertig-kunde-hat-nichts-gezahlt?s=github) – Die Terrasse ist fertig, der Kunde strahlt, und dir fällt ein: Es gab nie eine Abschlagsrechnung. Eine Geschichte über Ruhe im Zahlungsfluss.
 
+- [Accountant Wants Your Receipts? The Passport Office Ticket](https://blixwerkstudio.com/guides/accountant-wants-my-receipts-no-idea-where-they-are?s=github) – Waiting in line, your accountant's email lands: 'Please send all receipts by Friday.' You have no idea where half of them are. A calmer way is possible.
+
 - [Overwhelmed by To-Do Lists? The Monday Call Question](https://blixwerkstudio.com/guides/simple-printable-planner-overwhelmed-to-do-list-freelancer?s=github) – Monday, 9:05, a client asks what your priorities are this week, and your head fills with twenty things. A quiet story about a simpler planner.
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://blixwerkstudio.com/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1718,6 +1720,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde sagt „Zahlung kommt“? Die Kasse im Biomarkt](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance?s=github) – Der Kunde schreibt wieder „kommt diese Woche“. Eine Geschichte über Warten, Scham und die Ruhe, die entsteht, wenn du den nächsten Schritt kennst.
 
+- [Kunde sagt „Zahlung kommt“? Das Gate B14](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelance?s=github) – „Die Zahlung kommt diese Woche“ – und wieder nichts. Eine Geschichte über Freelancer, vertröstende Kunden und die Ruhe, die zurückkommt, wenn du einen Plan hast.
+
 - [Kunde sagt „Zahlung kommt“? Der Campingplatz-Dienstag](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelancer?s=github) – Der Kunde schreibt wieder, die Zahlung sei unterwegs. Dein Konto sagt etwas anderes, und du stehst im Urlaub am Waschbecken. Eine Geschichte über Ruhe.
 
 - [Zahlung kommt, sagt der Kunde? Der Steuertermin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert?s=github) – „Die Zahlung kommt diese Woche.“ Zum dritten Mal. Eine Geschichte über Lenas Steuertermin und die Ruhe, die entsteht, wenn du weißt, was als Nächstes dran ist.
@@ -1831,6 +1835,8 @@ Included (16 products, 175 USD if bought separately):
 - [No sé qué publicar en Instagram hoy y llevo días sin subir nada](https://blixwerkstudio.com/guides/no-se-que-publicar-en-instagram-hoy-negocio?s=github) – Fila del súper, el móvil en la mano y once días sin publicar. Una historia para quien no sabe qué subir hoy a Instagram y ya se siente en deuda.
 
 - [No sé quién me debe dinero de mis facturas: un martes en la furgoneta](https://blixwerkstudio.com/guides/no-se-quien-me-debe-dinero-facturas-autonomo?s=github) – Sentado en la furgoneta, con el móvil en la mano, no sabes qué clientes te deben aún. Una historia sobre autónomos, facturas y la calma de verlo claro.
+
+- [Me quedo atrás: no sé usar ChatGPT en mi negocio](https://blixwerkstudio.com/guides/no-se-usar-chatgpt-en-mi-negocio-me-quedo-atras?s=github) – En el mercadillo todos hablan de la IA y tú aún no has abierto ChatGPT. Una historia para quien siente que se queda atrás y quiere empezar con calma.
 
 - [No tengo tiempo para mis redes sociales y me siento culpable](https://blixwerkstudio.com/guides/no-tengo-tiempo-redes-sociales-negocio-culpable?s=github) – La cola de la panadería, el móvil en la mano y 19 días sin publicar. Una historia sobre la culpa de las redes y cómo bajarle el volumen.
 
@@ -1947,6 +1953,8 @@ Included (16 products, 175 USD if bought separately):
 - [Salon immer voll, aber was verdienst du wirklich? 8:40 am Automat](https://blixwerkstudio.com/guides/salon-immer-voll-aber-wie-viel-verdiene-ich-eigentlich?s=github) – Du arbeitest die ganze Woche am Stuhl und weißt trotzdem nicht, was bei dir ankommt. Eine Geschichte vom Einzahlautomat und von ruhigeren Montagen.
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://blixwerkstudio.com/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
+
+- [Scared Your Freelance Income Will Drop? Planning 2027](https://blixwerkstudio.com/guides/scared-freelance-income-will-drop-next-year-plan-2027?s=github) – The Tuesday supermarket queue, a half-empty calendar and one quiet fear: will 2027 be a thin year? A calm story about planning ahead without panic.
 
 - [Scheduled Backup Failed? The Folder With No Recent Files](https://blixwerkstudio.com/guides/scheduled-backup-failed-backup-folder-no-recent-files?s=github) – You open the backup folder to find a file for a client and the newest one is months old. A calm story about that drop in your stomach, and what comes after.
 
