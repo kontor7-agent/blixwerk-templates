@@ -1210,6 +1210,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://blixwerkstudio.com/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
 
+- [Alumno cancela la clase a última hora: ¿pierdo el dinero?](https://blixwerkstudio.com/guides/alumno-cancela-clase-ultima-hora-pierdo-dinero?s=github) – Son las 15:52, tu alumno escribe que no llega y el hueco ya no se llena. Una historia sobre cancelaciones de última hora y cómo dejar de callarte.
+
 - [Out of Stock Too Late Again? The Café Lids at 7:20 am](https://blixwerkstudio.com/guides/always-find-out-too-late-product-out-of-stock?s=github) – Seven twenty, the queue is out the door, and the lids are gone. A short story for anyone who always finds out too late that something is out of stock.
 
 - [Am I Losing Money on My Handmade Products After Fees?](https://blixwerkstudio.com/guides/am-i-losing-money-on-my-handmade-products-after-fees?s=github) – Your bestseller sells every week, but after fees, postage and materials you can't say what's left. A quiet Sunday at the craft fair, and a calmer way to look.
@@ -1351,6 +1353,8 @@ Included (16 products, 175 USD if bought separately):
 - [Payment 'Coming' but Nothing Arrives? The Fuel Pump](https://blixwerkstudio.com/guides/client-says-payment-is-coming-but-nothing-arrives?s=github) – Your client swears the payment is on its way, but the account says otherwise. A calm story about what to say next, and how to stop dreading it.
 
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
+
+- [Client Sent a Rude Email? The Tailor's Pins and a Pause](https://blixwerkstudio.com/guides/client-sent-rude-email-how-to-respond?s=github) – The email was short, cold and unfair, and you read it standing on a tailor's footstool. A calm story about answering a rude client without losing your head.
 
 - [Vague Client Feedback Email? The Baggage Carousel Reply](https://blixwerkstudio.com/guides/client-sent-vague-feedback-email-how-to-reply?s=github) – The email says 'not quite there, make it pop.' You're at a baggage carousel with no idea what to answer. A calm story about replying anyway.
 
@@ -1652,6 +1656,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde ignoriert deine Rechnung? Der Urlaubstag am Baggersee](https://blixwerkstudio.com/guides/kunde-ignoriert-rechnung-nachfassen?s=github) – Du liegst am See, aber im Kopf bleibt die unbeantwortete Rechnung. Eine Geschichte darüber, wie Nachfassen ruhiger werden kann.
 
+- [Kunde insolvent, Rechnung offen? Der Zahnarzt-Parkplatz](https://blixwerkstudio.com/guides/kunde-insolvent-rechnung-offen-was-tun-selbststaendig?s=github) – Die Mail vom Insolvenzverwalter kommt, als du im Auto auf den Zahnarzttermin wartest. Eine Geschichte über offene Rechnungen und wie du früher Ruhe hast.
+
 - [Kunde kürzt einfach deine Rechnung? Was tun, wenn die Tankstelle wartet](https://blixwerkstudio.com/guides/kunde-kuerzt-rechnung-was-tun?s=github) – Auf dem Konto fehlen 380 Euro, im Verwendungszweck steht nur „gekürzt“. Eine Geschichte für alle, die nicht wissen, was sie jetzt sagen sollen.
 
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://blixwerkstudio.com/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
@@ -1755,6 +1761,8 @@ Included (16 products, 175 USD if bought separately):
 - [No consigo organizar mi semana como autónomo y no avanzo](https://blixwerkstudio.com/guides/no-consigo-organizar-mi-semana-autonomo-no-avanzo?s=github) – Es miércoles, la semana se te ha ido en cosas pequeñas y sientes que no avanzas. Una historia para quien trabaja por su cuenta.
 
 - [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://blixwerkstudio.com/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
+
+- [Haven't Kept Any Receipts This Year? The Hut Terrace](https://blixwerkstudio.com/guides/no-receipts-kept-this-year-freelancer-panic?s=github) – October, a mountain terrace, and one text that makes you realise you kept no receipts all year. A calm story for freelancers who feel behind.
 
 - [No sé a qué precio vender lo hecho a mano y me da miedo](https://blixwerkstudio.com/guides/no-se-a-que-precio-vender-mis-productos-hechos-a-mano?s=github) – La dueña de la tienda pregunta tu precio y se te escapa uno demasiado bajo. Una historia para quien hace cosas a mano y teme ponerlas caras.
 
