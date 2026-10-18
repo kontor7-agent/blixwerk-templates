@@ -1246,6 +1246,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Best Seller Keeps Selling Out? The Key Kiosk and the Blue Mug](https://blixwerkstudio.com/guides/best-seller-keeps-selling-out-customers-annoyed?s=github) – Your best seller is gone again and the messages are getting shorter. A quiet story about the stock you never saw running out, and what a calm Monday looks like.
 
+- [Best Seller Out of Stock Again? The Platform at 8:03 am](https://blixwerkstudio.com/guides/best-seller-out-of-stock-again-customer-asked?s=github) – Your best seller sold out days ago and you only found out when a customer asked. A calm story about noticing sooner, before the message arrives.
+
 - [Bestseller schon wieder ausverkauft? Dienstag, 7:40 Uhr](https://blixwerkstudio.com/guides/bestseller-ausverkauft-handmade-shop-bestand-unklar?s=github) – Der Bestseller ist wieder weg, und du weißt nicht, was im Regal noch liegt. Eine Geschichte über Handmade-Alltag und ein ruhigeres Lager.
 
 - [Bewerbungen im Überblick behalten? Der Anruf an der Ampel](https://blixwerkstudio.com/guides/bewerbungen-ueberblick-behalten-excel?s=github) – Du hast dich so oft beworben, dass du nicht mehr weißt, wo. Eine Geschichte über einen Anruf an der Ampel und wie wieder Ruhe in dein Bewerben kommt.
@@ -1357,6 +1359,8 @@ Included (16 products, 175 USD if bought separately):
 - [Payment 'Coming' but Nothing Arrives? The Fuel Pump](https://blixwerkstudio.com/guides/client-says-payment-is-coming-but-nothing-arrives?s=github) – Your client swears the payment is on its way, but the account says otherwise. A calm story about what to say next, and how to stop dreading it.
 
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
+
+- [Client Says You Never Billed Them? The Parking Meter](https://blixwerkstudio.com/guides/client-says-you-never-billed-last-month-cant-prove-hours?s=github) – A client says you never billed last month, and you can't prove which hours you worked. A short story about that call, and the calmer Monday after it.
 
 - [Client Sent No Brief but Wants It Tomorrow? Farm Shop Box](https://blixwerkstudio.com/guides/client-sent-no-brief-expects-results-tomorrow-freelance?s=github) – No brief, no files, and a client who wants results tomorrow. A freelancer's Thursday at a farm shop, and a calmer way to begin next time.
 
@@ -1692,6 +1696,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
 
+- [Kunde sagt „Zahlung kommt“, doch nichts? Der Schulflur](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelance-d719?s=github) – Wieder „Die Zahlung ist diese Woche drin“ – und wieder nichts. Eine Illustratorin, ein Schulflur und die Frage, wie du ruhig dranbleibst.
+
 - [Kunde sagt „Zahlung kommt“, nichts passiert? Regentag](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelance?s=github) – Dritte Woche „kommt diese Woche“, und du sitzt in der Ferienwohnung und aktualisierst das Konto. Eine Geschichte über Ruhe, wenn Geld auf sich warten lässt.
 
 - [Zahlung wird veranlasst – seit Wochen? Der Kleingarten](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelancer-f889?s=github) – Der Kunde sagt seit Wochen, die Zahlung sei unterwegs, aber auf dem Konto passiert nichts. Eine Geschichte über das Warten und wie es leiser wird.
@@ -1827,6 +1833,8 @@ Included (16 products, 175 USD if bought separately):
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://blixwerkstudio.com/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
 
 - [Chasing Late Payment Feels Like Begging? The Gate at 7:40](https://blixwerkstudio.com/guides/how-to-chase-late-payment-without-feeling-pushy?s=github) – You're standing at the school gate, thumb over 'send', and the reminder still isn't written. A quiet story about chasing money without feeling like you're begging.
+
+- [Pedí tarde al proveedor y me quedé sin stock en campaña](https://blixwerkstudio.com/guides/pedi-tarde-al-proveedor-sin-existencias-campana?s=github) – Lanzaste la campaña, los pedidos entran y el proveedor tarda tres semanas. Una historia sobre quedarte sin existencias y volver a respirar.
 
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://blixwerkstudio.com/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
