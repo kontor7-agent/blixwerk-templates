@@ -1282,6 +1282,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Track Job Applications? The Noodle Stall Email](https://blixwerkstudio.com/guides/cant-keep-track-of-job-applications?s=github) – An interview invite arrives and you can't remember the company. A lunchtime story for anyone losing track of job applications and who replied.
 
+- [Did You Invoice This Month's Hours? The Motorway Services](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-this-months-hours-freelance?s=github) – Parked at a motorway services, phone in hand, you can't remember if you invoiced this month's hours. A freelancer's story about the calmer way.
+
 - [Can't Remember Which Clients Paid You? The MOT Waiting Room](https://blixwerkstudio.com/guides/cant-remember-which-clients-have-paid-me-freelance?s=github) – A client asks if you got their payment, and you honestly don't know. A quiet story about losing track of who paid, and what it feels like to know again.
 
 - [Can't Remember Which Companies Replied? The Dentist Call](https://blixwerkstudio.com/guides/cant-remember-which-companies-replied-job-applications?s=github) – You've sent dozens of applications and a recruiter just phoned. Which company was this? A calm story about losing track, and getting your head back.
@@ -1542,6 +1544,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [My Freelance Rate Is Too Low and No One Pushes Back: The Yes](https://blixwerkstudio.com/guides/freelance-rate-too-low-clients-never-push-back?s=github) – The client said yes in four seconds. Your stomach dropped. If nobody ever pushes back on your freelance rate, this story is for you.
 
+- [Freelance Rate Too Low, Scared to Raise It? The Pier Café](https://blixwerkstudio.com/guides/freelance-rate-too-low-scared-to-raise-it?s=github) – Your rate feels too low, but every time you think of raising it, your stomach drops. A quiet story about a Tuesday lunch and a calmer way to start.
+
 - [Receipts Everywhere at Year-End? The Boxing Day Car Park](https://blixwerkstudio.com/guides/freelance-year-end-paperwork-overwhelm-where-are-my-receipts?s=github) – It's the holidays, but your laptop is open and you can't find a single receipt. A short story about year-end freelance paperwork and the calm after.
 
 - [Drowning in Freelance Admin? The Hairdresser's Chair, 8:55 am](https://blixwerkstudio.com/guides/freelancer-admin-overload-invoices-tracking-everywhere?s=github) – Invoices in one place, hours in another, receipts in a shoebox. A quiet Monday-morning story about freelance admin overload, and the relief of one calm system.
@@ -1690,6 +1694,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will Rabatt? Freiberuflerin, Nudelwasser und kein Satz](https://blixwerkstudio.com/guides/kunde-will-rabatt-freiberufler-was-sagen?s=github) – Der Kunde fragt nach Rabatt, und dir fällt nichts ein. Eine Geschichte über das Schweigen am Telefon und darüber, wie du ruhig antworten kannst.
 
+- [Kunde will ständig noch eine Änderung? Runde Nummer 7](https://blixwerkstudio.com/guides/kunde-will-staendig-aenderung-korrekturschleifen?s=github) – Montag, 7:12 Uhr, S-Bahn: „Noch eine kleine Änderung.“ Wenn Korrekturschleifen kein Ende nehmen und du nicht weißt, wie du es ruhig sagst.
+
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
 
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://blixwerkstudio.com/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
@@ -1815,6 +1821,8 @@ Included (16 products, 175 USD if bought separately):
 - [Planning a Freelance Year on Unpredictable Income: The Paint Counter](https://blixwerkstudio.com/guides/plan-freelance-year-unpredictable-income?s=github) – The paint is mixing, the calendar is blank, and next year's income is a guess. A gentle story about planning a freelance year without pretending.
 
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://blixwerkstudio.com/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
+
+- [Presupuesto de una obra y no sé cuánto cobrar: el baño](https://blixwerkstudio.com/guides/presupuesto-obra-cuanto-cobrar-materiales-mano-de-obra?s=github) – Con el metro en la mano y el cliente esperando un precio, no sabes cuánto cobrar entre materiales y mano de obra. Una historia.
 
 - [Does Your Bestseller Earn Anything? Pricing Handmade Work](https://blixwerkstudio.com/guides/how-to-price-handmade-products-after-fees?s=github) – The candle jar sells out every market day, but after fees, wax and packaging, does it earn anything? A quiet story about pricing handmade work.
 
