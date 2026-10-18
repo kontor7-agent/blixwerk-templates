@@ -1644,6 +1644,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerkstudio.com/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
+- [Client Wants a Rush Job for Free? The Food Truck Friday](https://blixwerkstudio.com/guides/how-to-say-no-to-client-rush-job-for-free?s=github) – The message says 'just a quick favour, by Monday.' You're in a queue with your phone in your hand, and the word no feels impossible. A calmer way through.
+
 - [Need More Time on a Client Project? The Bank Holiday Kitchen Table](https://blixwerkstudio.com/guides/how-to-tell-client-you-need-more-time-on-project?s=github) – The deadline is Friday and the work won't be ready. You're at your parents' kitchen table, rewriting one sentence to a client. A calmer way through.
 
 - [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://blixwerkstudio.com/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
@@ -1763,6 +1765,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stall Cash Doesn't Match Sales? The Tailgate at 5:10](https://blixwerkstudio.com/guides/market-stall-cash-doesnt-match-sales?s=github) – The cash tin is short, the notebook says otherwise, and the car is half packed. A market maker's quiet moment at the tailgate, and a calmer way to end the day.
 
 - [Material ausgegangen, Bestellungen offen? Mittwoch, 15:10](https://blixwerkstudio.com/guides/material-ausgegangen-mitten-in-den-bestellungen?s=github) – Elf Bestellungen, fünf Dochte im Karton: Eine Kerzengießerin merkt mitten im Auftrag, dass das Material fehlt. Eine beispielhafte Geschichte.
+
+- [Subió el material y ya di el presupuesto: ¿qué hago?](https://blixwerkstudio.com/guides/material-subio-de-precio-presupuesto-ya-enviado?s=github) – El material subió de precio y el presupuesto ya está en manos del cliente. Una historia desde el mostrador del almacén y de cómo recuperar la calma.
 
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://blixwerkstudio.com/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
 
@@ -1985,6 +1989,8 @@ Included (16 products, 175 USD if bought separately):
 - [Self-Employed Hairdresser, No Idea What You Earn After Chair Rent?](https://blixwerkstudio.com/guides/self-employed-hairdresser-earnings-after-chair-rent?s=github) – The rent leaves your account on the 1st and you still can't say what's actually yours. A quiet story for chair-renting stylists.
 
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://blixwerkstudio.com/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
+
+- [Candles Online, Any Profit After Fees? The Bottle Bank](https://blixwerkstudio.com/guides/selling-candles-online-profit-after-fees?s=github) – Saturday at the bottle bank, a payout notification and one question: after fees, wax and jars, do your candles earn anything? A calm story for makers.
 
 - [Handmade Profit After Fees? The Payout at the Checkout](https://blixwerkstudio.com/guides/selling-handmade-not-sure-profit-after-fees?s=github) – The payout notification looked lower than the month felt. A maker's moment in the checkout queue, and what it's like to finally see profit after fees.
 
