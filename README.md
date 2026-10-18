@@ -1308,6 +1308,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Asking for a Discount? How to Reply Without Losing Them](https://blixwerkstudio.com/guides/client-asking-for-discount-how-to-reply-freelance?s=github) – The email says 'any chance of a better price?' and your stomach drops. A calm story about replying to a discount request without losing the client.
 
+- [Client Emails at Midnight? The Canal Towpath at 7:05](https://blixwerkstudio.com/guides/client-emailing-at-midnight-freelance-set-expectations?s=github) – A client who emails at midnight and expects an answer by morning. A freelancer's walk along the canal, and what changed once expectations were set early.
+
 - [Client Ghosted Me After the Proposal: What Do I Do? The Tuesday Queue](https://blixwerkstudio.com/guides/client-ghosted-me-after-proposal-what-do-i-do?s=github) – You sent the proposal ten days ago and heard nothing. In the supermarket queue you check your phone again. A calm story about the silence, and what eases it.
 
 - [Client Hasn't Paid My Invoice: The Email You Rewrote Nine Times](https://blixwerkstudio.com/guides/client-hasnt-paid-my-invoice-what-to-do?s=github) – Monday, 9:05, outside a café: the invoice is overdue, the email draft says sorry too often, and you can't remember the due date. A story about calm.
@@ -1531,6 +1533,8 @@ Included (16 products, 175 USD if bought separately):
 - [Fotos geliefert, Restzahlung offen? Die Raststätte, 13:15](https://blixwerkstudio.com/guides/foto-restzahlung-offen-kunde-hat-alle-bilder?s=github) – Alle Fotos sind raus, der Restbetrag fehlt noch. Eine Fotografin an der Raststätte und die Ruhe, die kommt, wenn du siehst, was offen ist.
 
 - [Fotograf: Stunden in der Bearbeitung – verdienst du überhaupt was?](https://blixwerkstudio.com/guides/fotograf-bildbearbeitung-dauert-ewig-verdiene-ich-ueberhaupt-was?s=github) – Das Brautpaar fragt nach den Bildern, du sitzt seit Tagen in der Bearbeitung und weißt nicht, ob sich der Auftrag lohnt. Eine Geschichte.
+
+- [Fotograf: Kunde zahlt Restbetrag nicht? Das Fotolabor](https://blixwerkstudio.com/guides/fotograf-kunde-zahlt-restbetrag-nicht?s=github) – Die Galerie ist geliefert, das Album gedruckt, aber der Restbetrag fehlt. Eine Szene im Fotolabor für alle, die ungern nachfragen.
 
 - [Fotoshooting nicht abgerechnet? Der Download-Hinweis um 12:40](https://blixwerkstudio.com/guides/fotograf-rechnung-vergessen-nach-shooting?s=github) – Die Galerie ist längst geliefert, die Rechnung nie geschrieben. Eine Fotografin, ein Bahnhofscafé und der Moment, in dem sie es merkt.
 
@@ -1798,6 +1802,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [New Freelance Client, No Process? The Porridge Monday](https://blixwerkstudio.com/guides/new-freelance-client-no-process-messy-start?s=github) – A new client says 'let's start Monday' and your process is scattered emails and guesswork. A short story about a calmer first week.
 
+- [No desconecto siendo autónoma y me siento culpable](https://blixwerkstudio.com/guides/no-consigo-desconectar-autonomo-culpable-descansar?s=github) – Sábado, cumpleaños de tu sobrina y el móvil vibra bajo la mesa. Descansar te da culpa. Una historia sobre cerrar el portátil sin sentirte mal.
+
 - [No consigo organizar mi semana como autónomo y no avanzo](https://blixwerkstudio.com/guides/no-consigo-organizar-mi-semana-autonomo-no-avanzo?s=github) – Es miércoles, la semana se te ha ido en cosas pequeñas y sientes que no avanzas. Una historia para quien trabaja por su cuenta.
 
 - [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://blixwerkstudio.com/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
@@ -1853,6 +1859,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot the Balance After a Wedding Shoot? The Physio Corridor](https://blixwerkstudio.com/guides/photographer-forgot-balance-owed-after-wedding-shoot?s=github) – Three months after the wedding, a tagged photo reminds you: the final balance was never chased. A calm story for photographers, and what changes after.
 
 - [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://blixwerkstudio.com/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
+
+- [Plan Freelance Income When Months Differ: Gym Desk](https://blixwerkstudio.com/guides/plan-freelance-income-next-year-irregular-months?s=github) – The gym offers a cheaper annual plan, and you can't say what next March looks like. A calm story about planning freelance income when every month is different.
 
 - [Planning a Freelance Year on Unpredictable Income: The Paint Counter](https://blixwerkstudio.com/guides/plan-freelance-year-unpredictable-income?s=github) – The paint is mixing, the calendar is blank, and next year's income is a guess. A gentle story about planning a freelance year without pretending.
 
