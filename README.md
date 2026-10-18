@@ -1342,6 +1342,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Promised to Pay Friday, Three Fridays Ago?](https://blixwerkstudio.com/guides/client-said-pay-friday-three-fridays-now?s=github) – Friday again and no payment. A story about the third 'I'll pay on Friday' reply, and what changes when chasing stops feeling like begging.
 
+- [The Check Is in the Mail Again? A Freelancer's Wait](https://blixwerkstudio.com/guides/client-says-check-is-in-the-mail-freelance?s=github) – Your client says the check is in the mail, for the third time. A quiet story about waiting at the mailbox and chasing money without feeling like you're begging.
+
 - [Client Says Invoice Was Already Paid? The Car Park Before the Call](https://blixwerkstudio.com/guides/client-says-invoice-already-paid-cant-prove-it?s=github) – Your client swears the invoice was paid. Your records say nothing either way. A short story about that knot in your stomach, and what calms it.
 
 - [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://blixwerkstudio.com/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
@@ -1359,6 +1361,8 @@ Included (16 products, 175 USD if bought separately):
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://blixwerkstudio.com/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
 
 - [Entregué el trabajo, el cliente desapareció y no me paga](https://blixwerkstudio.com/guides/cliente-desaparecio-despues-de-entregar-el-trabajo-no-paga?s=github) – Entregaste el trabajo, él dejó de contestar y la factura sigue ahí. Una historia sobre cobrar sin suplicar y recuperar la calma.
+
+- [Cliente dice que cobré horas de más y no tengo registro](https://blixwerkstudio.com/guides/cliente-dice-que-cobre-mas-horas-de-las-que-trabaje-sin-registro?s=github) – Tu cliente duda de las horas de la factura y no tienes registro. Una videollamada de martes y cómo se siente tenerlo todo claro.
 
 - [Mi cliente dice que pagará la semana que viene y no paga](https://blixwerkstudio.com/guides/cliente-dice-que-pagara-la-semana-que-viene-y-nunca-paga?s=github) – En la cola de la panadería lees otra vez «te pago la semana que viene». Una historia para quien persigue cobros sin sentirse pesado.
 
@@ -1518,6 +1522,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Running Your Freelance Business on Sticky Notes and Panic?](https://blixwerkstudio.com/guides/freelance-business-running-on-sticky-notes-and-panic?s=github) – Yellow notes on the monitor, a phone full of reminders, and a quiet fear you've missed something. A story for freelancers who want their head back.
 
+- [No Contract or Brief, Work Already Started? The Dog Walk](https://blixwerkstudio.com/guides/freelance-client-started-work-without-contract-or-brief?s=github) – Tuesday, 7:30, rain on the lead: the client is already sending files and nothing is in writing. A calm look at how it feels, and what changes.
+
 - [Einkommen schwankt jeden Monat? Der Parkplatz vor der Kita](https://blixwerkstudio.com/guides/freelance-einkommen-schwankt-naechstes-jahr-planen?s=github) – Freitag, 16:25 Uhr, Parkplatz vor der Kita: Ein Monat voll, der nächste leer. Wie sich das nächste Jahr plötzlich weniger wie Glücksspiel anfühlt.
 
 - [Rate Too Low for Taxes and Holidays? The Museum Café](https://blixwerkstudio.com/guides/freelance-hourly-rate-cover-taxes-holidays?s=github) – A friend mentions her paid holiday and your stomach drops. Does your freelance hourly rate cover taxes and time off? A quiet story about finding out.
@@ -1667,6 +1673,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
+
+- [Kunde sagt „Zahlung kommt“? Der Campingplatz-Dienstag](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelancer?s=github) – Der Kunde schreibt wieder, die Zahlung sei unterwegs. Dein Konto sagt etwas anderes, und du stehst im Urlaub am Waschbecken. Eine Geschichte über Ruhe.
 
 - [Zahlung kommt, sagt der Kunde? Der Steuertermin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert?s=github) – „Die Zahlung kommt diese Woche.“ Zum dritten Mal. Eine Geschichte über Lenas Steuertermin und die Ruhe, die entsteht, wenn du weißt, was als Nächstes dran ist.
 
