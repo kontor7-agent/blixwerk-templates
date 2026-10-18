@@ -1352,6 +1352,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://blixwerkstudio.com/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
 
+- [Client Says 'Next Week' Every Week? The Balcony Tomatoes](https://blixwerkstudio.com/guides/client-says-pay-next-week-every-week-what-do-i-do?s=github) – Your client says they'll pay next week, and has said it for six weeks. A quiet story about the Monday you stop waiting and start following a calm plan.
+
 - [Payment 'Coming' but Nothing Arrives? The Fuel Pump](https://blixwerkstudio.com/guides/client-says-payment-is-coming-but-nothing-arrives?s=github) – Your client swears the payment is on its way, but the account says otherwise. A calm story about what to say next, and how to stop dreading it.
 
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
@@ -1407,6 +1409,8 @@ Included (16 products, 175 USD if bought separately):
 - [Creo que cobro poco a mis clientes y me da miedo subir tarifas](https://blixwerkstudio.com/guides/cobro-poco-a-mis-clientes-miedo-subir-tarifas?s=github) – Un jueves, junto a la máquina de café del coworking, una frase te hace dudar de lo que cobras. Una historia para quien teme subir sus tarifas.
 
 - [Cómo decirle a los padres que subo el precio de las clases](https://blixwerkstudio.com/guides/como-decirle-a-los-padres-que-subo-el-precio-de-las-clases-particulare?s=github) – Llevas tres años cobrando lo mismo y la madre de Pablo te saluda en la panadería. Una historia sobre subir el precio de las clases sin que se te encoja el estómago.
+
+- [Cuento el inventario a mano y nunca me cuadra (lunes)](https://blixwerkstudio.com/guides/contar-inventario-a-mano-nunca-cuadra?s=github) – Lunes, 8:15, persiana a medias y una libreta llena de tachones. Contar el inventario de tu tienda a mano y que nunca cuadre tiene una salida más tranquila.
 
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerkstudio.com/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
@@ -1507,6 +1511,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://blixwerkstudio.com/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
 
 - [Afraid You Forgot Something Before Deploying Your API? Friday, 4:50 pm](https://blixwerkstudio.com/guides/forgot-something-before-deploying-api-to-production?s=github) – The deploy button is ready, the weekend is waiting, and one quiet thought won't leave: what did I forget? A story about launching with a calmer head.
+
+- [Forgot to Bill a Client Last Month? The Flea Market Sunday](https://blixwerkstudio.com/guides/forgot-to-bill-client-last-months-work?s=github) – You're holding a vase at a flea market when it hits you: last month's job was never invoiced. What that moment feels like, and how it stops happening.
 
 - [Forgot to Invoice a Client as a Freelancer? The Wedding Fair Stand](https://blixwerkstudio.com/guides/forgot-to-send-invoice-to-client-freelancer-what-to-do?s=github) – Standing at a trade fair, you suddenly realise a client was never invoiced. What to do next, and how a calm weekly routine keeps it from happening again.
 
@@ -1695,6 +1701,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zahlung kommt, sagt der Kunde? Der Steuertermin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert?s=github) – „Die Zahlung kommt diese Woche.“ Zum dritten Mal. Eine Geschichte über Lenas Steuertermin und die Ruhe, die entsteht, wenn du weißt, was als Nächstes dran ist.
 
 - [Kunde verspricht Zahlung, aber nichts kommt? Die Parkbank](https://blixwerkstudio.com/guides/kunde-verspricht-zahlung-aber-nichts-kommt-freelancer?s=github) – Donnerstag, 12:20, Banking-App zum x-ten Mal: Der Kunde verspricht zu zahlen, aber nichts kommt. Eine Geschichte über mehr Ruhe.
+
+- [Kunde will 90 Tage Zahlungsziel? Der Videocall um 11:20](https://blixwerkstudio.com/guides/kunde-will-90-tage-zahlungsziel-freelancer?s=github) – Der Kunde nennt 90 Tage Zahlungsziel, und deine Miete ist in zwei Wochen fällig. Eine Geschichte über Ruhe, wenn Geld spät kommt.
 
 - [Kunde will nur eine Kleinigkeit? Der Freitag um 16:50](https://blixwerkstudio.com/guides/kunde-will-noch-eine-kleinigkeit-nein-sagen-freelancer?s=github) – „Nur noch eine kleine Änderung“ – zum zwölften Mal. Eine Freitagsgeschichte aus der Kassenschlange über Scope Creep und den Mut, ruhig Nein zu sagen.
 
