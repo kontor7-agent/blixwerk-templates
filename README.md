@@ -1284,6 +1284,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Burned Out on Repetitive Work as a Developer? The Stand-Up Fog](https://blixwerkstudio.com/guides/burned-out-repetitive-tasks-developer?s=github) – Fourth rename of the same file this week? A developer's quiet burnout over manual tasks, and what a calmer Monday could feel like.
 
+- [BUSCARV no encuentra datos que sí existen: entrego hoy](https://blixwerkstudio.com/guides/buscarv-no-encuentra-datos-que-existen-entrego-hoy?s=github) – Ves el dato en las dos hojas y BUSCARV dice #N/D. Una mañana de entrega, una videollamada y por qué no hace falta pelearse con el Excel.
+
 - [Buy Planners, Never Stick With Them? The ADHD Drawer](https://blixwerkstudio.com/guides/buy-planners-never-stick-with-them-adhd?s=github) – Four planners, all abandoned by February. A quiet story for freelancers with busy brains who keep starting over, and what a lighter page can change.
 
 - [No Planner Fits Your Freelance Year? The Stationery Aisle](https://blixwerkstudio.com/guides/printable-freelancer-planner-2027?s=github) – Three diaries in your hands, none made for freelancers. A short story about finding one calm place for your year, your clients and your invoices.
@@ -1305,6 +1307,8 @@ Included (16 products, 175 USD if bought separately):
 - [Can't Remember Invoices You Sent? The Coffee Machine](https://blixwerkstudio.com/guides/cant-remember-which-invoices-ive-sent-freelance?s=github) – A client's accountant asks which invoice you meant, and you don't know what you've sent. A calm story about knowing where every invoice stands.
 
 - [Forgot Which Jobs You Applied To? The Tram Stop Voicemail](https://blixwerkstudio.com/guides/cant-remember-which-jobs-i-applied-to-and-followed-up?s=github) – A recruiter calls back and you can't place the company. If you've lost track of which jobs you applied to and followed up on, this story is for you.
+
+- [Forgot What You Invoiced This Quarter? The Harbour Bench](https://blixwerkstudio.com/guides/cant-remember-which-projects-invoiced-this-quarter?s=github) – Half a bag of chips, a phone at 9% and one question you can't answer: which projects did you already invoice this quarter? A calm story about knowing.
 
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://blixwerkstudio.com/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
@@ -1681,6 +1685,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://blixwerkstudio.com/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
 
 - [Interview Tomorrow, Can't Remember What You Sent Them?](https://blixwerkstudio.com/guides/interview-tomorrow-cant-remember-what-i-sent-them?s=github) – Interview at 10 tomorrow, and you can't recall which CV or cover letter you sent. A quiet story about walking in prepared instead of guessing.
+
+- [Inventur, Zahlen stimmen nie? Der 2. Januar, 8:10 Uhr](https://blixwerkstudio.com/guides/inventur-kleines-geschaeft-zahlen-stimmen-nie?s=github) – Zwei Zahlen, ein Regal: Jonas zählt Schläuche und Ketten, und nichts passt zur Liste. Eine Geschichte über Inventur im kleinen Geschäft.
 
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://blixwerkstudio.com/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
 
@@ -2081,6 +2087,8 @@ Included (16 products, 175 USD if bought separately):
 - [Steuernachzahlung selbstständig: Kein Geld zurückgelegt?](https://blixwerkstudio.com/guides/steuernachzahlung-selbststaendig-kein-geld-zurueckgelegt?s=github) – Der Brief liegt im Briefkasten, das Konto ist halbleer. Eine Geschichte für alle, die bei der Steuernachzahlung nichts zurückgelegt haben.
 
 - [Stock que no se vende y dinero parado: el martes de la gestoría](https://blixwerkstudio.com/guides/stock-acumulado-que-no-se-vende-dinero-parado-pequeno-negocio?s=github) – La gestora te pide el valor de tu almacén y no lo sabes. Una historia sobre stock acumulado, dinero parado y cómo respirar con más calma.
+
+- [Stock Runs Out Before You Notice? The Hotel Basket Call](https://blixwerkstudio.com/guides/stock-keeps-running-out-before-i-notice-small-shop?s=github) – A hotel wants 30 tins by Friday and you say yes before checking the shelf. A small-shop story about stock that runs out before you notice, and the calm after.
 
 - [Keep Selling Items You Don't Have? The Cinema Foyer](https://blixwerkstudio.com/guides/stop-overselling-items-not-in-stock-small-shop?s=github) – The trailers are rolling when your phone buzzes: another order for the last skein, sold twice. A quiet story for shop owners who keep overselling.
 
