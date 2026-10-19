@@ -1368,6 +1368,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Says Invoice Was Already Paid? The Car Park Before the Call](https://blixwerkstudio.com/guides/client-says-invoice-already-paid-cant-prove-it?s=github) – Your client swears the invoice was paid. Your records say nothing either way. A short story about that knot in your stomach, and what calms it.
 
+- [Client Says My Invoice Is Wrong? The Laundry Rack Call](https://blixwerkstudio.com/guides/client-says-invoice-wrong-cant-prove-hours?s=github) – The client says 'this doesn't look right' and you can't prove your hours. A quiet story about that Wednesday call, and how it can feel different.
+
 - [Client Says They Never Got Your Invoice? The Call at the Bus Stop](https://blixwerkstudio.com/guides/client-says-never-received-my-invoice-cant-prove-when-i-sent-it?s=github) – "I never received it." Standing at a bus stop, you can't prove when you sent that invoice. A story about the quiet relief of having a clear record.
 
 - [Client Says 'Next Week' Every Week? The Balcony Tomatoes](https://blixwerkstudio.com/guides/client-says-pay-next-week-every-week-what-do-i-do?s=github) – Your client says they'll pay next week, and has said it for six weeks. A quiet story about the Monday you stop waiting and start following a calm plan.
@@ -1472,6 +1474,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Had to Cancel a Customer's Order? The Choir Break Text](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-had-to-cancel-embarrassing?s=github) – A customer ordered something you didn't have, and now you have to cancel. A quiet story about that hot-faced moment and how it stops repeating.
 
+- [Ordered Item Out of Stock? The Christening Buffet](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-small-business-embarrassed?s=github) – A customer ordered something you don't have, and your phone buzzes mid-sandwich. A calm story about the embarrassment of selling what isn't on the shelf.
+
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
 - [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://blixwerkstudio.com/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
@@ -1481,6 +1485,8 @@ Included (16 products, 175 USD if bought separately):
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://blixwerkstudio.com/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
 
 - [Hours Lost to Data and File Chores? The Dentist Waiting Room](https://blixwerkstudio.com/guides/developer-wasting-hours-on-data-and-file-chores?s=github) – You meant to read a paper in the waiting room, but you were rebuilding last week's file chores in your head. A quiet story for developers who want those hours back.
+
+- [Mi disco duro hace ruidos y no tengo copia de seguridad](https://blixwerkstudio.com/guides/disco-duro-hace-ruidos-sin-copia-de-seguridad?s=github) – Un clic raro en tu disco duro, una videollamada y ninguna copia de seguridad. Una historia sobre el miedo callado y la calma de tenerlo guardado.
 
 - [Disco lleno de logs y servidor caído: la llamada de las 9](https://blixwerkstudio.com/guides/disco-servidor-lleno-logs-rotar?s=github) – Se cayó la tienda de tu cliente porque el disco se llenó de logs. Una historia sobre rotarlos a tiempo y empezar el lunes sin sobresaltos.
 
@@ -2161,6 +2167,8 @@ Included (16 products, 175 USD if bought separately):
 - [Worked More Hours Than You Invoiced? The Arrivals Hall](https://blixwerkstudio.com/guides/worked-more-hours-than-invoiced-freelance-quarter?s=github) – The quarter ends and your gut says you worked more than you billed. A quiet story from an airport arrivals hall about seeing your hours and invoices together.
 
 - [Shoebox Full of Receipts? The January Scramble, Ended](https://blixwerkstudio.com/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
+
+- [Zahlung versprochen, aber nichts da? Der Copyshop, 15:40](https://blixwerkstudio.com/guides/zahlung-versprochen-nichts-angekommen-was-sagen?s=github) – Der Kunde hat Zahlung versprochen, aber das Konto bleibt leer. Was sagst du jetzt? Eine Szene im Copyshop über Ruhe statt Bauchgrummeln.
 
 - [Zahlungserinnerung an einen Kunden, den du magst: Der Mittwochmorgen](https://blixwerkstudio.com/guides/zahlungserinnerung-an-netten-kunden-schreiben?s=github) – Der Kunde ist nett, die Rechnung ist offen, und die Mail bleibt ungeschrieben. Eine Geschichte über Zahlungserinnerungen, die sich nicht wie Betteln anfühlen.
 
