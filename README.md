@@ -1310,6 +1310,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Agreed to Pay but Keeps Making Excuses? Freelancer](https://blixwerkstudio.com/guides/client-agreed-to-pay-but-keeps-making-excuses-freelancer?s=github) – They said yes, they'll pay. Then came the excuses. A quiet story about a Thursday pickup line, and how chasing money can feel calmer.
 
+- [Client Asked to Cut Your Price? The Stairwell Landing](https://blixwerkstudio.com/guides/client-asked-me-to-cut-my-price-after-quoting-how-to-say-no?s=github) – You quoted, they said yes, then came the email asking for less. A quiet story about saying no to a price cut without losing the client or your calm.
+
 - [Client Asking for a Discount? How to Reply Without Losing Them](https://blixwerkstudio.com/guides/client-asking-for-discount-how-to-reply-freelance?s=github) – The email says 'any chance of a better price?' and your stomach drops. A calm story about replying to a discount request without losing the client.
 
 - [Client Emails at Midnight? The Canal Towpath at 7:05](https://blixwerkstudio.com/guides/client-emailing-at-midnight-freelance-set-expectations?s=github) – A client who emails at midnight and expects an answer by morning. A freelancer's walk along the canal, and what changed once expectations were set early.
@@ -1473,6 +1475,8 @@ Included (16 products, 175 USD if bought separately):
 - [Hours Lost to Data and File Chores? The Dentist Waiting Room](https://blixwerkstudio.com/guides/developer-wasting-hours-on-data-and-file-chores?s=github) – You meant to read a paper in the waiting room, but you were rebuilding last week's file chores in your head. A quiet story for developers who want those hours back.
 
 - [Disco lleno de logs y servidor caído: la llamada de las 9](https://blixwerkstudio.com/guides/disco-servidor-lleno-logs-rotar?s=github) – Se cayó la tienda de tu cliente porque el disco se llenó de logs. Una historia sobre rotarlos a tiempo y empezar el lunes sin sobresaltos.
+
+- [Disk Full From Old Log Files? The Kitchen Showroom Alert](https://blixwerkstudio.com/guides/disk-full-old-log-files-safe-to-delete?s=github) – Disk at 98% and a folder of old logs you're afraid to touch. A quiet story about not knowing what is safe to delete, and how that fear can ease.
 
 - [Do I Charge Enough as a Freelancer? The Plumber at the Kitchen Door](https://blixwerkstudio.com/guides/do-i-charge-enough-as-a-freelancer?s=github) – A plumber hands over a bill without flinching, and a freelancer wonders why she can't do the same. A quiet story about charging enough and feeling paid.
 
@@ -1730,6 +1734,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde sagt „Zahlung kommt“? Die Kasse im Biomarkt](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance?s=github) – Der Kunde schreibt wieder „kommt diese Woche“. Eine Geschichte über Warten, Scham und die Ruhe, die entsteht, wenn du den nächsten Schritt kennst.
 
+- [Kunde zahlt nicht, sagt nur „kommt“? Der TÜV-Termin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelancer?s=github) – Zum dritten Mal „die Zahlung ist in Bearbeitung“, und das Konto bleibt leer. Eine Geschichte über Warten, Nachfragen und die Ruhe danach.
+
 - [Kunde sagt „Zahlung kommt“? Das Gate B14](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelance?s=github) – „Die Zahlung kommt diese Woche“ – und wieder nichts. Eine Geschichte über Freelancer, vertröstende Kunden und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
 - [Kunde sagt „Zahlung kommt“? Der Campingplatz-Dienstag](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelancer?s=github) – Der Kunde schreibt wieder, die Zahlung sei unterwegs. Dein Konto sagt etwas anderes, und du stehst im Urlaub am Waschbecken. Eine Geschichte über Ruhe.
@@ -1983,6 +1989,8 @@ Included (16 products, 175 USD if bought separately):
 - [Scope Creep: Client Keeps Adding Work? The Campsite Bank Holiday](https://blixwerkstudio.com/guides/scope-creep-client-keeps-adding-work-how-to-push-back?s=github) – One bar of signal on a bank holiday, and the client wants 'just one more thing'. A calm story about scope creep and finding your words to push back.
 
 - [Se acaba 2026 y no tengo plan para 2027 como autónomo: la llamada](https://blixwerkstudio.com/guides/se-acaba-2026-sin-plan-2027-autonomo?s=github) – Un cliente pregunta por enero y tú no sabes qué responder. Una historia sobre llegar a fin de año sin plan y cómo se siente por fin ver el año que viene.
+
+- [Se me acumulan las tareas y no sé por dónde empezar hoy](https://blixwerkstudio.com/guides/se-me-acumulan-las-tareas-no-se-por-donde-empezar-hoy?s=github) – Lunes, 9:05, veintitrés cosas pendientes y ninguna por la que empezar. Una historia sobre cómo un día puede volver a caber en una hoja.
 
 - [Se me borró la carpeta del trabajo: sin copia, un martes](https://blixwerkstudio.com/guides/se-me-borro-la-carpeta-del-trabajo-sin-copia-de-seguridad?s=github) – Martes, 9:10: la carpeta del cliente ya no está y no hay copia de seguridad. Una historia sobre ese vacío en el estómago y la calma que llega después.
 
