@@ -1322,6 +1322,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Ignoring Your Invoice Email? Ticket Number 247](https://blixwerkstudio.com/guides/client-ignoring-follow-up-email-unpaid-invoice?s=github) – Your follow-up email sits unanswered and the invoice is weeks late. A quiet story about what to do next, without begging or panicking.
 
+- [Client Ignoring Your Follow-Up Email? What to Say Next](https://blixwerkstudio.com/guides/client-ignoring-follow-up-email-what-to-say-next?s=github) – Three follow-ups, no reply, and your thumb hovering over send on a Saturday. A short story for freelancers who don't know what to write next.
+
 - [Client Ignoring Overdue Reminders? The Ice Rink Bench](https://blixwerkstudio.com/guides/client-ignoring-overdue-invoice-reminders-what-else-can-i-do?s=github) – Three reminders sent, three times silence. On a cold rink bench, a freelancer finds a calmer way to chase an overdue invoice. A short story.
 
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://blixwerkstudio.com/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
@@ -1379,6 +1381,8 @@ Included (16 products, 175 USD if bought separately):
 - [Vague Client Feedback Email? The Baggage Carousel Reply](https://blixwerkstudio.com/guides/client-sent-vague-feedback-email-how-to-reply?s=github) – The email says 'not quite there, make it pop.' You're at a baggage carousel with no idea what to answer. A calm story about replying anyway.
 
 - [Client Taking Forever to Reply? Following Up Without Pushy](https://blixwerkstudio.com/guides/client-taking-forever-to-reply-how-to-follow-up-without-being-pushy?s=github) – Your client has gone quiet and every follow-up draft sounds either desperate or cross. A quiet Monday-morning story about finding the calm middle.
+
+- [Client Wants a Call Tomorrow, No Kickoff Questions Ready?](https://blixwerkstudio.com/guides/client-wants-a-call-tomorrow-no-kickoff-questions?s=github) – A new client wants a call tomorrow at ten and you have no questions ready. A calm story about walking into a kickoff call prepared.
 
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://blixwerkstudio.com/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
 
@@ -1788,6 +1792,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me da vergüenza decirle mi precio a un cliente nuevo: el café](https://blixwerkstudio.com/guides/me-da-verguenza-decirle-mi-precio-a-un-cliente-nuevo-freelance?s=github) – Estás en un café con un cliente nuevo y te pregunta cuánto cobras. Una historia para quien siente que el precio se le atasca en la garganta.
 
+- [Me ingresan dinero y no sé a qué factura corresponde](https://blixwerkstudio.com/guides/me-ingresan-dinero-no-se-a-que-factura-corresponde-autonomo?s=github) – Un ingreso sin concepto, tres facturas abiertas y un martes en el tranvía. Una historia para autónomos que quieren saber qué les han pagado.
+
 - [Me olvido de todo trabajando por mi cuenta: jueves, 16:55](https://blixwerkstudio.com/guides/me-olvido-de-todo-no-organizo-mi-semana-autonomo?s=github) – Estás en la puerta del colegio y recuerdas la entrega que prometiste. Una historia para quien trabaja por su cuenta y no consigue organizar su semana.
 
 - [Me quedé sin stock otra vez: el sábado del mercadillo](https://blixwerkstudio.com/guides/me-quede-sin-stock-otra-vez-control-de-inventario?s=github) – Sábado, 9:40, el puesto montado y falta lo que más se vende. Una historia sobre quedarte sin stock otra vez y el control de inventario que no llevas.
@@ -1809,6 +1815,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
 - [Miedo a gastarme el IVA y el IRPF del trimestre](https://blixwerkstudio.com/guides/miedo-gastarme-iva-irpf-trimestral-autonomo?s=github) – Es mediados de octubre, el trimestre se acerca y no sabes cuánto apartar. Una historia sobre el miedo a gastarte un dinero que no es del todo tuyo.
+
+- [Mindestbestand vergessen? Der Anruf vom Fußballverein](https://blixwerkstudio.com/guides/mindestbestand-vergessen-zu-spaet-nachbestellt-kunde-wartet?s=github) – Freitag, 9:10 Uhr: Die Rohlinge sind aus, der Verein braucht die Trikots morgen. Eine Geschichte für alle, die den Mindestbestand mal wieder vergessen haben.
 
 - [Parents Forget to Pay for Music Lessons? The Hallway Handover](https://blixwerkstudio.com/guides/music-teacher-parents-forget-to-pay-for-lessons?s=github) – The cello case is by the door, the envelope hasn't come, and you smile anyway. A gentle story for music teachers whose parents forget to pay.
 
