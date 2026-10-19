@@ -1236,6 +1236,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Auftrag ablehnen ohne schlechtes Gewissen? Die Mail um 8:50 Uhr](https://blixwerkstudio.com/guides/auftrag-ablehnen-ohne-schlechtes-gewissen-freiberufler?s=github) – Die Anfrage klingt gut, der Preis nicht, die Woche ist voll. Eine Geschichte darüber, wie ein Nein sich anfühlen kann, ohne dass du dich dafür rechtfertigst.
 
+- [Auftrag zu billig angenommen? Die Schlange beim Bäcker](https://blixwerkstudio.com/guides/auftrag-zu-billig-angenommen-bereut?s=github) – Du hast einen Auftrag zu billig angenommen und bereust es? Eine Geschichte über Freitag, 12:10 Uhr, ein Brötchen und den Moment, in dem sich etwas klärt.
+
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerkstudio.com/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
 
 - [Awkward Asking a Client About an Unpaid Invoice Again?](https://blixwerkstudio.com/guides/awkward-asking-client-unpaid-invoice-third-time?s=github) – The third reminder is the hardest to write. A quiet story about a lunch walk by a canal lock, and how chasing money can stop feeling like begging.
@@ -1349,6 +1351,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://blixwerkstudio.com/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
 
 - [New Client Onboarding Chaos? The Reception Chair at 9:50](https://blixwerkstudio.com/guides/freelancer-client-onboarding-kickoff-checklist?s=github) – You're in a new client's lobby with the scope scattered across three emails and half the logins missing. A calmer way to begin every project.
+
+- [Paid Late Once, Now Ignoring Invoice 2? The Key Counter](https://blixwerkstudio.com/guides/client-paid-first-invoice-late-ignoring-second-invoice?s=github) – They paid the first invoice weeks late. Now the second one gets silence. A quiet story about chasing money without begging, and what changes when you have a plan.
 
 - [Client Paid Half My Invoice, Now Silent? The Jetty at Noon](https://blixwerkstudio.com/guides/client-paid-half-my-invoice-and-wont-answer-emails?s=github) – Half the money arrived, then silence. A Sunday on a rented rowing boat, one unanswered email, and a calmer way to follow up without begging.
 
@@ -1561,6 +1565,8 @@ Included (16 products, 175 USD if bought separately):
 - [Afraid You Forgot Something Before Deploying Your API? Friday, 4:50 pm](https://blixwerkstudio.com/guides/forgot-something-before-deploying-api-to-production?s=github) – The deploy button is ready, the weekend is waiting, and one quiet thought won't leave: what did I forget? A story about launching with a calmer head.
 
 - [Forgot to Bill a Client Last Month? The Flea Market Sunday](https://blixwerkstudio.com/guides/forgot-to-bill-client-last-months-work?s=github) – You're holding a vase at a flea market when it hits you: last month's job was never invoiced. What that moment feels like, and how it stops happening.
+
+- [Forget to Bill Retainer Hours? The Glass Meeting Room](https://blixwerkstudio.com/guides/forgot-to-bill-retainer-hours-freelancer?s=github) – Monday, 10:00, a quarterly review call, and a retainer you suspect you've been undercounting for months. A story for freelancers who lose hours quietly.
 
 - [Forgot to Invoice a Client as a Freelancer? The Wedding Fair Stand](https://blixwerkstudio.com/guides/forgot-to-send-invoice-to-client-freelancer-what-to-do?s=github) – Standing at a trade fair, you suddenly realise a client was never invoiced. What to do next, and how a calm weekly routine keeps it from happening again.
 
@@ -1809,6 +1815,8 @@ Included (16 products, 175 USD if bought separately):
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://blixwerkstudio.com/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
 
 - [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
+
+- [Una mala reseña en Google y no sé cómo responder](https://blixwerkstudio.com/guides/mala-resena-google-no-se-como-responder?s=github) – Una estrella en Google a las 8:15, con la cola de la panadería delante. Una historia sobre responder a una mala reseña sin quedar mal.
 
 - [Mandé muchos currículums y no sé quién me ha respondido](https://blixwerkstudio.com/guides/mande-muchos-curriculums-no-se-quien-me-ha-respondido?s=github) – Te llaman de un número desconocido y no sabes a qué empresa mandaste el currículum. Una historia sobre ordenar tu búsqueda de empleo sin agobio.
 
