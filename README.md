@@ -1238,6 +1238,10 @@ Included (16 products, 175 USD if bought separately):
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerkstudio.com/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
 
+- [Awkward Asking a Client About an Unpaid Invoice Again?](https://blixwerkstudio.com/guides/awkward-asking-client-unpaid-invoice-third-time?s=github) – The third reminder is the hardest to write. A quiet story about a lunch walk by a canal lock, and how chasing money can stop feeling like begging.
+
+- [Backup Failed Silently? The Monday Call for March's Files](https://blixwerkstudio.com/guides/backup-job-silently-failed-noticed-when-needed-files?s=github) – The backup you trusted stopped months ago, and you find out on a client call. A calm story about silent failures and a backup that tells you it ran.
+
 - [Backup Drive Full? The Bakery Question at 6:30 am](https://blixwerkstudio.com/guides/backup-drive-full-log-files-never-rotated?s=github) – The owner asks, 'We're backed up, right?' and the drive says otherwise. A calm story about backups, old logs and finally trusting them.
 
 - [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://blixwerkstudio.com/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
@@ -1760,6 +1764,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
 
+- [Kunde zahlt immer nach 45 Tagen? Der Spielplatz, 12:20](https://blixwerkstudio.com/guides/kunde-zahlt-immer-nach-45-tagen-obwohl-14-tage-zahlungsziel?s=github) – 14 Tage Zahlungsziel, und wieder kommt das Geld erst nach 45. Eine Illustratorin, ein Spielplatz und die Frage, wann man eigentlich nachhaken darf.
+
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://blixwerkstudio.com/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
 - [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://blixwerkstudio.com/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
@@ -1841,6 +1847,8 @@ Included (16 products, 175 USD if bought separately):
 - [No consigo organizar mi semana como autónomo y no avanzo](https://blixwerkstudio.com/guides/no-consigo-organizar-mi-semana-autonomo-no-avanzo?s=github) – Es miércoles, la semana se te ha ido en cosas pequeñas y sientes que no avanzas. Una historia para quien trabaja por su cuenta.
 
 - [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://blixwerkstudio.com/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
+
+- [No puedo importar mi Excel de clientes al CRM: el lunes](https://blixwerkstudio.com/guides/no-puedo-importar-excel-clientes-crm-telefonos-nombres?s=github) – El CRM rechaza tu Excel de clientes por teléfonos y nombres en formatos distintos. Una historia de un lunes que puede acabar más tranquilo.
 
 - [Haven't Kept Any Receipts This Year? The Hut Terrace](https://blixwerkstudio.com/guides/no-receipts-kept-this-year-freelancer-panic?s=github) – October, a mountain terrace, and one text that makes you realise you kept no receipts all year. A calm story for freelancers who feel behind.
 
