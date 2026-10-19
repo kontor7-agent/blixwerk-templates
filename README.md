@@ -1256,6 +1256,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Bewerbungen im Überblick behalten? Der Anruf an der Ampel](https://blixwerkstudio.com/guides/bewerbungen-ueberblick-behalten-excel?s=github) – Du hast dich so oft beworben, dass du nicht mehr weißt, wo. Eine Geschichte über einen Anruf an der Ampel und wie wieder Ruhe in dein Bewerben kommt.
 
+- [Billed the Wrong Hours? The Meatball Queue Panic](https://blixwerkstudio.com/guides/billed-client-wrong-hours-panic?s=github) – The client emails: 'Are these hours right?' and your stomach drops. A calm story about checking, correcting and never guessing at your hours again.
+
 - [Billed the Same Week Twice? The Cheese Counter Ticket](https://blixwerkstudio.com/guides/billed-same-week-twice-which-hours-invoiced?s=github) – You think you billed the same week twice and can't tell which hours are invoiced. A quiet story about a Saturday queue, two PDFs, and getting calm back.
 
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://blixwerkstudio.com/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
@@ -1455,6 +1457,8 @@ Included (16 products, 175 USD if bought separately):
 - [¿Cuántos clientes necesito el próximo año como autónomo?](https://blixwerkstudio.com/guides/cuantos-clientes-necesito-proximo-ano-autonomo?s=github) – Tu tío pregunta cuántos clientes tendrás el año que viene y te quedas en blanco. Una historia sobre ordenar tu año de autónomo sin agobio.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
+
+- [Customer Ordered, Out of Stock Again? The Yarn Pickup](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-again-embarrassing?s=github) – A customer ordered something you didn't have, again. A quiet Thursday pickup story about the embarrassment, and what it feels like when stock stops surprising you.
 
 - [Had to Cancel a Customer's Order? The Choir Break Text](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-had-to-cancel-embarrassing?s=github) – A customer ordered something you didn't have, and now you have to cancel. A quiet story about that hot-faced moment and how it stops repeating.
 
@@ -1794,6 +1798,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi carpeta de descargas es un desastre: el archivo que no aparecía](https://blixwerkstudio.com/guides/mi-carpeta-de-descargas-es-un-desastre-y-no-encuentro-nada?s=github) – Compartes pantalla en una videollamada y tu carpeta de descargas queda a la vista. Una historia sobre archivos perdidos y cómo volver a la calma.
 
+- [Mi cliente siempre paga tarde y me da apuro insistir](https://blixwerkstudio.com/guides/mi-cliente-siempre-paga-tarde-me-siento-mal-insistiendo?s=github) – Es lunes, la cafetera borbotea y vuelves a redactar el mismo correo al cliente que siempre paga tarde. Una historia para quien odia insistir cada mes.
+
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
 - [Miedo a gastarme el IVA y el IRPF del trimestre](https://blixwerkstudio.com/guides/miedo-gastarme-iva-irpf-trimestral-autonomo?s=github) – Es mediados de octubre, el trimestre se acerca y no sabes cuánto apartar. Una historia sobre el miedo a gastarte un dinero que no es del todo tuyo.
@@ -1921,6 +1927,8 @@ Included (16 products, 175 USD if bought separately):
 - [Raise Your Lesson Rate Without Dread: The Piano Stool at 3:40](https://blixwerkstudio.com/guides/raise-lesson-rate-private-tutor-price-increase-letter?s=github) – Your lesson rate hasn't moved in four years and the letter sits unwritten. A quiet story about finally saying the new price in your own calm voice.
 
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
+
+- [Späte Rechnung, netter Kunde: Wie mahnen ohne unhöflich?](https://blixwerkstudio.com/guides/rechnung-freundlich-mahnen-netter-kunde?s=github) – Der Kunde ist nett, die Rechnung seit Wochen offen. Eine Geschichte über das Nachhaken, ohne dich zu verbiegen – mitten auf einer Hochzeitsfeier.
 
 - [Rechnung letzten Monat geschrieben? Das Hallenbad, 9:20](https://blixwerkstudio.com/guides/rechnung-letzten-monat-geschrieben-freelancer-vergessen?s=github) – Samstag im Hallenbad, Handy in der Hand: Hast du im September die Rechnung geschrieben? Eine Geschichte über den Zweifel – und über mehr Ruhe.
 
