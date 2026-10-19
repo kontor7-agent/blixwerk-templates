@@ -1652,6 +1652,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://blixwerkstudio.com/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
 
+- [Got a Callback, Can't Remember the Job? The Pay Machine](https://blixwerkstudio.com/guides/got-a-callback-cant-remember-what-i-applied-for?s=github) – A company calls back and you can't remember what you applied for. A short story about that cold moment, and how a calmer job search feels.
+
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
 
 - [Craft Stock and Orders in a Mess? The Courier Slot](https://blixwerkstudio.com/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
@@ -1663,6 +1665,8 @@ Included (16 products, 175 USD if bought separately):
 - [How Much to Charge for a Job You Always Underestimate? The Fence Job](https://blixwerkstudio.com/guides/how-much-to-charge-for-a-job-i-always-underestimate?s=github) – You said "about a day" on the doorstep. By Wednesday it was three. A calm story about quoting jobs you always underestimate, and what changes.
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerkstudio.com/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
+
+- [Polite No to Extra Client Work? The Self-Checkout Beep](https://blixwerkstudio.com/guides/how-to-politely-say-no-to-extra-work-from-client?s=github) – A client message arrives while you scan the milk: just one small extra thing. A story about finding a calm, polite way to say no to extra work.
 
 - [Client Wants a Rush Job for Free? The Food Truck Friday](https://blixwerkstudio.com/guides/how-to-say-no-to-client-rush-job-for-free?s=github) – The message says 'just a quick favour, by Monday.' You're in a queue with your phone in your hand, and the word no feels impossible. A calmer way through.
 
@@ -1783,6 +1787,8 @@ Included (16 products, 175 USD if bought separately):
 - [Lieferant liefert zu spät, Ware ist aus? Der Anruf um 11:20 Uhr](https://blixwerkstudio.com/guides/lieferant-liefert-zu-spaet-ware-ist-aus?s=github) – Der Lieferant meldet sich: drei Wochen Verzug. Im Shop steht noch „2 verfügbar“. Eine Geschichte über leere Regale und die Ruhe, die danach möglich ist.
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://blixwerkstudio.com/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
+
+- [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
 
 - [Mandé muchos currículums y no sé quién me ha respondido](https://blixwerkstudio.com/guides/mande-muchos-curriculums-no-se-quien-me-ha-respondido?s=github) – Te llaman de un número desconocido y no sabes a qué empresa mandaste el currículum. Una historia sobre ordenar tu búsqueda de empleo sin agobio.
 
@@ -2093,6 +2099,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tired of Manual Data Cleanup Every Week? The Airport Gate Fix](https://blixwerkstudio.com/guides/tired-of-manual-data-cleanup-file-chores-developer?s=github) – Waiting at the gate, you're renaming files and fixing a CSV by hand again. A story about weekly developer chores and what a quiet Monday can feel like.
 
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://blixwerkstudio.com/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
+
+- [Trabajo mal pagado como autónomo: ¿me compensa aceptarlo?](https://blixwerkstudio.com/guides/trabajo-mal-pagado-autonomo-me-compensa-aceptarlo?s=github) – Te ofrecen un trabajo mal pagado y el sí casi sale solo. Una historia sobre dudar en la cola de la farmacia y decidir con calma, sin culpa.
 
 - [Trabajo muchas horas y gano poco como freelance: el tren de vuelta](https://blixwerkstudio.com/guides/trabajo-muchas-horas-gano-poco-freelance-que-hago-mal?s=github) – Jueves, 18:10, en el tren de vuelta de una reunión. Trabajas más que nunca y la cuenta no lo refleja. Una historia para quien se pregunta qué hace mal.
 
