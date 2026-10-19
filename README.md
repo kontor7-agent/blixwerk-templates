@@ -1664,6 +1664,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Viel gearbeitet, am Monatsende bleibt nichts übrig? Das Wartezimmer](https://blixwerkstudio.com/guides/freiberufler-arbeitet-viel-monatsende-bleibt-nichts-uebrig?s=github) – Du arbeitest und arbeitest, und am Monatsende ist das Konto trotzdem fast leer. Eine Geschichte aus dem Wartezimmer der Steuerberaterin.
 
+- [Stuhlmiete, Friseurin: Wie viel für Steuern zurücklegen?](https://blixwerkstudio.com/guides/friseurin-stuhlmiete-steuern-zurcklegen?s=github) – Stuhlmieterin im Salon und keine Ahnung, was fürs Finanzamt zur Seite gehört? Eine Geschichte über Trinkgeld, Kartenzahlung und ruhige Zahlen.
+
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://blixwerkstudio.com/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
 
 - [Got a Callback, Can't Remember the Job? The Pay Machine](https://blixwerkstudio.com/guides/got-a-callback-cant-remember-what-i-applied-for?s=github) – A company calls back and you can't remember what you applied for. A short story about that cold moment, and how a calmer job search feels.
@@ -1827,6 +1829,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me quedé sin stock otra vez: el sábado del mercadillo](https://blixwerkstudio.com/guides/me-quede-sin-stock-otra-vez-control-de-inventario?s=github) – Sábado, 9:40, el puesto montado y falta lo que más se vende. Una historia sobre quedarte sin stock otra vez y el control de inventario que no llevas.
 
 - [Me quedo sin stock y no sé cuándo reponer: la llamada de las 9](https://blixwerkstudio.com/guides/me-quedo-sin-stock-no-se-cuando-reponer?s=github) – Son las nueve, el proveedor dice «tres semanas» y tu producto estrella ya casi no queda. Una historia sobre dejar de reponer a ciegas.
+
+- [Me retrasé con la entrega y no sé cómo avisar al cliente](https://blixwerkstudio.com/guides/me-retrase-con-la-entrega-como-avisar-al-cliente?s=github) – Es lunes, la entrega venció el viernes y no sabes cómo decírselo al cliente. Una historia sobre ese nudo en el estómago y cómo se afloja.
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
 
@@ -2062,9 +2066,13 @@ Included (16 products, 175 USD if bought separately):
 
 - [Selling Lots of Handmade Items but No Real Profit?](https://blixwerkstudio.com/guides/selling-lots-of-handmade-items-real-profit?s=github) – Parcels go out every day, the stall sells well, yet the account stays thin. A story for makers who can't tell if they're really earning anything.
 
+- [Invoice Sent Two Months Ago, No Reply? The Radiator Key](https://blixwerkstudio.com/guides/sent-invoice-two-months-ago-no-reply-what-now?s=github) – You sent the invoice two months ago and heard nothing. A quiet Monday story about the silence, and how to stop wondering who still owes you.
+
 - [Server Disk Full From Old Backups? The Hut on the Hill](https://blixwerkstudio.com/guides/server-disk-full-old-backups?s=github) – Day off, soup on the table, and a phone buzzing: disk full. A story about old backups nobody cleaned up, and what a quiet Monday feels like instead.
 
 - [Server Disk Full Again? Old Log Files and a 7:45 Client Call](https://blixwerkstudio.com/guides/server-disk-full-old-log-files?s=github) – The disk is full again, and the culprit is months of old log files. A calm story about the Monday it stopped happening, and what changed.
+
+- [Server Out of Disk Space Overnight? The Gondola Queue](https://blixwerkstudio.com/guides/server-out-of-disk-space-overnight-log-files?s=github) – Your server ran out of disk space overnight because of log files, and you're in a gondola queue with one bar of signal. A story about calm after the alert.
 
 - [Spreadsheets Everywhere? The Monday You Couldn't Find the Number](https://blixwerkstudio.com/guides/small-business-admin-overwhelmed-spreadsheets-everywhere?s=github) – Eleven tabs, three folders, one question you can't answer. A story for anyone drowning in small business admin and scattered spreadsheets.
 
