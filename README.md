@@ -1310,6 +1310,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot Which Jobs You Applied To? The Tram Stop Voicemail](https://blixwerkstudio.com/guides/cant-remember-which-jobs-i-applied-to-and-followed-up?s=github) – A recruiter calls back and you can't place the company. If you've lost track of which jobs you applied to and followed up on, this story is for you.
 
+- [Forgot Which Lessons You Taught? The Barbecue Question](https://blixwerkstudio.com/guides/cant-remember-which-lessons-i-taught-and-who-paid?s=github) – Your sister asks how the month went and you can't say which lessons you taught or who paid. A quiet story for private tutors and teachers.
+
 - [Forgot What You Invoiced This Quarter? The Harbour Bench](https://blixwerkstudio.com/guides/cant-remember-which-projects-invoiced-this-quarter?s=github) – Half a bag of chips, a phone at 9% and one question you can't answer: which projects did you already invoice this quarter? A calm story about knowing.
 
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://blixwerkstudio.com/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
@@ -1782,6 +1784,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde versprach Zahlung, nichts da? Die Fähre, 11:40](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen-was-sagen?s=github) – Der Kunde sagte „geht raus“, auf dem Konto ist nichts. Was schreibst du jetzt? Eine Geschichte über den Moment auf der Fähre und die Ruhe danach.
 
+- [Kunde versprach Zahlung, nichts da? Die Hotelrezeption](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen?s=github) – Der Kunde hat die Zahlung zugesagt, aber das Konto bleibt leer. Eine Geschichte über die Hotelrezeption, das Warten und ruhiges Nachhaken.
+
 - [Kunde verspricht Zahlung, aber nichts kommt? Die Parkbank](https://blixwerkstudio.com/guides/kunde-verspricht-zahlung-aber-nichts-kommt-freelancer?s=github) – Donnerstag, 12:20, Banking-App zum x-ten Mal: Der Kunde verspricht zu zahlen, aber nichts kommt. Eine Geschichte über mehr Ruhe.
 
 - [Kunde will 90 Tage Zahlungsziel? Der Videocall um 11:20](https://blixwerkstudio.com/guides/kunde-will-90-tage-zahlungsziel-freelancer?s=github) – Der Kunde nennt 90 Tage Zahlungsziel, und deine Miete ist in zwei Wochen fällig. Eine Geschichte über Ruhe, wenn Geld spät kommt.
@@ -1942,6 +1946,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://blixwerkstudio.com/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
 
+- [Client Wants More Edits Before Paying? The Dog Groomer](https://blixwerkstudio.com/guides/photography-client-wants-more-edits-before-paying-balance?s=github) – The gallery is delivered, the balance is open, and the client asks for 'just a few more edits' first. A photographer's Saturday morning outside a dog groomer.
+
 - [Plan 2027 on Unpredictable Freelance Income: The Eye Test](https://blixwerkstudio.com/guides/plan-2027-freelancer-unpredictable-income?s=github) – The optician asks what you do for work and how next year looks. You smile and say fine. Here's how a blurry 2027 can come into focus, calmly.
 
 - [Plan Freelance Income When Months Differ: Gym Desk](https://blixwerkstudio.com/guides/plan-freelance-income-next-year-irregular-months?s=github) – The gym offers a cheaper annual plan, and you can't say what next March looks like. A calm story about planning freelance income when every month is different.
@@ -1951,6 +1957,8 @@ Included (16 products, 175 USD if bought separately):
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://blixwerkstudio.com/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
 
 - [Presupuesto de una obra y no sé cuánto cobrar: el baño](https://blixwerkstudio.com/guides/presupuesto-obra-cuanto-cobrar-materiales-mano-de-obra?s=github) – Con el metro en la mano y el cliente esperando un precio, no sabes cuánto cobrar entre materiales y mano de obra. Una historia.
+
+- [Cliente pide presupuesto urgente y no sé cuánto tardo](https://blixwerkstudio.com/guides/presupuesto-urgente-no-se-cuanto-tiempo-me-llevara?s=github) – Te piden un presupuesto para hoy y no sabes cuánto tiempo llevará. Una mañana en una cocina ajena y cómo se siente tener los números a mano.
 
 - [Does Your Bestseller Earn Anything? Pricing Handmade Work](https://blixwerkstudio.com/guides/how-to-price-handmade-products-after-fees?s=github) – The candle jar sells out every market day, but after fees, wax and packaging, does it earn anything? A quiet story about pricing handmade work.
 
