@@ -1502,6 +1502,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Reply to a Difficult Client Email? The Ironing Board Monday](https://blixwerkstudio.com/guides/dont-know-how-to-reply-to-difficult-client-email-freelance?s=github) – The email lands at 7:52 on a Monday. You read it four times and still don't know what to write. A story for freelancers who freeze on hard replies.
 
+- [Mandé dos recordatorios y mi cliente sigue sin pagar](https://blixwerkstudio.com/guides/dos-recordatorios-de-pago-cliente-sigue-sin-pagar-que-escribir?s=github) – Dos recordatorios enviados, ni una respuesta y el cursor parpadeando. Una historia sobre qué escribir cuando un cliente sigue sin pagar, sin sentirte pidiendo limosna.
+
 - [Dreading a Difficult Client Email? The Fitting Room](https://blixwerkstudio.com/guides/dreading-difficult-client-email-freelancer-what-to-say?s=github) – The client's email sits unanswered while you wait behind a fitting room curtain. For freelancers who don't know what to say, and how that knot can loosen.
 
 - [Dreading Year-End Bookkeeping? No Idea Where Your Receipts Are](https://blixwerkstudio.com/guides/dreading-year-end-bookkeeping-freelancer-receipts?s=github) – A video call that starts late, a reminder you've snoozed since October, and the quiet dread of not knowing where your receipts are. A calmer year-end is possible.
@@ -1635,6 +1637,8 @@ Included (16 products, 175 USD if bought separately):
 - [Invoices and Hours in Separate Files? The EV Charger Wait](https://blixwerkstudio.com/guides/freelancer-invoices-and-hours-in-separate-files?s=github) – Thirty-eight minutes at a charger, invoices in one file and hours in another. A freelancer story about finally seeing it all in one place.
 
 - [Don't Know Who Has Paid? Freelance Invoices at the Swimming Pool](https://blixwerkstudio.com/guides/freelancer-invoices-spreadsheet-dont-know-who-has-paid?s=github) – Thursday, 4:10 pm, damp bleachers, and an email asking if invoice 14 was paid. A story for freelancers whose invoice spreadsheet stopped being trustworthy.
+
+- [Invoices and Timesheets Apart? The Stalled 14:10 Train](https://blixwerkstudio.com/guides/freelancer-invoices-timesheets-separate-places-tax-deadline?s=github) – Invoices in one folder, hours in another, and a tax deadline on Monday. A stalled regional train, a laptop, and the quiet relief of one place for it all.
 
 - [No Idea What to Earn Next Year? The Mulled Wine Queue](https://blixwerkstudio.com/guides/freelancer-no-idea-how-much-to-earn-next-year?s=github) – Dreading January because you don't know how much you need to earn next year? A quiet story from a Christmas market queue, and a calmer way to look at 2027.
 
@@ -1894,6 +1898,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me quedo atrás: no sé usar ChatGPT en mi negocio](https://blixwerkstudio.com/guides/no-se-usar-chatgpt-en-mi-negocio-me-quedo-atras?s=github) – En el mercadillo todos hablan de la IA y tú aún no has abierto ChatGPT. Una historia para quien siente que se queda atrás y quiere empezar con calma.
 
+- [No-Show im Salon: Was kostet dich der leere Termin?](https://blixwerkstudio.com/guides/no-show-salon-einnahmen-schwanken?s=github) – Der Kunde ist wieder nicht gekommen, und die Einnahmen im Salon schwanken. Eine Geschichte über Barber-Dienstag, leere Slots und ruhigere Zahlen.
+
 - [No tengo tiempo para mis redes sociales y me siento culpable](https://blixwerkstudio.com/guides/no-tengo-tiempo-redes-sociales-negocio-culpable?s=github) – La cola de la panadería, el móvil en la mano y 19 días sin publicar. Una historia sobre la culpa de las redes y cómo bajarle el volumen.
 
 - [Cuentas en libretas y papeles: cómo ordenarlas en Excel](https://blixwerkstudio.com/guides/ordenar-cuentas-negocio-excel-libretas-papeles?s=github) – Libretas, tickets y notas pegadas en la pared. Una tapicera, una llamada de un cliente y la sensación de que ordenar las cuentas sí es posible.
@@ -1921,6 +1927,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot the Balance After a Wedding Shoot? The Physio Corridor](https://blixwerkstudio.com/guides/photographer-forgot-balance-owed-after-wedding-shoot?s=github) – Three months after the wedding, a tagged photo reminds you: the final balance was never chased. A calm story for photographers, and what changes after.
 
 - [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://blixwerkstudio.com/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
+
+- [Plan 2027 on Unpredictable Freelance Income: The Eye Test](https://blixwerkstudio.com/guides/plan-2027-freelancer-unpredictable-income?s=github) – The optician asks what you do for work and how next year looks. You smile and say fine. Here's how a blurry 2027 can come into focus, calmly.
 
 - [Plan Freelance Income When Months Differ: Gym Desk](https://blixwerkstudio.com/guides/plan-freelance-income-next-year-irregular-months?s=github) – The gym offers a cheaper annual plan, and you can't say what next March looks like. A calm story about planning freelance income when every month is different.
 
