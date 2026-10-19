@@ -1410,6 +1410,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cliente enfadado me manda un correo borde: ¿qué contesto?](https://blixwerkstudio.com/guides/cliente-enfadado-correo-borde-que-contestar-autonomo?s=github) – Un cliente enfadado te escribe un correo borde mientras haces cola en la panadería, y no sabes qué contestar. Una historia sobre recuperar la calma.
 
+- [Mi cliente ignora mis recordatorios: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-ignora-recordatorios-de-pago-freelance-que-decir?s=github) – Tercer correo redactado y borrado en la cola de la panadería. Una historia sobre cobrar sin suplicar cuando tu cliente ignora los recordatorios.
+
 - [Me dijo que era caro y no supe qué responder (freelance)](https://blixwerkstudio.com/guides/cliente-me-dice-que-soy-caro-no-se-que-responder-freelance?s=github) – Te dicen «eres caro» y se te cierra la garganta. Una historia sobre dejar de improvisar tu precio y poder responder con calma.
 
 - [Mi cliente me escribe a todas horas y no sé poner límites: domingo](https://blixwerkstudio.com/guides/cliente-me-escribe-fuera-de-horario-como-poner-limites?s=github) – Domingo, 11:40, el móvil vibra otra vez. Una historia sobre el cliente que escribe fuera de horario y cómo se siente poner un límite sin culpa.
@@ -2020,6 +2022,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Rewriting the Same Client Email? The Breakdown Lay-By](https://blixwerkstudio.com/guides/rewriting-the-same-awkward-client-email?s=github) – Eleven drafts, one awkward email, and a recovery truck forty minutes away. A story for anyone who keeps rewriting the same client message and still hates it.
 
+- [Running Out of Stock Without Noticing? The Hill Climb](https://blixwerkstudio.com/guides/running-out-of-stock-without-noticing-small-business?s=github) – Halfway up a Sunday hill, your phone buzzes: another sold-out apology to write. A calm story about never being surprised by an empty shelf again.
+
 - [Salon Client No-Show Again? Booth Rent Stress on a Quiet Friday](https://blixwerkstudio.com/guides/salon-client-no-show-again-booth-rent-stress?s=github) – The 2 pm chair stays empty, the booth rent is still due. A calm story for solo stylists and nail techs who lose money to no-shows and wonder what it adds up to.
 
 - [Salon immer voll, aber was verdienst du wirklich? 8:40 am Automat](https://blixwerkstudio.com/guides/salon-immer-voll-aber-wie-viel-verdiene-ich-eigentlich?s=github) – Du arbeitest die ganze Woche am Stuhl und weißt trotzdem nicht, was bei dir ankommt. Eine Geschichte vom Einzahlautomat und von ruhigeren Montagen.
@@ -2108,6 +2112,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Keep Selling Items You Don't Have? The Cinema Foyer](https://blixwerkstudio.com/guides/stop-overselling-items-not-in-stock-small-shop?s=github) – The trailers are rolling when your phone buzzes: another order for the last skein, sold twice. A quiet story for shop owners who keep overselling.
 
+- [Students Paying Late for Lessons? The Staff Room Printer](https://blixwerkstudio.com/guides/students-paying-late-for-lessons-private-tutor-track?s=github) – Wednesday, 8:50, a printer jams and you can't say which students still owe you for lessons. A calm story for private tutors who chase payments from memory.
+
 - [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://blixwerkstudio.com/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
 
 - [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://blixwerkstudio.com/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
@@ -2175,6 +2181,8 @@ Included (16 products, 175 USD if bought separately):
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://blixwerkstudio.com/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
 
 - [Wedding Photographer: Client Hasn't Paid the Balance?](https://blixwerkstudio.com/guides/wedding-photographer-client-hasnt-paid-remaining-balance?s=github) – The gallery is delivered, the couple is thrilled, and the remaining balance is still open. A calm story for wedding photographers who hate chasing money.
+
+- [Weihnachtsgeschäft: Lager reicht nicht, zu spät bestellt?](https://blixwerkstudio.com/guides/weihnachtsgeschaeft-lager-reicht-nicht-zu-spaet-nachbestellt?s=github) – Samstag, 6:40 Uhr, Garage: Du zählst Kartons und ahnst, dass es nicht reicht. Eine Geschichte über späte Nachbestellung im Weihnachtsgeschäft.
 
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://blixwerkstudio.com/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
