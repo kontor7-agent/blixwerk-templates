@@ -1698,6 +1698,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Craft Stock and Orders in a Mess? The Courier Slot](https://blixwerkstudio.com/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
 
+- [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
+
 - [Is My Freelance Day Rate Too Low? The Soft-Play Birthday Party](https://blixwerkstudio.com/guides/how-do-i-know-if-my-freelance-day-rate-is-too-low?s=github) – A birthday party, a stranger's casual question, and the number you said too fast. A quiet story about how you know your day rate is too low.
 
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://blixwerkstudio.com/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
@@ -1705,6 +1707,8 @@ Included (16 products, 175 USD if bought separately):
 - [How Much to Charge for a Job You Always Underestimate? The Fence Job](https://blixwerkstudio.com/guides/how-much-to-charge-for-a-job-i-always-underestimate?s=github) – You said "about a day" on the doorstep. By Wednesday it was three. A calm story about quoting jobs you always underestimate, and what changes.
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerkstudio.com/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
+
+- [Can't Politely Say No to a Client Request? The Bus Aisle](https://blixwerkstudio.com/guides/how-to-politely-say-no-to-client-request-freelancer?s=github) – The client's message sits unanswered while your bus crawls home. How to say no without guilt, and why the right words don't have to be hard to find.
 
 - [Polite No to Extra Client Work? The Self-Checkout Beep](https://blixwerkstudio.com/guides/how-to-politely-say-no-to-extra-work-from-client?s=github) – A client message arrives while you scan the milk: just one small extra thing. A story about finding a calm, polite way to say no to extra work.
 
@@ -2005,6 +2009,8 @@ Included (16 products, 175 USD if bought separately):
 - [Quoted a Job, Materials Cost More Than I Thought: The Builders' Merchant](https://blixwerkstudio.com/guides/quoted-a-job-and-materials-cost-more-than-i-thought?s=github) – You quoted the bathroom last week. At the merchant's counter, the total on the screen is higher than your number. Here is what that moment really costs.
 
 - [Quoted a Job, Paid for Materials Yourself? The Van, 7:10](https://blixwerkstudio.com/guides/quoted-a-job-paid-for-materials-myself?s=github) – You quoted the job in ten minutes and bought the materials on your own card. Now the numbers don't add up. A quiet story for tradespeople.
+
+- [Quoted a Job, Profit Gone After Materials? Patio Gate](https://blixwerkstudio.com/guides/quoted-a-job-profit-gone-after-materials?s=github) – You quoted the patio, shook hands, and by Friday the materials had eaten the profit. A calm story for tradespeople who price from their head.
 
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://blixwerkstudio.com/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
 
