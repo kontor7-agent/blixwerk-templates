@@ -1426,6 +1426,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente ignora mis recordatorios: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-ignora-recordatorios-de-pago-freelance-que-decir?s=github) – Tercer correo redactado y borrado en la cola de la panadería. Una historia sobre cobrar sin suplicar cuando tu cliente ignora los recordatorios.
 
+- [Cuarto recordatorio sin respuesta: qué le digo al cliente](https://blixwerkstudio.com/guides/cliente-ignora-recordatorios-factura-que-decir?s=github) – Tres recordatorios, ningún aviso de pago y la semana del trimestre encima. Una historia sobre dejar de sentir que mendigas lo que ya ganaste.
+
 - [Me dijo que era caro y no supe qué responder (freelance)](https://blixwerkstudio.com/guides/cliente-me-dice-que-soy-caro-no-se-que-responder-freelance?s=github) – Te dicen «eres caro» y se te cierra la garganta. Una historia sobre dejar de improvisar tu precio y poder responder con calma.
 
 - [Mi cliente me escribe a todas horas y no sé poner límites: domingo](https://blixwerkstudio.com/guides/cliente-me-escribe-fuera-de-horario-como-poner-limites?s=github) – Domingo, 11:40, el móvil vibra otra vez. Una historia sobre el cliente que escribe fuera de horario y cómo se siente poner un límite sin culpa.
@@ -1770,6 +1772,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde kürzt einfach deine Rechnung? Was tun, wenn die Tankstelle wartet](https://blixwerkstudio.com/guides/kunde-kuerzt-rechnung-was-tun?s=github) – Auf dem Konto fehlen 380 Euro, im Verwendungszweck steht nur „gekürzt“. Eine Geschichte für alle, die nicht wissen, was sie jetzt sagen sollen.
 
+- [Kunde ghostet nach Schlussrechnung? Die Stille um 9:30](https://blixwerkstudio.com/guides/kunde-meldet-sich-nicht-nach-schlussrechnung?s=github) – Projekt abgenommen, Schlussrechnung raus, dann Funkstille. Eine Geschichte über das Schweigen nach der Rechnung und darüber, wie es leiser werden kann.
+
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://blixwerkstudio.com/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
 
 - [Kunde reagiert nicht auf Mails? Der Radweg um 12:30 Uhr](https://blixwerkstudio.com/guides/kunde-reagiert-nicht-auf-mails-was-schreiben?s=github) – Dritte Mail, keine Antwort, und du weißt nicht, was du noch schreiben sollst. Eine Geschichte über Funkstille und den Satz, der wieder leichtfällt.
@@ -1869,6 +1873,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
 
 - [Mensajes de clientes sin contestar y no tengo tiempo](https://blixwerkstudio.com/guides/mensajes-de-clientes-sin-contestar-no-tengo-tiempo?s=github) – Doce mensajes sin contestar y un bocadillo a medias en la furgoneta. Una historia para quien no tiene tiempo ni de responder a sus clientes.
+
+- [Merging Dozens of CSV Files Every Month? The Dentist Queue](https://blixwerkstudio.com/guides/merge-csv-files-different-headers-every-month?s=github) – Forty CSV files, forty different headers, and a deadline on Friday. A calm story about the monthly merge that eats your week, and what changes when it stops.
 
 - [Messy CSV Exports Every Week? The Cabin Draining Board](https://blixwerkstudio.com/guides/messy-csv-exports-every-week-fixing-by-hand?s=github) – Half-term in a rented cabin, laptop on the draining board, and the same messy CSV to fix by hand again. A story for anyone who loses hours to exports.
 
@@ -2053,6 +2059,8 @@ Included (16 products, 175 USD if bought separately):
 - [Had to Refund an Order Because It Was Sold Out? The Birthday Lunch](https://blixwerkstudio.com/guides/refund-customer-item-already-sold-out?s=github) – The phone buzzes under the table: the last skein is gone and the customer has already paid. A story about refunds, sold-out stock and a calmer shelf.
 
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://blixwerkstudio.com/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
+
+- [Renaming Hundreds of Files on Windows? Friday, 4:40 pm](https://blixwerkstudio.com/guides/rename-hundreds-of-files-windows?s=github) – Three hundred and forty files, one F2 key and a week off that starts in an hour. A story for anyone renaming files by hand on Windows.
 
 - [Hundreds of Files With Random Names? The Photographer's Handover](https://blixwerkstudio.com/guides/rename-hundreds-of-files-with-random-names-windows?s=github) – Three hundred files named IMG_4471 and scan_final2. The client is on screen-share and you can't find a thing. A story about renaming, and the calm after.
 
