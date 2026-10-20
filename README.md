@@ -1310,6 +1310,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Track Job Applications? The Noodle Stall Email](https://blixwerkstudio.com/guides/cant-keep-track-of-job-applications?s=github) – An interview invite arrives and you can't remember the company. A lunchtime story for anyone losing track of job applications and who replied.
 
+- [Did I Invoice Last Month's Work? The Bowling Alley Shoes](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-client-last-month?s=github) – Standing in rented bowling shoes, you can't remember if you invoiced September's work. A calm story about knowing what you billed without digging.
+
 - [Did You Invoice This Month's Hours? The Motorway Services](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-this-months-hours-freelance?s=github) – Parked at a motorway services, phone in hand, you can't remember if you invoiced this month's hours. A freelancer's story about the calmer way.
 
 - [Can't Remember Which Clients Paid You? The MOT Waiting Room](https://blixwerkstudio.com/guides/cant-remember-which-clients-have-paid-me-freelance?s=github) – A client asks if you got their payment, and you honestly don't know. A quiet story about losing track of who paid, and what it feels like to know again.
@@ -1924,6 +1926,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Nail Tech: How Much Do I Actually Make After Booth Rent?](https://blixwerkstudio.com/guides/nail-tech-how-much-do-i-actually-make-after-booth-rent?s=github) – The rental form asks for your monthly income and you freeze. A nail tech story about booth rent, products and finding the number you actually keep.
 
+- [Nebenberuflich selbstständig: Welche Rechnung ging raus?](https://blixwerkstudio.com/guides/nebenberuflich-selbststaendig-rechnungen-ueberblick-verloren?s=github) – 12:35 Uhr in der Kantine: Du weißt nicht mehr, welchen Kunden du schon berechnet hast. Eine Geschichte über Ruhe im Nebenjob.
+
 - [Neukunde Vorkasse verlangen? Die Mail am Freitagmittag](https://blixwerkstudio.com/guides/neukunde-vorkasse-verlangen-traue-mich-nicht?s=github) – Neuer Kunde, großer Auftrag, und du traust dich nicht, Vorkasse zu verlangen? Eine Geschichte über den einen Satz, der Ruhe bringt.
 
 - [Never Know What to Post? The Wednesday Tram Ride Behind Again](https://blixwerkstudio.com/guides/never-know-what-to-post-on-social-media-feel-behind?s=github) – On the 8:12 tram, you realise you've posted nothing since last Thursday. If you never know what to post on social media, this one is for you.
@@ -2227,6 +2231,10 @@ Included (16 products, 175 USD if bought separately):
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://blixwerkstudio.com/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
 
 - [Translator Per-Word Rate to Hourly Pay? The Bike Shop](https://blixwerkstudio.com/guides/translator-per-word-rate-to-hourly-pay?s=github) – A rush job, a CAT discount, a per-word rate you never converted. A translator's Thursday at the bike shop, and the calm of knowing your hourly pay.
+
+- [Tres meses sin llevar las cuentas de freelance: pánico](https://blixwerkstudio.com/guides/tres-meses-sin-llevar-las-cuentas-freelance?s=github) – Tres meses de facturas y recibos sin apuntar, y un mensaje de la gestoría en la cola de la panadería. Una historia para respirar hondo.
+
+- [Tutoring Parents Always Pay Late? The Phone Repair Kiosk](https://blixwerkstudio.com/guides/tutoring-parents-pay-late-hate-asking-for-money?s=github) – Your phone is in for repair, a parent's payment is three weeks late, and asking feels awful. A tutor's quiet story about hating to chase money.
 
 - [Student Cancelled Again and Still Unpaid? The Red Man](https://blixwerkstudio.com/guides/tutoring-student-cancelled-last-minute-still-hasnt-paid?s=github) – A private tutor stands at a red crossing light, a last-minute cancellation on her screen and an unpaid invoice in her head. A calmer way to see it all.
 
