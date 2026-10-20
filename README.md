@@ -1252,6 +1252,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Backup Drive Full? The Bakery Question at 6:30 am](https://blixwerkstudio.com/guides/backup-drive-full-log-files-never-rotated?s=github) – The owner asks, 'We're backed up, right?' and the drive says otherwise. A calm story about backups, old logs and finally trusting them.
 
+- [Backup Script Stopped Running? The Poolside Bench](https://blixwerkstudio.com/guides/backup-script-stopped-running-noticed-late?s=github) – Your backup script stopped running and you only just noticed. A Tuesday on a humid poolside bench, and what a calmer routine feels like afterwards.
+
 - [Backup Stopped Weeks Ago? The Laptop Repair Counter](https://blixwerkstudio.com/guides/backup-stopped-running-weeks-ago?s=github) – The repair technician asks when your last backup ran. You check. It was weeks ago. A calm story about noticing late, and what changes afterwards.
 
 - [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://blixwerkstudio.com/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
@@ -1576,6 +1578,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://blixwerkstudio.com/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
 
+- [Factura con importe equivocado: mi facturación es un lío](https://blixwerkstudio.com/guides/factura-importe-equivocado-facturacion-desordenada?s=github) – Mandaste la factura con un importe que no era y el cliente te llama a las diez. Una historia sobre facturar con calma, sin miedo a equivocarte.
+
 - [Factura vencida hace 60 días y miedo a perder al cliente](https://blixwerkstudio.com/guides/factura-vencida-60-dias-reclamar-sin-perder-al-cliente?s=github) – El cliente te propone otro proyecto y su factura lleva 60 días vencida. Una historia sobre reclamar sin romper la relación.
 
 - [Facturas pendientes: no sé cuáles están vencidas (sala de espera)](https://blixwerkstudio.com/guides/facturas-pendientes-no-se-cuales-estan-vencidas-autonomo?s=github) – Estás en la sala de espera del dentista y quieres saber qué facturas están vencidas. Una historia para autónomos que lo buscan en tres sitios a la vez.
@@ -1808,6 +1812,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung kommt angeblich, aber nichts? Der Friseurstuhl](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelancer?s=github) – Folie im Haar, Handy im Schoß, wieder nur „kommt diese Woche“. Eine Geschichte über leere Zahlungszusagen und darüber, wie ruhiges Nachfassen sich anfühlt.
 
+- [Kunde: „Zahlung kommt“ – nichts da? Die Umzugskartons](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelance?s=github) – Zwischen Umzugskartons wartest du auf Geld, das „diese Woche“ kommen soll. Eine Geschichte über Zusagen, die nie ankommen, und wie es ruhiger wird.
+
 - [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
@@ -2023,6 +2029,8 @@ Included (16 products, 175 USD if bought separately):
 - [Students Forget to Pay for Lessons? The 12:50 Sandwich](https://blixwerkstudio.com/guides/private-tutor-students-forget-to-pay-for-lessons?s=github) – Four minutes between two video lessons, a sandwich going dry, and a question you can't ask: who hasn't paid? A story for private tutors.
 
 - [Profit on Handmade Items After Etsy Fees? The Frame Shop](https://blixwerkstudio.com/guides/profit-on-handmade-items-after-etsy-fees?s=github) – The framer asked how your Etsy shop was going and you said 'good!' without knowing. A quiet story about handmade profit after fees, and what eases the doubt.
+
+- [Project Taking Longer Than Planned? The Playground Bench](https://blixwerkstudio.com/guides/project-taking-longer-than-planned-tell-client?s=github) – The edit is two weeks behind and the client thinks it's nearly done. A quiet story about finally finding the words to say it, calmly.
 
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://blixwerkstudio.com/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
 
