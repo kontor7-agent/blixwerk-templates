@@ -1214,7 +1214,11 @@ Included (16 products, 175 USD if bought separately):
 
 - [Alumno cancela la clase a última hora: ¿pierdo el dinero?](https://blixwerkstudio.com/guides/alumno-cancela-clase-ultima-hora-pierdo-dinero?s=github) – Son las 15:52, tu alumno escribe que no llega y el hueco ya no se llena. Una historia sobre cancelaciones de última hora y cómo dejar de callarte.
 
+- [Mis alumnos me pagan en efectivo y no sé quién me debe](https://blixwerkstudio.com/guides/alumnos-pagan-en-efectivo-no-se-quien-me-debe-clases?s=github) – Un sobre arrugado, un cuaderno con tachones y la duda de quién te debe clases. Una mañana de sábado en la que todo empezó a ordenarse.
+
 - [Out of Stock Too Late Again? The Café Lids at 7:20 am](https://blixwerkstudio.com/guides/always-find-out-too-late-product-out-of-stock?s=github) – Seven twenty, the queue is out the door, and the lids are gone. A short story for anyone who always finds out too late that something is out of stock.
+
+- [Am I Charging Enough After Tax? The Honesty Box Apples](https://blixwerkstudio.com/guides/am-i-charging-enough-freelancer-after-tax-unpaid-hours?s=github) – You bill a full day but work a day and a half. A quiet roadside story about rates, tax and unpaid hours, and the calm of knowing your number.
 
 - [Am I Losing Money on My Handmade Products After Fees?](https://blixwerkstudio.com/guides/am-i-losing-money-on-my-handmade-products-after-fees?s=github) – Your bestseller sells every week, but after fees, postage and materials you can't say what's left. A quiet Sunday at the craft fair, and a calmer way to look.
 
@@ -1532,6 +1536,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
+- [Etsy-Weihnachtsbestellungen und das Wachs wird knapp](https://blixwerkstudio.com/guides/etsy-weihnachtsbestellungen-material-wird-knapp?s=github) – Die Bestellungen laufen ein, im Regal liegen noch drei Dochte. Eine Geschichte über das Weihnachtsgeschäft, knappes Material und den Überblick.
+
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://blixwerkstudio.com/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
 
 - [Excel cambió los decimales de mi CSV y no cuadra el total](https://blixwerkstudio.com/guides/excel-cambia-decimales-csv-totales-no-cuadran?s=github) – Excel cambió los decimales de tu CSV y los totales no cuadran, y el cliente espera el informe. Una historia sobre recuperar la calma un lunes.
@@ -1715,6 +1721,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kassenbons verblasst? Das Thermopapier im Ordner](https://blixwerkstudio.com/guides/kassenbons-verblasst-thermopapier-selbststaendig-was-tun?s=github) – Mittwoch, 11:20 Uhr: Der Bon aus dem Frühjahr ist leer, der Steuerberater-Termin ist Freitag. Eine Geschichte über verblasste Belege und ruhigere Jahre.
 
 - [Keep Running Out of Stock? The Vet Waiting Room Message](https://blixwerkstudio.com/guides/keep-running-out-of-stock-customers-complain?s=github) – The cat is in the vet's back room when a customer writes that your bestseller is gone again. A calm story for small shop owners tired of finding out too late.
+
+- [Keep Running Out of Stock? The Coffee Morning Remark](https://blixwerkstudio.com/guides/keep-running-out-of-stock-only-notice-when-customer-asks?s=github) – A customer mentions at a coffee morning that your best seller was gone for weeks. You never knew. A quiet story about never being surprised by empty shelves.
 
 - [Kein Plan für 2027 als Freelancer? Der Anruf um 10:30](https://blixwerkstudio.com/guides/kein-plan-fuer-2027-freelancer-jahresplanung?s=github) – Ein Kunde fragt nach deiner Kapazität für nächstes Jahr, und du hast keine Antwort. Eine Geschichte über Planung ohne Druck und ohne Bauchgefühl.
 
