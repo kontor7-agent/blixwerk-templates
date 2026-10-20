@@ -1250,6 +1250,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Backup Drive Full? The Bakery Question at 6:30 am](https://blixwerkstudio.com/guides/backup-drive-full-log-files-never-rotated?s=github) – The owner asks, 'We're backed up, right?' and the drive says otherwise. A calm story about backups, old logs and finally trusting them.
 
+- [Backup Stopped Weeks Ago? The Laptop Repair Counter](https://blixwerkstudio.com/guides/backup-stopped-running-weeks-ago?s=github) – The repair technician asks when your last backup ran. You check. It was weeks ago. A calm story about noticing late, and what changes afterwards.
+
 - [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://blixwerkstudio.com/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
 
 - [Steuerberater Appointment Next Week? The Folder Called 'Misc'](https://blixwerkstudio.com/guides/steuerberater-termin-belege-uebersicht-excel-vorlage?s=github) – The tax advisor's email says 'please send your documents.' You open a folder called 'Misc'. A calm story about receipts, overview and a year-end that feels light.
@@ -1591,6 +1593,8 @@ Included (16 products, 175 USD if bought separately):
 - [Fotoshooting nicht abgerechnet? Der Download-Hinweis um 12:40](https://blixwerkstudio.com/guides/fotograf-rechnung-vergessen-nach-shooting?s=github) – Die Galerie ist längst geliefert, die Rechnung nie geschrieben. Eine Fotografin, ein Bahnhofscafé und der Moment, in dem sie es merkt.
 
 - [Soy fotógrafo autónomo y olvidé cobrar el resto de la sesión](https://blixwerkstudio.com/guides/fotografo-autonomo-olvido-cobrar-resto-sesiones-pagos-cliente?s=github) – La galería ya está entregada, el cliente da las gracias y tú no recuerdas si pagó el resto. Una mañana de lunes, y cómo se siente tener los pagos claros.
+
+- [Mi cliente quiere más fotos editadas y no sé cuánto cobrar](https://blixwerkstudio.com/guides/fotos-editadas-extra-despues-de-entregar-cuanto-cobrar?s=github) – Entregaste la sesión y llega el mensaje: «¿me editas unas fotos más?». Una escena en la cola de la panadería y cómo se vive con más calma.
 
 - [Free Harvest or Toggl Alternative: When Invoice Night Hits](https://blixwerkstudio.com/guides/free-alternative-to-harvest-or-toggl-freelance-hours-invoices?s=github) – It's 9 p.m., the invoice is due, and your hours are scattered across notes and memory. A calm, free alternative to Harvest or Toggl for freelance hours.
 
@@ -1978,6 +1982,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Primera factura freelance: no sé qué poner (plantilla gratis)](https://blixwerkstudio.com/guides/primera-factura-freelance-no-se-que-poner-plantilla-gratis?s=github) – El cliente dice «mándame la factura» y tú miras un documento en blanco sin saber qué poner. Una historia sobre ese miedo y una plantilla gratis.
 
+- [Can't Track Which Lessons Are Paid? The Study Room Clock](https://blixwerkstudio.com/guides/private-tutor-cant-track-which-lessons-are-paid?s=github) – A student asks, 'Did I pay for March?' and you don't know. A quiet story for private tutors who lose track of which lessons are paid for.
+
 - [Tutoring Parent Pays Late Again? The Station Café at 4:10](https://blixwerkstudio.com/guides/private-tutor-parent-pays-late-awkward-to-ask?s=github) – A parent pays late again and asking feels awkward. A tutor's quiet afternoon between two lessons, and what changes when you can finally see who is behind.
 
 - [Parents Pay Tutoring Late? The Half-Term Zoo Queue](https://blixwerkstudio.com/guides/private-tutor-parents-paying-late-awkward-asking?s=github) – Parents keep paying late and asking feels awkward? A tutor stands in a zoo queue, trying to remember who owes what. A calmer way to see it.
@@ -2177,6 +2183,8 @@ Included (16 products, 175 USD if bought separately):
 - [Überblick über Kunden und Projekte verloren? Montag, 9:02](https://blixwerkstudio.com/guides/ueberblick-kunden-projekte-verloren-freiberufler?s=github) – Der Kunde fragt nach dem Stand – und du suchst in Mails und Notizen. Eine Geschichte für Freiberufler, die den Überblick zurückwollen.
 
 - [Unangenehme Mail an den Kunden: Der Cursor blinkt seit 40 Minuten](https://blixwerkstudio.com/guides/unangenehme-mail-an-kunden-schreiben-freelancer?s=github) – Dienstag, 9:50 Uhr, ein leeres Mailfenster und kein Satz, der passt. Eine Geschichte für alle, die vor schwierigen Kundenmails zurückschrecken.
+
+- [Freundlicher Kunde zahlt nicht? Das Grillfest im Hof](https://blixwerkstudio.com/guides/unbezahlte-rechnung-freundlicher-kunde-nachfragen-peinlich?s=github) – Der Kunde ist nett, die Rechnung seit Wochen offen, und du bringst die Frage nicht über die Lippen. Eine Geschichte über Bratwurst und leise Gelassenheit.
 
 - [I Underpriced a Job and I'm Losing Money: What Do I Do?](https://blixwerkstudio.com/guides/underpriced-a-job-losing-money-what-do-i-do?s=github) – Halfway through the job, you realise the price was too low. A calm story about the sinking feeling, what to do next, and quoting without guessing.
 
