@@ -1374,6 +1374,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Pushing Back on Your Invoice Amount? The Pharmacy Queue](https://blixwerkstudio.com/guides/client-pushing-back-on-invoice-amount-what-do-i-say?s=github) – The client wrote 'this seems higher than expected.' You're in a pharmacy queue with a phone in your hand. A calm story about finding the words.
 
+- [Client Rejected My First Draft? The Chimney Sweep Wait](https://blixwerkstudio.com/guides/client-rejected-my-first-draft-how-to-respond-politely?s=github) – The client wrote 'not quite what we had in mind'. You have a reply half-typed and a chimney sweep at the door. A calm story about answering politely.
+
 - [Client Said My Freelance Rate Is Too High: The Pause on the Call](https://blixwerkstudio.com/guides/client-said-my-freelance-rate-is-too-high-what-do-i-say?s=github) – Thursday, 2:10 pm. The client says your rate is too high and the washing machine keeps spinning. What do you say? A short story about a calmer answer.
 
 - [Client Promised to Pay Friday, Three Fridays Ago?](https://blixwerkstudio.com/guides/client-said-pay-friday-three-fridays-now?s=github) – Friday again and no payment. A story about the third 'I'll pay on Friday' reply, and what changes when chasing stops feeling like begging.
@@ -1659,6 +1661,8 @@ Included (16 products, 175 USD if bought separately):
 - [No Idea What to Earn Next Year? The Mulled Wine Queue](https://blixwerkstudio.com/guides/freelancer-no-idea-how-much-to-earn-next-year?s=github) – Dreading January because you don't know how much you need to earn next year? A quiet story from a Christmas market queue, and a calmer way to look at 2027.
 
 - [Overwhelmed by Invoices and Timesheets? The Supermarket Queue](https://blixwerkstudio.com/guides/freelancer-overwhelmed-invoices-timesheets-whats-paid?s=github) – Standing in the checkout queue, you can't say which invoices are paid. A calm story about invoices, timesheets and finally seeing the whole picture.
+
+- [No Plan for 2027 as a Freelancer? The Frosted Windscreen](https://blixwerkstudio.com/guides/freelancer-overwhelmed-no-plan-for-next-year?s=github) – Scraping ice at 7:30 am, you realise you have no plan for next year. A calm story for freelancers who feel overwhelmed going into 2027.
 
 - [The Client Asked About Hours: Track Freelance Projects in Excel](https://blixwerkstudio.com/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
 
@@ -2182,6 +2186,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://blixwerkstudio.com/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
 
+- [Llevo varios proyectos a la vez y me siento desbordada](https://blixwerkstudio.com/guides/varios-proyectos-a-la-vez-plazos-y-facturas-desbordada?s=github) – Lunes, tres proyectos abiertos y una llamada inesperada. Cuando plazos y facturas se cruzan, hay otra forma de empezar la semana.
+
 - [Vendí un producto sin stock y no sé qué decirle al cliente](https://blixwerkstudio.com/guides/vendi-producto-sin-stock-que-decirle-al-cliente?s=github) – Jueves a mediodía: un pedido de una pieza que ya no existe y un cliente esperando. Una historia sobre el stock que sorprende y la calma que vuelve.
 
 - [Vendo en Etsy y no me queda nada: ¿gano algo?](https://blixwerkstudio.com/guides/vendo-en-etsy-comisiones-envio-no-me-queda-nada?s=github) – En la cola de Correos te preguntas si tu bestseller de Etsy te deja algo. Una historia sobre ponerle números a lo que haces a mano.
@@ -2201,6 +2207,8 @@ Included (16 products, 175 USD if bought separately):
 - [Verkauft, was du nicht hast? Der Paketshop um 10:05 Uhr](https://blixwerkstudio.com/guides/verkauft-ware-nicht-auf-lager-kleiner-shop?s=github) – Bestellung eingegangen, Regal leer. Eine Geschichte für kleine Shops, die Ware verkauft haben, die nicht auf Lager ist – und wie wieder Ruhe einkehrt.
 
 - [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://blixwerkstudio.com/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
+
+- [Vorstellungsgespräch morgen – was stand in der Bewerbung?](https://blixwerkstudio.com/guides/vorstellungsgespraech-morgen-bewerbung-vergessen?s=github) – Morgen Vorstellungsgespräch, und du weißt nicht mehr, was du geschrieben hast? Eine kleine Geschichte über den Moment an der Supermarktkasse.
 
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://blixwerkstudio.com/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
 
