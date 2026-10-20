@@ -1498,6 +1498,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
 
+- [Stock de seguridad: siempre pido de más o de menos](https://blixwerkstudio.com/guides/cuanto-stock-de-seguridad-tener-en-mi-tienda?s=github) – Tres cajas de más en el trastero y el bestseller agotado. Una historia sobre pedir al proveedor sin adivinar y cuánto stock de seguridad tener.
+
 - [¿Cuántos clientes necesito el próximo año como autónomo?](https://blixwerkstudio.com/guides/cuantos-clientes-necesito-proximo-ano-autonomo?s=github) – Tu tío pregunta cuántos clientes tendrás el año que viene y te quedas en blanco. Una historia sobre ordenar tu año de autónomo sin agobio.
 
 - [Asked for an Item You Don't Have? The Empty Tea Tin](https://blixwerkstudio.com/guides/customer-asked-for-item-not-in-stock?s=github) – A customer asks for the one thing you thought was on the shelf. You walk to the back and find it empty. A short story about stock you didn't know was gone.
@@ -1800,6 +1802,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde sagt „zu teuer“? Als Freiberufler im Videocall](https://blixwerkstudio.com/guides/kunde-sagt-ich-bin-zu-teuer-freiberufler?s=github) – Dienstag, 10:20 Uhr: Der Kunde sagt „zu teuer“, und du hörst dich schon Rabatt anbieten. Eine Geschichte über den Moment, der auch ruhig ausgehen kann.
 
+- [Kunde: „Scheck ist unterwegs“? Der Briefkasten, 11:40](https://blixwerkstudio.com/guides/kunde-sagt-scheck-ist-unterwegs-nichts-angekommen-freelancer?s=github) – Der Kunde sagt, der Scheck sei unterwegs. Du gehst zum dritten Mal zum Briefkasten. Eine Geschichte über Warten – und wie es ruhiger wird.
+
 - [Kunde: „Zahlung ist raus“ – aber kein Geld? Der Imbiss](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-ist-raus-aber-kein-geld-da?s=github) – „Die Überweisung ist raus“, sagt der Kunde, aber auf dem Konto ist nichts. Eine Mittagspause im Transporter und die Ruhe, die danach möglich ist.
 
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
@@ -2086,6 +2090,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Recruiter Called, Forgot You Applied? The Cloakroom Ticket](https://blixwerkstudio.com/guides/recruiter-called-forgot-which-jobs-i-applied-to?s=github) – The recruiter says your name warmly. You have no idea which job she means. A short story about that blank moment, and what a calmer job search feels like.
 
+- [Recruiter Email, Can't Recall the Job? The Car Boot Sale](https://blixwerkstudio.com/guides/recruiter-email-cant-remember-which-job?s=github) – A recruiter writes back and you can't place the job. A Saturday car boot sale, a buzzing phone, and what a calmer job search feels like afterwards.
+
 - [Had to Refund an Order Because It Was Sold Out? The Birthday Lunch](https://blixwerkstudio.com/guides/refund-customer-item-already-sold-out?s=github) – The phone buzzes under the table: the last skein is gone and the customer has already paid. A story about refunds, sold-out stock and a calmer shelf.
 
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://blixwerkstudio.com/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
@@ -2221,6 +2227,8 @@ Included (16 products, 175 USD if bought separately):
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://blixwerkstudio.com/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
 
 - [Translator Per-Word Rate to Hourly Pay? The Bike Shop](https://blixwerkstudio.com/guides/translator-per-word-rate-to-hourly-pay?s=github) – A rush job, a CAT discount, a per-word rate you never converted. A translator's Thursday at the bike shop, and the calm of knowing your hourly pay.
+
+- [Student Cancelled Again and Still Unpaid? The Red Man](https://blixwerkstudio.com/guides/tutoring-student-cancelled-last-minute-still-hasnt-paid?s=github) – A private tutor stands at a red crossing light, a last-minute cancellation on her screen and an unpaid invoice in her head. A calmer way to see it all.
 
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://blixwerkstudio.com/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
 
