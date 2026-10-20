@@ -1576,6 +1576,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://blixwerkstudio.com/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
+- [Miles de filas desordenadas en Excel: ¿por dónde empiezo?](https://blixwerkstudio.com/guides/excel-miles-de-filas-desordenadas-por-donde-empezar?s=github) – Lunes por la mañana, el tren y un Excel de 14.000 filas que no sabes por dónde coger. Una historia sobre abrirlo sin que se te encoja el estómago.
+
 - [Excel cambió mis números a 1,2E+15 y ya lo mandé](https://blixwerkstudio.com/guides/excel-numeros-largos-notacion-cientifica-ya-lo-mande?s=github) – Tu clienta te llama por el archivo: los números largos se ven como 1,23E+15 y ya lo enviaste. Una historia para respirar y volver a confiar en tus datos.
 
 - [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://blixwerkstudio.com/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
@@ -1990,6 +1992,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://blixwerkstudio.com/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
 
+- [Overwhelmed Planning 2027 as a Freelancer? The Spa Day](https://blixwerkstudio.com/guides/overwhelmed-planning-next-year-freelancer-no-structure?s=github) – A spa day that wasn't restful, because next year had no shape. A quiet story for freelancers who feel overwhelmed planning 2027 with no structure.
+
 - [Chasing Late Payment Feels Like Begging? The Gate at 7:40](https://blixwerkstudio.com/guides/how-to-chase-late-payment-without-feeling-pushy?s=github) – You're standing at the school gate, thumb over 'send', and the reminder still isn't written. A quiet story about chasing money without feeling like you're begging.
 
 - [Pedí tarde al proveedor y me quedé sin stock en campaña](https://blixwerkstudio.com/guides/pedi-tarde-al-proveedor-sin-existencias-campana?s=github) – Lanzaste la campaña, los pedidos entran y el proveedor tarda tres semanas. Una historia sobre quedarte sin existencias y volver a respirar.
@@ -2005,6 +2009,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot the Balance After a Wedding Shoot? The Physio Corridor](https://blixwerkstudio.com/guides/photographer-forgot-balance-owed-after-wedding-shoot?s=github) – Three months after the wedding, a tagged photo reminds you: the final balance was never chased. A calm story for photographers, and what changes after.
 
 - [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://blixwerkstudio.com/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
+
+- [Client Ignoring Your Final Invoice? The Swim-Class Bench](https://blixwerkstudio.com/guides/photography-client-ignoring-final-invoice-after-gallery-delivery?s=github) – You delivered the gallery, they downloaded every photo, and the final invoice sits unanswered. A calm story for photographers about getting paid.
 
 - [Client Wants All the Photos, Won't Pay the Deposit?](https://blixwerkstudio.com/guides/photography-client-wants-all-photos-wont-pay-deposit?s=github) – The shoot is done, the client wants every photo, and the deposit never arrived. A quiet story about a Saturday, a message, and a calmer way to keep track.
 
@@ -2299,6 +2305,8 @@ Included (16 products, 175 USD if bought separately):
 - [Wochenlang nichts auf Instagram gepostet? Die Hundewiese, 16:30](https://blixwerkstudio.com/guides/wochenlang-nichts-auf-instagram-gepostet-schlechtes-gewissen-selbststa?s=github) – Seit Wochen kein Post, und dann fragt jemand beiläufig nach. Eine Geschichte über das schlechte Gewissen auf Instagram und wie es leiser werden kann.
 
 - [Worked More Hours Than You Invoiced? The Arrivals Hall](https://blixwerkstudio.com/guides/worked-more-hours-than-invoiced-freelance-quarter?s=github) – The quarter ends and your gut says you worked more than you billed. A quiet story from an airport arrivals hall about seeing your hours and invoices together.
+
+- [Wütende Kunden-Mail beantworten – ohne Roboter-Ton](https://blixwerkstudio.com/guides/wuetende-kunden-mail-beantworten-ohne-defensiv?s=github) – Donnerstag, 12:50, Mail vom Kunden: „Das ist inakzeptabel.“ Dein Puls steigt. Eine Geschichte über Antworten, die ruhig klingen und trotzdem nach dir.
 
 - [Shoebox Full of Receipts? The January Scramble, Ended](https://blixwerkstudio.com/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
 
