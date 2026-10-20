@@ -1196,6 +1196,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Abschlagsrechnung vergessen? Projekt fertig, kein Geld](https://blixwerkstudio.com/guides/abschlagsrechnung-vergessen-projekt-fertig-kunde-hat-nichts-gezahlt?s=github) – Die Terrasse ist fertig, der Kunde strahlt, und dir fällt ein: Es gab nie eine Abschlagsrechnung. Eine Geschichte über Ruhe im Zahlungsfluss.
 
+- [Deleted a Folder, No Backup? The Car-Hire Desk Queue](https://blixwerkstudio.com/guides/accidentally-deleted-folder-no-recent-backup?s=github) – You emptied the wrong folder and the last backup is months old. A quiet story about that stomach-drop, and what a calm Monday looks like after.
+
 - [Accountant Wants Your Receipts? The Passport Office Ticket](https://blixwerkstudio.com/guides/accountant-wants-my-receipts-no-idea-where-they-are?s=github) – Waiting in line, your accountant's email lands: 'Please send all receipts by Friday.' You have no idea where half of them are. A calmer way is possible.
 
 - [Overwhelmed by To-Do Lists? The Monday Call Question](https://blixwerkstudio.com/guides/simple-printable-planner-overwhelmed-to-do-list-freelancer?s=github) – Monday, 9:05, a client asks what your priorities are this week, and your head fills with twenty things. A quiet story about a simpler planner.
@@ -1255,6 +1257,8 @@ Included (16 products, 175 USD if bought separately):
 - [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://blixwerkstudio.com/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
 
 - [Steuerberater Appointment Next Week? The Folder Called 'Misc'](https://blixwerkstudio.com/guides/steuerberater-termin-belege-uebersicht-excel-vorlage?s=github) – The tax advisor's email says 'please send your documents.' You open a folder called 'Misc'. A calm story about receipts, overview and a year-end that feels light.
+
+- [Belege nur als Handyfotos? Die Verspätung auf Gleis 7](https://blixwerkstudio.com/guides/belege-nur-als-handyfotos-steuer?s=github) – Die Belege liegen nur als Fotos auf dem Handy, und der Steuerberater will Unterlagen. Eine Geschichte über einen Bahnsteig und die Ruhe danach.
 
 - [Belege das ganze Jahr vergessen? Selbstständig zwischen den Jahren](https://blixwerkstudio.com/guides/belege-vergessen-selbststaendig-was-jetzt?s=github) – Zwischen den Jahren, Laptop auf dem Küchentisch der Eltern und kein einziger Beleg sortiert. Eine Geschichte über Ruhe nach dem Belege-Chaos.
 
@@ -1940,6 +1944,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No sé quién me debe dinero de mis facturas: un martes en la furgoneta](https://blixwerkstudio.com/guides/no-se-quien-me-debe-dinero-facturas-autonomo?s=github) – Sentado en la furgoneta, con el móvil en la mano, no sabes qué clientes te deben aún. Una historia sobre autónomos, facturas y la calma de verlo claro.
 
+- [No sé si me sale rentable cada servicio (peluquería)](https://blixwerkstudio.com/guides/no-se-si-me-sale-rentable-cada-servicio?s=github) – En el mostrador del proveedor, con el ticket del tinte en la mano, Marta se pregunta qué servicio le deja dinero de verdad. Quizá te suene.
+
 - [Me quedo atrás: no sé usar ChatGPT en mi negocio](https://blixwerkstudio.com/guides/no-se-usar-chatgpt-en-mi-negocio-me-quedo-atras?s=github) – En el mercadillo todos hablan de la IA y tú aún no has abierto ChatGPT. Una historia para quien siente que se queda atrás y quiere empezar con calma.
 
 - [No-Show im Salon: Was kostet dich der leere Termin?](https://blixwerkstudio.com/guides/no-show-salon-einnahmen-schwanken?s=github) – Der Kunde ist wieder nicht gekommen, und die Einnahmen im Salon schwanken. Eine Geschichte über Barber-Dienstag, leere Slots und ruhigere Zahlen.
@@ -2229,6 +2235,8 @@ Included (16 products, 175 USD if bought separately):
 - [Verkauft, was du nicht hast? Der Paketshop um 10:05 Uhr](https://blixwerkstudio.com/guides/verkauft-ware-nicht-auf-lager-kleiner-shop?s=github) – Bestellung eingegangen, Regal leer. Eine Geschichte für kleine Shops, die Ware verkauft haben, die nicht auf Lager ist – und wie wieder Ruhe einkehrt.
 
 - [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://blixwerkstudio.com/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
+
+- [VLOOKUP Not Working? The Hidden Space in Row 212](https://blixwerkstudio.com/guides/vlookup-not-working-hidden-spaces?s=github) – Two names that look identical, and VLOOKUP says #N/A. A story about hidden spaces in exported data, a client waiting on the line, and a calmer way to clean it.
 
 - [Vorstellungsgespräch morgen – was stand in der Bewerbung?](https://blixwerkstudio.com/guides/vorstellungsgespraech-morgen-bewerbung-vergessen?s=github) – Morgen Vorstellungsgespräch, und du weißt nicht mehr, was du geschrieben hast? Eine kleine Geschichte über den Moment an der Supermarktkasse.
 
