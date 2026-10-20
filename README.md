@@ -1332,6 +1332,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Agreed to Pay but Keeps Making Excuses? Freelancer](https://blixwerkstudio.com/guides/client-agreed-to-pay-but-keeps-making-excuses-freelancer?s=github) – They said yes, they'll pay. Then came the excuses. A quiet story about a Thursday pickup line, and how chasing money can feel calmer.
 
+- [Client Wants Unlimited Revisions? The Tennis Club Bench](https://blixwerkstudio.com/guides/client-asked-for-unlimited-revisions-how-to-say-no?s=github) – A client wrote 'unlimited revisions are fine, right?' while you stood at a vending machine. A story about finding calm words for a clear, kind no.
+
 - [Client Asked to Cut Your Price? The Stairwell Landing](https://blixwerkstudio.com/guides/client-asked-me-to-cut-my-price-after-quoting-how-to-say-no?s=github) – You quoted, they said yes, then came the email asking for less. A quiet story about saying no to a price cut without losing the client or your calm.
 
 - [Client Asking for a Discount? How to Reply Without Losing Them](https://blixwerkstudio.com/guides/client-asking-for-discount-how-to-reply-freelance?s=github) – The email says 'any chance of a better price?' and your stomach drops. A calm story about replying to a discount request without losing the client.
@@ -1385,6 +1387,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Said My Freelance Rate Is Too High: The Pause on the Call](https://blixwerkstudio.com/guides/client-said-my-freelance-rate-is-too-high-what-do-i-say?s=github) – Thursday, 2:10 pm. The client says your rate is too high and the washing machine keeps spinning. What do you say? A short story about a calmer answer.
 
 - [Client Promised to Pay Friday, Three Fridays Ago?](https://blixwerkstudio.com/guides/client-said-pay-friday-three-fridays-now?s=github) – Friday again and no payment. A story about the third 'I'll pay on Friday' reply, and what changes when chasing stops feeling like begging.
+
+- [Client Said They'd Pay Last Month, Now Silent? The Boathouse](https://blixwerkstudio.com/guides/client-said-theyd-pay-last-month-now-not-answering-emails?s=github) – They promised payment last month and now your emails vanish. A quiet Saturday story about chasing money without begging, and how it can feel calmer.
 
 - [The Check Is in the Mail Again? A Freelancer's Wait](https://blixwerkstudio.com/guides/client-says-check-is-in-the-mail-freelance?s=github) – Your client says the check is in the mail, for the third time. A quiet story about waiting at the mailbox and chasing money without feeling like you're begging.
 
@@ -1544,6 +1548,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Erste Rechnung als Freiberufler: Mache ich was falsch?](https://blixwerkstudio.com/guides/erste-rechnung-freiberufler-angst-fehler?s=github) – Donnerstag, 14:32 Uhr, Gleis 4: Der Zug hat Verspätung, die erste Rechnung liegt fertig da, und du traust dich nicht, auf Senden zu drücken.
 
+- [Erster Freelance-Auftrag: Wie viel soll ich verlangen?](https://blixwerkstudio.com/guides/erster-freelance-auftrag-wie-viel-verlangen?s=github) – Das Handy klingelt im Fahrradkeller, die Frage nach dem Preis kommt sofort. Und du hast keine Ahnung, was du sagen sollst. Eine Geschichte über den ersten Preis.
+
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
 - [Etsy-Weihnachtsbestellungen und das Wachs wird knapp](https://blixwerkstudio.com/guides/etsy-weihnachtsbestellungen-material-wird-knapp?s=github) – Die Bestellungen laufen ein, im Regal liegen noch drei Dochte. Eine Geschichte über das Weihnachtsgeschäft, knappes Material und den Überblick.
@@ -1565,6 +1571,8 @@ Included (16 products, 175 USD if bought separately):
 - [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://blixwerkstudio.com/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
 
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://blixwerkstudio.com/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
+
+- [Factura vencida hace 60 días y miedo a perder al cliente](https://blixwerkstudio.com/guides/factura-vencida-60-dias-reclamar-sin-perder-al-cliente?s=github) – El cliente te propone otro proyecto y su factura lleva 60 días vencida. Una historia sobre reclamar sin romper la relación.
 
 - [Facturas pendientes: no sé cuáles están vencidas (sala de espera)](https://blixwerkstudio.com/guides/facturas-pendientes-no-se-cuales-estan-vencidas-autonomo?s=github) – Estás en la sala de espera del dentista y quieres saber qué facturas están vencidas. Una historia para autónomos que lo buscan en tres sitios a la vez.
 
