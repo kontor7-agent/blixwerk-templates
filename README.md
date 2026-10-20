@@ -1498,6 +1498,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [¿Cuántos clientes necesito el próximo año como autónomo?](https://blixwerkstudio.com/guides/cuantos-clientes-necesito-proximo-ano-autonomo?s=github) – Tu tío pregunta cuántos clientes tendrás el año que viene y te quedas en blanco. Una historia sobre ordenar tu año de autónomo sin agobio.
 
+- [Asked for an Item You Don't Have? The Empty Tea Tin](https://blixwerkstudio.com/guides/customer-asked-for-item-not-in-stock?s=github) – A customer asks for the one thing you thought was on the shelf. You walk to the back and find it empty. A short story about stock you didn't know was gone.
+
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
 - [Customer Ordered, Out of Stock Again? The Yarn Pickup](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-again-embarrassing?s=github) – A customer ordered something you didn't have, again. A quiet Thursday pickup story about the embarrassment, and what it feels like when stock stops surprising you.
@@ -1553,6 +1555,8 @@ Included (16 products, 175 USD if bought separately):
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
 - [Etsy-Weihnachtsbestellungen und das Wachs wird knapp](https://blixwerkstudio.com/guides/etsy-weihnachtsbestellungen-material-wird-knapp?s=github) – Die Bestellungen laufen ein, im Regal liegen noch drei Dochte. Eine Geschichte über das Weihnachtsgeschäft, knappes Material und den Überblick.
+
+- [EÜR machen, Belege weg? Die Waschküche am Samstag](https://blixwerkstudio.com/guides/euer-machen-keine-ahnung-wo-die-belege-sind?s=github) – Die EÜR steht an, und du weißt nicht, wo die Belege sind. Eine Geschichte über Samstag, Waschküche und die Ruhe, die zurückkommt, wenn alles einen Platz hat.
 
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://blixwerkstudio.com/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
 
@@ -1854,6 +1858,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://blixwerkstudio.com/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
 
+- [Meses buscando trabajo y nadie llama: me siento perdido](https://blixwerkstudio.com/guides/llevo-meses-buscando-trabajo-no-me-llaman-perdido?s=github) – Mandas currículums y solo recibes silencio. Una mañana en la lavandería, demasiadas pestañas abiertas y la sensación de que puede haber otra forma.
+
 - [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
 
 - [Una mala reseña en Google y no sé cómo responder](https://blixwerkstudio.com/guides/mala-resena-google-no-se-como-responder?s=github) – Una estrella en Google a las 8:15, con la cola de la panadería delante. Una historia sobre responder a una mala reseña sin quedar mal.
@@ -1985,6 +1991,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot the Balance After a Wedding Shoot? The Physio Corridor](https://blixwerkstudio.com/guides/photographer-forgot-balance-owed-after-wedding-shoot?s=github) – Three months after the wedding, a tagged photo reminds you: the final balance was never chased. A calm story for photographers, and what changes after.
 
 - [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://blixwerkstudio.com/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
+
+- [Client Wants All the Photos, Won't Pay the Deposit?](https://blixwerkstudio.com/guides/photography-client-wants-all-photos-wont-pay-deposit?s=github) – The shoot is done, the client wants every photo, and the deposit never arrived. A quiet story about a Saturday, a message, and a calmer way to keep track.
 
 - [Client Wants More Edits Before Paying? The Dog Groomer](https://blixwerkstudio.com/guides/photography-client-wants-more-edits-before-paying-balance?s=github) – The gallery is delivered, the balance is open, and the client asks for 'just a few more edits' first. A photographer's Saturday morning outside a dog groomer.
 
