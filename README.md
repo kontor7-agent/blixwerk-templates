@@ -1472,6 +1472,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente paga tarde y no llego a la cuota de autónomos](https://blixwerkstudio.com/guides/cliente-paga-tarde-no-llego-cuota-autonomos?s=github) – El día 28, el móvil vibra con el aviso del banco y la factura de tu cliente sigue sin pagarse. Una historia sobre cobrar tarde y recuperar la calma.
 
+- [Ya entregué y el cliente pide descuento: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-pide-descuento-despues-de-entregar-el-proyecto?s=github) – Entregaste el proyecto y ahora el cliente pide descuento. Una escena de parque, un móvil que vibra y una forma más tranquila de responder.
+
 - [Cliente tóxico y autónomo: cómo dejarlo sin quedar mal (un lunes)](https://blixwerkstudio.com/guides/cliente-toxico-autonomo-como-dejar-de-trabajar-con-el-sin-quedar-mal?s=github) – Lunes, 9:10, otro mensaje de ese cliente. Una historia sobre cómo despedirte de un cliente tóxico sin quedar mal y recuperar la calma.
 
 - [Cobrar por proyecto o por hora: el café con Lucía](https://blixwerkstudio.com/guides/cobrar-por-proyecto-o-por-hora-freelance?s=github) – Te piden precio cerrado o por horas y te quedas en blanco. Una historia sobre cobrar por proyecto o por hora sin miedo a equivocarte.
@@ -1505,6 +1507,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
 
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
+
+- [CSV Weird Characters Every Time? The Greenhouse Thursday](https://blixwerkstudio.com/guides/csv-weird-characters-encoding-errors-every-time-i-open-it?s=github) – Every CSV opens with Ã¼ and â‚¬ instead of real letters. A calm story about a Thursday morning in a greenhouse, and what it feels like when exports just open right.
 
 - [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
 
@@ -1597,6 +1601,8 @@ Included (16 products, 175 USD if bought separately):
 - [Factura vencida hace 60 días y miedo a perder al cliente](https://blixwerkstudio.com/guides/factura-vencida-60-dias-reclamar-sin-perder-al-cliente?s=github) – El cliente te propone otro proyecto y su factura lleva 60 días vencida. Una historia sobre reclamar sin romper la relación.
 
 - [Facturas pendientes: no sé cuáles están vencidas (sala de espera)](https://blixwerkstudio.com/guides/facturas-pendientes-no-se-cuales-estan-vencidas-autonomo?s=github) – Estás en la sala de espera del dentista y quieres saber qué facturas están vencidas. Una historia para autónomos que lo buscan en tres sitios a la vez.
+
+- [Falsche Rechnung an Kunden geschickt? Bushaltestelle 7:55](https://blixwerkstudio.com/guides/falsche-rechnung-an-kunden-geschickt-was-tun?s=github) – Falscher Betrag, falsche Nummer, schon raus: Was tun, wenn die Rechnung beim Kunden liegt? Eine Geschichte über den Schreck und die Ruhe danach.
 
 - [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://blixwerkstudio.com/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
 
@@ -2277,6 +2283,8 @@ Included (16 products, 175 USD if bought separately):
 - [Translator Per-Word Rate to Hourly Pay? The Bike Shop](https://blixwerkstudio.com/guides/translator-per-word-rate-to-hourly-pay?s=github) – A rush job, a CAT discount, a per-word rate you never converted. A translator's Thursday at the bike shop, and the calm of knowing your hourly pay.
 
 - [Tres meses sin llevar las cuentas de freelance: pánico](https://blixwerkstudio.com/guides/tres-meses-sin-llevar-las-cuentas-freelance?s=github) – Tres meses de facturas y recibos sin apuntar, y un mensaje de la gestoría en la cola de la panadería. Una historia para respirar hondo.
+
+- [Salary to Hourly Rate as a Freelancer? The Farewell Cake](https://blixwerkstudio.com/guides/turn-salary-into-freelance-hourly-rate?s=github) – Your last week at the office, and someone asks what you'll charge. A calm story for anyone turning an old salary into a freelance rate and scared to get it wrong.
 
 - [Tutoring Parents Always Pay Late? The Phone Repair Kiosk](https://blixwerkstudio.com/guides/tutoring-parents-pay-late-hate-asking-for-money?s=github) – Your phone is in for repair, a parent's payment is three weeks late, and asking feels awful. A tutor's quiet story about hating to chase money.
 
