@@ -1534,6 +1534,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ordered Item Out of Stock? The Christening Buffet](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-small-business-embarrassed?s=github) – A customer ordered something you don't have, and your phone buzzes mid-sandwich. A calm story about the embarrassment of selling what isn't on the shelf.
 
+- [Ordered Something You Don't Have Again? The Hilltop Picnic](https://blixwerkstudio.com/guides/customer-ordered-something-not-in-stock?s=github) – A customer ordered something you don't have, again, and it found you on a hilltop on your day off. A quiet story about stock that stops surprising you.
+
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
 - [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://blixwerkstudio.com/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
@@ -2050,6 +2052,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Overwhelmed Planning 2027 as a Freelancer? The Spa Day](https://blixwerkstudio.com/guides/overwhelmed-planning-next-year-freelancer-no-structure?s=github) – A spa day that wasn't restful, because next year had no shape. A quiet story for freelancers who feel overwhelmed planning 2027 with no structure.
 
+- [Los padres no pagan la mensualidad y me da apuro reclamar](https://blixwerkstudio.com/guides/padres-no-pagan-mensualidad-clases-apuro-reclamar?s=github) – Entre dos clases miras el móvil y no sabes quién te debe la mensualidad. Una historia sobre reclamar sin apuro y volver a respirar con calma.
+
 - [Chasing Late Payment Feels Like Begging? The Gate at 7:40](https://blixwerkstudio.com/guides/how-to-chase-late-payment-without-feeling-pushy?s=github) – You're standing at the school gate, thumb over 'send', and the reminder still isn't written. A quiet story about chasing money without feeling like you're begging.
 
 - [Pedí tarde al proveedor y me quedé sin stock en campaña](https://blixwerkstudio.com/guides/pedi-tarde-al-proveedor-sin-existencias-campana?s=github) – Lanzaste la campaña, los pedidos entran y el proveedor tarda tres semanas. Una historia sobre quedarte sin existencias y volver a respirar.
@@ -2093,6 +2097,8 @@ Included (16 products, 175 USD if bought separately):
 - [Can't Track Which Lessons Are Paid? The Study Room Clock](https://blixwerkstudio.com/guides/private-tutor-cant-track-which-lessons-are-paid?s=github) – A student asks, 'Did I pay for March?' and you don't know. A quiet story for private tutors who lose track of which lessons are paid for.
 
 - [Tutoring Parent Pays Late Again? The Station Café at 4:10](https://blixwerkstudio.com/guides/private-tutor-parent-pays-late-awkward-to-ask?s=github) – A parent pays late again and asking feels awkward. A tutor's quiet afternoon between two lessons, and what changes when you can finally see who is behind.
+
+- [Tutor Can't Track Who Paid? The Tombola Table at the Fête](https://blixwerkstudio.com/guides/private-tutor-parents-pay-late-cant-track-who-paid?s=github) – Parents keep paying for lessons late and you can't remember who paid? A tutor's Saturday at the school fête, and what a calmer Monday could feel like.
 
 - [Parents Pay Tutoring Late? The Half-Term Zoo Queue](https://blixwerkstudio.com/guides/private-tutor-parents-paying-late-awkward-asking?s=github) – Parents keep paying late and asking feels awkward? A tutor stands in a zoo queue, trying to remember who owes what. A calmer way to see it.
 
@@ -2253,6 +2259,8 @@ Included (16 products, 175 USD if bought separately):
 - [Immer vergessen, auf Social Media zu posten? Der Marktstand](https://blixwerkstudio.com/guides/social-media-posten-vergessen-kleines-unternehmen?s=github) – Samstag am Marktstand sagt jemand: „Ich dachte, es gibt euch nicht mehr.“ Eine Geschichte für alle, die das Posten ständig vergessen.
 
 - [Social Media jeden Sonntag Stress? Was soll ich diese Woche posten?](https://blixwerkstudio.com/guides/social-media-sonntag-stress-was-soll-ich-diese-woche-posten?s=github) – Sonntag, 16:40, Kaffeetafel bei deiner Mutter, und unter dem Tisch starrst du aufs leere Textfeld. Warum die Postfrage nicht jede Woche neu wehtun muss.
+
+- [Social Media vergessen? Die Kundin in der Tischlerei](https://blixwerkstudio.com/guides/social-media-vergessen-kleines-unternehmen-posten?s=github) – Donnerstag, 17:40 Uhr, Werkstatt: „Ich hab euch ewig nicht gesehen.“ Eine Geschichte für alle, die schon wieder vergessen haben zu posten.
 
 - [Sold 50 Handmade Items, No Idea If You Made Profit?](https://blixwerkstudio.com/guides/sold-50-handmade-items-no-idea-if-i-made-profit?s=github) – Fifty orders packed, a full cash box, and still no idea what you actually kept. A quiet story about a maker, a train platform, and finally seeing profit.
 
