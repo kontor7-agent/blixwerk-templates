@@ -1668,6 +1668,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Freelance Rate Too Low, Scared to Raise It? The Pier Café](https://blixwerkstudio.com/guides/freelance-rate-too-low-scared-to-raise-it?s=github) – Your rate feels too low, but every time you think of raising it, your stomach drops. A quiet story about a Tuesday lunch and a calmer way to start.
 
+- [December and Your Freelance Receipts a Mess? The Tree Lot](https://blixwerkstudio.com/guides/freelance-receipts-a-mess-december?s=github) – It's December, your wallet is full of crumpled receipts and the year is nearly over. A calm story about ending the January scramble before it starts.
+
 - [Receipts Everywhere at Year-End? The Boxing Day Car Park](https://blixwerkstudio.com/guides/freelance-year-end-paperwork-overwhelm-where-are-my-receipts?s=github) – It's the holidays, but your laptop is open and you can't find a single receipt. A short story about year-end freelance paperwork and the calm after.
 
 - [Drowning in Freelance Admin? The Hairdresser's Chair, 8:55 am](https://blixwerkstudio.com/guides/freelancer-admin-overload-invoices-tracking-everywhere?s=github) – Invoices in one place, hours in another, receipts in a shoebox. A quiet Monday-morning story about freelance admin overload, and the relief of one calm system.
@@ -1811,6 +1813,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde fragt nach deinem Preis und du erstarrst? Die Kaffeeschlange](https://blixwerkstudio.com/guides/kunde-fragt-preis-erstarrt-wie-viel-verlangen-freelance?s=github) – Er fragt beiläufig, was du so nimmst, und dein Kopf ist leer. Eine Geschichte über den Moment danach und darüber, wie du deinen Preis ruhig nennen kannst.
 
 - [Kunde meldet sich nicht nach der Rechnung? Der Waschsalon](https://blixwerkstudio.com/guides/kunde-ghostet-nach-rechnung-was-schreiben?s=github) – Die Fotos waren begeistert angenommen, die Rechnung ist raus, dann Funkstille. Eine Geschichte über das Schweigen danach und den ersten ruhigen Satz.
+
+- [Kunde gibt kein Feedback, Projekt hängt? Der Kiosk, 8:25](https://blixwerkstudio.com/guides/kunde-gibt-kein-feedback-projekt-haengt-fest-freiberufler?s=github) – Seit drei Wochen kein Wort vom Kunden, und dein Projekt steht still. Eine Geschichte über Schweigen, Nachfassen und die Ruhe danach.
 
 - [Kunde hat nur die Hälfte bezahlt? Der Stau auf der A7](https://blixwerkstudio.com/guides/kunde-hat-nur-die-haelfte-der-rechnung-bezahlt?s=github) – Die Banking-App zeigt 1.190 € statt 2.380 €. Eine Geschichte über halb bezahlte Rechnungen, ein flaues Gefühl im Stau und wie wieder Ruhe einkehrt.
 
@@ -2309,6 +2313,8 @@ Included (16 products, 175 USD if bought separately):
 - [Vendo lo que hago a mano y no sé si pierdo dinero: la fila del correo](https://blixwerkstudio.com/guides/vendo-productos-hechos-a-mano-no-se-si-pierdo-dinero-con-mis-precios?s=github) – Tres paquetes, una fila en el correo y una duda: ¿gano algo con lo que vendo hecho a mano? Una historia sobre precios, comisiones y calma.
 
 - [Weniger als Mindestlohn als Selbstständige? Die Frage beim Kuchen](https://blixwerkstudio.com/guides/verdiene-ich-als-selbststaendiger-weniger-als-mindestlohn?s=github) – Sonntag, Geburtstagskaffee, ein Satz vom Schwager – und plötzlich fragst du dich: Verdiene ich als Selbstständige weniger als Mindestlohn?
+
+- [Me da vergüenza cobrarle a un amigo por mi trabajo](https://blixwerkstudio.com/guides/vergenza-cobrarle-a-un-amigo-por-mi-trabajo?s=github) – Sábado en la terraza, con la factura de tu amigo sin enviar desde hace tres semanas. Una historia sobre cobrar sin que se rompa nada.
 
 - [Me da vergüenza pedir un anticipo a un cliente nuevo](https://blixwerkstudio.com/guides/verguenza-pedir-anticipo-cliente-nuevo-autonomo?s=github) – El cliente nuevo dice «empezamos ya» y tú tienes el correo del anticipo a medio escribir. Una historia sobre cómo pedirlo sin sentir que molestas.
 
