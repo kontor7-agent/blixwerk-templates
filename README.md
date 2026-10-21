@@ -1208,6 +1208,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [La agencia no me paga la factura y me da apuro reclamar](https://blixwerkstudio.com/guides/agencia-de-traduccion-no-me-paga-la-factura-me-da-apuro-reclamar?s=github) – Viernes, 14:10, el menú del día sin tocar y la app del banco abierta. La agencia de traducción sigue sin pagar y tú sigues sin saber cómo reclamar.
 
+- [La agencia me ofrece poco por palabra: ¿me compensa?](https://blixwerkstudio.com/guides/agencia-traduccion-ofrece-poco-por-palabra-me-compensa?s=github) – Una agencia te llama con una tarifa por palabra que suena baja y te piden respuesta en cinco minutos. Una historia sobre dejar de contestar a ciegas.
+
 - [Agency Paid Late Again? A Translator's Quiet Tuesday Lunch](https://blixwerkstudio.com/guides/translator-agency-paid-late-how-to-chase-invoice-politely?s=github) – The agency invoice is 60 days old and you can't find the right words. A translator's lunch-break story about chasing late payment without the knot.
 
 - [Facturas, stock y clientes en excels sueltos: un lunes distinto](https://blixwerkstudio.com/guides/agobiado-administracion-negocio-pequeno-excels-sueltos?s=github) – Siete archivos abiertos, una llamada de un cliente y ninguna respuesta rápida. Una historia sobre ordenar facturas, stock y clientes sin sentirte perdido.
@@ -2265,6 +2267,8 @@ Included (16 products, 175 USD if bought separately):
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://blixwerkstudio.com/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
 
 - [Überblick über Kunden und Projekte verloren? Montag, 9:02](https://blixwerkstudio.com/guides/ueberblick-kunden-projekte-verloren-freiberufler?s=github) – Der Kunde fragt nach dem Stand – und du suchst in Mails und Notizen. Eine Geschichte für Freiberufler, die den Überblick zurückwollen.
+
+- [Überfällige Rechnung nachfassen, ohne unhöflich zu sein?](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-nachfassen-ohne-unhoeflich?s=github) – Samstag im Blumenladen: Die Rechnung ist 19 Tage überfällig, der Kunde ist nett. Eine Geschichte darüber, wie Nachfassen ruhig und freundlich klingen kann.
 
 - [Unangenehme Mail an den Kunden: Der Cursor blinkt seit 40 Minuten](https://blixwerkstudio.com/guides/unangenehme-mail-an-kunden-schreiben-freelancer?s=github) – Dienstag, 9:50 Uhr, ein leeres Mailfenster und kein Satz, der passt. Eine Geschichte für alle, die vor schwierigen Kundenmails zurückschrecken.
 
