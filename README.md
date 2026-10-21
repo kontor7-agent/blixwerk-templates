@@ -1378,6 +1378,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Paid Half My Invoice, Now Silent? The Jetty at Noon](https://blixwerkstudio.com/guides/client-paid-half-my-invoice-and-wont-answer-emails?s=github) – Half the money arrived, then silence. A Sunday on a rented rowing boat, one unanswered email, and a calmer way to follow up without begging.
 
+- [Client Paid Late Again? The Ice-Cream Van Bell](https://blixwerkstudio.com/guides/client-paid-invoice-late-again-how-to-bring-it-up?s=github) – The client paid late again, and you're standing in a sunny park wondering how to bring it up. A calm story for freelancers who dread that email.
+
 - [Client Paid My Invoice, But Which Hours Did It Cover?](https://blixwerkstudio.com/guides/client-paid-invoice-which-hours-were-covered?s=github) – The payment landed, but you can't tell which hours it covered. A calm story about a Monday-morning bank notification and finally seeing it clearly.
 
 - [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://blixwerkstudio.com/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
@@ -1804,6 +1806,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Word the Price Increase Email? The Football Pitch Bench](https://blixwerkstudio.com/guides/ai-prompts-client-emails-german-freelancers-price-increase-reminder?s=github) – Thursday, 5:10 pm, phone in hand, one client email you can't word. A story about du or Sie, awkward asks, and getting your voice back.
 
+- [Kleinunternehmergrenze überschritten? Der Kindergeburtstag](https://blixwerkstudio.com/guides/kleinunternehmergrenze-ueberschritten-umsatz-nicht-im-blick?s=github) – Du weißt nicht, ob du die Kleinunternehmergrenze schon überschritten hast? Eine Geschichte über eine Frage im Garten – und den Überblick danach.
+
 - [What Does Each Service Earn? The Nail Tech at the Wholesaler Till](https://blixwerkstudio.com/guides/what-does-each-service-earn-nail-tech-stylist-price-list?s=github) – The card machine shows 187 euros for gel, foils and tips, and you can't say which service paid for it. A story for solo stylists, nail techs and barbers.
 
 - [Kunde antwortet nicht auf dein Angebot? Der Dienstag im Zug](https://blixwerkstudio.com/guides/kunde-antwortet-nicht-auf-mein-angebot?s=github) – Das Angebot ist raus, der Posteingang bleibt still. Eine Geschichte über Warten, Zweifeln und den Mut, ruhig und freundlich nachzufragen.
@@ -1983,6 +1987,8 @@ Included (16 products, 175 USD if bought separately):
 - [No desconecto siendo autónoma y me siento culpable](https://blixwerkstudio.com/guides/no-consigo-desconectar-autonomo-culpable-descansar?s=github) – Sábado, cumpleaños de tu sobrina y el móvil vibra bajo la mesa. Descansar te da culpa. Una historia sobre cerrar el portátil sin sentirte mal.
 
 - [No consigo organizar mi semana como autónomo y no avanzo](https://blixwerkstudio.com/guides/no-consigo-organizar-mi-semana-autonomo-no-avanzo?s=github) – Es miércoles, la semana se te ha ido en cosas pequeñas y sientes que no avanzas. Una historia para quien trabaja por su cuenta.
+
+- [Sin dormir: ¿llegaré a fin de mes como autónomo?](https://blixwerkstudio.com/guides/no-duermo-llegar-a-fin-de-mes-autonomo?s=github) – Comida familiar, sonrisa puesta y la cabeza haciendo cuentas. Una historia para autónomos que no duermen pensando si llegarán a fin de mes.
 
 - [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://blixwerkstudio.com/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
 
@@ -2347,6 +2353,8 @@ Included (16 products, 175 USD if bought separately):
 - [Weiterarbeiten, obwohl der Kunde nicht gezahlt hat?](https://blixwerkstudio.com/guides/weiterarbeiten-kunde-hat-letzte-rechnung-nicht-bezahlt?s=github) – Der Kunde will den nächsten Auftrag, die letzte Rechnung ist offen. Eine Geschichte über Weiterarbeiten, Grenzen und die Ruhe danach.
 
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://blixwerkstudio.com/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
+
+- [Which Project Hours Are Invoiced? The Ferris Wheel Pause](https://blixwerkstudio.com/guides/which-project-hours-invoiced-still-open?s=github) – Your phone buzzes at the top of a ferris wheel: 'Can you invoice what's done so far?' And you can't tell which project hours are billed and which are open.
 
 - [Wie sage ich dem Kunden, dass es teurer wird? Der Bahnsteig um 7:48](https://blixwerkstudio.com/guides/wie-sage-ich-dem-kunden-dass-es-teurer-wird?s=github) – Der Entwurf liegt seit März im Handy: Preiserhöhung ankündigen. Eine Geschichte vom Bahnsteig und davon, wie ein ruhiger Satz plötzlich leichter fällt.
 
