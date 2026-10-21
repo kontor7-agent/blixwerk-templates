@@ -1354,6 +1354,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Ignoring Overdue Reminders? The Ice Rink Bench](https://blixwerkstudio.com/guides/client-ignoring-overdue-invoice-reminders-what-else-can-i-do?s=github) – Three reminders sent, three times silence. On a cold rink bench, a freelancer finds a calmer way to chase an overdue invoice. A short story.
 
+- [Client Ignoring Payment Reminders? The Hard Shoulder Wait](https://blixwerkstudio.com/guides/client-ignoring-payment-reminder-emails-awkward-chasing-again?s=github) – Your third reminder got no answer and chasing again feels awkward. A quiet story about waiting on a hard shoulder and finding a calmer way to ask.
+
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://blixwerkstudio.com/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
 
 - [Client Keeps Asking for Extra Work for Free? What Do I Say?](https://blixwerkstudio.com/guides/client-keeps-asking-for-extra-work-for-free-freelancer-what-do-i-say?s=github) – A client slips in 'one more small thing' again. A story about the pause before you answer, and finding words that are kind, clear and still yours.
@@ -1423,6 +1425,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://blixwerkstudio.com/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
 
 - [Client Wants to Start Tomorrow, No Contract? Cable Car](https://blixwerkstudio.com/guides/client-wants-to-start-tomorrow-no-contract-kickoff-plan?s=github) – The client wants to start tomorrow. There's no contract and no kickoff plan, and you're in a cable car queue. A story about calm starts for freelancers.
+
+- [Bizum y efectivo en mi peluquería: no apunto nada](https://blixwerkstudio.com/guides/clientas-pagan-bizum-efectivo-no-apunto-nada-peluqueria?s=github) – Martes, 9:10, antes de abrir: el móvil lleno de Bizums, el cajón con billetes y ninguna cuenta clara. Una historia para peluqueras que trabajan solas.
 
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://blixwerkstudio.com/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
 
@@ -1729,6 +1733,8 @@ Included (16 products, 175 USD if bought separately):
 - [Got a Callback, Can't Remember the Job? The Pay Machine](https://blixwerkstudio.com/guides/got-a-callback-cant-remember-what-i-applied-for?s=github) – A company calls back and you can't remember what you applied for. A short story about that cold moment, and how a calmer job search feels.
 
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
+
+- [Handmade Profit After Fees? The Book Club Question](https://blixwerkstudio.com/guides/handmade-profit-after-fees?s=github) – Someone asks if your handmade shop is going well, and you say 'yes' without knowing. A quiet story about finding out what you really keep after fees.
 
 - [Craft Stock and Orders in a Mess? The Courier Slot](https://blixwerkstudio.com/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
 
@@ -2305,6 +2311,8 @@ Included (16 products, 175 USD if bought separately):
 - [Wedding Photographer: Client Hasn't Paid the Balance?](https://blixwerkstudio.com/guides/wedding-photographer-client-hasnt-paid-remaining-balance?s=github) – The gallery is delivered, the couple is thrilled, and the remaining balance is still open. A calm story for wedding photographers who hate chasing money.
 
 - [Weihnachtsgeschäft: Lager reicht nicht, zu spät bestellt?](https://blixwerkstudio.com/guides/weihnachtsgeschaeft-lager-reicht-nicht-zu-spaet-nachbestellt?s=github) – Samstag, 6:40 Uhr, Garage: Du zählst Kartons und ahnst, dass es nicht reicht. Eine Geschichte über späte Nachbestellung im Weihnachtsgeschäft.
+
+- [Weiterarbeiten, obwohl der Kunde nicht gezahlt hat?](https://blixwerkstudio.com/guides/weiterarbeiten-kunde-hat-letzte-rechnung-nicht-bezahlt?s=github) – Der Kunde will den nächsten Auftrag, die letzte Rechnung ist offen. Eine Geschichte über Weiterarbeiten, Grenzen und die Ruhe danach.
 
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://blixwerkstudio.com/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
