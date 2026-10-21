@@ -1194,6 +1194,8 @@ Included (16 products, 175 USD if bought separately):
 
 ## Free guides
 
+- [Abandon Every Planner by February? The Blank Page Call](https://blixwerkstudio.com/guides/abandon-every-planner-by-february?s=github) – The planner was gorgeous in January. By the February client call, its pages are blank and you're guessing. A calm story for freelancers who keep starting over.
+
 - [Abschlagsrechnung vergessen? Projekt fertig, kein Geld](https://blixwerkstudio.com/guides/abschlagsrechnung-vergessen-projekt-fertig-kunde-hat-nichts-gezahlt?s=github) – Die Terrasse ist fertig, der Kunde strahlt, und dir fällt ein: Es gab nie eine Abschlagsrechnung. Eine Geschichte über Ruhe im Zahlungsfluss.
 
 - [Deleted a Folder, No Backup? The Car-Hire Desk Queue](https://blixwerkstudio.com/guides/accidentally-deleted-folder-no-recent-backup?s=github) – You emptied the wrong folder and the last backup is months old. A quiet story about that stomach-drop, and what a calm Monday looks like after.
@@ -1247,6 +1249,8 @@ Included (16 products, 175 USD if bought separately):
 - [Auftrag zu billig angenommen? Die Schlange beim Bäcker](https://blixwerkstudio.com/guides/auftrag-zu-billig-angenommen-bereut?s=github) – Du hast einen Auftrag zu billig angenommen und bereust es? Eine Geschichte über Freitag, 12:10 Uhr, ein Brötchen und den Moment, in dem sich etwas klärt.
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerkstudio.com/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
+
+- [Backup Hasn't Run in Weeks? The Lost Property Office](https://blixwerkstudio.com/guides/automatic-backup-hasnt-run-in-weeks?s=github) – You queue at the lost property office and glance at your backup status: last run, five weeks ago. A short story about the quiet kind of dread, and what calms it.
 
 - [Awkward Asking a Client About an Unpaid Invoice Again?](https://blixwerkstudio.com/guides/awkward-asking-client-unpaid-invoice-third-time?s=github) – The third reminder is the hardest to write. A quiet story about a lunch walk by a canal lock, and how chasing money can stop feeling like begging.
 
@@ -1511,6 +1515,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
 
 - [CSV Weird Characters Every Time? The Greenhouse Thursday](https://blixwerkstudio.com/guides/csv-weird-characters-encoding-errors-every-time-i-open-it?s=github) – Every CSV opens with Ã¼ and â‚¬ instead of real letters. A calm story about a Thursday morning in a greenhouse, and what it feels like when exports just open right.
+
+- [Cuánto cobrar por clase particular: el miedo a pedir poco](https://blixwerkstudio.com/guides/cuanto-cobrar-por-clase-particular-miedo-pedir-poco?s=github) – Te escriben «¿cuánto cobras?» en la cola de la panadería y te quedas en blanco. Una historia sobre ponerle precio a tus clases sin miedo.
 
 - [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
 
@@ -1849,6 +1855,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde: „Zahlung ist raus“ – aber kein Geld? Der Imbiss](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-ist-raus-aber-kein-geld-da?s=github) – „Die Überweisung ist raus“, sagt der Kunde, aber auf dem Konto ist nichts. Eine Mittagspause im Transporter und die Ruhe, die danach möglich ist.
 
 - [Zahlung kommt bald – aber seit 60 Tagen? Was tun?](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-60-tage-was-tun?s=github) – Die Agentur schreibt seit zwei Monaten „Zahlung ist unterwegs“. Eine Illustratorin, ein Steuerberater-Termin und ein ruhigerer Weg, damit umzugehen.
+
+- [„Läuft bei uns“, aber kein Geld? Der Blumenladen](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-kein-geld-freelancer?s=github) – Der Kunde schreibt „Zahlung kommt“, aber das Konto bleibt leer. Eine Geschichte über Freitagszusagen, leise Sorgen und die Ruhe danach.
 
 - [Kunde sagt „Zahlung kommt“, doch nichts? Der Schulflur](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelance-d719?s=github) – Wieder „Die Zahlung ist diese Woche drin“ – und wieder nichts. Eine Illustratorin, ein Schulflur und die Frage, wie du ruhig dranbleibst.
 
