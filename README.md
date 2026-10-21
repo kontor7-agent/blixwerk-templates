@@ -1684,6 +1684,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [December and Your Freelance Receipts a Mess? The Tree Lot](https://blixwerkstudio.com/guides/freelance-receipts-a-mess-december?s=github) – It's December, your wallet is full of crumpled receipts and the year is nearly over. A calm story about ending the January scramble before it starts.
 
+- [Translator: Am I Earning Enough Per Hour? The Alumni Lunch](https://blixwerkstudio.com/guides/freelance-translator-earning-enough-per-hour?s=github) – A classmate asks what you earn per hour, and you realise you don't know. A quiet story for freelance translators who suspect the answer is less than it looks.
+
 - [Receipts Everywhere at Year-End? The Boxing Day Car Park](https://blixwerkstudio.com/guides/freelance-year-end-paperwork-overwhelm-where-are-my-receipts?s=github) – It's the holidays, but your laptop is open and you can't find a single receipt. A short story about year-end freelance paperwork and the calm after.
 
 - [Drowning in Freelance Admin? The Hairdresser's Chair, 8:55 am](https://blixwerkstudio.com/guides/freelancer-admin-overload-invoices-tracking-everywhere?s=github) – Invoices in one place, hours in another, receipts in a shoebox. A quiet Monday-morning story about freelance admin overload, and the relief of one calm system.
@@ -1877,6 +1879,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde sagt „Zahlung kommt“? Die Kasse im Biomarkt](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance?s=github) – Der Kunde schreibt wieder „kommt diese Woche“. Eine Geschichte über Warten, Scham und die Ruhe, die entsteht, wenn du den nächsten Schritt kennst.
 
 - [Kunde zahlt nicht, sagt nur „kommt“? Der TÜV-Termin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelancer?s=github) – Zum dritten Mal „die Zahlung ist in Bearbeitung“, und das Konto bleibt leer. Eine Geschichte über Warten, Nachfragen und die Ruhe danach.
+
+- [Kunde sagt „Zahlung kommt“? Der Heizungsableser im Flur](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelance-51e3?s=github) – „Die Zahlung ist in Bearbeitung“ – und seit Wochen kommt nichts. Eine Geschichte über Freelancer-Rechnungen, leise Sorgen und wie Nachfassen ruhiger wird.
 
 - [Kunde sagt „Zahlung kommt“? Das Gate B14](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelance?s=github) – „Die Zahlung kommt diese Woche“ – und wieder nichts. Eine Geschichte über Freelancer, vertröstende Kunden und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
@@ -2092,6 +2096,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Parents Pay Tutoring Late? The Half-Term Zoo Queue](https://blixwerkstudio.com/guides/private-tutor-parents-paying-late-awkward-asking?s=github) – Parents keep paying late and asking feels awkward? A tutor stands in a zoo queue, trying to remember who owes what. A calmer way to see it.
 
+- [Student Cancelled Last Minute, Never Paid? The Bike Lock](https://blixwerkstudio.com/guides/private-tutor-student-cancelled-last-minute-never-paid?s=github) – You cycled across town and the message came as you locked your bike. A calm story for private tutors about late cancellations and lessons still unpaid.
+
 - [Students Forget to Pay for Lessons? The 12:50 Sandwich](https://blixwerkstudio.com/guides/private-tutor-students-forget-to-pay-for-lessons?s=github) – Four minutes between two video lessons, a sandwich going dry, and a question you can't ask: who hasn't paid? A story for private tutors.
 
 - [Profit on Handmade Items After Etsy Fees? The Frame Shop](https://blixwerkstudio.com/guides/profit-on-handmade-items-after-etsy-fees?s=github) – The framer asked how your Etsy shop was going and you said 'good!' without knowing. A quiet story about handmade profit after fees, and what eases the doubt.
@@ -2249,6 +2255,8 @@ Included (16 products, 175 USD if bought separately):
 - [Social Media jeden Sonntag Stress? Was soll ich diese Woche posten?](https://blixwerkstudio.com/guides/social-media-sonntag-stress-was-soll-ich-diese-woche-posten?s=github) – Sonntag, 16:40, Kaffeetafel bei deiner Mutter, und unter dem Tisch starrst du aufs leere Textfeld. Warum die Postfrage nicht jede Woche neu wehtun muss.
 
 - [Sold 50 Handmade Items, No Idea If You Made Profit?](https://blixwerkstudio.com/guides/sold-50-handmade-items-no-idea-if-i-made-profit?s=github) – Fifty orders packed, a full cash box, and still no idea what you actually kept. A quiet story about a maker, a train platform, and finally seeing profit.
+
+- [Soy autónomo y no controlo mi dinero ni mi tiempo](https://blixwerkstudio.com/guides/soy-autonomo-no-controlo-mi-dinero-ni-mi-tiempo?s=github) – Miércoles, 14:10, menú del día y una pregunta que no te dejas hacer: ¿dónde se fue el mes? Una historia para quien trabaja por su cuenta y va a ciegas.
 
 - [Fixing a Messy CSV Again? The Sunday Roast Interruption](https://blixwerkstudio.com/guides/spent-all-evening-fixing-messy-csv-file?s=github) – Another evening gone to a messy CSV file? A Sunday-lunch scene about getting those hours back, and what a calmer Monday could feel like.
 
