@@ -1708,6 +1708,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [The Client Asked About Hours: Track Freelance Projects in Excel](https://blixwerkstudio.com/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
 
+- [Receipts Everywhere, Tax Deadline Near? The Cherry Ladder](https://blixwerkstudio.com/guides/freelancer-receipts-everywhere-tax-deadline-panic?s=github) – Receipts in coat pockets, a tax deadline on the calendar, and a ladder in your mother's garden. A short story about calm admin for freelancers.
+
 - [Tax Return Week: Your Invoices and Hours Won't Add Up](https://blixwerkstudio.com/guides/freelancer-steuererklaerung-rechnungen-stunden-nicht-nachvollziehbar?s=github) – The tax adviser's email asks for your income and hours. Your invoices say one thing, your notes another. A calm look at how it feels when they match.
 
 - [Tax Return Panic as a Freelancer: Invoices and Hours Don't Add Up](https://blixwerkstudio.com/guides/freelancer-steuererklarung-panik-rechnungen-stunden-nicht-nachvollzieh?s=github) – The tax adviser's email says 'by Friday'. Your invoices and hours are scattered across three places. A calmer way to start the week.
@@ -1725,6 +1727,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zu billig als Freelancerin? Die Angst, die Preise zu erhöhen](https://blixwerkstudio.com/guides/freelancer-zu-wenig-verlangen-preise-erhoehen-angst?s=github) – Im Wartezimmer des Steuerberaters fällt Mara etwas auf: Sie arbeitet viel und verlangt wenig. Eine Geschichte über Mut, Preise und ein ruhiges Gefühl.
 
 - [Viel gearbeitet, am Monatsende bleibt nichts übrig? Das Wartezimmer](https://blixwerkstudio.com/guides/freiberufler-arbeitet-viel-monatsende-bleibt-nichts-uebrig?s=github) – Du arbeitest und arbeitest, und am Monatsende ist das Konto trotzdem fast leer. Eine Geschichte aus dem Wartezimmer der Steuerberaterin.
+
+- [Steuerfrist naht, Belege überall? Der Parkplatz um 9:48](https://blixwerkstudio.com/guides/freiberufler-steuerfrist-belege-chaos-parkplatz?s=github) – Zehn Minuten vor dem Termin sitzt du im Auto, neben dir ein Karton voller Belege. Eine Geschichte für alle, die jedes Jahr kurz vor der Frist suchen.
 
 - [Stuhlmiete, Friseurin: Wie viel für Steuern zurücklegen?](https://blixwerkstudio.com/guides/friseurin-stuhlmiete-steuern-zurcklegen?s=github) – Stuhlmieterin im Salon und keine Ahnung, was fürs Finanzamt zur Seite gehört? Eine Geschichte über Trinkgeld, Kartenzahlung und ruhige Zahlen.
 
@@ -2067,6 +2071,8 @@ Included (16 products, 175 USD if bought separately):
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://blixwerkstudio.com/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
 
 - [Mi proyecto se alargó y cobré lo mismo como autónomo](https://blixwerkstudio.com/guides/proyecto-se-alargo-cobre-lo-mismo-autonomo?s=github) – En la cola del pan llega el mensaje: «¿Cerramos ya?». El proyecto duró el triple y la factura es la misma. Una historia sobre verlo a tiempo.
+
+- [Mi script de Python falla con un CSV roto y entrego hoy](https://blixwerkstudio.com/guides/python-script-falla-csv-error-codificacion-entrego-hoy?s=github) – Son las 11:20, tu script de Python se cae con un CSV lleno de caracteres raros y la entrega es hoy. Una historia sobre volver a respirar.
 
 - [Quittung verloren – Betriebsausgabe weg? Der Parkautomat](https://blixwerkstudio.com/guides/quittung-verloren-betriebsausgabe-was-tun-selbststaendig?s=github) – Der Parkautomat spuckt kein Ticket aus, die Quittung ist weg. Eine Geschichte über verlorene Belege und die Ruhe, die entsteht, wenn alles einen Platz hat.
 
