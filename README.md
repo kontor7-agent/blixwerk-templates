@@ -1598,6 +1598,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Keep Forgetting to Chase Unpaid Invoices? The Fishmonger's Queue](https://blixwerkstudio.com/guides/forget-to-chase-unpaid-invoices-freelancer?s=github) – You meant to chase that invoice three weeks ago. A Saturday queue, a number in your head, and a calmer way to remember who still owes you.
 
+- [Forget to Reorder Stock? The Birthday Party Phone Buzz](https://blixwerkstudio.com/guides/forget-to-reorder-stock-small-shop?s=github) – You keep forgetting to reorder stock until it's too late. A small-shop story from a Saturday birthday party, and what a calmer shelf feels like.
+
 - [Forgot to Send an Invoice as a Freelancer? The Waiting Room](https://blixwerkstudio.com/guides/forgot-invoice-freelancer-lost-overview?s=github) – Thursday, 10:20, a waiting room, and a sudden thought: did you ever send that invoice? A calm story about losing track and getting the overview back.
 
 - [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://blixwerkstudio.com/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
@@ -1721,6 +1723,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stuhlmiete, Friseurin: Wie viel für Steuern zurücklegen?](https://blixwerkstudio.com/guides/friseurin-stuhlmiete-steuern-zurcklegen?s=github) – Stuhlmieterin im Salon und keine Ahnung, was fürs Finanzamt zur Seite gehört? Eine Geschichte über Trinkgeld, Kartenzahlung und ruhige Zahlen.
 
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://blixwerkstudio.com/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
+
+- [Mi gestor pide las facturas del trimestre y no las tengo](https://blixwerkstudio.com/guides/gestor-pide-facturas-gastos-trimestre-no-las-tengo-ordenadas?s=github) – Un mensaje de tu gestor, una guantera llena de tickets y el viernes encima. Una historia sobre llegar al trimestre con calma.
 
 - [Got a Callback, Can't Remember the Job? The Pay Machine](https://blixwerkstudio.com/guides/got-a-callback-cant-remember-what-i-applied-for?s=github) – A company calls back and you can't remember what you applied for. A short story about that cold moment, and how a calmer job search feels.
 
@@ -1929,6 +1933,8 @@ Included (16 products, 175 USD if bought separately):
 - [Parents Forget to Pay for Music Lessons? The Hallway Handover](https://blixwerkstudio.com/guides/music-teacher-parents-forget-to-pay-for-lessons?s=github) – The cello case is by the door, the envelope hasn't come, and you smile anyway. A gentle story for music teachers whose parents forget to pay.
 
 - [Music Students Cancel Late and Don't Pay? The Guitar Shop](https://blixwerkstudio.com/guides/music-teacher-students-cancel-last-minute-not-paying?s=github) – Your phone buzzes at the shop till: another late cancellation. And who still owes you for March? A music teacher's quiet moment of clarity.
+
+- [Nach dem Final Interview ghosted? Die Stadtbibliothek](https://blixwerkstudio.com/guides/nach-vorstellungsgespraech-nichts-gehoert-nachfassen?s=github) – Zweites Gespräch gut gelaufen, seit zwölf Tagen Stille. Eine Geschichte über das Warten, das Nachfassen und die Ruhe, die ein Überblick bringt.
 
 - [Nail Tech: How Much Do I Actually Make After Booth Rent?](https://blixwerkstudio.com/guides/nail-tech-how-much-do-i-actually-make-after-booth-rent?s=github) – The rental form asks for your monthly income and you freeze. A nail tech story about booth rent, products and finding the number you actually keep.
 
@@ -2195,6 +2201,8 @@ Included (16 products, 175 USD if bought separately):
 - [Immer vergessen, auf Social Media zu posten? Der Marktstand](https://blixwerkstudio.com/guides/social-media-posten-vergessen-kleines-unternehmen?s=github) – Samstag am Marktstand sagt jemand: „Ich dachte, es gibt euch nicht mehr.“ Eine Geschichte für alle, die das Posten ständig vergessen.
 
 - [Social Media jeden Sonntag Stress? Was soll ich diese Woche posten?](https://blixwerkstudio.com/guides/social-media-sonntag-stress-was-soll-ich-diese-woche-posten?s=github) – Sonntag, 16:40, Kaffeetafel bei deiner Mutter, und unter dem Tisch starrst du aufs leere Textfeld. Warum die Postfrage nicht jede Woche neu wehtun muss.
+
+- [Sold 50 Handmade Items, No Idea If You Made Profit?](https://blixwerkstudio.com/guides/sold-50-handmade-items-no-idea-if-i-made-profit?s=github) – Fifty orders packed, a full cash box, and still no idea what you actually kept. A quiet story about a maker, a train platform, and finally seeing profit.
 
 - [Fixing a Messy CSV Again? The Sunday Roast Interruption](https://blixwerkstudio.com/guides/spent-all-evening-fixing-messy-csv-file?s=github) – Another evening gone to a messy CSV file? A Sunday-lunch scene about getting those hours back, and what a calmer Monday could feel like.
 
