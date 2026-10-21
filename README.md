@@ -1604,6 +1604,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Afraid You Forgot Something Before Deploying Your API? Friday, 4:50 pm](https://blixwerkstudio.com/guides/forgot-something-before-deploying-api-to-production?s=github) – The deploy button is ready, the weekend is waiting, and one quiet thought won't leave: what did I forget? A story about launching with a calmer head.
 
+- [Forgot to Bill Hours You Worked? The Chip Shop Queue](https://blixwerkstudio.com/guides/forgot-to-bill-client-hours-worked-cant-remember-which?s=github) – You think some worked hours never made it onto an invoice, and you can't say which. A quiet Friday-evening story about finding out and feeling calm again.
+
 - [Forgot to Bill a Client Last Month? The Flea Market Sunday](https://blixwerkstudio.com/guides/forgot-to-bill-client-last-months-work?s=github) – You're holding a vase at a flea market when it hits you: last month's job was never invoiced. What that moment feels like, and how it stops happening.
 
 - [Forget to Bill Retainer Hours? The Glass Meeting Room](https://blixwerkstudio.com/guides/forgot-to-bill-retainer-hours-freelancer?s=github) – Monday, 10:00, a quarterly review call, and a retainer you suspect you've been undercounting for months. A story for freelancers who lose hours quietly.
@@ -1781,6 +1783,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnung nie bekommen? Wenn der Kunde das behauptet](https://blixwerkstudio.com/guides/kunde-behauptet-rechnung-nie-bekommen?s=github) – Der Kunde sagt, er habe deine Rechnung nie bekommen. Du stehst im Freibad, das Handy am Ohr, und weißt nicht mehr genau, wann du sie geschickt hast.
 
 - [Kunde beschwert sich: Wie antworte ich ruhig? Montag, 7:35 Uhr](https://blixwerkstudio.com/guides/kunde-beschwert-sich-ruhig-und-professionell-antworten?s=github) – Montagmorgen, Kaffee in der Hand, und im Postfach steht „Ich bin enttäuscht“. Eine Geschichte darüber, wie du auf Beschwerden ruhig antwortest.
+
+- [Kunde drückt den Preis per Mail? Der Fahrradladen](https://blixwerkstudio.com/guides/kunde-drueckt-staendig-den-preis-per-mail-was-antworte-ich?s=github) – Schon wieder die Mail: „Da geht doch sicher noch was beim Preis?“ Eine Geschichte über den Moment, in dem dir die Antwort endlich leichtfällt.
 
 - [Kunde fragt nach deinem Stundensatz? Der Moment nach dem Räuspern](https://blixwerkstudio.com/guides/kunde-fragt-nach-stundensatz-was-sagen?s=github) – Der Kunde fragt im Videocall nach deinem Stundensatz, und dir fällt nur eine Zahl ein, die du sofort bereust. Eine Geschichte über den Moment danach.
 
@@ -2259,6 +2263,8 @@ Included (16 products, 175 USD if bought separately):
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://blixwerkstudio.com/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
 
 - [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://blixwerkstudio.com/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
+
+- [Varios clientes y no sé qué factura me falta por cobrar](https://blixwerkstudio.com/guides/varios-clientes-no-se-que-factura-falta-por-cobrar?s=github) – Lunes, videollamada y una pregunta: «¿esto ya lo facturaste?». Una historia para quien trabaja con varios clientes y pierde el hilo de sus facturas.
 
 - [Llevo varios proyectos a la vez y me siento desbordada](https://blixwerkstudio.com/guides/varios-proyectos-a-la-vez-plazos-y-facturas-desbordada?s=github) – Lunes, tres proyectos abiertos y una llamada inesperada. Cuando plazos y facturas se cruzan, hay otra forma de empezar la semana.
 
