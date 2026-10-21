@@ -1436,6 +1436,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cliente dice que cobré horas de más y no tengo registro](https://blixwerkstudio.com/guides/cliente-dice-que-cobre-mas-horas-de-las-que-trabaje-sin-registro?s=github) – Tu cliente duda de las horas de la factura y no tienes registro. Una videollamada de martes y cómo se siente tenerlo todo claro.
 
+- [Dice que no recibió mi factura y ya la mandé dos veces](https://blixwerkstudio.com/guides/cliente-dice-que-no-recibio-mi-factura?s=github) – Lunes en la cola de la frutería: tu cliente dice que no ha visto la factura. Otra vez. Una historia sobre cobrar sin sentir que estás mendigando.
+
 - [Mi cliente dice que pagará la semana que viene y no paga](https://blixwerkstudio.com/guides/cliente-dice-que-pagara-la-semana-que-viene-y-nunca-paga?s=github) – En la cola de la panadería lees otra vez «te pago la semana que viene». Una historia para quien persigue cobros sin sentirse pesado.
 
 - [Mi cliente dice que ya pagó y no me llega el dinero (autónoma)](https://blixwerkstudio.com/guides/cliente-dice-que-ya-pago-pero-no-me-llega-el-dinero-autonomo?s=github) – Tu cliente jura que ya transfirió y tu cuenta sigue igual. Una mañana de martes, un justificante y la calma de saber qué factura es cuál.
@@ -1642,6 +1644,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Freelance Admin Out of Control? The Sunday Driveway Moment](https://blixwerkstudio.com/guides/freelance-admin-out-of-control-feel-behind-on-everything?s=github) – You sit in the car outside your parents' house, phone full of things you haven't done. If freelance admin feels out of control, this story is for you.
 
+- [Freelance Business Out of Control? The Moving Boxes](https://blixwerkstudio.com/guides/freelance-business-out-of-control-where-to-start?s=github) – Your freelance business feels out of control and you don't know where to start. A quiet story about moving boxes, one small list, and a calmer Monday.
+
 - [Plan Your 2027 Freelance Income and Time Off: The Question at Lunch](https://blixwerkstudio.com/guides/freelance-business-planner-2027-excel-income-capacity-time-off?s=github) – A friend asks when you're taking a break next year, and you realise you can't answer. A calm way to plan 2027 income, capacity and time off in Excel.
 
 - [Running Your Freelance Business on Sticky Notes and Panic?](https://blixwerkstudio.com/guides/freelance-business-running-on-sticky-notes-and-panic?s=github) – Yellow notes on the monitor, a phone full of reminders, and a quiet fear you've missed something. A story for freelancers who want their head back.
@@ -1843,6 +1847,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde: „Zahlung kommt“ – nichts da? Die Umzugskartons](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelance?s=github) – Zwischen Umzugskartons wartest du auf Geld, das „diese Woche“ kommen soll. Eine Geschichte über Zusagen, die nie ankommen, und wie es ruhiger wird.
 
 - [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
+
+- [Kunde: „Zahlung kommt diese Woche“? Die Turnhalle](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-diese-woche-nichts-passiert?s=github) – Zum dritten Mal schreibt der Kunde, die Zahlung komme. Samstagmorgen in der Turnhalle weißt du: Du willst nicht mehr betteln, sondern ruhig nachfassen.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
@@ -2207,6 +2213,8 @@ Included (16 products, 175 USD if bought separately):
 - [Keep Running Out of Your Best Seller? The Dog Park Shout-Out](https://blixwerkstudio.com/guides/small-business-keeps-running-out-of-best-selling-product?s=github) – A local shout-out lands, your bestseller is nearly gone, and you're standing in a muddy dog park. A calm story about running out, and what changes after.
 
 - [Admin Drowning Your Small Business? The Van Lunch in the Rain](https://blixwerkstudio.com/guides/small-business-owner-drowning-in-admin-spreadsheets-everywhere?s=github) – Rain on the windscreen, a sandwich going cold, and six spreadsheets that never agree. A story for small business owners drowning in admin.
+
+- [Overwhelmed by Emails and Admin? The Florist's 7:50 Van](https://blixwerkstudio.com/guides/small-business-owner-overwhelmed-by-emails-and-admin?s=github) – Forty unread emails before the shop even opens. A small business owner's morning in the van, and the quieter way the replies stop piling up.
 
 - [Shop Keeps Overselling Stock? The Wedding Pew Buzz](https://blixwerkstudio.com/guides/small-shop-keeps-overselling-items-not-in-stock?s=github) – Your phone buzzes mid-vows: another order for something you no longer have. A calm story for small shop owners tired of overselling and apologising.
 
