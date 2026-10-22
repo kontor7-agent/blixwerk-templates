@@ -1686,6 +1686,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [December and Your Freelance Receipts a Mess? The Tree Lot](https://blixwerkstudio.com/guides/freelance-receipts-a-mess-december?s=github) – It's December, your wallet is full of crumpled receipts and the year is nearly over. A calm story about ending the January scramble before it starts.
 
+- [Freelance Receipts Everywhere? The Spare Room on the 28th](https://blixwerkstudio.com/guides/freelance-receipts-all-over-the-place-year-end?s=github) – It's nearly year end and your freelance receipts are in coat pockets, inboxes and a carrier bag. A quiet story about ending the January scramble.
+
 - [Translator: Am I Earning Enough Per Hour? The Alumni Lunch](https://blixwerkstudio.com/guides/freelance-translator-earning-enough-per-hour?s=github) – A classmate asks what you earn per hour, and you realise you don't know. A quiet story for freelance translators who suspect the answer is less than it looks.
 
 - [Receipts Everywhere at Year-End? The Boxing Day Car Park](https://blixwerkstudio.com/guides/freelance-year-end-paperwork-overwhelm-where-are-my-receipts?s=github) – It's the holidays, but your laptop is open and you can't find a single receipt. A short story about year-end freelance paperwork and the calm after.
@@ -2232,6 +2234,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Invoice Sent Two Months Ago, No Reply? The Radiator Key](https://blixwerkstudio.com/guides/sent-invoice-two-months-ago-no-reply-what-now?s=github) – You sent the invoice two months ago and heard nothing. A quiet Monday story about the silence, and how to stop wondering who still owes you.
 
+- [Ser autónomo me supera: cobros, precios y papeleo](https://blixwerkstudio.com/guides/ser-autonomo-me-supera-cobros-precios-papeleo?s=github) – Comida de domingo, el móvil vibra y una lista infinita en notas: cobros, precios, papeleo. Una historia para quien no sabe por dónde empezar.
+
 - [Server Disk Full From Old Backups? The Hut on the Hill](https://blixwerkstudio.com/guides/server-disk-full-old-backups?s=github) – Day off, soup on the table, and a phone buzzing: disk full. A story about old backups nobody cleaned up, and what a quiet Monday feels like instead.
 
 - [Server Disk Full Again? Old Log Files and a 7:45 Client Call](https://blixwerkstudio.com/guides/server-disk-full-old-log-files?s=github) – The disk is full again, and the culprit is months of old log files. A calm story about the Monday it stopped happening, and what changed.
@@ -2403,6 +2407,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mail an Kunden wegen später Zahlung: Die Werkstatt, 14:10 Uhr](https://blixwerkstudio.com/guides/zahlungserinnerung-email-kunde-peinlich-formulieren?s=github) – Du starrst auf eine leere Mail an einen säumigen Kunden und löschst jeden Satz wieder. Eine kleine Geschichte aus dem Wartebereich einer Autowerkstatt.
 
 - [Zu viel Ware im Lager, Geld gebunden? Die Kartons im Flur](https://blixwerkstudio.com/guides/zu-viel-ware-im-lager-geld-gebunden-kleines-unternehmen?s=github) – Der Steuerberater-Termin steht an, der Flur ist voll mit Kartons und das Konto ist leer. Eine Geschichte über Ware, die Geld festhält.
+
+- [Zu viele Excel-Listen, nichts passt? Die Dönerschlange](https://blixwerkstudio.com/guides/zu-viele-excel-tabellen-kleiner-betrieb-nichts-passt?s=github) – Fünf Tabellen, fünf Wahrheiten, und keine passt zur anderen. Eine Geschichte für alle, die ihren kleinen Betrieb in Excel jonglieren.
 
 ## Support
 
