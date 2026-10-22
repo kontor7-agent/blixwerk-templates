@@ -1480,6 +1480,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ya entregué y el cliente pide descuento: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-pide-descuento-despues-de-entregar-el-proyecto?s=github) – Entregaste el proyecto y ahora el cliente pide descuento. Una escena de parque, un móvil que vibra y una forma más tranquila de responder.
 
+- [El cliente promete pagar y nunca paga: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-promete-pagar-factura-y-no-paga-que-le-digo?s=github) – Te dice «esta semana sin falta» por cuarta vez. Una historia sobre qué decir cuando el cliente promete pagar la factura y no paga.
+
 - [Cliente tóxico y autónomo: cómo dejarlo sin quedar mal (un lunes)](https://blixwerkstudio.com/guides/cliente-toxico-autonomo-como-dejar-de-trabajar-con-el-sin-quedar-mal?s=github) – Lunes, 9:10, otro mensaje de ese cliente. Una historia sobre cómo despedirte de un cliente tóxico sin quedar mal y recuperar la calma.
 
 - [Cobrar por proyecto o por hora: el café con Lucía](https://blixwerkstudio.com/guides/cobrar-por-proyecto-o-por-hora-freelance?s=github) – Te piden precio cerrado o por horas y te quedas en blanco. Una historia sobre cobrar por proyecto o por hora sin miedo a equivocarte.
@@ -1629,6 +1631,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://blixwerkstudio.com/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
 
 - [Afraid You Forgot Something Before Deploying Your API? Friday, 4:50 pm](https://blixwerkstudio.com/guides/forgot-something-before-deploying-api-to-production?s=github) – The deploy button is ready, the weekend is waiting, and one quiet thought won't leave: what did I forget? A story about launching with a calmer head.
+
+- [Forgot to Bill Hours From Two Months Ago? The Jumble Sale](https://blixwerkstudio.com/guides/forgot-to-bill-client-hours-two-months-ago?s=github) – You think you never billed a client for hours worked two months ago. A quiet story about that stomach-drop moment, and what a calmer Monday feels like.
 
 - [Forgot to Bill Hours You Worked? The Chip Shop Queue](https://blixwerkstudio.com/guides/forgot-to-bill-client-hours-worked-cant-remember-which?s=github) – You think some worked hours never made it onto an invoice, and you can't say which. A quiet Friday-evening story about finding out and feeling calm again.
 
@@ -2232,6 +2236,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Selling Lots of Handmade Items but No Real Profit?](https://blixwerkstudio.com/guides/selling-lots-of-handmade-items-real-profit?s=github) – Parcels go out every day, the stall sells well, yet the account stays thin. A story for makers who can't tell if they're really earning anything.
 
+- [Selling on Etsy but Not Making Money? The Stall Form](https://blixwerkstudio.com/guides/selling-on-etsy-not-making-money?s=github) – Orders keep coming, the shop looks busy, yet your account says otherwise. A quiet story for makers who suspect they're not really earning on Etsy.
+
 - [Invoice Sent Two Months Ago, No Reply? The Radiator Key](https://blixwerkstudio.com/guides/sent-invoice-two-months-ago-no-reply-what-now?s=github) – You sent the invoice two months ago and heard nothing. A quiet Monday story about the silence, and how to stop wondering who still owes you.
 
 - [Ser autónomo me supera: cobros, precios y papeleo](https://blixwerkstudio.com/guides/ser-autonomo-me-supera-cobros-precios-papeleo?s=github) – Comida de domingo, el móvil vibra y una lista infinita en notas: cobros, precios, papeleo. Una historia para quien no sabe por dónde empezar.
@@ -2399,6 +2405,8 @@ Included (16 products, 175 USD if bought separately):
 - [Wütende Kunden-Mail beantworten – ohne Roboter-Ton](https://blixwerkstudio.com/guides/wuetende-kunden-mail-beantworten-ohne-defensiv?s=github) – Donnerstag, 12:50, Mail vom Kunden: „Das ist inakzeptabel.“ Dein Puls steigt. Eine Geschichte über Antworten, die ruhig klingen und trotzdem nach dir.
 
 - [Shoebox Full of Receipts? The January Scramble, Ended](https://blixwerkstudio.com/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
+
+- [Zahlung „kommt“, aber nichts da? Samstag im Möbelhaus](https://blixwerkstudio.com/guides/zahlung-kommt-angeblich-nichts-auf-dem-konto-moebelhaus?s=github) – Samstag, 11:30, Möbelhaus-Kantine: Dein Kunde schreibt wieder „Zahlung kommt“. Das Konto sagt etwas anderes. Eine Geschichte über ruhiges Nachfassen.
 
 - [Zahlung versprochen, aber nichts da? Der Copyshop, 15:40](https://blixwerkstudio.com/guides/zahlung-versprochen-nichts-angekommen-was-sagen?s=github) – Der Kunde hat Zahlung versprochen, aber das Konto bleibt leer. Was sagst du jetzt? Eine Szene im Copyshop über Ruhe statt Bauchgrummeln.
 
