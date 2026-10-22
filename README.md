@@ -1492,6 +1492,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [El cliente promete pagar y nunca paga: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-promete-pagar-factura-y-no-paga-que-le-digo?s=github) – Te dice «esta semana sin falta» por cuarta vez. Una historia sobre qué decir cuando el cliente promete pagar la factura y no paga.
 
+- [Mi cliente quiere ampliar el proyecto sin pagar más](https://blixwerkstudio.com/guides/cliente-quiere-ampliar-el-proyecto-sin-pagar-mas?s=github) – Sábado, la cola de la panadería y un mensaje: «ya que estás, ¿me haces también…?». Cuando el cliente amplía el proyecto y no sabes cómo decírselo.
+
 - [Cliente tóxico y autónomo: cómo dejarlo sin quedar mal (un lunes)](https://blixwerkstudio.com/guides/cliente-toxico-autonomo-como-dejar-de-trabajar-con-el-sin-quedar-mal?s=github) – Lunes, 9:10, otro mensaje de ese cliente. Una historia sobre cómo despedirte de un cliente tóxico sin quedar mal y recuperar la calma.
 
 - [Cobrar por proyecto o por hora: el café con Lucía](https://blixwerkstudio.com/guides/cobrar-por-proyecto-o-por-hora-freelance?s=github) – Te piden precio cerrado o por horas y te quedas en blanco. Una historia sobre cobrar por proyecto o por hora sin miedo a equivocarte.
@@ -2439,6 +2441,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zahlung kommt, sagt der Kunde? Das Gipfelkreuz um 12:10](https://blixwerkstudio.com/guides/zahlung-kommt-sagt-der-kunde-gipfelkreuz?s=github) – Wieder dieselbe Antwort: „Die Zahlung kommt.“ Eine Wanderung, ein Funkloch und die Frage, wie du Geld einforderst, ohne zu betteln.
 
 - [Zahlung versprochen, aber nichts da? Der Copyshop, 15:40](https://blixwerkstudio.com/guides/zahlung-versprochen-nichts-angekommen-was-sagen?s=github) – Der Kunde hat Zahlung versprochen, aber das Konto bleibt leer. Was sagst du jetzt? Eine Szene im Copyshop über Ruhe statt Bauchgrummeln.
+
+- [Zahlung zugesagt, nichts eingegangen? Die Messekantine](https://blixwerkstudio.com/guides/zahlung-zugesagt-nichts-eingegangen-was-tun?s=github) – Freitag war die Zahlung versprochen, jetzt ist Dienstag und das Konto bleibt leer. Eine Geschichte über Nachfassen ohne Betteln und ein ruhiges Gefühl danach.
 
 - [Zahlungserinnerung an einen Kunden, den du magst: Der Mittwochmorgen](https://blixwerkstudio.com/guides/zahlungserinnerung-an-netten-kunden-schreiben?s=github) – Der Kunde ist nett, die Rechnung ist offen, und die Mail bleibt ungeschrieben. Eine Geschichte über Zahlungserinnerungen, die sich nicht wie Betteln anfühlen.
 
