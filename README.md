@@ -1318,6 +1318,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Track Job Applications? The Noodle Stall Email](https://blixwerkstudio.com/guides/cant-keep-track-of-job-applications?s=github) – An interview invite arrives and you can't remember the company. A lunchtime story for anyone losing track of job applications and who replied.
 
+- [Not Sure You Billed Your Retainer Client? The Lido Café](https://blixwerkstudio.com/guides/cant-remember-if-i-billed-my-retainer-client-this-month?s=github) – Your retainer client pays the same every month, so why can't you remember if you sent this month's invoice? A calm story about the 'did I?' feeling.
+
 - [Did I Invoice Last Month's Work? The Bowling Alley Shoes](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-client-last-month?s=github) – Standing in rented bowling shoes, you can't remember if you invoiced September's work. A calm story about knowing what you billed without digging.
 
 - [Did You Invoice This Month's Hours? The Motorway Services](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-this-months-hours-freelance?s=github) – Parked at a motorway services, phone in hand, you can't remember if you invoiced this month's hours. A freelancer's story about the calmer way.
@@ -1544,6 +1546,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Asked for an Item You Don't Have? The Empty Tea Tin](https://blixwerkstudio.com/guides/customer-asked-for-item-not-in-stock?s=github) – A customer asks for the one thing you thought was on the shelf. You walk to the back and find it empty. A short story about stock you didn't know was gone.
 
+- [Promised Stock You Didn't Have? The Security Tray Queue](https://blixwerkstudio.com/guides/customer-asked-for-item-you-thought-was-in-stock?s=github) – You said yes, we have it. Then you remembered the shelf. A short story about the stock you only carry in your head, and a calmer way to run it.
+
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
 - [Customer Ordered, Out of Stock Again? The Yarn Pickup](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-again-embarrassing?s=github) – A customer ordered something you didn't have, again. A quiet Thursday pickup story about the embarrassment, and what it feels like when stock stops surprising you.
@@ -1705,6 +1709,8 @@ Included (16 products, 175 USD if bought separately):
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://blixwerkstudio.com/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
 
 - [Freelance-Jahr voll, aber was verdient? Das Raclette](https://blixwerkstudio.com/guides/freelance-jahr-voll-aber-was-verdient?s=github) – Das Jahr war randvoll, aber was ist am Ende wirklich bei dir angekommen? Eine Geschichte über eine Frage am Raclette-Tisch und die Ruhe danach.
+
+- [Freelance principiante: cuánto cobrar por hora sin miedo](https://blixwerkstudio.com/guides/freelance-principiante-cuanto-cobrar-por-hora-miedo-pedir-de-mas?s=github) – Tu cliente pregunta cuánto cobras por hora y tú escribes, borras y vuelves a escribir. Una historia para quien empieza y teme pedir de más.
 
 - [Rate Still Too Low After Tax and Holidays? The Kayak Hut](https://blixwerkstudio.com/guides/freelance-rate-too-low-after-tax-and-holidays?s=github) – Your rate looks fine on paper, then tax and holidays eat it. A quiet story from a kayak hut about finally seeing what your hour is really worth.
 
@@ -2339,6 +2345,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://blixwerkstudio.com/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
 
 - [Stunden nicht aufgeschrieben, Rechnung unmöglich? Die Waschanlage](https://blixwerkstudio.com/guides/stunden-vergessen-aufzuschreiben-rechnung-nicht-moeglich?s=github) – Freitag, 12:10, Waschanlage: Der Kunde will die Rechnung, aber deine Stunden stehen nirgends. Eine Geschichte über Ruhe statt Rätselraten.
+
+- [Stunden vergessen, Rechnungstag? Die Elternbank, 16:15](https://blixwerkstudio.com/guides/stunden-vergessen-rechnungstag-freelancer?s=github) – Rechnungstag, aber keine Stunden notiert? Eine Geschichte vom Beckenrand – und davon, wie sich ein ruhiger Monatsabschluss anfühlt.
 
 - [Stundensatz reicht nicht für Steuern und Krankenkasse?](https://blixwerkstudio.com/guides/stundensatz-reicht-nicht-steuern-krankenkasse?s=github) – Ein Brief im Hausflur, und die Frage: Reicht dein Stundensatz für Steuern und Krankenkasse? Eine Geschichte über Ruhe statt Bauchgefühl.
 
