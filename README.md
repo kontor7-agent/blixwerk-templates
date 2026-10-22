@@ -1338,6 +1338,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://blixwerkstudio.com/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
+- [ChatGPT Too Generic for Your Business? The Coffee Queue](https://blixwerkstudio.com/guides/chatgpt-generic-answers-small-business-what-to-ask?s=github) – ChatGPT keeps giving you bland answers for your small business? A quiet story about the moment the question, not the tool, turned out to be the problem.
+
 - [ChatGPT Mahnung freundlich formulieren? Wartenummer 47 im Bürgeramt](https://blixwerkstudio.com/guides/chatgpt-mahnung-an-kunden-freundlich-formulieren?s=github) – Du hast ChatGPT gefragt, aber die Mahnung klingt wie ein Amtsbrief. Eine Geschichte über Wartenummer 47 und den Satz, der endlich nach dir klingt.
 
 - [Doy clases particulares, pagan tarde y cancelan: ¿cómo llevo las cuentas?](https://blixwerkstudio.com/guides/clases-particulares-alumnos-pagan-tarde-cancelan-llevar-cuentas?s=github) – Son las 16:10, esperas en la parada y llega otro «perdona, hoy no puedo». Una historia para quien da clases y ya no sabe quién le debe qué.
@@ -1539,6 +1541,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ordered Item Out of Stock? The Christening Buffet](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-small-business-embarrassed?s=github) – A customer ordered something you don't have, and your phone buzzes mid-sandwich. A calm story about the embarrassment of selling what isn't on the shelf.
 
 - [Ordered Something You Don't Have Again? The Hilltop Picnic](https://blixwerkstudio.com/guides/customer-ordered-something-not-in-stock?s=github) – A customer ordered something you don't have, again, and it found you on a hilltop on your day off. A quiet story about stock that stops surprising you.
+
+- [Customer Says Your Quote Is Too Expensive? Hallway Tea](https://blixwerkstudio.com/guides/customer-said-my-quote-is-too-expensive-can-i-lower-it?s=github) – The customer says your quote is too expensive and you can't tell if you can go lower. A tradesperson's Thursday morning, and a calmer way to know your floor.
 
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
@@ -2026,6 +2030,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No sé organizar mi año como autónomo y siento que voy a ciegas](https://blixwerkstudio.com/guides/no-se-como-organizar-mi-ano-como-autonomo?s=github) – Es lunes, abres el calendario y no ves el año, solo el mes que viene. Una historia sobre ir a ciegas como autónomo y sobre cómo se siente ver el camino.
 
+- [¿Cuántas clases di este mes? Creo que cobré de menos](https://blixwerkstudio.com/guides/no-se-cuantas-clases-di-este-mes-creo-que-cobre-de-menos?s=github) – Entre dos clases, con un bocadillo y el móvil, intentas sumar las clases del mes de cada alumno y algo no cuadra. Una historia sobre cobrar de menos.
+
 - [No sé cuántas horas trabajé para cada cliente y olvidé facturas](https://blixwerkstudio.com/guides/no-se-cuantas-horas-he-trabajado-para-cada-cliente-facturas-olvidadas?s=github) – Un cliente te pregunta cuántas horas llevas y no lo sabes. Una historia sobre facturas olvidadas y la calma de volver a verlo todo claro.
 
 - [No sé cuánto cobrar por servicio y temo perder dinero](https://blixwerkstudio.com/guides/no-se-cuanto-cobrar-por-cada-servicio-miedo-perder-dinero?s=github) – Lunes, 8:50, un mensaje: «¿cuánto cuestan las mechas?» Y tú sueltas un precio de memoria. Una historia sobre cobrar sin miedo a perder dinero.
@@ -2413,6 +2419,8 @@ Included (16 products, 175 USD if bought separately):
 - [Shoebox Full of Receipts? The January Scramble, Ended](https://blixwerkstudio.com/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
 
 - [Zahlung „kommt“, aber nichts da? Samstag im Möbelhaus](https://blixwerkstudio.com/guides/zahlung-kommt-angeblich-nichts-auf-dem-konto-moebelhaus?s=github) – Samstag, 11:30, Möbelhaus-Kantine: Dein Kunde schreibt wieder „Zahlung kommt“. Das Konto sagt etwas anderes. Eine Geschichte über ruhiges Nachfassen.
+
+- [Zahlung kommt, sagt der Kunde? Das Gipfelkreuz um 12:10](https://blixwerkstudio.com/guides/zahlung-kommt-sagt-der-kunde-gipfelkreuz?s=github) – Wieder dieselbe Antwort: „Die Zahlung kommt.“ Eine Wanderung, ein Funkloch und die Frage, wie du Geld einforderst, ohne zu betteln.
 
 - [Zahlung versprochen, aber nichts da? Der Copyshop, 15:40](https://blixwerkstudio.com/guides/zahlung-versprochen-nichts-angekommen-was-sagen?s=github) – Der Kunde hat Zahlung versprochen, aber das Konto bleibt leer. Was sagst du jetzt? Eine Szene im Copyshop über Ruhe statt Bauchgrummeln.
 
