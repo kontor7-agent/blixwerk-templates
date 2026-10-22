@@ -1498,6 +1498,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cobrar por proyecto o por hora: el café con Lucía](https://blixwerkstudio.com/guides/cobrar-por-proyecto-o-por-hora-freelance?s=github) – Te piden precio cerrado o por horas y te quedas en blanco. Una historia sobre cobrar por proyecto o por hora sin miedo a equivocarte.
 
+- [Cobrar en dólares y no saber qué tarifa por hora poner](https://blixwerkstudio.com/guides/cobro-en-dolares-clientes-estados-unidos-tarifa-por-hora?s=github) – Un cliente de Estados Unidos te pregunta tu tarifa por hora y te quedas en blanco. Una historia sobre cobrar en dólares con más calma.
+
 - [¿Cobro muy poco como freelance? La cola del súper me lo dijo](https://blixwerkstudio.com/guides/cobro-muy-poco-como-freelance?s=github) – Una cola de supermercado, una pregunta inocente y un número que no te sale. Una historia para quien sospecha que cobra menos de lo que vale.
 
 - [Creo que cobro poco a mis clientes y me da miedo subir tarifas](https://blixwerkstudio.com/guides/cobro-poco-a-mis-clientes-miedo-subir-tarifas?s=github) – Un jueves, junto a la máquina de café del coworking, una frase te hace dudar de lo que cobras. Una historia para quien teme subir sus tarifas.
@@ -1702,6 +1704,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Freelance-Jahr voll, aber was verdient? Das Raclette](https://blixwerkstudio.com/guides/freelance-jahr-voll-aber-was-verdient?s=github) – Das Jahr war randvoll, aber was ist am Ende wirklich bei dir angekommen? Eine Geschichte über eine Frage am Raclette-Tisch und die Ruhe danach.
 
+- [Rate Still Too Low After Tax and Holidays? The Kayak Hut](https://blixwerkstudio.com/guides/freelance-rate-too-low-after-tax-and-holidays?s=github) – Your rate looks fine on paper, then tax and holidays eat it. A quiet story from a kayak hut about finally seeing what your hour is really worth.
+
 - [My Freelance Rate Is Too Low and No One Pushes Back: The Yes](https://blixwerkstudio.com/guides/freelance-rate-too-low-clients-never-push-back?s=github) – The client said yes in four seconds. Your stomach dropped. If nobody ever pushes back on your freelance rate, this story is for you.
 
 - [Freelance Rate Too Low, Scared to Raise It? The Pier Café](https://blixwerkstudio.com/guides/freelance-rate-too-low-scared-to-raise-it?s=github) – Your rate feels too low, but every time you think of raising it, your stomach drops. A quiet story about a Tuesday lunch and a calmer way to start.
@@ -1809,6 +1813,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Wants a Rush Job for Free? The Food Truck Friday](https://blixwerkstudio.com/guides/how-to-say-no-to-client-rush-job-for-free?s=github) – The message says 'just a quick favour, by Monday.' You're in a queue with your phone in your hand, and the word no feels impossible. A calmer way through.
 
 - [Need More Time on a Client Project? The Bank Holiday Kitchen Table](https://blixwerkstudio.com/guides/how-to-tell-client-you-need-more-time-on-project?s=github) – The deadline is Friday and the work won't be ready. You're at your parents' kitchen table, rewriting one sentence to a client. A calmer way through.
+
+- [Invoiced the Same Project Twice? The Vending Machine Wait](https://blixwerkstudio.com/guides/i-think-i-invoiced-the-same-project-twice-how-to-check?s=github) – Your client asks about two invoices for one project, and you're stuck in a hospital corridor. A calm story about checking, and about knowing.
 
 - [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://blixwerkstudio.com/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
 
@@ -2013,6 +2019,8 @@ Included (16 products, 175 USD if bought separately):
 - [Nail Tech: How Much Do I Actually Make After Booth Rent?](https://blixwerkstudio.com/guides/nail-tech-how-much-do-i-actually-make-after-booth-rent?s=github) – The rental form asks for your monthly income and you freeze. A nail tech story about booth rent, products and finding the number you actually keep.
 
 - [Nebenberuflich selbstständig: Welche Rechnung ging raus?](https://blixwerkstudio.com/guides/nebenberuflich-selbststaendig-rechnungen-ueberblick-verloren?s=github) – 12:35 Uhr in der Kantine: Du weißt nicht mehr, welchen Kunden du schon berechnet hast. Eine Geschichte über Ruhe im Nebenjob.
+
+- [Netter Kunde zahlt zu spät? Die Eisdiele, 15:20](https://blixwerkstudio.com/guides/netter-kunde-zahlt-zu-spaet-mahnen-unangenehm?s=github) – Die Rechnung ist 24 Tage überfällig, der Kunde ist nett, und du schreibst trotzdem nichts. Eine Geschichte über die Scheu vor der Erinnerung.
 
 - [Neukunde Vorkasse verlangen? Die Mail am Freitagmittag](https://blixwerkstudio.com/guides/neukunde-vorkasse-verlangen-traue-mich-nicht?s=github) – Neuer Kunde, großer Auftrag, und du traust dich nicht, Vorkasse zu verlangen? Eine Geschichte über den einen Satz, der Ruhe bringt.
 
