@@ -1466,6 +1466,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cuarto recordatorio sin respuesta: qué le digo al cliente](https://blixwerkstudio.com/guides/cliente-ignora-recordatorios-factura-que-decir?s=github) – Tres recordatorios, ningún aviso de pago y la semana del trimestre encima. Una historia sobre dejar de sentir que mendigas lo que ya ganaste.
 
+- [Mi cliente de iguala se pasa de horas y no sé decírselo](https://blixwerkstudio.com/guides/cliente-iguala-mensual-mas-horas-de-las-pactadas?s=github) – La iguala eran 20 horas, pero este mes ya van 31. Un lunes en el tranvía, un mensaje nuevo y la duda de cómo decírselo sin sonar a queja.
+
 - [Me comparan con un freelance de Fiverr y no sé qué cobrar](https://blixwerkstudio.com/guides/cliente-me-compara-freelance-barato-fiverr-que-cobrar?s=github) – Un mensaje en la cola de la panadería: «En Fiverr lo hacen por 40 €». Una historia sobre qué cobrar cuando te comparan con lo barato.
 
 - [Me dijo que era caro y no supe qué responder (freelance)](https://blixwerkstudio.com/guides/cliente-me-dice-que-soy-caro-no-se-que-responder-freelance?s=github) – Te dicen «eres caro» y se te cierra la garganta. Una historia sobre dejar de improvisar tu precio y poder responder con calma.
@@ -1565,6 +1567,8 @@ Included (16 products, 175 USD if bought separately):
 - [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://blixwerkstudio.com/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
 
 - [Freelance Receipts a Mess in December? The Advent Door](https://blixwerkstudio.com/guides/december-freelance-receipts-a-mess-where-to-start?s=github) – It's December, your receipts are in a carrier bag, and you don't know where to start. A quiet Monday-morning story about a calmer way into year-end.
+
+- [Desktop Full of Screenshots? The Kitchen TV Mirror](https://blixwerkstudio.com/guides/desktop-full-of-screenshots-cant-find-anything?s=github) – Your desktop is a wall of screenshots and random files, and the family TV just mirrored it. A calm story about finding things again.
 
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://blixwerkstudio.com/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
 
@@ -1929,6 +1933,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde sagt „Zahlung kommt“? Der Campingplatz-Dienstag](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelancer?s=github) – Der Kunde schreibt wieder, die Zahlung sei unterwegs. Dein Konto sagt etwas anderes, und du stehst im Urlaub am Waschbecken. Eine Geschichte über Ruhe.
 
 - [Zahlung kommt, sagt der Kunde? Der Steuertermin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert?s=github) – „Die Zahlung kommt diese Woche.“ Zum dritten Mal. Eine Geschichte über Lenas Steuertermin und die Ruhe, die entsteht, wenn du weißt, was als Nächstes dran ist.
+
+- [Kunde schickt Rechnung zurück? Die Umkleide, 7:10](https://blixwerkstudio.com/guides/kunde-schickt-rechnung-zurueck-angaben-fehlen-freiberufler?s=github) – Die Rechnung kommt zurück: „Angaben fehlen.“ Eine Freiberuflerin, ein Handy in der Umkleide und die Frage, wie das nächste Mal ruhiger läuft.
 
 - [Kunde schreibt abends und am Wochenende – was antworten?](https://blixwerkstudio.com/guides/kunde-schreibt-abends-und-am-wochenende-was-antworten?s=github) – Samstag, 17:40, Kletterhalle: Die Kundenmail piept, dein Kopf rechnet schon. Eine Geschichte über Antworten ohne Druck und ohne dich zu verbiegen.
 
@@ -2295,6 +2301,8 @@ Included (16 products, 175 USD if bought separately):
 - [Server Disk Full Again? Old Log Files and a 7:45 Client Call](https://blixwerkstudio.com/guides/server-disk-full-old-log-files?s=github) – The disk is full again, and the culprit is months of old log files. A calm story about the Monday it stopped happening, and what changed.
 
 - [Server Out of Disk Space Overnight? The Gondola Queue](https://blixwerkstudio.com/guides/server-out-of-disk-space-overnight-log-files?s=github) – Your server ran out of disk space overnight because of log files, and you're in a gondola queue with one bar of signal. A story about calm after the alert.
+
+- [Forget Tasks When You Look Away? The Kitchen Doorway](https://blixwerkstudio.com/guides/simple-paper-planner-for-adhd-forget-tasks?s=github) – You walk to the kitchen and the task is gone. A quiet story about forgetting what you just decided, and a simple paper planner that holds it for you.
 
 - [Spreadsheets Everywhere? The Monday You Couldn't Find the Number](https://blixwerkstudio.com/guides/small-business-admin-overwhelmed-spreadsheets-everywhere?s=github) – Eleven tabs, three folders, one question you can't answer. A story for anyone drowning in small business admin and scattered spreadsheets.
 
