@@ -1194,6 +1194,8 @@ Included (16 products, 175 USD if bought separately):
 
 ## Free guides
 
+- [Nombre y apellidos en una sola columna: 3000 contactos](https://blixwerkstudio.com/guides/3000-contactos-excel-nombre-y-apellidos-en-una-columna?s=github) – Tienes 3000 contactos con nombre y apellidos en una sola columna y una llamada en cinco minutos. Una historia sobre cómo dejar de sufrir con tu Excel.
+
 - [Abandon Every Planner by February? The Blank Page Call](https://blixwerkstudio.com/guides/abandon-every-planner-by-february?s=github) – The planner was gorgeous in January. By the February client call, its pages are blank and you're guessing. A calm story for freelancers who keep starting over.
 
 - [Abschlagsrechnung vergessen? Projekt fertig, kein Geld](https://blixwerkstudio.com/guides/abschlagsrechnung-vergessen-projekt-fertig-kunde-hat-nichts-gezahlt?s=github) – Die Terrasse ist fertig, der Kunde strahlt, und dir fällt ein: Es gab nie eine Abschlagsrechnung. Eine Geschichte über Ruhe im Zahlungsfluss.
@@ -1896,6 +1898,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung kommt, sagt der Kunde? Der Steuertermin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert?s=github) – „Die Zahlung kommt diese Woche.“ Zum dritten Mal. Eine Geschichte über Lenas Steuertermin und die Ruhe, die entsteht, wenn du weißt, was als Nächstes dran ist.
 
+- [Kunde schreibt abends und am Wochenende – was antworten?](https://blixwerkstudio.com/guides/kunde-schreibt-abends-und-am-wochenende-was-antworten?s=github) – Samstag, 17:40, Kletterhalle: Die Kundenmail piept, dein Kopf rechnet schon. Eine Geschichte über Antworten ohne Druck und ohne dich zu verbiegen.
+
 - [Kunde versprach Zahlung, nichts da? Die Fähre, 11:40](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen-was-sagen?s=github) – Der Kunde sagte „geht raus“, auf dem Konto ist nichts. Was schreibst du jetzt? Eine Geschichte über den Moment auf der Fähre und die Ruhe danach.
 
 - [Kunde versprach Zahlung, nichts da? Die Hotelrezeption](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen?s=github) – Der Kunde hat die Zahlung zugesagt, aber das Konto bleibt leer. Eine Geschichte über die Hotelrezeption, das Warten und ruhiges Nachhaken.
@@ -2103,6 +2107,8 @@ Included (16 products, 175 USD if bought separately):
 - [Can't Track Which Lessons Are Paid? The Study Room Clock](https://blixwerkstudio.com/guides/private-tutor-cant-track-which-lessons-are-paid?s=github) – A student asks, 'Did I pay for March?' and you don't know. A quiet story for private tutors who lose track of which lessons are paid for.
 
 - [Tutoring Parent Pays Late Again? The Station Café at 4:10](https://blixwerkstudio.com/guides/private-tutor-parent-pays-late-awkward-to-ask?s=github) – A parent pays late again and asking feels awkward. A tutor's quiet afternoon between two lessons, and what changes when you can finally see who is behind.
+
+- [Tutor Parents Never Pay on Time? The Dog Field Saturday](https://blixwerkstudio.com/guides/private-tutor-parents-never-pay-on-time-how-to-keep-track?s=github) – Parents pay your tutoring late again and you can't say who is behind? A Saturday morning at the dog field, and what a calmer way to keep track feels like.
 
 - [Tutor Can't Track Who Paid? The Tombola Table at the Fête](https://blixwerkstudio.com/guides/private-tutor-parents-pay-late-cant-track-who-paid?s=github) – Parents keep paying for lessons late and you can't remember who paid? A tutor's Saturday at the school fête, and what a calmer Monday could feel like.
 
