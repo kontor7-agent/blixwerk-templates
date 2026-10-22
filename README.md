@@ -1462,6 +1462,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cuarto recordatorio sin respuesta: qué le digo al cliente](https://blixwerkstudio.com/guides/cliente-ignora-recordatorios-factura-que-decir?s=github) – Tres recordatorios, ningún aviso de pago y la semana del trimestre encima. Una historia sobre dejar de sentir que mendigas lo que ya ganaste.
 
+- [Me comparan con un freelance de Fiverr y no sé qué cobrar](https://blixwerkstudio.com/guides/cliente-me-compara-freelance-barato-fiverr-que-cobrar?s=github) – Un mensaje en la cola de la panadería: «En Fiverr lo hacen por 40 €». Una historia sobre qué cobrar cuando te comparan con lo barato.
+
 - [Me dijo que era caro y no supe qué responder (freelance)](https://blixwerkstudio.com/guides/cliente-me-dice-que-soy-caro-no-se-que-responder-freelance?s=github) – Te dicen «eres caro» y se te cierra la garganta. Una historia sobre dejar de improvisar tu precio y poder responder con calma.
 
 - [Mi cliente me escribe a todas horas y no sé poner límites: domingo](https://blixwerkstudio.com/guides/cliente-me-escribe-fuera-de-horario-como-poner-limites?s=github) – Domingo, 11:40, el móvil vibra otra vez. Una historia sobre el cliente que escribe fuera de horario y cómo se siente poner un límite sin culpa.
@@ -1651,6 +1653,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot to Bill a Client Last Month? The Flea Market Sunday](https://blixwerkstudio.com/guides/forgot-to-bill-client-last-months-work?s=github) – You're holding a vase at a flea market when it hits you: last month's job was never invoiced. What that moment feels like, and how it stops happening.
 
 - [Forget to Bill Retainer Hours? The Glass Meeting Room](https://blixwerkstudio.com/guides/forgot-to-bill-retainer-hours-freelancer?s=github) – Monday, 10:00, a quarterly review call, and a retainer you suspect you've been undercounting for months. A story for freelancers who lose hours quietly.
+
+- [Forgot to Invoice Hours Last Month? The Donation Chair](https://blixwerkstudio.com/guides/forgot-to-invoice-hours-last-month?s=github) – You're lying back with a paper cup of juice when you realise a week of last month's hours never made it onto an invoice. A quiet story about that moment.
 
 - [Forgot to Invoice a Client as a Freelancer? The Wedding Fair Stand](https://blixwerkstudio.com/guides/forgot-to-send-invoice-to-client-freelancer-what-to-do?s=github) – Standing at a trade fair, you suddenly realise a client was never invoiced. What to do next, and how a calm weekly routine keeps it from happening again.
 
@@ -1918,6 +1922,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will 90 Tage Zahlungsziel? Der Videocall um 11:20](https://blixwerkstudio.com/guides/kunde-will-90-tage-zahlungsziel-freelancer?s=github) – Der Kunde nennt 90 Tage Zahlungsziel, und deine Miete ist in zwei Wochen fällig. Eine Geschichte über Ruhe, wenn Geld spät kommt.
 
+- [Kunde will alle Rohbilder? Mehr Stunden als gebucht](https://blixwerkstudio.com/guides/kunde-will-alle-rohbilder-mehr-stunden-als-gebucht-fotograf?s=github) – Der Kunde will alle Rohbilder und zwei Stunden mehr als gebucht. Du stehst mit der Kamera am Buffet und weißt nicht, was vereinbart war. Eine Szene.
+
 - [Kunde will nur eine Kleinigkeit? Der Freitag um 16:50](https://blixwerkstudio.com/guides/kunde-will-noch-eine-kleinigkeit-nein-sagen-freelancer?s=github) – „Nur noch eine kleine Änderung“ – zum zwölften Mal. Eine Freitagsgeschichte aus der Kassenschlange über Scope Creep und den Mut, ruhig Nein zu sagen.
 
 - [Kunde will Rabatt? Freiberuflerin, Nudelwasser und kein Satz](https://blixwerkstudio.com/guides/kunde-will-rabatt-freiberufler-was-sagen?s=github) – Der Kunde fragt nach Rabatt, und dir fällt nichts ein. Eine Geschichte über das Schweigen am Telefon und darüber, wie du ruhig antworten kannst.
@@ -2147,6 +2153,8 @@ Included (16 products, 175 USD if bought separately):
 - [Quoted a Job and Forgot Labour Costs? The Wardrobe Doorway Friday](https://blixwerkstudio.com/guides/quoted-a-job-and-forgot-labour-costs?s=github) – The customer says it's exactly on budget, and you realise the quote never included your own labour. A story for tradespeople who price on site.
 
 - [Quoted a Job, Materials Cost More Than I Thought: The Builders' Merchant](https://blixwerkstudio.com/guides/quoted-a-job-and-materials-cost-more-than-i-thought?s=github) – You quoted the bathroom last week. At the merchant's counter, the total on the screen is higher than your number. Here is what that moment really costs.
+
+- [Quoted a Job, Barely Making Money After Materials?](https://blixwerkstudio.com/guides/quoted-a-job-barely-making-money-after-materials?s=github) – The job is done, the client is happy, and your account barely moved. A short story about quoting, materials and the margin you only see afterwards.
 
 - [Quoted a Job, Paid for Materials Yourself? The Van, 7:10](https://blixwerkstudio.com/guides/quoted-a-job-paid-for-materials-myself?s=github) – You quoted the job in ten minutes and bought the materials on your own card. Now the numbers don't add up. A quiet story for tradespeople.
 
