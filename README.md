@@ -1408,6 +1408,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Said They'd Pay Last Month, Now Silent? The Boathouse](https://blixwerkstudio.com/guides/client-said-theyd-pay-last-month-now-not-answering-emails?s=github) – They promised payment last month and now your emails vanish. A quiet Saturday story about chasing money without begging, and how it can feel calmer.
 
+- [Client Said They'd Pay, Still Nothing? Too Many Reminders?](https://blixwerkstudio.com/guides/client-said-theyd-pay-still-nothing-how-many-reminders?s=github) – Waiting for the repair engineer, Jonas rereads "payment this week" for the third time. How many reminders is too many? A calm story and a way out.
+
 - [The Check Is in the Mail Again? A Freelancer's Wait](https://blixwerkstudio.com/guides/client-says-check-is-in-the-mail-freelance?s=github) – Your client says the check is in the mail, for the third time. A quiet story about waiting at the mailbox and chasing money without feeling like you're begging.
 
 - [Client Says I Never Sent the Invoice? The Permit Queue](https://blixwerkstudio.com/guides/client-says-i-never-sent-the-invoice?s=github) – The client says no invoice ever arrived, and you're almost sure you sent it. A calm story about that stomach-drop moment and how to stop guessing.
@@ -1795,6 +1797,8 @@ Included (16 products, 175 USD if bought separately):
 - [Handmade Profit After Fees? The Book Club Question](https://blixwerkstudio.com/guides/handmade-profit-after-fees?s=github) – Someone asks if your handmade shop is going well, and you say 'yes' without knowing. A quiet story about finding out what you really keep after fees.
 
 - [Craft Stock and Orders in a Mess? The Courier Slot](https://blixwerkstudio.com/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
+
+- [Handwerkermarkt in zwei Wochen: Wie viel Ware machen?](https://blixwerkstudio.com/guides/handwerkermarkt-in-zwei-wochen-wie-viel-ware-herstellen?s=github) – Der Markt ist in zwei Wochen, im Regal stehen Tassen und im Kopf Fragezeichen. Eine Geschichte über Bauchgefühl, Brennofen-Ladungen und mehr Ruhe.
 
 - [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
 
@@ -2232,6 +2236,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://blixwerkstudio.com/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
 
+- [Can't Say No to a Client's Extra Work? The Lifting Bridge](https://blixwerkstudio.com/guides/say-no-to-client-extra-work-politely?s=github) – The bridge goes up, your phone buzzes: 'one small extra thing?' A story about saying no to extra client work without sounding rude.
+
 - [Scared Your Freelance Income Will Drop? Planning 2027](https://blixwerkstudio.com/guides/scared-freelance-income-will-drop-next-year-plan-2027?s=github) – The Tuesday supermarket queue, a half-empty calendar and one quiet fear: will 2027 be a thin year? A calm story about planning ahead without panic.
 
 - [Scheduled Backup Failed? The Folder With No Recent Files](https://blixwerkstudio.com/guides/scheduled-backup-failed-backup-folder-no-recent-files?s=github) – You open the backup folder to find a file for a client and the newest one is months old. A calm story about that drop in your stomach, and what comes after.
@@ -2401,6 +2407,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me da vergüenza cobrarle a un amigo por mi trabajo](https://blixwerkstudio.com/guides/vergenza-cobrarle-a-un-amigo-por-mi-trabajo?s=github) – Sábado en la terraza, con la factura de tu amigo sin enviar desde hace tres semanas. Una historia sobre cobrar sin que se rompa nada.
 
 - [Me da vergüenza pedir un anticipo a un cliente nuevo](https://blixwerkstudio.com/guides/verguenza-pedir-anticipo-cliente-nuevo-autonomo?s=github) – El cliente nuevo dice «empezamos ya» y tú tienes el correo del anticipo a medio escribir. Una historia sobre cómo pedirlo sin sentir que molestas.
+
+- [Me da vergüenza pedir una reseña a un cliente satisfecho](https://blixwerkstudio.com/guides/verguenza-pedir-resena-cliente-satisfecho?s=github) – El cliente dice que le encantó y tú cambias de tema sin pedirle una reseña. Una historia para quien siente que pedirla es pedir un favor.
 
 - [Vergüenza de reclamar intereses de demora a otro autónomo](https://blixwerkstudio.com/guides/verguenza-reclamar-intereses-de-demora-cliente-autonomo?s=github) – Tu cliente también es autónomo, paga tarde y reclamarle intereses te da apuro. Una mañana de trimestre, una historia para quien se reconoce.
 
