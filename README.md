@@ -1410,6 +1410,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [The Check Is in the Mail Again? A Freelancer's Wait](https://blixwerkstudio.com/guides/client-says-check-is-in-the-mail-freelance?s=github) – Your client says the check is in the mail, for the third time. A quiet story about waiting at the mailbox and chasing money without feeling like you're begging.
 
+- [Client Says I Never Sent the Invoice? The Permit Queue](https://blixwerkstudio.com/guides/client-says-i-never-sent-the-invoice?s=github) – The client says no invoice ever arrived, and you're almost sure you sent it. A calm story about that stomach-drop moment and how to stop guessing.
+
 - [Client Says Invoice Was Already Paid? The Car Park Before the Call](https://blixwerkstudio.com/guides/client-says-invoice-already-paid-cant-prove-it?s=github) – Your client swears the invoice was paid. Your records say nothing either way. A short story about that knot in your stomach, and what calms it.
 
 - [Client Says My Invoice Is Wrong? The Laundry Rack Call](https://blixwerkstudio.com/guides/client-says-invoice-wrong-cant-prove-hours?s=github) – The client says 'this doesn't look right' and you can't prove your hours. A quiet story about that Wednesday call, and how it can feel different.
@@ -1437,6 +1439,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://blixwerkstudio.com/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
 
 - [Client Wants to Start Tomorrow, No Contract? Cable Car](https://blixwerkstudio.com/guides/client-wants-to-start-tomorrow-no-contract-kickoff-plan?s=github) – The client wants to start tomorrow. There's no contract and no kickoff plan, and you're in a cable car queue. A story about calm starts for freelancers.
+
+- [Clienta pide descuento en la peluquería: ¿puedo bajar?](https://blixwerkstudio.com/guides/clienta-pide-descuento-peluqueria-puedo-bajar-precio?s=github) – Sábado, secador en mano, una clienta pide descuento y no sabes cuánto te queda por ese servicio. Una historia para peluqueras y barberos.
 
 - [Bizum y efectivo en mi peluquería: no apunto nada](https://blixwerkstudio.com/guides/clientas-pagan-bizum-efectivo-no-apunto-nada-peluqueria?s=github) – Martes, 9:10, antes de abrir: el móvil lleno de Bizums, el cajón con billetes y ninguna cuenta clara. Una historia para peluqueras que trabajan solas.
 
@@ -1631,6 +1635,8 @@ Included (16 products, 175 USD if bought separately):
 - [Keep Forgetting to Chase Unpaid Invoices? The Fishmonger's Queue](https://blixwerkstudio.com/guides/forget-to-chase-unpaid-invoices-freelancer?s=github) – You meant to chase that invoice three weeks ago. A Saturday queue, a number in your head, and a calmer way to remember who still owes you.
 
 - [Forget to Reorder Stock? The Birthday Party Phone Buzz](https://blixwerkstudio.com/guides/forget-to-reorder-stock-small-shop?s=github) – You keep forgetting to reorder stock until it's too late. A small-shop story from a Saturday birthday party, and what a calmer shelf feels like.
+
+- [Forgot to Reorder Stock Until Too Late? The Deli Call](https://blixwerkstudio.com/guides/forget-to-reorder-stock-until-too-late-small-business?s=github) – The deli buyer wants 200 bottles and the caps ran out last week. A calm story for small business owners who keep reordering stock too late.
 
 - [Forgot to Send an Invoice as a Freelancer? The Waiting Room](https://blixwerkstudio.com/guides/forgot-invoice-freelancer-lost-overview?s=github) – Thursday, 10:20, a waiting room, and a sudden thought: did you ever send that invoice? A calm story about losing track and getting the overview back.
 
@@ -2417,6 +2423,8 @@ Included (16 products, 175 USD if bought separately):
 - [Wütende Kunden-Mail beantworten – ohne Roboter-Ton](https://blixwerkstudio.com/guides/wuetende-kunden-mail-beantworten-ohne-defensiv?s=github) – Donnerstag, 12:50, Mail vom Kunden: „Das ist inakzeptabel.“ Dein Puls steigt. Eine Geschichte über Antworten, die ruhig klingen und trotzdem nach dir.
 
 - [Shoebox Full of Receipts? The January Scramble, Ended](https://blixwerkstudio.com/guides/freelancer-receipts-shoebox-year-end-checklist?s=github) – The kettle is on, the shoebox is open, and the receipts won't sort themselves. A calmer way to meet year-end as a freelancer, without the January knot.
+
+- [„Zahlung ist in Bearbeitung“, aber nichts? Der Optiker](https://blixwerkstudio.com/guides/zahlung-in-bearbeitung-kunde-zahlt-nicht-freelancer?s=github) – „Zahlung ist in Bearbeitung“ – zum vierten Mal. Eine Geschichte über das Warten beim Optiker und darüber, wie Nachfassen ruhiger wird.
 
 - [Zahlung „kommt“, aber nichts da? Samstag im Möbelhaus](https://blixwerkstudio.com/guides/zahlung-kommt-angeblich-nichts-auf-dem-konto-moebelhaus?s=github) – Samstag, 11:30, Möbelhaus-Kantine: Dein Kunde schreibt wieder „Zahlung kommt“. Das Konto sagt etwas anderes. Eine Geschichte über ruhiges Nachfassen.
 
