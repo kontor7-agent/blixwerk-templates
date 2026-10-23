@@ -1494,6 +1494,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente paga tarde y no llego a la cuota de autónomos](https://blixwerkstudio.com/guides/cliente-paga-tarde-no-llego-cuota-autonomos?s=github) – El día 28, el móvil vibra con el aviso del banco y la factura de tu cliente sigue sin pagarse. Una historia sobre cobrar tarde y recuperar la calma.
 
+- [Me pagó menos de la factura y no sé cuánto me debe](https://blixwerkstudio.com/guides/cliente-pago-menos-de-la-factura-cuanto-me-debe?s=github) – Son las 9:15, miras el móvil en la cola de la panadería y el ingreso no coincide con la factura. ¿Falta dinero? Una historia para quien ha pasado por ahí.
+
 - [Ya entregué y el cliente pide descuento: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-pide-descuento-despues-de-entregar-el-proyecto?s=github) – Entregaste el proyecto y ahora el cliente pide descuento. Una escena de parque, un móvil que vibra y una forma más tranquila de responder.
 
 - [El cliente promete pagar y nunca paga: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-promete-pagar-factura-y-no-paga-que-le-digo?s=github) – Te dice «esta semana sin falta» por cuarta vez. Una historia sobre qué decir cuando el cliente promete pagar la factura y no paga.
@@ -1551,6 +1553,8 @@ Included (16 products, 175 USD if bought separately):
 - [Promised Stock You Didn't Have? The Security Tray Queue](https://blixwerkstudio.com/guides/customer-asked-for-item-you-thought-was-in-stock?s=github) – You said yes, we have it. Then you remembered the shelf. A short story about the stock you only carry in your head, and a calmer way to run it.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
+
+- [Ordered What You Ran Out Of? The Lighthouse Stairs](https://blixwerkstudio.com/guides/customer-ordered-item-you-ran-out-of?s=github) – A day off, 112 steps up a lighthouse, and a phone buzzing with an order for a product you ran out of days ago. A story for small shop owners.
 
 - [Customer Ordered, Out of Stock Again? The Yarn Pickup](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-again-embarrassing?s=github) – A customer ordered something you didn't have, again. A quiet Thursday pickup story about the embarrassment, and what it feels like when stock stops surprising you.
 
@@ -1931,6 +1935,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde zahlt nicht, sagt nur „kommt“? Der TÜV-Termin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelancer?s=github) – Zum dritten Mal „die Zahlung ist in Bearbeitung“, und das Konto bleibt leer. Eine Geschichte über Warten, Nachfragen und die Ruhe danach.
 
 - [Kunde sagt „Zahlung kommt“? Der Heizungsableser im Flur](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelance-51e3?s=github) – „Die Zahlung ist in Bearbeitung“ – und seit Wochen kommt nichts. Eine Geschichte über Freelancer-Rechnungen, leise Sorgen und wie Nachfassen ruhiger wird.
+
+- [Kunde sagt „Zahlung kommt“? Die Kletterhalle](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelance-a011?s=github) – Zum dritten Mal „Die Zahlung kommt“, und wieder nichts auf dem Konto. Eine Geschichte über Freelancer-Nerven und darüber, wie Nachfassen ruhiger wird.
 
 - [Kunde sagt „Zahlung kommt“? Das Gate B14](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelance?s=github) – „Die Zahlung kommt diese Woche“ – und wieder nichts. Eine Geschichte über Freelancer, vertröstende Kunden und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
