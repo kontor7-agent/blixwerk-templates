@@ -1832,6 +1832,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
 
+- [Hours on Emails and Product Descriptions? The Kiln Timer](https://blixwerkstudio.com/guides/hours-writing-emails-product-descriptions-small-business?s=github) – Monday, 9:10, a kiln timer ticking and a blank product page. If writing emails and descriptions eats your week, this story might feel familiar.
+
 - [Is My Freelance Day Rate Too Low? The Soft-Play Birthday Party](https://blixwerkstudio.com/guides/how-do-i-know-if-my-freelance-day-rate-is-too-low?s=github) – A birthday party, a stranger's casual question, and the number you said too fast. A quiet story about how you know your day rate is too low.
 
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://blixwerkstudio.com/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
@@ -1851,6 +1853,8 @@ Included (16 products, 175 USD if bought separately):
 - [Invoiced the Same Project Twice? The Vending Machine Wait](https://blixwerkstudio.com/guides/i-think-i-invoiced-the-same-project-twice-how-to-check?s=github) – Your client asks about two invoices for one project, and you're stuck in a hospital corridor. A calm story about checking, and about knowing.
 
 - [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://blixwerkstudio.com/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
+
+- [Interview Invite, Can't Place the Job? The Level Crossing](https://blixwerkstudio.com/guides/interview-invite-cant-remember-which-job?s=github) – The invite says Thursday, 10:30. You can't remember the company or the role. A quiet story about a red barrier, a blank mind and a calmer job search.
 
 - [Interview Tomorrow, Can't Remember What You Sent Them?](https://blixwerkstudio.com/guides/interview-tomorrow-cant-remember-what-i-sent-them?s=github) – Interview at 10 tomorrow, and you can't recall which CV or cover letter you sent. A quiet story about walking in prepared instead of guessing.
 
@@ -2250,6 +2254,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Rechnung an netten Kunden mahnen? Die Teeküche im Cowork](https://blixwerkstudio.com/guides/rechnung-nettem-kunden-mahnen-unangenehm?s=github) – Der Kunde ist nett, die Rechnung seit drei Wochen offen. Warum Nachhaken sich wie Betteln anfühlt – und wie es ruhiger werden kann.
 
+- [Rechnung offen, Kundin nett: Nachhaken ohne Peinlichkeit](https://blixwerkstudio.com/guides/rechnung-offen-netter-kunde-nachhaken-peinlich?s=github) – Du magst die Kundin, die Rechnung ist 38 Tage offen, und beim Sektempfang lächelt ihr euch zu. Eine Geschichte übers Nachhaken ohne Bauchweh.
+
 - [Meine Rechnung sieht unprofessionell aus: Der Montag um 9:40 Uhr](https://blixwerkstudio.com/guides/rechnung-sieht-unprofessionell-aus-freiberufler?s=github) – Die Buchhaltung des Kunden fragt nach der Rechnung, und dir wird heiß. Eine Geschichte für Freiberufler, die sich für ihre Rechnung schämen.
 
 - [Rechnung vergessen, Monate her? Die Schlange am Wochenmarkt](https://blixwerkstudio.com/guides/rechnung-vergessen-monate-her-peinlich?s=github) – Samstag, Wochenmarkt: Die Kundin fragt nach deiner Rechnung, die du im März vergessen hast. Eine Geschichte über Peinlichkeit und einen ruhigeren Weg.
@@ -2413,6 +2419,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stundensatz reicht nicht für Steuern und Krankenkasse?](https://blixwerkstudio.com/guides/stundensatz-reicht-nicht-steuern-krankenkasse?s=github) – Ein Brief im Hausflur, und die Frage: Reicht dein Stundensatz für Steuern und Krankenkasse? Eine Geschichte über Ruhe statt Bauchgefühl.
 
 - [Tardo una hora en escribir un correo a un cliente: el lunes de las 9:40](https://blixwerkstudio.com/guides/tardo-una-hora-en-escribir-un-correo-a-un-cliente?s=github) – Son las 9:40, el café se enfría y el correo para tu cliente sigue en blanco. Una historia sobre bloquearse al escribir y cómo soltar ese nudo.
+
+- [Estoy enferma y no cobro: mi tarifa por hora freelance](https://blixwerkstudio.com/guides/tarifa-por-hora-freelance-vacaciones-enfermedad?s=github) – 38,4 de fiebre un martes y ni un euro entrando. Una historia sobre enfermar o irte de vacaciones siendo freelance y la tarifa por hora que lo olvida.
 
 - [Need to Tell a Client Their Work Needs Revisions? The Lift Doors](https://blixwerkstudio.com/guides/tell-client-work-needs-revisions-without-upsetting-them?s=github) – You're holding a draft that isn't right and a client who loves it. The pause before you hit send, and how it can feel lighter.
 
