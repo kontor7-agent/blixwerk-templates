@@ -1596,6 +1596,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Dreading a Difficult Client Email? The Fitting Room](https://blixwerkstudio.com/guides/dreading-difficult-client-email-freelancer-what-to-say?s=github) – The client's email sits unanswered while you wait behind a fitting room curtain. For freelancers who don't know what to say, and how that knot can loosen.
 
+- [Dreading Tax Season, Receipts Everywhere? Where to Start](https://blixwerkstudio.com/guides/dreading-tax-season-receipts-everywhere-freelancer-where-to-start?s=github) – A receipt in a charity-shop bag, a pile you can't face, and a tax season that feels too big. A calm story about where to start when receipts are everywhere.
+
 - [Dreading Year-End Bookkeeping? No Idea Where Your Receipts Are](https://blixwerkstudio.com/guides/dreading-year-end-bookkeeping-freelancer-receipts?s=github) – A video call that starts late, a reminder you've snoozed since October, and the quiet dread of not knowing where your receipts are. A calmer year-end is possible.
 
 - [Dreading Year-End Freelance Paperwork? The Hotel Breakfast Reminder](https://blixwerkstudio.com/guides/dreading-year-end-freelance-paperwork-dont-know-where-to-start?s=github) – A calendar reminder pops up over your hotel coffee: 'Year-end admin.' You feel your stomach drop and have no idea where to start. A short story.
@@ -2156,6 +2158,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Does Your Bestseller Earn Anything? Pricing Handmade Work](https://blixwerkstudio.com/guides/how-to-price-handmade-products-after-fees?s=github) – The candle jar sells out every market day, but after fees, wax and packaging, does it earn anything? A quiet story about pricing handmade work.
 
+- [Primer mercadillo de Navidad: ¿cuánto género llevo?](https://blixwerkstudio.com/guides/primer-mercadillo-navidad-cuanto-genero-llevar?s=github) – Tu primer mercadillo de Navidad está a la vuelta de la esquina y el pasillo está lleno de cajas. ¿Cuánto género llevas? Una historia para respirar hondo.
+
 - [Mi primera factura como freelance: vergüenza y no saber cuánto cobrar](https://blixwerkstudio.com/guides/primera-factura-freelance-no-se-cuanto-cobrar?s=github) – Un cursor sobre «Enviar», una factura vacía y ninguna idea de cuánto cobrar. Una historia para tu primera factura como freelance.
 
 - [Primera factura freelance: no sé qué poner (plantilla gratis)](https://blixwerkstudio.com/guides/primera-factura-freelance-no-se-que-poner-plantilla-gratis?s=github) – El cliente dice «mándame la factura» y tú miras un documento en blanco sin saber qué poner. Una historia sobre ese miedo y una plantilla gratis.
@@ -2209,6 +2213,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
 
 - [Späte Rechnung, netter Kunde: Wie mahnen ohne unhöflich?](https://blixwerkstudio.com/guides/rechnung-freundlich-mahnen-netter-kunde?s=github) – Der Kunde ist nett, die Rechnung seit Wochen offen. Eine Geschichte über das Nachhaken, ohne dich zu verbiegen – mitten auf einer Hochzeitsfeier.
+
+- [Rechnung hängt in der Buchhaltung? Der Reifenwechsel](https://blixwerkstudio.com/guides/rechnung-haengt-in-der-buchhaltung-des-kunden-freelancer?s=github) – Die Rechnung liegt angeblich 'in der Kreditorenbuchhaltung'. Seit Wochen. Eine Geschichte für alle, die nicht wissen, wen sie fragen sollen.
 
 - [Rechnung letzten Monat geschrieben? Das Hallenbad, 9:20](https://blixwerkstudio.com/guides/rechnung-letzten-monat-geschrieben-freelancer-vergessen?s=github) – Samstag im Hallenbad, Handy in der Hand: Hast du im September die Rechnung geschrieben? Eine Geschichte über den Zweifel – und über mehr Ruhe.
 
@@ -2341,6 +2347,8 @@ Included (16 products, 175 USD if bought separately):
 - [Social Media vergessen? Die Kundin in der Tischlerei](https://blixwerkstudio.com/guides/social-media-vergessen-kleines-unternehmen-posten?s=github) – Donnerstag, 17:40 Uhr, Werkstatt: „Ich hab euch ewig nicht gesehen.“ Eine Geschichte für alle, die schon wieder vergessen haben zu posten.
 
 - [Sold 50 Handmade Items, No Idea If You Made Profit?](https://blixwerkstudio.com/guides/sold-50-handmade-items-no-idea-if-i-made-profit?s=github) – Fifty orders packed, a full cash box, and still no idea what you actually kept. A quiet story about a maker, a train platform, and finally seeing profit.
+
+- [Sold Loads on Etsy, No Money Left? The Dinner Bill](https://blixwerkstudio.com/guides/sold-a-lot-on-etsy-no-money-left-after-fees-and-materials?s=github) – Your Etsy shop had its best month ever, so why is the account empty? A birthday dinner, a split bill and a quieter way to see what you really keep.
 
 - [Soy autónomo y no controlo mi dinero ni mi tiempo](https://blixwerkstudio.com/guides/soy-autonomo-no-controlo-mi-dinero-ni-mi-tiempo?s=github) – Miércoles, 14:10, menú del día y una pregunta que no te dejas hacer: ¿dónde se fue el mes? Una historia para quien trabaja por su cuenta y va a ciegas.
 
