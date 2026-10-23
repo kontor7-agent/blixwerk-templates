@@ -2174,6 +2174,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Planning a Freelance Year on Unpredictable Income: The Paint Counter](https://blixwerkstudio.com/guides/plan-freelance-year-unpredictable-income?s=github) – The paint is mixing, the calendar is blank, and next year's income is a guess. A gentle story about planning a freelance year without pretending.
 
+- [Planner Too Many Boxes? Simple ADHD Page: The Dentist Chair](https://blixwerkstudio.com/guides/planner-too-many-boxes-simple-adhd-printable?s=github) – Every planner you buy has too many boxes. A story about a Thursday at the dentist, one page with three lines, and a week that finally feels light.
+
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://blixwerkstudio.com/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
 
 - [Posting Inconsistently on Instagram? The Checkout Queue](https://blixwerkstudio.com/guides/posting-inconsistently-on-instagram-guilt?s=github) – Three weeks since your last post, and a friend asks if you're still open. A gentle story for anyone who posts in bursts and feels guilty about the gaps.
@@ -2291,6 +2293,8 @@ Included (16 products, 175 USD if bought separately):
 - [Repetitive Data Chores Eating Your Week? The Cold Monday Coffee](https://blixwerkstudio.com/guides/repetitive-data-and-file-chores-at-work?s=github) – Monday, 8:40 am, coffee going cold while you rename files and fix the same export again. A story for anyone tired of repetitive data and file chores.
 
 - [Rewriting the Same Client Email? The Breakdown Lay-By](https://blixwerkstudio.com/guides/rewriting-the-same-awkward-client-email?s=github) – Eleven drafts, one awkward email, and a recovery truck forty minutes away. A story for anyone who keeps rewriting the same client message and still hates it.
+
+- [Out of Content Ideas Every Week? The Florist's Till Roll](https://blixwerkstudio.com/guides/run-out-of-content-ideas-small-business-social-media?s=github) – Monday, shop quiet, phone in hand, and not one idea for this week's posts. A calm story about running out of content ideas, and what changes it.
 
 - [Running Out of Stock Without Noticing? The Hill Climb](https://blixwerkstudio.com/guides/running-out-of-stock-without-noticing-small-business?s=github) – Halfway up a Sunday hill, your phone buzzes: another sold-out apology to write. A calm story about never being surprised by an empty shelf again.
 
