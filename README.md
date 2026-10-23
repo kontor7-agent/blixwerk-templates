@@ -2134,6 +2134,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://blixwerkstudio.com/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
+- [Perdí a mi mayor cliente: casi todo mi ingreso era él](https://blixwerkstudio.com/guides/perdi-a-mi-mayor-cliente-autonomo-ingresos?s=github) – Una llamada de dos minutos y el cliente que pagaba casi todo se fue. Cómo se vuelve a respirar cuando ves tus cuentas con claridad.
+
 - [Client Never Paid the Final Balance After Your Shoot? The Gallery Link](https://blixwerkstudio.com/guides/photographer-client-never-paid-final-balance-after-shoot?s=github) – The gallery is delivered, the thank-you came, the final balance didn't. A photographer's quiet Thursday at the print shop, and what makes it easier.
 
 - [Client Paid a Deposit, Can't Remember What's Still Owed? Photographer](https://blixwerkstudio.com/guides/photographer-client-paid-deposit-cant-remember-what-is-still-owed?s=github) – A client asks, 'What was left to pay again?' and you can't say. A photographer's Monday morning at the studio door, and the calmer way to start it.
@@ -2203,6 +2205,8 @@ Included (16 products, 175 USD if bought separately):
 - [Quoted a Job, Materials Cost More Than I Thought: The Builders' Merchant](https://blixwerkstudio.com/guides/quoted-a-job-and-materials-cost-more-than-i-thought?s=github) – You quoted the bathroom last week. At the merchant's counter, the total on the screen is higher than your number. Here is what that moment really costs.
 
 - [Quoted a Job, Barely Making Money After Materials?](https://blixwerkstudio.com/guides/quoted-a-job-barely-making-money-after-materials?s=github) – The job is done, the client is happy, and your account barely moved. A short story about quoting, materials and the margin you only see afterwards.
+
+- [Quoted a Job With No Wages in It? The Tuesday Site Visit](https://blixwerkstudio.com/guides/quoted-a-job-didnt-include-enough-for-my-wages?s=github) – You sent the quote, the client said yes, and only then did you notice your own wages were never in it. A calm story about what comes next.
 
 - [Quoted a Job, Paid for Materials Yourself? The Van, 7:10](https://blixwerkstudio.com/guides/quoted-a-job-paid-for-materials-myself?s=github) – You quoted the job in ten minutes and bought the materials on your own card. Now the numbers don't add up. A quiet story for tradespeople.
 
@@ -2306,6 +2310,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Self-Employed Hairdresser, No Idea What You Earn After Chair Rent?](https://blixwerkstudio.com/guides/self-employed-hairdresser-earnings-after-chair-rent?s=github) – The rent leaves your account on the 1st and you still can't say what's actually yours. A quiet story for chair-renting stylists.
 
+- [Self-Employed Hairdresser: Making Money After Rent?](https://blixwerkstudio.com/guides/self-employed-hairdresser-making-money-after-rent?s=github) – Busy chair, full diary, and still no idea if you're making money after rent? A quiet story from the back step of a one-chair salon, between two colours.
+
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://blixwerkstudio.com/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
 
 - [Candles Online, Any Profit After Fees? The Bottle Bank](https://blixwerkstudio.com/guides/selling-candles-online-profit-after-fees?s=github) – Saturday at the bottle bank, a payout notification and one question: after fees, wax and jars, do your candles earn anything? A calm story for makers.
@@ -2373,6 +2379,8 @@ Included (16 products, 175 USD if bought separately):
 - [Keep Selling Items You Don't Have? The Cinema Foyer](https://blixwerkstudio.com/guides/stop-overselling-items-not-in-stock-small-shop?s=github) – The trailers are rolling when your phone buzzes: another order for the last skein, sold twice. A quiet story for shop owners who keep overselling.
 
 - [Students Paying Late for Lessons? The Staff Room Printer](https://blixwerkstudio.com/guides/students-paying-late-for-lessons-private-tutor-track?s=github) – Wednesday, 8:50, a printer jams and you can't say which students still owe you for lessons. A calm story for private tutors who chase payments from memory.
+
+- [Freelance-Stunden nicht erfasst? Donnerstag, 10:15 Uhr](https://blixwerkstudio.com/guides/stunden-nicht-erfasst-freelance-rechnung?s=github) – Der Kunde will die Abrechnung, und du hast keine Stunden notiert. Eine Geschichte über Schätzzahlen, ein mulmiges Gefühl und wie es ruhiger werden kann.
 
 - [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://blixwerkstudio.com/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
 
