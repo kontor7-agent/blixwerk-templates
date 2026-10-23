@@ -1630,6 +1630,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel cambió las fechas de mi CSV y no sé cuáles son las originales](https://blixwerkstudio.com/guides/excel-cambio-las-fechas-de-mi-csv-cuales-son-las-originales?s=github) – Abres el CSV, guardas, y las fechas ya no son las mismas. Una llamada con un cliente, una duda incómoda y la calma de saber qué cambió y qué no.
 
+- [Excel Dates Mixed Formats, Can't Sort? The Print Shop](https://blixwerkstudio.com/guides/excel-date-column-mixed-formats-cant-sort?s=github) – The date column sorts into nonsense, the deadline is close, and you're standing at a print shop counter. A story for anyone fighting mixed dates in Excel.
+
 - [Mi Excel tiene duplicados y fechas mal escritas: el lunes del cierre](https://blixwerkstudio.com/guides/excel-datos-duplicados-fechas-mal-escritas?s=github) – Son las nueve de la mañana, el cliente espera tu lista y tu Excel tiene filas repetidas y fechas que no cuadran. Una historia sobre recuperar la calma.
 
 - [Excel con espacios y nombres mal escritos: no lo limpio a mano](https://blixwerkstudio.com/guides/excel-espacios-nombres-mal-escritos-limpiar-datos?s=github) – Jueves por la mañana, 412 filas con espacios y nombres mal escritos y una entrega a mediodía. Una historia para quien no puede limpiar tanto dato a mano.
@@ -1947,6 +1949,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde sagt „Zahlung kommt“? Das Gate B14](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelance?s=github) – „Die Zahlung kommt diese Woche“ – und wieder nichts. Eine Geschichte über Freelancer, vertröstende Kunden und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
 - [Kunde sagt „Zahlung kommt“? Der Campingplatz-Dienstag](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-freelancer?s=github) – Der Kunde schreibt wieder, die Zahlung sei unterwegs. Dein Konto sagt etwas anderes, und du stehst im Urlaub am Waschbecken. Eine Geschichte über Ruhe.
+
+- [Kunde sagt „Zahlung kommt“? Das Sommerfest, Freitag 16:20](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert-sommerfest?s=github) – Zum dritten Mal heißt es „Die Zahlung ist raus“, und wieder ist nichts da. Eine Geschichte über leise Zweifel, Bratwurstduft und einen ruhigeren Umgang mit offenen Rechnungen.
 
 - [Zahlung kommt, sagt der Kunde? Der Steuertermin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert?s=github) – „Die Zahlung kommt diese Woche.“ Zum dritten Mal. Eine Geschichte über Lenas Steuertermin und die Ruhe, die entsteht, wenn du weißt, was als Nächstes dran ist.
 
@@ -2356,6 +2360,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Overwhelmed by Emails and Admin? The Florist's 7:50 Van](https://blixwerkstudio.com/guides/small-business-owner-overwhelmed-by-emails-and-admin?s=github) – Forty unread emails before the shop even opens. A small business owner's morning in the van, and the quieter way the replies stop piling up.
 
+- [Drowning in Writing Tasks Every Week? The Car Park Hour](https://blixwerkstudio.com/guides/small-business-owner-repetitive-writing-tasks?s=github) – Forty minutes in a car park, a laptop on the steering wheel and the same emails to write again. A story for small business owners tired of weekly writing.
+
 - [Shop Keeps Overselling Stock? The Wedding Pew Buzz](https://blixwerkstudio.com/guides/small-shop-keeps-overselling-items-not-in-stock?s=github) – Your phone buzzes mid-vows: another order for something you no longer have. A calm story for small shop owners tired of overselling and apologising.
 
 - [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://blixwerkstudio.com/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
@@ -2457,6 +2463,8 @@ Included (16 products, 175 USD if bought separately):
 - [Vendo en Etsy y no me queda nada: ¿gano algo?](https://blixwerkstudio.com/guides/vendo-en-etsy-comisiones-envio-no-me-queda-nada?s=github) – En la cola de Correos te preguntas si tu bestseller de Etsy te deja algo. Una historia sobre ponerle números a lo que haces a mano.
 
 - [Vendo manualidades online y se me mezclan los pedidos](https://blixwerkstudio.com/guides/vendo-manualidades-online-pedidos-mezclados-materiales?s=github) – Miércoles, once de la mañana: dos pedidos de la misma vela y cera para uno solo. Una historia para quien vende manualidades online y pierde el hilo.
+
+- [¿Cuánto stock me queda? Vendo por WhatsApp e Instagram](https://blixwerkstudio.com/guides/vendo-por-whatsapp-e-instagram-no-se-cuanto-stock-me-queda?s=github) – Una clienta te escribe por WhatsApp: «¿te queda la vela de cedro?» Y tú no lo sabes. Una historia sobre vender sin perder el hilo del stock.
 
 - [Vendo lo que hago a mano y no sé si pierdo dinero: la fila del correo](https://blixwerkstudio.com/guides/vendo-productos-hechos-a-mano-no-se-si-pierdo-dinero-con-mis-precios?s=github) – Tres paquetes, una fila en el correo y una duda: ¿gano algo con lo que vendo hecho a mano? Una historia sobre precios, comisiones y calma.
 
