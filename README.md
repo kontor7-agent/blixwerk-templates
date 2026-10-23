@@ -1562,6 +1562,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Customer Says Your Quote Is Too Expensive? Hallway Tea](https://blixwerkstudio.com/guides/customer-said-my-quote-is-too-expensive-can-i-lower-it?s=github) – The customer says your quote is too expensive and you can't tell if you can go lower. A tradesperson's Thursday morning, and a calmer way to know your floor.
 
+- [Sold Out and Didn't Know? The Driving Test Waiting Room](https://blixwerkstudio.com/guides/customer-wanted-to-buy-sold-out-didnt-know?s=github) – A customer wanted to buy and you were already sold out without knowing. A quiet story from a waiting room about how that stops being a surprise.
+
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
 - [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://blixwerkstudio.com/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
@@ -1633,6 +1635,8 @@ Included (16 products, 175 USD if bought separately):
 - [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://blixwerkstudio.com/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
 
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://blixwerkstudio.com/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
+
+- [Factura impagada me quita el sueño: comida del domingo](https://blixwerkstudio.com/guides/factura-impagada-me-quita-el-sueno-autonomo?s=github) – Comida familiar de domingo y tú mirando el móvil: la factura impagada sigue ahí. Una historia sobre apuro, autónomos y volver a dormir con calma.
 
 - [Factura con importe equivocado: mi facturación es un lío](https://blixwerkstudio.com/guides/factura-importe-equivocado-facturacion-desordenada?s=github) – Mandaste la factura con un importe que no era y el cliente te llama a las diez. Una historia sobre facturar con calma, sin miedo a equivocarte.
 
@@ -1965,6 +1969,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde zweifelt deine Stunden an? Der Anruf im Regionalzug](https://blixwerkstudio.com/guides/kunde-zweifelt-stunden-rechnung-nachweisen?s=github) – Die Buchhaltung deines Kunden fragt: „Stimmen die 23 Stunden wirklich?“ Und du kannst es nicht belegen. Eine Geschichte über den Moment danach.
 
 - [Kunden höflich kündigen als Freelancer? Die Sonntagsmail](https://blixwerkstudio.com/guides/kunden-hoeflich-kuendigen-freelancer?s=github) – Sonntag, 15:40: Eine Nachricht vom anstrengenden Kunden, und dein Magen zieht sich zusammen. Eine Geschichte über das Ende einer Zusammenarbeit.
+
+- [Lagerbestand Excel Vorlage: The Cold Stall at 6:40 am](https://blixwerkstudio.com/guides/lagerbestand-excel-vorlage-nachbestellung?s=github) – You unload the van at a Christmas market and the bestseller isn't in the boxes. A calm story about stock you can see before the day starts.
 
 - [Where Did the Stock Go? The Tuesday Morning Count in the Back Room](https://blixwerkstudio.com/guides/stock-list-reorder-point-excel-small-business?s=github) – You count shelves by hand, and the numbers still don't match. A calm story about a small business owner who stops being surprised by an empty shelf.
 
@@ -2451,6 +2457,8 @@ Included (16 products, 175 USD if bought separately):
 - [Which Project Hours Are Invoiced? The Ferris Wheel Pause](https://blixwerkstudio.com/guides/which-project-hours-invoiced-still-open?s=github) – Your phone buzzes at the top of a ferris wheel: 'Can you invoice what's done so far?' And you can't tell which project hours are billed and which are open.
 
 - [Wie sage ich dem Kunden, dass es teurer wird? Der Bahnsteig um 7:48](https://blixwerkstudio.com/guides/wie-sage-ich-dem-kunden-dass-es-teurer-wird?s=github) – Der Entwurf liegt seit März im Handy: Preiserhöhung ankündigen. Eine Geschichte vom Bahnsteig und davon, wie ein ruhiger Satz plötzlich leichter fällt.
+
+- [Stunden im Monat abrechnen als Freiberufler? Die Kantine](https://blixwerkstudio.com/guides/wie-viele-stunden-im-monat-als-freiberufler-abrechnen?s=github) – Voller Kalender, wenig Geld: Eine Mittagspause in der Kundenkantine zeigt, warum abrechenbare Stunden anders zählen als Arbeitsstunden.
 
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://blixwerkstudio.com/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
 
