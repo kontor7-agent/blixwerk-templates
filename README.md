@@ -1736,6 +1736,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Freelance Receipts Everywhere? The Spare Room on the 28th](https://blixwerkstudio.com/guides/freelance-receipts-all-over-the-place-year-end?s=github) – It's nearly year end and your freelance receipts are in coat pockets, inboxes and a carrier bag. A quiet story about ending the January scramble.
 
+- [Receipts Everywhere, Deadline Close? The Yoga Mat Pause](https://blixwerkstudio.com/guides/freelance-receipts-everywhere-tax-deadline-close?s=github) – Thursday lunchtime, the tax deadline is close and your receipts are in six places. A quiet story about the moment it stops feeling like a mountain.
+
 - [Translator: Am I Earning Enough Per Hour? The Alumni Lunch](https://blixwerkstudio.com/guides/freelance-translator-earning-enough-per-hour?s=github) – A classmate asks what you earn per hour, and you realise you don't know. A quiet story for freelance translators who suspect the answer is less than it looks.
 
 - [Receipts Everywhere at Year-End? The Boxing Day Car Park](https://blixwerkstudio.com/guides/freelance-year-end-paperwork-overwhelm-where-are-my-receipts?s=github) – It's the holidays, but your laptop is open and you can't find a single receipt. A short story about year-end freelance paperwork and the calm after.
@@ -1968,6 +1970,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
 
+- [Kunde zahlt erst, wenn sein Kunde zahlt? Das Laufband](https://blixwerkstudio.com/guides/kunde-zahlt-erst-wenn-sein-kunde-zahlt-freelancer?s=github) – „Wir zahlen, sobald unser Kunde zahlt.“ Ein Anruf auf dem Laufband, ein flaues Gefühl im Bauch und die Frage, wie du ruhig bleibst.
+
 - [Kunde zahlt immer nach 45 Tagen? Der Spielplatz, 12:20](https://blixwerkstudio.com/guides/kunde-zahlt-immer-nach-45-tagen-obwohl-14-tage-zahlungsziel?s=github) – 14 Tage Zahlungsziel, und wieder kommt das Geld erst nach 45. Eine Illustratorin, ein Spielplatz und die Frage, wann man eigentlich nachhaken darf.
 
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://blixwerkstudio.com/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
@@ -1989,6 +1993,8 @@ Included (16 products, 175 USD if bought separately):
 - [Lieferant liefert zu spät, Ware ist aus? Der Anruf um 11:20 Uhr](https://blixwerkstudio.com/guides/lieferant-liefert-zu-spaet-ware-ist-aus?s=github) – Der Lieferant meldet sich: drei Wochen Verzug. Im Shop steht noch „2 verfügbar“. Eine Geschichte über leere Regale und die Ruhe, die danach möglich ist.
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://blixwerkstudio.com/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
+
+- [Limpio los mismos 20 Excel cada mes y ya no puedo más](https://blixwerkstudio.com/guides/limpiar-los-mismos-archivos-excel-cada-mes?s=github) – El día 1 abres los mismos 20 archivos de Excel y empiezas a limpiar. Una historia para quien siente que el mes se le va en eso.
 
 - [Meses buscando trabajo y nadie llama: me siento perdido](https://blixwerkstudio.com/guides/llevo-meses-buscando-trabajo-no-me-llaman-perdido?s=github) – Mandas currículums y solo recibes silencio. Una mañana en la lavandería, demasiadas pestañas abiertas y la sensación de que puede haber otra forma.
 
