@@ -1604,6 +1604,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Dreading Year-End Freelance Paperwork? The Hotel Breakfast Reminder](https://blixwerkstudio.com/guides/dreading-year-end-freelance-paperwork-dont-know-where-to-start?s=github) – A calendar reminder pops up over your hotel coffee: 'Year-end admin.' You feel your stomach drop and have no idea where to start. A short story.
 
+- [Duplicate Files Everywhere on Your PC? The Car Park, 8:50](https://blixwerkstudio.com/guides/duplicate-files-random-names-pc-cant-find-anything?s=github) – Ten minutes early for a client meeting, and the file you need could be any of six copies with random names. A calm story about a PC you can trust again.
+
 - [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://blixwerkstudio.com/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
 
 - [Empecé con un cliente sin contrato y todo se desordena](https://blixwerkstudio.com/guides/empece-con-un-cliente-sin-contrato-condiciones-claras?s=github) – Dijiste que sí con un mensaje rápido y ahora nadie recuerda qué estaba incluido. Una historia sobre empezar bien con un cliente nuevo.
@@ -1825,6 +1827,8 @@ Included (16 products, 175 USD if bought separately):
 - [Craft Stock and Orders in a Mess? The Courier Slot](https://blixwerkstudio.com/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
 
 - [Handwerkermarkt in zwei Wochen: Wie viel Ware machen?](https://blixwerkstudio.com/guides/handwerkermarkt-in-zwei-wochen-wie-viel-ware-herstellen?s=github) – Der Markt ist in zwei Wochen, im Regal stehen Tassen und im Kopf Fragezeichen. Eine Geschichte über Bauchgefühl, Brennofen-Ladungen und mehr Ruhe.
+
+- [Hice el presupuesto sin margen y la obra me da pérdidas](https://blixwerkstudio.com/guides/hice-presupuesto-sin-margen-pierdo-dinero-obra-autonomo?s=github) – Presupuestaste la obra sin contar el margen y lo ves en la cola de la ferretería. Una historia para autónomos que quieren cobrar lo que trabajan.
 
 - [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
 
@@ -2168,6 +2172,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://blixwerkstudio.com/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
 
+- [Posting Inconsistently on Instagram? The Checkout Queue](https://blixwerkstudio.com/guides/posting-inconsistently-on-instagram-guilt?s=github) – Three weeks since your last post, and a friend asks if you're still open. A gentle story for anyone who posts in bursts and feels guilty about the gaps.
+
 - [Presupuesto de una obra y no sé cuánto cobrar: el baño](https://blixwerkstudio.com/guides/presupuesto-obra-cuanto-cobrar-materiales-mano-de-obra?s=github) – Con el metro en la mano y el cliente esperando un precio, no sabes cuánto cobrar entre materiales y mano de obra. Una historia.
 
 - [Cliente pide presupuesto urgente y no sé cuánto tardo](https://blixwerkstudio.com/guides/presupuesto-urgente-no-se-cuanto-tiempo-me-llevara?s=github) – Te piden un presupuesto para hoy y no sabes cuánto tiempo llevará. Una mañana en una cocina ajena y cómo se siente tener los números a mano.
@@ -2489,6 +2495,8 @@ Included (16 products, 175 USD if bought separately):
 - [Vorstellungsgespräch morgen – was stand in der Bewerbung?](https://blixwerkstudio.com/guides/vorstellungsgespraech-morgen-bewerbung-vergessen?s=github) – Morgen Vorstellungsgespräch, und du weißt nicht mehr, was du geschrieben hast? Eine kleine Geschichte über den Moment an der Supermarktkasse.
 
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://blixwerkstudio.com/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
+
+- [Was soll ich posten? Der Satz der Kundin im Atelier](https://blixwerkstudio.com/guides/was-soll-ich-posten-social-media-kleines-unternehmen?s=github) – Jede Woche Stress, was du für dein kleines Unternehmen posten sollst? Eine Keramikerin, ein Satz im Atelier und ein ruhigerer Montag.
 
 - [Wedding Photographer: Client Hasn't Paid the Balance?](https://blixwerkstudio.com/guides/wedding-photographer-client-hasnt-paid-remaining-balance?s=github) – The gallery is delivered, the couple is thrilled, and the remaining balance is still open. A calm story for wedding photographers who hate chasing money.
 
