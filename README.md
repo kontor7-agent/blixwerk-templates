@@ -1966,6 +1966,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde schreibt abends und am Wochenende – was antworten?](https://blixwerkstudio.com/guides/kunde-schreibt-abends-und-am-wochenende-was-antworten?s=github) – Samstag, 17:40, Kletterhalle: Die Kundenmail piept, dein Kopf rechnet schon. Eine Geschichte über Antworten ohne Druck und ohne dich zu verbiegen.
 
+- [Zahlung versprochen, nichts da? Was sagst du? Baumarkt](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen-was-sagen-d6b3?s=github) – Der Kunde sagte „Überweisung geht raus“, doch das Konto bleibt leer. Eine Geschichte über den Moment, in dem dir die richtigen Worte fehlen.
+
 - [Kunde versprach Zahlung, nichts da? Die Fähre, 11:40](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen-was-sagen?s=github) – Der Kunde sagte „geht raus“, auf dem Konto ist nichts. Was schreibst du jetzt? Eine Geschichte über den Moment auf der Fähre und die Ruhe danach.
 
 - [Kunde versprach Zahlung, nichts da? Die Hotelrezeption](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen?s=github) – Der Kunde hat die Zahlung zugesagt, aber das Konto bleibt leer. Eine Geschichte über die Hotelrezeption, das Warten und ruhiges Nachhaken.
@@ -2276,6 +2278,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Factura vencida: recordárselo al cliente sin sonar borde](https://blixwerkstudio.com/guides/recordar-cliente-factura-vencida-sin-sonar-borde?s=github) – Son las 13:10, hay cola en el microondas y tu cliente lleva doce días de retraso. Del apuro a un recordatorio tranquilo, sin sonar borde.
 
+- [Recruiter Called, Can't Place the Job? The Housewarming](https://blixwerkstudio.com/guides/recruiter-called-cant-remember-which-job-i-applied-to?s=github) – A recruiter calls mid-party and you can't place the job. A quiet story about the blank moment, and how a simple job search overview ends it.
+
 - [Recruiter Called, Forgot You Applied? The Cloakroom Ticket](https://blixwerkstudio.com/guides/recruiter-called-forgot-which-jobs-i-applied-to?s=github) – The recruiter says your name warmly. You have no idea which job she means. A short story about that blank moment, and what a calmer job search feels like.
 
 - [Recruiter Email, Can't Recall the Job? The Car Boot Sale](https://blixwerkstudio.com/guides/recruiter-email-cant-remember-which-job?s=github) – A recruiter writes back and you can't place the job. A Saturday car boot sale, a buzzing phone, and what a calmer job search feels like afterwards.
@@ -2315,6 +2319,8 @@ Included (16 products, 175 USD if bought separately):
 - [Scope Creep: Client Keeps Adding Work? The Campsite Bank Holiday](https://blixwerkstudio.com/guides/scope-creep-client-keeps-adding-work-how-to-push-back?s=github) – One bar of signal on a bank holiday, and the client wants 'just one more thing'. A calm story about scope creep and finding your words to push back.
 
 - [Se acaba 2026 y no tengo plan para 2027 como autónomo: la llamada](https://blixwerkstudio.com/guides/se-acaba-2026-sin-plan-2027-autonomo?s=github) – Un cliente pregunta por enero y tú no sabes qué responder. Una historia sobre llegar a fin de año sin plan y cómo se siente por fin ver el año que viene.
+
+- [Se me acabó el trabajo freelance este mes: pánico](https://blixwerkstudio.com/guides/se-acabo-el-trabajo-freelance-este-mes-que-hago?s=github) – Miércoles, 11:00, bandeja de entrada vacía y el mes por la mitad. Una historia para freelances y autónomos cuando el trabajo se seca de golpe.
 
 - [Se me acumulan las tareas y no sé por dónde empezar hoy](https://blixwerkstudio.com/guides/se-me-acumulan-las-tareas-no-se-por-donde-empezar-hoy?s=github) – Lunes, 9:05, veintitrés cosas pendientes y ninguna por la que empezar. Una historia sobre cómo un día puede volver a caber en una hoja.
 
