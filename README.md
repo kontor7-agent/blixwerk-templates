@@ -1216,6 +1216,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Agency Paid Late Again? A Translator's Quiet Tuesday Lunch](https://blixwerkstudio.com/guides/translator-agency-paid-late-how-to-chase-invoice-politely?s=github) – The agency invoice is 60 days old and you can't find the right words. A translator's lunch-break story about chasing late payment without the knot.
 
+- [Agenda llena en mi peluquería y a fin de mes, nada](https://blixwerkstudio.com/guides/agenda-llena-peluqueria-fin-de-mes-no-me-sobra-nada?s=github) – Martes, 15:10, el tinte haciendo efecto y la app del banco en la mano: la agenda está llena, pero la cuenta no. Una historia de peluquería.
+
 - [Facturas, stock y clientes en excels sueltos: un lunes distinto](https://blixwerkstudio.com/guides/agobiado-administracion-negocio-pequeno-excels-sueltos?s=github) – Siete archivos abiertos, una llamada de un cliente y ninguna respuesta rápida. Una historia sobre ordenar facturas, stock y clientes sin sentirte perdido.
 
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://blixwerkstudio.com/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
@@ -2132,6 +2134,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Pedí tarde al proveedor y me quedé sin stock en campaña](https://blixwerkstudio.com/guides/pedi-tarde-al-proveedor-sin-existencias-campana?s=github) – Lanzaste la campaña, los pedidos entran y el proveedor tarda tres semanas. Una historia sobre quedarte sin existencias y volver a respirar.
 
+- [Pen Test Next Week, Unsure Your REST API Is Ready?](https://blixwerkstudio.com/guides/pen-test-next-week-rest-api-not-ready?s=github) – The pen test is booked for next Tuesday and your API feels half-checked. A calm story about the Thursday stand-up, the quiet dread, and the relief after.
+
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://blixwerkstudio.com/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
 - [Perdí a mi mayor cliente: casi todo mi ingreso era él](https://blixwerkstudio.com/guides/perdi-a-mi-mayor-cliente-autonomo-ingresos?s=github) – Una llamada de dos minutos y el cliente que pagaba casi todo se fue. Cómo se vuelve a respirar cuando ves tus cuentas con claridad.
@@ -2222,11 +2226,15 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
 
+- [Scared of Ransomware, No Automatic Backup? The Tax Week Hum](https://blixwerkstudio.com/guides/ransomware-small-business-server-no-automatic-backup?s=github) – The server hums under the desk, tax week is close, and you can't remember when anything was last copied. A calm story about getting that knot to loosen.
+
 - [Späte Rechnung, netter Kunde: Wie mahnen ohne unhöflich?](https://blixwerkstudio.com/guides/rechnung-freundlich-mahnen-netter-kunde?s=github) – Der Kunde ist nett, die Rechnung seit Wochen offen. Eine Geschichte über das Nachhaken, ohne dich zu verbiegen – mitten auf einer Hochzeitsfeier.
 
 - [Rechnung hängt in der Buchhaltung? Der Reifenwechsel](https://blixwerkstudio.com/guides/rechnung-haengt-in-der-buchhaltung-des-kunden-freelancer?s=github) – Die Rechnung liegt angeblich 'in der Kreditorenbuchhaltung'. Seit Wochen. Eine Geschichte für alle, die nicht wissen, wen sie fragen sollen.
 
 - [Rechnung letzten Monat geschrieben? Das Hallenbad, 9:20](https://blixwerkstudio.com/guides/rechnung-letzten-monat-geschrieben-freelancer-vergessen?s=github) – Samstag im Hallenbad, Handy in der Hand: Hast du im September die Rechnung geschrieben? Eine Geschichte über den Zweifel – und über mehr Ruhe.
+
+- [Netter Kunde, späte Zahlung? Der Videocall um 10 Uhr](https://blixwerkstudio.com/guides/rechnung-mahnen-kunde-den-ich-mag?s=github) – Der Kunde ist nett, die Rechnung seit 34 Tagen offen. Im Videocall sagst du nichts. Warum Nachfassen so schwerfällt und wie es leichter wird.
 
 - [Rechnung monatelang nicht geschrieben? Der Satz im Videocall](https://blixwerkstudio.com/guides/rechnung-monatelang-nicht-geschrieben-nachtraeglich-schicken?s=github) – Im Kundengespräch fällt dir ein: Die Rechnung vom Frühjahr ist nie rausgegangen. Eine Geschichte über Peinlichkeit, Ruhe und den Weg zurück.
 
