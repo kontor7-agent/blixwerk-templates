@@ -1444,6 +1444,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://blixwerkstudio.com/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
 
+- [Renegotiating Price After the Project? The Tower Stairs](https://blixwerkstudio.com/guides/client-wants-to-renegotiate-price-after-project-finished?s=github) – The project is delivered, the invoice is out, and now the client wants a lower price. A calm story about what to say, and how not to fold on the stairs.
+
 - [Client Wants to Start Tomorrow, No Contract? Cable Car](https://blixwerkstudio.com/guides/client-wants-to-start-tomorrow-no-contract-kickoff-plan?s=github) – The client wants to start tomorrow. There's no contract and no kickoff plan, and you're in a cable car queue. A story about calm starts for freelancers.
 
 - [Clienta pide descuento en la peluquería: ¿puedo bajar?](https://blixwerkstudio.com/guides/clienta-pide-descuento-peluqueria-puedo-bajar-precio?s=github) – Sábado, secador en mano, una clienta pide descuento y no sabes cuánto te queda por ese servicio. Una historia para peluqueras y barberos.
@@ -1619,6 +1621,8 @@ Included (16 products, 175 USD if bought separately):
 - [Erste Rechnung als Freiberufler: Mache ich was falsch?](https://blixwerkstudio.com/guides/erste-rechnung-freiberufler-angst-fehler?s=github) – Donnerstag, 14:32 Uhr, Gleis 4: Der Zug hat Verspätung, die erste Rechnung liegt fertig da, und du traust dich nicht, auf Senden zu drücken.
 
 - [Erster Freelance-Auftrag: Wie viel soll ich verlangen?](https://blixwerkstudio.com/guides/erster-freelance-auftrag-wie-viel-verlangen?s=github) – Das Handy klingelt im Fahrradkeller, die Frage nach dem Preis kommt sofort. Und du hast keine Ahnung, was du sagen sollst. Eine Geschichte über den ersten Preis.
+
+- [Erstes Jahr selbstständig: Welche Unterlagen brauche ich?](https://blixwerkstudio.com/guides/erstes-jahr-selbststaendig-steuererklaerung-welche-unterlagen?s=github) – Die Kanzlei ruft an und fragt nach „allen Unterlagen“. Du hast keine Ahnung, was das heißt. Eine Geschichte über das erste Jahr und den Überblick.
 
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
@@ -2086,6 +2090,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [New Freelance Client, No Process? The Porridge Monday](https://blixwerkstudio.com/guides/new-freelance-client-no-process-messy-start?s=github) – A new client says 'let's start Monday' and your process is scattered emails and guesswork. A short story about a calmer first week.
 
+- [New Year, No Freelance Plan? The Availability Question](https://blixwerkstudio.com/guides/new-year-no-freelance-plan?s=github) – A client asks when you're free in January and your mind goes blank. A calm story for freelancers heading into a new year with no plan.
+
 - [No desconecto siendo autónoma y me siento culpable](https://blixwerkstudio.com/guides/no-consigo-desconectar-autonomo-culpable-descansar?s=github) – Sábado, cumpleaños de tu sobrina y el móvil vibra bajo la mesa. Descansar te da culpa. Una historia sobre cerrar el portátil sin sentirte mal.
 
 - [No consigo organizar mi semana como autónomo y no avanzo](https://blixwerkstudio.com/guides/no-consigo-organizar-mi-semana-autonomo-no-avanzo?s=github) – Es miércoles, la semana se te ha ido en cosas pequeñas y sientes que no avanzas. Una historia para quien trabaja por su cuenta.
@@ -2473,6 +2479,8 @@ Included (16 products, 175 USD if bought separately):
 - [I Underpriced a Job and I'm Losing Money: What Do I Do?](https://blixwerkstudio.com/guides/underpriced-a-job-losing-money-what-do-i-do?s=github) – Halfway through the job, you realise the price was too low. A calm story about the sinking feeling, what to do next, and quoting without guessing.
 
 - [Underquoted a Job and Lost Money? The Tiles on Thursday Morning](https://blixwerkstudio.com/guides/underquoted-a-job-and-lost-money-contractor?s=github) – You quoted the bathroom job in ten minutes on the doorstep. By Thursday, the tiles told you the truth. A story for contractors who underquoted.
+
+- [UnicodeDecodeError al leer un CSV en Python y entrego hoy](https://blixwerkstudio.com/guides/unicodedecodeerror-leer-csv-python-entrego-hoy?s=github) – El CSV no se lee, la pantalla en rojo y el cliente espera a las 12. Una historia para quien tiene que entregar hoy y no sabe por dónde empezar.
 
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://blixwerkstudio.com/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
 
