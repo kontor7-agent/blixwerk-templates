@@ -1286,6 +1286,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Billed the Wrong Hours? The Meatball Queue Panic](https://blixwerkstudio.com/guides/billed-client-wrong-hours-panic?s=github) – The client emails: 'Are these hours right?' and your stomach drops. A calm story about checking, correcting and never guessing at your hours again.
 
+- [Billed a Client Twice by Mistake? The Pumpkin Patch Panic](https://blixwerkstudio.com/guides/billed-same-client-hours-twice-panic?s=github) – You think you billed the same client hours twice, and you're standing in a field with a paper cup. A story about the panic, and the calmer way after it.
+
 - [Billed the Same Week Twice? The Cheese Counter Ticket](https://blixwerkstudio.com/guides/billed-same-week-twice-which-hours-invoiced?s=github) – You think you billed the same week twice and can't tell which hours are invoiced. A quiet story about a Saturday queue, two PDFs, and getting calm back.
 
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://blixwerkstudio.com/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
@@ -1990,6 +1992,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will Rabatt? Freiberuflerin, Nudelwasser und kein Satz](https://blixwerkstudio.com/guides/kunde-will-rabatt-freiberufler-was-sagen?s=github) – Der Kunde fragt nach Rabatt, und dir fällt nichts ein. Eine Geschichte über das Schweigen am Telefon und darüber, wie du ruhig antworten kannst.
 
+- [Kunde will Rechnung in Raten zahlen? Die Apotheken-Schlange](https://blixwerkstudio.com/guides/kunde-will-rechnung-in-raten-zahlen-freiberufler?s=github) – Der Kunde fragt am Telefon, ob er die Rechnung in Raten zahlen kann. Du stehst in der Apotheke und sagst Ja, bevor du nachgedacht hast. Eine Geschichte.
+
 - [Kunde will ständig noch eine Änderung? Runde Nummer 7](https://blixwerkstudio.com/guides/kunde-will-staendig-aenderung-korrekturschleifen?s=github) – Montag, 7:12 Uhr, S-Bahn: „Noch eine kleine Änderung.“ Wenn Korrekturschleifen kein Ende nehmen und du nicht weißt, wie du es ruhig sagst.
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
@@ -2456,7 +2460,11 @@ Included (16 products, 175 USD if bought separately):
 
 - [Tired of Manual Data Cleanup Every Week? The Airport Gate Fix](https://blixwerkstudio.com/guides/tired-of-manual-data-cleanup-file-chores-developer?s=github) – Waiting at the gate, you're renaming files and fixing a CSV by hand again. A story about weekly developer chores and what a quiet Monday can feel like.
 
+- [Said It's in Stock When It Isn't? The Rowing Machine](https://blixwerkstudio.com/guides/told-customer-item-in-stock-when-it-isnt?s=github) – You told a customer the item was in stock, and it wasn't. A short story about the knot that creates, and a calmer way to start the week.
+
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://blixwerkstudio.com/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
+
+- [Trabajo desde casa y me distraigo todo el día: las 15:40](https://blixwerkstudio.com/guides/trabajo-desde-casa-me-distraigo-todo-el-dia-no-avanzo?s=github) – Son las 15:40, el documento sigue en blanco y ya abriste la nevera tres veces. Una historia para quien trabaja desde casa y siente que no avanza.
 
 - [Trabajo mal pagado como autónomo: ¿me compensa aceptarlo?](https://blixwerkstudio.com/guides/trabajo-mal-pagado-autonomo-me-compensa-aceptarlo?s=github) – Te ofrecen un trabajo mal pagado y el sí casi sale solo. Una historia sobre dudar en la cola de la farmacia y decidir con calma, sin culpa.
 
