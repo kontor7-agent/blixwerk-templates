@@ -1250,6 +1250,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Apunto las horas de mis clientes en el móvil y se me escapan](https://blixwerkstudio.com/guides/apunto-las-horas-de-mis-clientes-en-el-movil-y-se-me-escapan?s=github) – Estás en el tren, abres las notas del móvil y no recuerdas cuántas horas le dedicaste a ese cliente. Una historia para quien siempre pierde horas sin cobrar.
 
+- [Ask a Client for a Testimonial Without Feeling Awkward](https://blixwerkstudio.com/guides/ask-client-for-testimonial-without-feeling-awkward?s=github) – The project went well, the client said thanks, and the draft email still sits unsent. A calm story about asking for a testimonial without squirming.
+
 - [Auftrag ablehnen ohne schlechtes Gewissen? Die Mail um 8:50 Uhr](https://blixwerkstudio.com/guides/auftrag-ablehnen-ohne-schlechtes-gewissen-freiberufler?s=github) – Die Anfrage klingt gut, der Preis nicht, die Woche ist voll. Eine Geschichte darüber, wie ein Nein sich anfühlen kann, ohne dass du dich dafür rechtfertigst.
 
 - [Auftrag zu billig angenommen? Die Schlange beim Bäcker](https://blixwerkstudio.com/guides/auftrag-zu-billig-angenommen-bereut?s=github) – Du hast einen Auftrag zu billig angenommen und bereust es? Eine Geschichte über Freitag, 12:10 Uhr, ein Brötchen und den Moment, in dem sich etwas klärt.
@@ -2350,6 +2352,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Se me acabó el trabajo freelance este mes: pánico](https://blixwerkstudio.com/guides/se-acabo-el-trabajo-freelance-este-mes-que-hago?s=github) – Miércoles, 11:00, bandeja de entrada vacía y el mes por la mitad. Una historia para freelances y autónomos cuando el trabajo se seca de golpe.
 
+- [Se acerca enero y no sé qué objetivos ponerme (autónomo)](https://blixwerkstudio.com/guides/se-acerca-enero-no-se-que-objetivos-ponerme-autonomo?s=github) – Estás en la papelería con una agenda de 2027 en blanco y ni idea de qué objetivos ponerte como autónomo. Una historia para respirar antes de enero.
+
 - [Se me acumulan las tareas y no sé por dónde empezar hoy](https://blixwerkstudio.com/guides/se-me-acumulan-las-tareas-no-se-por-donde-empezar-hoy?s=github) – Lunes, 9:05, veintitrés cosas pendientes y ninguna por la que empezar. Una historia sobre cómo un día puede volver a caber en una hoja.
 
 - [Se me borró la carpeta del trabajo: sin copia, un martes](https://blixwerkstudio.com/guides/se-me-borro-la-carpeta-del-trabajo-sin-copia-de-seguridad?s=github) – Martes, 9:10: la carpeta del cliente ya no está y no hay copia de seguridad. Una historia sobre ese vacío en el estómago y la calma que llega después.
@@ -2409,6 +2413,8 @@ Included (16 products, 175 USD if bought separately):
 - [Keep Running Out of Stock? The Post Office Queue Reorder Moment](https://blixwerkstudio.com/guides/small-business-keep-running-out-of-stock-when-to-reorder?s=github) – Twelve people in the post office queue, one email on your phone: the last jar is gone again. A calm story about knowing when to reorder.
 
 - [Keep Running Out of Your Best Seller? The Dog Park Shout-Out](https://blixwerkstudio.com/guides/small-business-keeps-running-out-of-best-selling-product?s=github) – A local shout-out lands, your bestseller is nearly gone, and you're standing in a muddy dog park. A calm story about running out, and what changes after.
+
+- [No Written Procedures? The Helper Who Asked 'What Now?'](https://blixwerkstudio.com/guides/small-business-no-written-procedures-everything-in-my-head?s=github) – Your first helper starts at nine and asks what to do first. If everything is in your head, this story is for you. A calmer way forward.
 
 - [Admin Drowning Your Small Business? The Van Lunch in the Rain](https://blixwerkstudio.com/guides/small-business-owner-drowning-in-admin-spreadsheets-everywhere?s=github) – Rain on the windscreen, a sandwich going cold, and six spreadsheets that never agree. A story for small business owners drowning in admin.
 
@@ -2559,6 +2565,8 @@ Included (16 products, 175 USD if bought separately):
 - [Weihnachtsgeschäft: Lager reicht nicht, zu spät bestellt?](https://blixwerkstudio.com/guides/weihnachtsgeschaeft-lager-reicht-nicht-zu-spaet-nachbestellt?s=github) – Samstag, 6:40 Uhr, Garage: Du zählst Kartons und ahnst, dass es nicht reicht. Eine Geschichte über späte Nachbestellung im Weihnachtsgeschäft.
 
 - [Weiterarbeiten, obwohl der Kunde nicht gezahlt hat?](https://blixwerkstudio.com/guides/weiterarbeiten-kunde-hat-letzte-rechnung-nicht-bezahlt?s=github) – Der Kunde will den nächsten Auftrag, die letzte Rechnung ist offen. Eine Geschichte über Weiterarbeiten, Grenzen und die Ruhe danach.
+
+- [Welche Kunden lohnen sich wirklich? Montag, 9:05 Uhr](https://blixwerkstudio.com/guides/welche-kunden-lohnen-sich-freelance?s=github) – Du weißt nicht, welche Kunden sich als Freelancer wirklich lohnen? Eine Geschichte über ein Bauchgefühl, das beim Steuerberater plötzlich Zahlen braucht.
 
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://blixwerkstudio.com/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
