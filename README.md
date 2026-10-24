@@ -1212,6 +1212,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [La agencia no me paga la factura y me da apuro reclamar](https://blixwerkstudio.com/guides/agencia-de-traduccion-no-me-paga-la-factura-me-da-apuro-reclamar?s=github) – Viernes, 14:10, el menú del día sin tocar y la app del banco abierta. La agencia de traducción sigue sin pagar y tú sigues sin saber cómo reclamar.
 
+- [Posedición con tarifa rebajada: ¿me compensa, traductora?](https://blixwerkstudio.com/guides/agencia-rebajar-tarifa-posedicion-traductor-me-compensa?s=github) – La agencia te propone menos por palabra para posedición y en la reunión no sabes qué decir. Una historia sobre mirar tu tarifa en euros por hora.
+
 - [La agencia me ofrece poco por palabra: ¿me compensa?](https://blixwerkstudio.com/guides/agencia-traduccion-ofrece-poco-por-palabra-me-compensa?s=github) – Una agencia te llama con una tarifa por palabra que suena baja y te piden respuesta en cinco minutos. Una historia sobre dejar de contestar a ciegas.
 
 - [La agencia paga a 60 días y no me atrevo a preguntar](https://blixwerkstudio.com/guides/agencia-traduccion-paga-60-dias-factura?s=github) – Pasaron los 60 días, tu factura sigue sin pagar y el correo a la agencia lleva una semana en borradores. Una historia para traductores autónomos.
@@ -1329,6 +1331,8 @@ Included (16 products, 175 USD if bought separately):
 - [Not Sure You Billed Your Retainer Client? The Lido Café](https://blixwerkstudio.com/guides/cant-remember-if-i-billed-my-retainer-client-this-month?s=github) – Your retainer client pays the same every month, so why can't you remember if you sent this month's invoice? A calm story about the 'did I?' feeling.
 
 - [Did I Invoice Last Month's Work? The Bowling Alley Shoes](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-client-last-month?s=github) – Standing in rented bowling shoes, you can't remember if you invoiced September's work. A calm story about knowing what you billed without digging.
+
+- [Did You Invoice September's Hours? The Apple Press Queue](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-september-hours?s=github) – Standing in an orchard queue, one thought hits: did I ever invoice the hours I worked in September? A short story about that tight feeling, and the calm after.
 
 - [Did You Invoice This Month's Hours? The Motorway Services](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-this-months-hours-freelance?s=github) – Parked at a motorway services, phone in hand, you can't remember if you invoiced this month's hours. A freelancer's story about the calmer way.
 
@@ -1984,6 +1988,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde sagt „Zahlung kommt“? Das Kino-Foyer, 17:55](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-da?s=github) – „Die Zahlung kommt diese Woche.“ Und dann? Eine Geschichte über Versprechen, die nicht auf dem Konto landen, und darüber, wie Nachhaken ruhig wird.
 
+- [Kunde sagt „Zahlung kommt“? Der Pfandautomat, 8:20](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance-aa3d?s=github) – Der Kunde schreibt seit Wochen „Zahlung kommt“, aber das Konto bleibt leer. Eine Szene am Pfandautomat – und wie das Nachfassen leichter werden kann.
+
 - [Kunde sagt „Zahlung kommt“? Die Kasse im Biomarkt](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance?s=github) – Der Kunde schreibt wieder „kommt diese Woche“. Eine Geschichte über Warten, Scham und die Ruhe, die entsteht, wenn du den nächsten Schritt kennst.
 
 - [Kunde zahlt nicht, sagt nur „kommt“? Der TÜV-Termin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelancer?s=github) – Zum dritten Mal „die Zahlung ist in Bearbeitung“, und das Konto bleibt leer. Eine Geschichte über Warten, Nachfragen und die Ruhe danach.
@@ -2279,6 +2285,8 @@ Included (16 products, 175 USD if bought separately):
 - [Quoted a Job, Barely Making Money After Materials?](https://blixwerkstudio.com/guides/quoted-a-job-barely-making-money-after-materials?s=github) – The job is done, the client is happy, and your account barely moved. A short story about quoting, materials and the margin you only see afterwards.
 
 - [Quoted a Job With No Wages in It? The Tuesday Site Visit](https://blixwerkstudio.com/guides/quoted-a-job-didnt-include-enough-for-my-wages?s=github) – You sent the quote, the client said yes, and only then did you notice your own wages were never in it. A calm story about what comes next.
+
+- [Quoted a Job, Forgot Your Own Wages? The Gala Bleachers](https://blixwerkstudio.com/guides/quoted-a-job-forgot-my-own-wages?s=github) – You priced the whole job down to the screws, then noticed your own wages weren't in it. A Saturday-morning story about working for nothing.
 
 - [Quoted a Job, Paid for Materials Yourself? The Van, 7:10](https://blixwerkstudio.com/guides/quoted-a-job-paid-for-materials-myself?s=github) – You quoted the job in ten minutes and bought the materials on your own card. Now the numbers don't add up. A quiet story for tradespeople.
 
