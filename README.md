@@ -1982,6 +1982,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
+- [Kunde sagt „Zahlung kommt“? Das Kino-Foyer, 17:55](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-da?s=github) – „Die Zahlung kommt diese Woche.“ Und dann? Eine Geschichte über Versprechen, die nicht auf dem Konto landen, und darüber, wie Nachhaken ruhig wird.
+
 - [Kunde sagt „Zahlung kommt“? Die Kasse im Biomarkt](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance?s=github) – Der Kunde schreibt wieder „kommt diese Woche“. Eine Geschichte über Warten, Scham und die Ruhe, die entsteht, wenn du den nächsten Schritt kennst.
 
 - [Kunde zahlt nicht, sagt nur „kommt“? Der TÜV-Termin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelancer?s=github) – Zum dritten Mal „die Zahlung ist in Bearbeitung“, und das Konto bleibt leer. Eine Geschichte über Warten, Nachfragen und die Ruhe danach.
@@ -2069,6 +2071,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://blixwerkstudio.com/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
 
 - [Me da vergüenza decirle mi precio a un cliente nuevo: el café](https://blixwerkstudio.com/guides/me-da-verguenza-decirle-mi-precio-a-un-cliente-nuevo-freelance?s=github) – Estás en un café con un cliente nuevo y te pregunta cuánto cobras. Una historia para quien siente que el precio se le atasca en la garganta.
+
+- [Me equivoqué con un cliente y no sé cómo pedir disculpas](https://blixwerkstudio.com/guides/me-equivoque-con-un-cliente-como-pedir-disculpas-por-correo?s=github) – Lunes, 8:10, el tren y un error con la fecha que ya salió a 800 personas. La historia de Carla y del correo de disculpas que no sabía cómo empezar.
 
 - [Me ingresan dinero y no sé a qué factura corresponde](https://blixwerkstudio.com/guides/me-ingresan-dinero-no-se-a-que-factura-corresponde-autonomo?s=github) – Un ingreso sin concepto, tres facturas abiertas y un martes en el tranvía. Una historia para autónomos que quieren saber qué les han pagado.
 
@@ -2292,6 +2296,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Raise Your Lesson Rate Without Dread: The Piano Stool at 3:40](https://blixwerkstudio.com/guides/raise-lesson-rate-private-tutor-price-increase-letter?s=github) – Your lesson rate hasn't moved in four years and the letter sits unwritten. A quiet story about finally saying the new price in your own calm voice.
 
+- [Ran Out of Your Best Seller Again? The Video Call at 11](https://blixwerkstudio.com/guides/ran-out-of-best-selling-product-customers-asked?s=github) – You find out your best seller is gone when a customer asks. A quiet story about stock surprises, and what a calm Monday looks like without them.
+
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
 
 - [Scared of Ransomware, No Automatic Backup? The Tax Week Hum](https://blixwerkstudio.com/guides/ransomware-small-business-server-no-automatic-backup?s=github) – The server hums under the desk, tax week is close, and you can't remember when anything was last copied. A calm story about getting that knot to loosen.
@@ -2401,6 +2407,8 @@ Included (16 products, 175 USD if bought separately):
 - [Self-Employed Hairdresser, No Idea What You Earn After Chair Rent?](https://blixwerkstudio.com/guides/self-employed-hairdresser-earnings-after-chair-rent?s=github) – The rent leaves your account on the 1st and you still can't say what's actually yours. A quiet story for chair-renting stylists.
 
 - [Self-Employed Hairdresser: Making Money After Rent?](https://blixwerkstudio.com/guides/self-employed-hairdresser-making-money-after-rent?s=github) – Busy chair, full diary, and still no idea if you're making money after rent? A quiet story from the back step of a one-chair salon, between two colours.
+
+- [Tax Deadline Near, Receipts Everywhere? The Tote Bag Call](https://blixwerkstudio.com/guides/self-employed-tax-deadline-receipts-all-over-the-place?s=github) – The tax deadline is days away and your receipts are in a tote bag, a phone and an inbox. A calm story about what changes when they finally live in one place.
 
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://blixwerkstudio.com/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
 
