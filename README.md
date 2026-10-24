@@ -1632,6 +1632,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Duplicate Files Everywhere on Your PC? The Car Park, 8:50](https://blixwerkstudio.com/guides/duplicate-files-random-names-pc-cant-find-anything?s=github) – Ten minutes early for a client meeting, and the file you need could be any of six copies with random names. A calm story about a PC you can trust again.
 
+- [Eilauftrag: Wie viel Aufschlag, ohne schlechtes Gewissen?](https://blixwerkstudio.com/guides/eilauftrag-aufschlag-freelance-schlechtes-gewissen?s=github) – Der Kunde braucht es bis morgen, und du tippst „wie immer“ in die Antwort. Eine Geschichte über Eilaufträge, Aufschlag und das schlechte Gewissen.
+
 - [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://blixwerkstudio.com/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
 
 - [Empecé con un cliente sin contrato y todo se desordena](https://blixwerkstudio.com/guides/empece-con-un-cliente-sin-contrato-condiciones-claras?s=github) – Dijiste que sí con un mensaje rápido y ahora nadie recuerda qué estaba incluido. Una historia sobre empezar bien con un cliente nuevo.
@@ -2208,6 +2210,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Perdí a mi mayor cliente: casi todo mi ingreso era él](https://blixwerkstudio.com/guides/perdi-a-mi-mayor-cliente-autonomo-ingresos?s=github) – Una llamada de dos minutos y el cliente que pagaba casi todo se fue. Cómo se vuelve a respirar cuando ves tus cuentas con claridad.
 
+- [Client Got All the Photos but Never Paid? The Bus Queue](https://blixwerkstudio.com/guides/photographer-client-got-all-photos-never-paid-balance?s=github) – The full gallery went out three weeks ago and the balance never came. A quiet story for photographers who feel awkward asking, and what calmer looks like.
+
 - [Client Never Paid the Final Balance After Your Shoot? The Gallery Link](https://blixwerkstudio.com/guides/photographer-client-never-paid-final-balance-after-shoot?s=github) – The gallery is delivered, the thank-you came, the final balance didn't. A photographer's quiet Thursday at the print shop, and what makes it easier.
 
 - [Client Paid a Deposit, Can't Remember What's Still Owed? Photographer](https://blixwerkstudio.com/guides/photographer-client-paid-deposit-cant-remember-what-is-still-owed?s=github) – A client asks, 'What was left to pay again?' and you can't say. A photographer's Monday morning at the studio door, and the calmer way to start it.
@@ -2507,6 +2511,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tardo una hora en escribir un correo a un cliente: el lunes de las 9:40](https://blixwerkstudio.com/guides/tardo-una-hora-en-escribir-un-correo-a-un-cliente?s=github) – Son las 9:40, el café se enfría y el correo para tu cliente sigue en blanco. Una historia sobre bloquearse al escribir y cómo soltar ese nudo.
 
 - [Estoy enferma y no cobro: mi tarifa por hora freelance](https://blixwerkstudio.com/guides/tarifa-por-hora-freelance-vacaciones-enfermedad?s=github) – 38,4 de fiebre un martes y ni un euro entrando. Una historia sobre enfermar o irte de vacaciones siendo freelance y la tarifa por hora que lo olvida.
+
+- [Teléfonos en Excel en mil formatos y los necesito hoy](https://blixwerkstudio.com/guides/telefonos-distintos-formatos-excel-limpiar-hoy?s=github) – Seiscientos números, cada uno escrito a su manera, y el aviso sale a mediodía. Una mañana de jueves con la lista de teléfonos del Excel.
 
 - [Need to Tell a Client Their Work Needs Revisions? The Lift Doors](https://blixwerkstudio.com/guides/tell-client-work-needs-revisions-without-upsetting-them?s=github) – You're holding a draft that isn't right and a client who loves it. The pause before you hit send, and how it can feel lighter.
 
