@@ -1564,6 +1564,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [¿Cuántos clientes necesito el próximo año como autónomo?](https://blixwerkstudio.com/guides/cuantos-clientes-necesito-proximo-ano-autonomo?s=github) – Tu tío pregunta cuántos clientes tendrás el año que viene y te quedas en blanco. Una historia sobre ordenar tu año de autónomo sin agobio.
 
+- [Cuántos días esperar para reclamar una factura: martes](https://blixwerkstudio.com/guides/cuantos-dias-esperar-antes-de-reclamar-una-factura?s=github) – Once días de retraso y una videollamada en la que el cliente sonríe. Una historia sobre cuándo reclamar una factura sin sentir que molestas.
+
 - [Asked for an Item You Don't Have? The Empty Tea Tin](https://blixwerkstudio.com/guides/customer-asked-for-item-not-in-stock?s=github) – A customer asks for the one thing you thought was on the shelf. You walk to the back and find it empty. A short story about stock you didn't know was gone.
 
 - [Promised Stock You Didn't Have? The Security Tray Queue](https://blixwerkstudio.com/guides/customer-asked-for-item-you-thought-was-in-stock?s=github) – You said yes, we have it. Then you remembered the shelf. A short story about the stock you only carry in your head, and a calmer way to run it.
@@ -1844,6 +1846,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
 
+- [Clients Cancel Last Minute at Your Salon? The 13:40 Text](https://blixwerkstudio.com/guides/hairdresser-clients-cancel-last-minute-losing-money?s=github) – A lunch break, a 'so sorry' text, and an empty chair. A calm story about last-minute cancellations and finally seeing what they cost you.
+
 - [Handmade Profit After Fees? The Book Club Question](https://blixwerkstudio.com/guides/handmade-profit-after-fees?s=github) – Someone asks if your handmade shop is going well, and you say 'yes' without knowing. A quiet story about finding out what you really keep after fees.
 
 - [Craft Stock and Orders in a Mess? The Courier Slot](https://blixwerkstudio.com/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
@@ -1925,6 +1929,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde meldet sich nicht nach der Rechnung? Der Waschsalon](https://blixwerkstudio.com/guides/kunde-ghostet-nach-rechnung-was-schreiben?s=github) – Die Fotos waren begeistert angenommen, die Rechnung ist raus, dann Funkstille. Eine Geschichte über das Schweigen danach und den ersten ruhigen Satz.
 
 - [Kunde gibt kein Feedback, Projekt hängt? Der Kiosk, 8:25](https://blixwerkstudio.com/guides/kunde-gibt-kein-feedback-projekt-haengt-fest-freiberufler?s=github) – Seit drei Wochen kein Wort vom Kunden, und dein Projekt steht still. Eine Geschichte über Schweigen, Nachfassen und die Ruhe danach.
+
+- [Kunde nimmt deinen Preis sofort an – war ich zu billig?](https://blixwerkstudio.com/guides/kunde-hat-meinen-preis-sofort-akzeptiert-war-ich-zu-billig?s=github) – Eine Mail, ein Wort: „Passt.“ Und plötzlich zweifelst du. Eine Geschichte für alle, deren Preis zu schnell akzeptiert wurde und die sich fragen: zu billig?
 
 - [Kunde hat nur die Hälfte bezahlt? Der Stau auf der A7](https://blixwerkstudio.com/guides/kunde-hat-nur-die-haelfte-der-rechnung-bezahlt?s=github) – Die Banking-App zeigt 1.190 € statt 2.380 €. Eine Geschichte über halb bezahlte Rechnungen, ein flaues Gefühl im Stau und wie wieder Ruhe einkehrt.
 
@@ -2261,6 +2267,8 @@ Included (16 products, 175 USD if bought separately):
 - [Quoted a Job, Paid for Materials Yourself? The Van, 7:10](https://blixwerkstudio.com/guides/quoted-a-job-paid-for-materials-myself?s=github) – You quoted the job in ten minutes and bought the materials on your own card. Now the numbers don't add up. A quiet story for tradespeople.
 
 - [Quoted a Job, Profit Gone After Materials? Patio Gate](https://blixwerkstudio.com/guides/quoted-a-job-profit-gone-after-materials?s=github) – You quoted the patio, shook hands, and by Friday the materials had eaten the profit. A calm story for tradespeople who price from their head.
+
+- [Quoted a Job, Ran Out of Money on Materials? Skip Yard](https://blixwerkstudio.com/guides/quoted-a-job-ran-out-of-money-on-materials-how-to-price-jobs?s=github) – You quoted from memory and the card ran dry before the job did. A skip-yard queue, a weighbridge ticket, and a calmer way to price jobs.
 
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://blixwerkstudio.com/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
 
