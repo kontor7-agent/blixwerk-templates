@@ -1720,6 +1720,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Fotograf: Stunden in der Bearbeitung – verdienst du überhaupt was?](https://blixwerkstudio.com/guides/fotograf-bildbearbeitung-dauert-ewig-verdiene-ich-ueberhaupt-was?s=github) – Das Brautpaar fragt nach den Bildern, du sitzt seit Tagen in der Bearbeitung und weißt nicht, ob sich der Auftrag lohnt. Eine Geschichte.
 
+- [Kunde will noch mehr Edits? Die Zulassungsstelle, 10:20](https://blixwerkstudio.com/guides/fotograf-kunde-will-nach-lieferung-noch-mehr-edits?s=github) – Die Galerie ist längst geliefert, doch die Wünsche hören nicht auf. Eine Geschichte über Edits nach der Abgabe – und wie wieder Ruhe einkehrt.
+
 - [Fotograf: Kunde zahlt Restbetrag nicht? Das Fotolabor](https://blixwerkstudio.com/guides/fotograf-kunde-zahlt-restbetrag-nicht?s=github) – Die Galerie ist geliefert, das Album gedruckt, aber der Restbetrag fehlt. Eine Szene im Fotolabor für alle, die ungern nachfragen.
 
 - [Fotoshooting nicht abgerechnet? Der Download-Hinweis um 12:40](https://blixwerkstudio.com/guides/fotograf-rechnung-vergessen-nach-shooting?s=github) – Die Galerie ist längst geliefert, die Rechnung nie geschrieben. Eine Fotografin, ein Bahnhofscafé und der Moment, in dem sie es merkt.
@@ -1868,6 +1870,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [How Much to Charge for a Job You Always Underestimate? The Fence Job](https://blixwerkstudio.com/guides/how-much-to-charge-for-a-job-i-always-underestimate?s=github) – You said "about a day" on the doorstep. By Wednesday it was three. A calm story about quoting jobs you always underestimate, and what changes.
 
+- [Missed a Client Deadline? The Apology Email at the Greengrocer](https://blixwerkstudio.com/guides/how-to-apologize-to-client-for-missing-deadline-email?s=github) – You missed the deadline and the client's message is waiting. A calm story about writing the apology email without grovelling or hiding.
+
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerkstudio.com/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
 - [Can't Politely Say No to a Client Request? The Bus Aisle](https://blixwerkstudio.com/guides/how-to-politely-say-no-to-client-request-freelancer?s=github) – The client's message sits unanswered while your bus crawls home. How to say no without guilt, and why the right words don't have to be hard to find.
@@ -1885,6 +1889,8 @@ Included (16 products, 175 USD if bought separately):
 - [Interview Invite, Can't Place the Job? The Level Crossing](https://blixwerkstudio.com/guides/interview-invite-cant-remember-which-job?s=github) – The invite says Thursday, 10:30. You can't remember the company or the role. A quiet story about a red barrier, a blank mind and a calmer job search.
 
 - [Interview Tomorrow, Can't Remember What You Sent Them?](https://blixwerkstudio.com/guides/interview-tomorrow-cant-remember-what-i-sent-them?s=github) – Interview at 10 tomorrow, and you can't recall which CV or cover letter you sent. A quiet story about walking in prepared instead of guessing.
+
+- [Interviewed Last Week, No Reply? The Launderette Table](https://blixwerkstudio.com/guides/interviewed-last-week-no-reply-how-to-follow-up?s=github) – Interviewed a week ago and the inbox is silent? A story about the waiting, the follow-up you keep rewriting, and getting your calm back.
 
 - [Inventur, Zahlen stimmen nie? Der 2. Januar, 8:10 Uhr](https://blixwerkstudio.com/guides/inventur-kleines-geschaeft-zahlen-stimmen-nie?s=github) – Zwei Zahlen, ein Regal: Jonas zählt Schläuche und Ketten, und nichts passt zur Liste. Eine Geschichte über Inventur im kleinen Geschäft.
 
@@ -2075,6 +2081,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me retrasé con la entrega y no sé cómo avisar al cliente](https://blixwerkstudio.com/guides/me-retrase-con-la-entrega-como-avisar-al-cliente?s=github) – Es lunes, la entrega venció el viernes y no sabes cómo decírselo al cliente. Una historia sobre ese nudo en el estómago y cómo se afloja.
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
+
+- [Me voy de vacaciones y no cobro: ¿cuánto cobrar por hora?](https://blixwerkstudio.com/guides/me-voy-de-vacaciones-y-no-cobro-cuanto-cobrar-por-hora-autonomo?s=github) – En la puerta de embarque, Dani calcula lo que cuesta cada día libre. Una historia sobre cuánto cobrar por hora como autónomo para poder descansar.
 
 - [Mensajes de clientes sin contestar y no tengo tiempo](https://blixwerkstudio.com/guides/mensajes-de-clientes-sin-contestar-no-tengo-tiempo?s=github) – Doce mensajes sin contestar y un bocadillo a medias en la furgoneta. Una historia para quien no tiene tiempo ni de responder a sus clientes.
 
