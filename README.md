@@ -1416,6 +1416,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [The Check Is in the Mail Again? A Freelancer's Wait](https://blixwerkstudio.com/guides/client-says-check-is-in-the-mail-freelance?s=github) – Your client says the check is in the mail, for the third time. A quiet story about waiting at the mailbox and chasing money without feeling like you're begging.
 
+- [Client Disputes Your Billed Hours? The Key-Cutting Queue](https://blixwerkstudio.com/guides/client-says-i-didnt-deliver-the-hours-i-billed-how-to-prove-it?s=github) – A client questions the hours you billed while you stand in a hardware store queue. How it feels, and how a calm record changes the call.
+
 - [Client Says I Never Sent the Invoice? The Permit Queue](https://blixwerkstudio.com/guides/client-says-i-never-sent-the-invoice?s=github) – The client says no invoice ever arrived, and you're almost sure you sent it. A calm story about that stomach-drop moment and how to stop guessing.
 
 - [Client Says Invoice Was Already Paid? The Car Park Before the Call](https://blixwerkstudio.com/guides/client-says-invoice-already-paid-cant-prove-it?s=github) – Your client swears the invoice was paid. Your records say nothing either way. A short story about that knot in your stomach, and what calms it.
@@ -1557,6 +1559,8 @@ Included (16 products, 175 USD if bought separately):
 - [Promised Stock You Didn't Have? The Security Tray Queue](https://blixwerkstudio.com/guides/customer-asked-for-item-you-thought-was-in-stock?s=github) – You said yes, we have it. Then you remembered the shelf. A short story about the stock you only carry in your head, and a calmer way to run it.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
+
+- [Customer Ordered What You Ran Out Of? The Caravan Kettle](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-how-to-stop-it?s=github) – A weekend away, a kettle on the boil, and an order for something you no longer have. A calm story about never being surprised by empty shelves again.
 
 - [Ordered What You Ran Out Of? The Lighthouse Stairs](https://blixwerkstudio.com/guides/customer-ordered-item-you-ran-out-of?s=github) – A day off, 112 steps up a lighthouse, and a phone buzzing with an order for a product you ran out of days ago. A story for small shop owners.
 
@@ -2098,6 +2102,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Sin dormir: ¿llegaré a fin de mes como autónomo?](https://blixwerkstudio.com/guides/no-duermo-llegar-a-fin-de-mes-autonomo?s=github) – Comida familiar, sonrisa puesta y la cabeza haciendo cuentas. Una historia para autónomos que no duermen pensando si llegarán a fin de mes.
 
+- [No encuentro la versión final y el cliente espera](https://blixwerkstudio.com/guides/no-encuentro-la-version-final-archivo-cliente-carpetas-desordenadas?s=github) – El cliente espera en la videollamada y tú abres 'final_v3_ok'. Una historia sobre carpetas desordenadas y cómo se siente tenerlas en orden.
+
 - [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://blixwerkstudio.com/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
 
 - [No puedo importar mi Excel de clientes al CRM: el lunes](https://blixwerkstudio.com/guides/no-puedo-importar-excel-clientes-crm-telefonos-nombres?s=github) – El CRM rechaza tu Excel de clientes por teléfonos y nombres en formatos distintos. Una historia de un lunes que puede acabar más tranquilo.
@@ -2265,6 +2271,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnung an netten Kunden mahnen? Die Teeküche im Cowork](https://blixwerkstudio.com/guides/rechnung-nettem-kunden-mahnen-unangenehm?s=github) – Der Kunde ist nett, die Rechnung seit drei Wochen offen. Warum Nachhaken sich wie Betteln anfühlt – und wie es ruhiger werden kann.
 
 - [Rechnung offen, Kundin nett: Nachhaken ohne Peinlichkeit](https://blixwerkstudio.com/guides/rechnung-offen-netter-kunde-nachhaken-peinlich?s=github) – Du magst die Kundin, die Rechnung ist 38 Tage offen, und beim Sektempfang lächelt ihr euch zu. Eine Geschichte übers Nachhaken ohne Bauchweh.
+
+- [Rechnung schreiben dauert ewig? Der Anruf um 11:35 Uhr](https://blixwerkstudio.com/guides/rechnung-schreiben-dauert-ewig-freiberufler?s=github) – Die Kundin fragt nach der Rechnung, und du suchst noch die letzte Nummer. Eine Geschichte für Freiberufler, bei denen jede Rechnung ewig dauert.
 
 - [Meine Rechnung sieht unprofessionell aus: Der Montag um 9:40 Uhr](https://blixwerkstudio.com/guides/rechnung-sieht-unprofessionell-aus-freiberufler?s=github) – Die Buchhaltung des Kunden fragt nach der Rechnung, und dir wird heiß. Eine Geschichte für Freiberufler, die sich für ihre Rechnung schämen.
 
