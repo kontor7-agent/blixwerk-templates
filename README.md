@@ -1214,6 +1214,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [La agencia me ofrece poco por palabra: ¿me compensa?](https://blixwerkstudio.com/guides/agencia-traduccion-ofrece-poco-por-palabra-me-compensa?s=github) – Una agencia te llama con una tarifa por palabra que suena baja y te piden respuesta en cinco minutos. Una historia sobre dejar de contestar a ciegas.
 
+- [La agencia paga a 60 días y no me atrevo a preguntar](https://blixwerkstudio.com/guides/agencia-traduccion-paga-60-dias-factura?s=github) – Pasaron los 60 días, tu factura sigue sin pagar y el correo a la agencia lleva una semana en borradores. Una historia para traductores autónomos.
+
 - [Agency Paid Late Again? A Translator's Quiet Tuesday Lunch](https://blixwerkstudio.com/guides/translator-agency-paid-late-how-to-chase-invoice-politely?s=github) – The agency invoice is 60 days old and you can't find the right words. A translator's lunch-break story about chasing late payment without the knot.
 
 - [Agenda llena en mi peluquería y a fin de mes, nada](https://blixwerkstudio.com/guides/agenda-llena-peluqueria-fin-de-mes-no-me-sobra-nada?s=github) – Martes, 15:10, el tinte haciendo efecto y la app del banco en la mano: la agenda está llena, pero la cuenta no. Una historia de peluquería.
@@ -1573,6 +1575,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ordered Item Out of Stock? The Christening Buffet](https://blixwerkstudio.com/guides/customer-ordered-out-of-stock-small-business-embarrassed?s=github) – A customer ordered something you don't have, and your phone buzzes mid-sandwich. A calm story about the embarrassment of selling what isn't on the shelf.
 
 - [Ordered Something You Don't Have Again? The Hilltop Picnic](https://blixwerkstudio.com/guides/customer-ordered-something-not-in-stock?s=github) – A customer ordered something you don't have, again, and it found you on a hilltop on your day off. A quiet story about stock that stops surprising you.
+
+- [Customer Ordered Something Sold Out? The Theatre Interval](https://blixwerkstudio.com/guides/customer-ordered-something-sold-out-again?s=github) – The phone buzzes in the interval queue: an order for a jar you sold out of last week. A short story about stock that stops surprising you.
 
 - [Customer Says Your Quote Is Too Expensive? Hallway Tea](https://blixwerkstudio.com/guides/customer-said-my-quote-is-too-expensive-can-i-lower-it?s=github) – The customer says your quote is too expensive and you can't tell if you can go lower. A tradesperson's Thursday morning, and a calmer way to know your floor.
 
@@ -2367,6 +2371,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://blixwerkstudio.com/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
 
 - [Candles Online, Any Profit After Fees? The Bottle Bank](https://blixwerkstudio.com/guides/selling-candles-online-profit-after-fees?s=github) – Saturday at the bottle bank, a payout notification and one question: after fees, wax and jars, do your candles earn anything? A calm story for makers.
+
+- [Selling Handmade Weekly, No Money Left? The Dryer Timer](https://blixwerkstudio.com/guides/selling-handmade-every-week-no-money-left-after-fees?s=github) – You ship orders every week, yet the account is empty by the 20th. A quiet launderette morning and the question about where your handmade money goes.
 
 - [Handmade Profit After Fees? The Payout at the Checkout](https://blixwerkstudio.com/guides/selling-handmade-not-sure-profit-after-fees?s=github) – The payout notification looked lower than the month felt. A maker's moment in the checkout queue, and what it's like to finally see profit after fees.
 
