@@ -1560,6 +1560,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
 
+- [Cuánto cobrar por un tinte si gasto mucho producto](https://blixwerkstudio.com/guides/cuanto-cobrar-por-un-tinte-peluqueria-gasto-mucho-producto?s=github) – Mezclaste el doble de color y la clienta pregunta el precio. Una historia para peluqueras que no saben si ganan con cada tinte.
+
 - [Stock de seguridad: siempre pido de más o de menos](https://blixwerkstudio.com/guides/cuanto-stock-de-seguridad-tener-en-mi-tienda?s=github) – Tres cajas de más en el trastero y el bestseller agotado. Una historia sobre pedir al proveedor sin adivinar y cuánto stock de seguridad tener.
 
 - [¿Cuántos clientes necesito el próximo año como autónomo?](https://blixwerkstudio.com/guides/cuantos-clientes-necesito-proximo-ano-autonomo?s=github) – Tu tío pregunta cuántos clientes tendrás el año que viene y te quedas en blanco. Una historia sobre ordenar tu año de autónomo sin agobio.
@@ -2202,6 +2204,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Wants All the Photos, Won't Pay the Deposit?](https://blixwerkstudio.com/guides/photography-client-wants-all-photos-wont-pay-deposit?s=github) – The shoot is done, the client wants every photo, and the deposit never arrived. A quiet story about a Saturday, a message, and a calmer way to keep track.
 
+- [Client Wants More Edits Before Paying the Final Invoice?](https://blixwerkstudio.com/guides/photography-client-wants-more-edited-photos-before-paying-final-invoic?s=github) – The gallery is delivered, the final invoice is open, and now your client wants twelve more edits first. A quiet story about holding the line, calmly.
+
 - [Client Wants More Edits Before Paying? The Dog Groomer](https://blixwerkstudio.com/guides/photography-client-wants-more-edits-before-paying-balance?s=github) – The gallery is delivered, the balance is open, and the client asks for 'just a few more edits' first. A photographer's Saturday morning outside a dog groomer.
 
 - [Plan 2027 on Unpredictable Freelance Income: The Eye Test](https://blixwerkstudio.com/guides/plan-2027-freelancer-unpredictable-income?s=github) – The optician asks what you do for work and how next year looks. You smile and say fine. Here's how a blurry 2027 can come into focus, calmly.
@@ -2271,6 +2275,8 @@ Included (16 products, 175 USD if bought separately):
 - [Quoted a Job, Ran Out of Money on Materials? Skip Yard](https://blixwerkstudio.com/guides/quoted-a-job-ran-out-of-money-on-materials-how-to-price-jobs?s=github) – You quoted from memory and the card ran dry before the job did. A skip-yard queue, a weighbridge ticket, and a calmer way to price jobs.
 
 - [Quoted a Job Too Low and Losing Money? The Trade Counter Queue](https://blixwerkstudio.com/guides/quoted-a-job-too-low-and-losing-money?s=github) – Halfway through the job, the receipts say you quoted too low. A quiet story from the trade counter queue, and what a calmer way to quote can feel like.
+
+- [Bathroom Quote, Tiles Ate Your Profit? The Wet Saw Pause](https://blixwerkstudio.com/guides/quoted-bathroom-job-tile-costs-ate-profit?s=github) – You quoted the bathroom in ten minutes on site. Now the tile delivery has landed and the profit is gone. A short story about the pause, and what comes after.
 
 - [Forgot Travel Time in Your Quote? The Ring Road at 7:55](https://blixwerkstudio.com/guides/quoted-job-forgot-travel-time-losing-money?s=github) – You quoted the job and forgot the driving. Now every trip across town eats your margin. A calm story about spotting it, and quoting differently next time.
 
@@ -2513,6 +2519,8 @@ Included (16 products, 175 USD if bought separately):
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://blixwerkstudio.com/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
 
 - [Überblick über Kunden und Projekte verloren? Montag, 9:02](https://blixwerkstudio.com/guides/ueberblick-kunden-projekte-verloren-freiberufler?s=github) – Der Kunde fragt nach dem Stand – und du suchst in Mails und Notizen. Eine Geschichte für Freiberufler, die den Überblick zurückwollen.
+
+- [Überfällige Rechnung, Kunde schweigt? Das Schwimmbad-Café](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-kunde-antwortet-nicht?s=github) – Drei Mails, kein Wort zurück. Samstagvormittag im Schwimmbad-Café fragst du dich, was du noch schreiben sollst. Eine Geschichte über ruhiges Nachhaken.
 
 - [Überfällige Rechnung nachfassen, ohne unhöflich zu sein?](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-nachfassen-ohne-unhoeflich?s=github) – Samstag im Blumenladen: Die Rechnung ist 19 Tage überfällig, der Kunde ist nett. Eine Geschichte darüber, wie Nachfassen ruhig und freundlich klingen kann.
 
