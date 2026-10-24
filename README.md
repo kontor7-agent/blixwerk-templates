@@ -1404,6 +1404,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Paid the Wrong Amount? The Copy Shop and the 2,000 Mystery](https://blixwerkstudio.com/guides/client-paid-wrong-amount-invoice-what-is-still-owed?s=github) – A payment lands, but it matches nothing. Two invoices, one transfer, a gap you can't explain. A quiet story about knowing what's still owed.
 
+- [Client Pays 60 Days Late on Net 30? The Fire Drill](https://blixwerkstudio.com/guides/client-pays-60-days-late-net-30-how-to-stop-it?s=github) – Net 30 turned into day 60 again. A freelancer at a fire drill, a quiet bank app, and a calmer way to chase money without begging.
+
 - [Client Promised to Pay Twice, Still Nothing? What to Say](https://blixwerkstudio.com/guides/client-promised-to-pay-twice-still-nothing-what-to-say?s=github) – They said Friday. Then 'next week, for sure.' Still nothing. A quiet story about the third message and how to send it without feeling like you're begging.
 
 - [Client Pushing Back on Your Invoice Amount? The Pharmacy Queue](https://blixwerkstudio.com/guides/client-pushing-back-on-invoice-amount-what-do-i-say?s=github) – The client wrote 'this seems higher than expected.' You're in a pharmacy queue with a phone in your hand. A calm story about finding the words.
@@ -1550,6 +1552,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CSV Weird Characters Every Time? The Greenhouse Thursday](https://blixwerkstudio.com/guides/csv-weird-characters-encoding-errors-every-time-i-open-it?s=github) – Every CSV opens with Ã¼ and â‚¬ instead of real letters. A calm story about a Thursday morning in a greenhouse, and what it feels like when exports just open right.
 
+- [Cuánto cambio llevar al mercadillo sin quedarme corta](https://blixwerkstudio.com/guides/cuanto-cambio-llevar-al-mercadillo-monedas?s=github) – Viernes por la tarde, pidiendo monedas en la panadería, con miedo a que mañana el primer cliente te pague con un billete de 50. Una historia de mercadillo.
+
 - [Cuánto cobrar por clase particular: el miedo a pedir poco](https://blixwerkstudio.com/guides/cuanto-cobrar-por-clase-particular-miedo-pedir-poco?s=github) – Te escriben «¿cuánto cobras?» en la cola de la panadería y te quedas en blanco. Una historia sobre ponerle precio a tus clases sin miedo.
 
 - [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
@@ -1675,6 +1679,8 @@ Included (16 products, 175 USD if bought separately):
 - [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://blixwerkstudio.com/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
 
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://blixwerkstudio.com/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
+
+- [Guessing Your Freelance Hourly Rate? The Required Field](https://blixwerkstudio.com/guides/first-year-freelancing-what-hourly-rate-should-i-charge?s=github) – A required field, a blinking cursor, and a number you're making up. A first-year freelancer's story about guessing your hourly rate.
 
 - [Overdue Invoice Follow-Up Without Sounding Desperate](https://blixwerkstudio.com/guides/follow-up-overdue-invoice-without-sounding-rude?s=github) – You're in the cheese queue, the invoice is 19 days late, and every email draft sounds either grovelling or furious. There's a calmer way to follow up.
 
@@ -2355,6 +2361,8 @@ Included (16 products, 175 USD if bought separately):
 - [Selbstständig überfordert: Rechnungen, Stunden und Lager überall](https://blixwerkstudio.com/guides/selbstaendig-ueberfordert-rechnungen-stunden-lager-chaos?s=github) – Im Zug zum Steuerberater, fünf Orte für drei Themen: Rechnungen, Stunden, Lager. Eine Geschichte für alle, die das Gefühl kennen, nichts im Griff zu haben.
 
 - [Selbstgemachtes verkaufen – verdiene ich überhaupt was?](https://blixwerkstudio.com/guides/selbstgemachtes-verkaufen-preis-kalkulieren-verdiene-ich-was?s=github) – Sonntag, 14:20, Handwerkermarkt: Jemand fragt nach dem Preis deiner Kerze, und du weißt nicht, ob du daran überhaupt etwas verdienst.
+
+- [Selbstständig und alles chaotisch? Der Elternabend, 19:40](https://blixwerkstudio.com/guides/selbststaendig-chaos-rechnungen-preise-planung-system?s=github) – Rechnungen, Preise, Planung: alles im Kopf und auf Zetteln? Eine Geschichte über das Freelancer-Chaos und darüber, wie ein ruhiger Montag aussieht.
 
 - [Selbstständig Jahresplanung 2027: Wo soll ich nur anfangen?](https://blixwerkstudio.com/guides/selbststaendig-jahresplanung-2027-wo-anfangen?s=github) – Am Stehtisch fragt jemand nach deinem 2027 und du sagst „läuft“. Eine Geschichte über den Moment, in dem aus Planlosigkeit ein erster ruhiger Schritt wird.
 
