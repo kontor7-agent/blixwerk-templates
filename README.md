@@ -2504,6 +2504,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Stunden nicht aufgeschrieben, Rechnung unmöglich? Die Waschanlage](https://blixwerkstudio.com/guides/stunden-vergessen-aufzuschreiben-rechnung-nicht-moeglich?s=github) – Freitag, 12:10, Waschanlage: Der Kunde will die Rechnung, aber deine Stunden stehen nirgends. Eine Geschichte über Ruhe statt Rätselraten.
 
+- [Stunden vergessen, Rechnung zu niedrig? Der Anruf um 10:40](https://blixwerkstudio.com/guides/stunden-vergessen-rechnung-zu-niedrig-nachberechnen?s=github) – Stunden vergessen, Rechnung zu niedrig: Kann ich nachberechnen? Eine Geschichte über einen Anruf, ein mulmiges Gefühl und mehr Klarheit.
+
 - [Stunden vergessen, Rechnungstag? Die Elternbank, 16:15](https://blixwerkstudio.com/guides/stunden-vergessen-rechnungstag-freelancer?s=github) – Rechnungstag, aber keine Stunden notiert? Eine Geschichte vom Beckenrand – und davon, wie sich ein ruhiger Monatsabschluss anfühlt.
 
 - [Stundensatz reicht nicht für Steuern und Krankenkasse?](https://blixwerkstudio.com/guides/stundensatz-reicht-nicht-steuern-krankenkasse?s=github) – Ein Brief im Hausflur, und die Frage: Reicht dein Stundensatz für Steuern und Krankenkasse? Eine Geschichte über Ruhe statt Bauchgefühl.
@@ -2527,6 +2529,8 @@ Included (16 products, 175 USD if bought separately):
 - [Said It's in Stock When It Isn't? The Rowing Machine](https://blixwerkstudio.com/guides/told-customer-item-in-stock-when-it-isnt?s=github) – You told a customer the item was in stock, and it wasn't. A short story about the knot that creates, and a calmer way to start the week.
 
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://blixwerkstudio.com/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
+
+- [Trabajo 40 horas y solo facturo 20: ¿qué hago mal?](https://blixwerkstudio.com/guides/trabajo-40-horas-solo-facturo-20-freelance-que-hago-mal?s=github) – Un jueves, el microondas del coworking y una cuenta que no sale: trabajas 40 horas y facturas 20. Una historia para freelances que se reconocen.
 
 - [Trabajo desde casa y me distraigo todo el día: las 15:40](https://blixwerkstudio.com/guides/trabajo-desde-casa-me-distraigo-todo-el-dia-no-avanzo?s=github) – Son las 15:40, el documento sigue en blanco y ya abriste la nevera tres veces. Una historia para quien trabaja desde casa y siente que no avanza.
 
