@@ -1774,6 +1774,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Running Your Freelance Business on Sticky Notes and Panic?](https://blixwerkstudio.com/guides/freelance-business-running-on-sticky-notes-and-panic?s=github) – Yellow notes on the monitor, a phone full of reminders, and a quiet fear you've missed something. A story for freelancers who want their head back.
 
+- [Invoice Hours Don't Match Client's? The Paddling Pool](https://blixwerkstudio.com/guides/freelance-client-says-hours-on-invoice-dont-match-my-records?s=github) – The client's email says 31 hours, your invoice says 42, and you're standing in a garden holding a hose. A quiet story about being able to answer calmly.
+
 - [No Contract or Brief, Work Already Started? The Dog Walk](https://blixwerkstudio.com/guides/freelance-client-started-work-without-contract-or-brief?s=github) – Tuesday, 7:30, rain on the lead: the client is already sending files and nothing is in writing. A calm look at how it feels, and what changes.
 
 - [Einkommen schwankt jeden Monat? Der Parkplatz vor der Kita](https://blixwerkstudio.com/guides/freelance-einkommen-schwankt-naechstes-jahr-planen?s=github) – Freitag, 16:25 Uhr, Parkplatz vor der Kita: Ein Monat voll, der nächste leer. Wie sich das nächste Jahr plötzlich weniger wie Glücksspiel anfühlt.
@@ -2117,6 +2119,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me ingresan dinero y no sé a qué factura corresponde](https://blixwerkstudio.com/guides/me-ingresan-dinero-no-se-a-que-factura-corresponde-autonomo?s=github) – Un ingreso sin concepto, tres facturas abiertas y un martes en el tranvía. Una historia para autónomos que quieren saber qué les han pagado.
 
 - [Me olvido de todo trabajando por mi cuenta: jueves, 16:55](https://blixwerkstudio.com/guides/me-olvido-de-todo-no-organizo-mi-semana-autonomo?s=github) – Estás en la puerta del colegio y recuerdas la entrega que prometiste. Una historia para quien trabaja por su cuenta y no consigue organizar su semana.
+
+- [Dije mi tarifa por teléfono al azar: ¿y ahora qué cobro?](https://blixwerkstudio.com/guides/me-preguntaron-mi-tarifa-por-telefono-dije-precio-al-azar-freelance?s=github) – Te preguntan tu tarifa por teléfono y sueltas un número al azar. Una historia sobre ese segundo de silencio y sobre cómo decir tu precio con calma.
 
 - [Me quedé sin stock otra vez: el sábado del mercadillo](https://blixwerkstudio.com/guides/me-quede-sin-stock-otra-vez-control-de-inventario?s=github) – Sábado, 9:40, el puesto montado y falta lo que más se vende. Una historia sobre quedarte sin stock otra vez y el control de inventario que no llevas.
 
@@ -2464,6 +2468,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Tax Return Panic: Receipts Missing as a Freelancer? The Saturday Market](https://blixwerkstudio.com/guides/self-employed-tax-return-receipts-missing-panic?s=github) – The Steuerberater wants your documents and half your receipts are missing. A calm story about a Saturday at the market, and what changes when you can see it all.
 
+- [Sell Handmade Crafts Online but No Profit? Car Park Lunch](https://blixwerkstudio.com/guides/sell-handmade-crafts-online-no-profit?s=github) – Orders keep coming in, but the money never seems to stay. A quiet lunch break in a staff car park, and the moment handmade selling started to feel clear.
+
 - [Candles Online, Any Profit After Fees? The Bottle Bank](https://blixwerkstudio.com/guides/selling-candles-online-profit-after-fees?s=github) – Saturday at the bottle bank, a payout notification and one question: after fees, wax and jars, do your candles earn anything? A calm story for makers.
 
 - [Selling Handmade Weekly, No Money Left? The Dryer Timer](https://blixwerkstudio.com/guides/selling-handmade-every-week-no-money-left-after-fees?s=github) – You ship orders every week, yet the account is empty by the 20th. A quiet launderette morning and the question about where your handmade money goes.
@@ -2707,6 +2713,8 @@ Included (16 products, 175 USD if bought separately):
 - [Freundin schuldet dir Geld? Der Geburtstagsbrunch](https://blixwerkstudio.com/guides/zahlungserinnerung-freundin-kunde-mahnen?s=github) – Die Rechnung an deine Freundin ist offen, und du stehst mit einem Glas Sekt neben ihr. Eine Geschichte übers Nachfragen, ohne Streit.
 
 - [Zu viel Ware im Lager, Geld gebunden? Die Kartons im Flur](https://blixwerkstudio.com/guides/zu-viel-ware-im-lager-geld-gebunden-kleines-unternehmen?s=github) – Der Steuerberater-Termin steht an, der Flur ist voll mit Kartons und das Konto ist leer. Eine Geschichte über Ware, die Geld festhält.
+
+- [Zu viele Apps und Excel-Listen? Der Termin um 9:30 Uhr](https://blixwerkstudio.com/guides/zu-viele-apps-und-excel-listen-selbststaendig?s=github) – Fünf Apps, drei Tabellen, ein Zettel: Jana sitzt vor dem Steuerberater-Termin und sucht ihre Zahlen. Eine Geschichte für alle mit zu vielen Tools.
 
 - [Zu viele Excel-Listen, nichts passt? Die Dönerschlange](https://blixwerkstudio.com/guides/zu-viele-excel-tabellen-kleiner-betrieb-nichts-passt?s=github) – Fünf Tabellen, fünf Wahrheiten, und keine passt zur anderen. Eine Geschichte für alle, die ihren kleinen Betrieb in Excel jonglieren.
 
