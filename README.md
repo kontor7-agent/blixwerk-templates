@@ -1474,6 +1474,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://blixwerkstudio.com/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
 
+- [Canceló la sesión de fotos a última hora y perdí el día](https://blixwerkstudio.com/guides/cliente-cancelo-sesion-de-fotos-ultima-hora-fotografo-autonomo?s=github) – Sábado, 7:40, el coche cargado y un mensaje: «hoy no podemos». Una historia para fotógrafos autónomos que pierden el día por una cancelación.
+
 - [Entregué el trabajo, el cliente desapareció y no me paga](https://blixwerkstudio.com/guides/cliente-desaparecio-despues-de-entregar-el-trabajo-no-paga?s=github) – Entregaste el trabajo, él dejó de contestar y la factura sigue ahí. Una historia sobre cobrar sin suplicar y recuperar la calma.
 
 - [Cliente dice que cobré horas de más y no tengo registro](https://blixwerkstudio.com/guides/cliente-dice-que-cobre-mas-horas-de-las-que-trabaje-sin-registro?s=github) – Tu cliente duda de las horas de la factura y no tienes registro. Una videollamada de martes y cómo se siente tenerlo todo claro.
@@ -2063,6 +2065,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://blixwerkstudio.com/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
 - [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://blixwerkstudio.com/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
+
+- [Kunde fügt ständig Extra-Arbeit hinzu? Was sagst du?](https://blixwerkstudio.com/guides/kunde-zusatzarbeit-nach-auftrag-was-sagen?s=github) – „Noch eine Kleinigkeit …“ – schon wieder. Montag, 8:40 Uhr, der Cursor blinkt. Eine Geschichte für alle, die Nein sagen wollen, ohne unhöflich zu klingen.
 
 - [Kunde zweifelt deine Stunden an? Der Anruf im Regionalzug](https://blixwerkstudio.com/guides/kunde-zweifelt-stunden-rechnung-nachweisen?s=github) – Die Buchhaltung deines Kunden fragt: „Stimmen die 23 Stunden wirklich?“ Und du kannst es nicht belegen. Eine Geschichte über den Moment danach.
 
