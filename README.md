@@ -1340,6 +1340,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Did You Invoice This Month's Hours? The Motorway Services](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-this-months-hours-freelance?s=github) – Parked at a motorway services, phone in hand, you can't remember if you invoiced this month's hours. A freelancer's story about the calmer way.
 
+- [Unsure You Sent Last Week's Invoice? The Pool Gallery](https://blixwerkstudio.com/guides/cant-remember-if-i-sent-invoice-last-week-freelance-project?s=github) – Saturday morning, damp phone, one question: did the invoice for last week's project ever go out? A calm story about ending that doubt for good.
+
 - [Can't Remember Which Clients Paid You? The MOT Waiting Room](https://blixwerkstudio.com/guides/cant-remember-which-clients-have-paid-me-freelance?s=github) – A client asks if you got their payment, and you honestly don't know. A quiet story about losing track of who paid, and what it feels like to know again.
 
 - [Can't Remember Which Companies Replied? The Dentist Call](https://blixwerkstudio.com/guides/cant-remember-which-companies-replied-job-applications?s=github) – You've sent dozens of applications and a recruiter just phoned. Which company was this? A calm story about losing track, and getting your head back.
@@ -1585,6 +1587,8 @@ Included (16 products, 175 USD if bought separately):
 - [Asked for an Item You Don't Have? The Empty Tea Tin](https://blixwerkstudio.com/guides/customer-asked-for-item-not-in-stock?s=github) – A customer asks for the one thing you thought was on the shelf. You walk to the back and find it empty. A short story about stock you didn't know was gone.
 
 - [Promised Stock You Didn't Have? The Security Tray Queue](https://blixwerkstudio.com/guides/customer-asked-for-item-you-thought-was-in-stock?s=github) – You said yes, we have it. Then you remembered the shelf. A short story about the stock you only carry in your head, and a calmer way to run it.
+
+- [Customer Wanted What You're Out Of? The Touchline Flask](https://blixwerkstudio.com/guides/customer-asked-for-product-out-of-stock?s=github) – A customer asks for the product you thought was on the shelf, and it's gone. A calm story about the sinking feeling and what a quiet Monday looks like instead.
 
 - [Customer Ordered, Item Out of Stock Again: The Saturday Market Buzz](https://blixwerkstudio.com/guides/customer-ordered-item-out-of-stock-again-small-business?s=github) – Your phone buzzes at the market stall: a new order for the thing you just sold out of. A small-business story about the apology email nobody wants to write.
 
@@ -2123,6 +2127,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mezclo gastos personales y del negocio: ¿y ahora qué?](https://blixwerkstudio.com/guides/mezclo-gastos-personales-y-del-negocio-autonomo?s=github) – Estás en la gasolinera con un ticket en la mano y no sabes si es del negocio o de casa. Una historia para autónomos con los gastos revueltos.
 
 - [Mi carpeta de descargas es un desastre: el archivo que no aparecía](https://blixwerkstudio.com/guides/mi-carpeta-de-descargas-es-un-desastre-y-no-encuentro-nada?s=github) – Compartes pantalla en una videollamada y tu carpeta de descargas queda a la vista. Una historia sobre archivos perdidos y cómo volver a la calma.
+
+- [Mi cliente no tiene dinero ahora y me pide esperar](https://blixwerkstudio.com/guides/mi-cliente-dice-que-no-tiene-dinero-y-me-pide-esperar-factura?s=github) – Tu cliente dice que ahora no tiene dinero y te pide esperar. Una historia sobre cómo responder con calma, sin sentirte mala persona.
 
 - [Mi cliente siempre paga tarde y me da apuro insistir](https://blixwerkstudio.com/guides/mi-cliente-siempre-paga-tarde-me-siento-mal-insistiendo?s=github) – Es lunes, la cafetera borbotea y vuelves a redactar el mismo correo al cliente que siempre paga tarde. Una historia para quien odia insistir cada mes.
 
