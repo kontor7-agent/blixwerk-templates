@@ -1374,6 +1374,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Asking for a Discount? How to Reply Without Losing Them](https://blixwerkstudio.com/guides/client-asking-for-discount-how-to-reply-freelance?s=github) – The email says 'any chance of a better price?' and your stomach drops. A calm story about replying to a discount request without losing the client.
 
+- [Client Wants an Hours Breakdown? The Glasshouse Bench](https://blixwerkstudio.com/guides/client-asks-hours-breakdown-cant-prove-what-i-worked-on?s=github) – Your client asks for a breakdown of your hours and you can't prove what you did. A quiet story about answering calmly, without scrolling through old emails.
+
 - [Client Emails at Midnight? The Canal Towpath at 7:05](https://blixwerkstudio.com/guides/client-emailing-at-midnight-freelance-set-expectations?s=github) – A client who emails at midnight and expects an answer by morning. A freelancer's walk along the canal, and what changed once expectations were set early.
 
 - [Client Ghosted Me After the Proposal: What Do I Do? The Tuesday Queue](https://blixwerkstudio.com/guides/client-ghosted-me-after-proposal-what-do-i-do?s=github) – You sent the proposal ten days ago and heard nothing. In the supermarket queue you check your phone again. A calm story about the silence, and what eases it.
@@ -1429,6 +1431,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Said My Freelance Rate Is Too High: The Pause on the Call](https://blixwerkstudio.com/guides/client-said-my-freelance-rate-is-too-high-what-do-i-say?s=github) – Thursday, 2:10 pm. The client says your rate is too high and the washing machine keeps spinning. What do you say? A short story about a calmer answer.
 
 - [Client Promised to Pay Friday, Three Fridays Ago?](https://blixwerkstudio.com/guides/client-said-pay-friday-three-fridays-now?s=github) – Friday again and no payment. A story about the third 'I'll pay on Friday' reply, and what changes when chasing stops feeling like begging.
+
+- [Client Said Payment Is Coming, 3 Weeks On? The Taxi Rank](https://blixwerkstudio.com/guides/client-said-payment-is-coming-3-weeks-what-to-write?s=github) – "Payment is on its way," they said. Three weeks ago. A quiet story about the message you can't word, and how a calm next step feels.
 
 - [Client Said They'd Pay Last Month, Now Silent? The Boathouse](https://blixwerkstudio.com/guides/client-said-theyd-pay-last-month-now-not-answering-emails?s=github) – They promised payment last month and now your emails vanish. A quiet Saturday story about chasing money without begging, and how it can feel calmer.
 
@@ -1657,6 +1661,8 @@ Included (16 products, 175 USD if bought separately):
 - [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://blixwerkstudio.com/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
 
 - [Empecé con un cliente sin contrato y todo se desordena](https://blixwerkstudio.com/guides/empece-con-un-cliente-sin-contrato-condiciones-claras?s=github) – Dijiste que sí con un mensaje rápido y ahora nadie recuerda qué estaba incluido. Una historia sobre empezar bien con un cliente nuevo.
+
+- [Entregué las fotos de la boda y no me pagan el resto](https://blixwerkstudio.com/guides/entregue-las-fotos-de-la-boda-y-el-cliente-no-paga-el-resto?s=github) – Entregaste la galería, los novios te dieron las gracias y el resto sigue sin llegar. Una historia sobre cobrar sin apuro y con la cabeza tranquila.
 
 - [Entrevista mañana y no sé a quién envié mi currículum](https://blixwerkstudio.com/guides/entrevista-manana-no-se-que-preparar-curriculum-enviado?s=github) – Te llaman a las 14:10 para una entrevista mañana y no recuerdas qué empresa era. Una historia sobre ordenar la búsqueda y llegar con calma.
 
@@ -2283,6 +2289,8 @@ Included (16 products, 175 USD if bought separately):
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://blixwerkstudio.com/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
 
 - [Posting Inconsistently on Instagram? The Checkout Queue](https://blixwerkstudio.com/guides/posting-inconsistently-on-instagram-guilt?s=github) – Three weeks since your last post, and a friend asks if you're still open. A gentle story for anyone who posts in bursts and feels guilty about the gaps.
+
+- [Preise erhöhen bei Bestandskunden? Die Ladesäule, 15:40](https://blixwerkstudio.com/guides/preise-erhoehen-bestandskunden-freelance-angst?s=github) – Preise bei Stammkunden erhöhen, aber die Mail bleibt im Entwurf? Eine Geschichte von der Ladesäule und der Ruhe, die danach kam.
 
 - [Presupuesto de una obra y no sé cuánto cobrar: el baño](https://blixwerkstudio.com/guides/presupuesto-obra-cuanto-cobrar-materiales-mano-de-obra?s=github) – Con el metro en la mano y el cliente esperando un precio, no sabes cuánto cobrar entre materiales y mano de obra. Una historia.
 
