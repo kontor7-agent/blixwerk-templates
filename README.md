@@ -1264,6 +1264,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Awkward Asking a Client About an Unpaid Invoice Again?](https://blixwerkstudio.com/guides/awkward-asking-client-unpaid-invoice-third-time?s=github) – The third reminder is the hardest to write. A quiet story about a lunch walk by a canal lock, and how chasing money can stop feeling like begging.
 
+- [Third Reminder for an Unpaid Invoice? The Dentist Forms](https://blixwerkstudio.com/guides/awkward-sending-third-reminder-unpaid-invoice-what-to-write?s=github) – Cursor blinking in a third reminder, you feel awkward and don't know what to write. A quiet story about chasing an unpaid invoice without the dread.
+
 - [Backup Failed Silently? The Monday Call for March's Files](https://blixwerkstudio.com/guides/backup-job-silently-failed-noticed-when-needed-files?s=github) – The backup you trusted stopped months ago, and you find out on a client call. A calm story about silent failures and a backup that tells you it ran.
 
 - [Backup Drive Full? The Bakery Question at 6:30 am](https://blixwerkstudio.com/guides/backup-drive-full-log-files-never-rotated?s=github) – The owner asks, 'We're backed up, right?' and the drive says otherwise. A calm story about backups, old logs and finally trusting them.
@@ -1656,6 +1658,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Erstes Jahr selbstständig: Welche Unterlagen brauche ich?](https://blixwerkstudio.com/guides/erstes-jahr-selbststaendig-steuererklaerung-welche-unterlagen?s=github) – Die Kanzlei ruft an und fragt nach „allen Unterlagen“. Du hast keine Ahnung, was das heißt. Eine Geschichte über das erste Jahr und den Überblick.
 
+- [Escritorio y descargas llenos: no encuentro nada en el PC](https://blixwerkstudio.com/guides/escritorio-y-descargas-llenos-no-encuentro-nada-en-el-ordenador?s=github) – Compartes pantalla en una videollamada y tu escritorio lo dice todo. Una historia sobre archivos por todas partes y cómo se siente por fin encontrarlos.
+
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
 - [Etsy-Weihnachtsbestellungen und das Wachs wird knapp](https://blixwerkstudio.com/guides/etsy-weihnachtsbestellungen-material-wird-knapp?s=github) – Die Bestellungen laufen ein, im Regal liegen noch drei Dochte. Eine Geschichte über das Weihnachtsgeschäft, knappes Material und den Überblick.
@@ -1783,6 +1787,8 @@ Included (16 products, 175 USD if bought separately):
 - [Freelance Receipts Everywhere? The Spare Room on the 28th](https://blixwerkstudio.com/guides/freelance-receipts-all-over-the-place-year-end?s=github) – It's nearly year end and your freelance receipts are in coat pockets, inboxes and a carrier bag. A quiet story about ending the January scramble.
 
 - [Receipts Everywhere, Deadline Close? The Yoga Mat Pause](https://blixwerkstudio.com/guides/freelance-receipts-everywhere-tax-deadline-close?s=github) – Thursday lunchtime, the tax deadline is close and your receipts are in six places. A quiet story about the moment it stops feeling like a mountain.
+
+- [Welche Rechnungen hab ich geschickt? Der Anruf um 10:05](https://blixwerkstudio.com/guides/freelance-rechnungen-geschickt-wer-hat-bezahlt?s=github) – Du weißt nicht mehr, welche Rechnung raus ist und wer gezahlt hat? Eine Lektorin, ein Anruf aus der Buchhaltung – und ein ruhigerer Dienstag.
 
 - [Translator: Am I Earning Enough Per Hour? The Alumni Lunch](https://blixwerkstudio.com/guides/freelance-translator-earning-enough-per-hour?s=github) – A classmate asks what you earn per hour, and you realise you don't know. A quiet story for freelance translators who suspect the answer is less than it looks.
 
@@ -2453,6 +2459,8 @@ Included (16 products, 175 USD if bought separately):
 - [Server Disk Full Again? Old Log Files and a 7:45 Client Call](https://blixwerkstudio.com/guides/server-disk-full-old-log-files?s=github) – The disk is full again, and the culprit is months of old log files. A calm story about the Monday it stopped happening, and what changed.
 
 - [Server Out of Disk Space Overnight? The Gondola Queue](https://blixwerkstudio.com/guides/server-out-of-disk-space-overnight-log-files?s=github) – Your server ran out of disk space overnight because of log files, and you're in a gondola queue with one bar of signal. A story about calm after the alert.
+
+- [Signed Contract, No Idea What to Ask? The Lobby Coffee](https://blixwerkstudio.com/guides/signed-contract-first-client-meeting-what-to-ask?s=github) – The contract is signed, the first meeting is in ten minutes, and your mind is blank. A short story about walking in calm instead of winging it.
 
 - [Forget Tasks When You Look Away? The Kitchen Doorway](https://blixwerkstudio.com/guides/simple-paper-planner-for-adhd-forget-tasks?s=github) – You walk to the kitchen and the task is gone. A quiet story about forgetting what you just decided, and a simple paper planner that holds it for you.
 
