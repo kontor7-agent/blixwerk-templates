@@ -1488,6 +1488,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me comparan con un freelance de Fiverr y no sé qué cobrar](https://blixwerkstudio.com/guides/cliente-me-compara-freelance-barato-fiverr-que-cobrar?s=github) – Un mensaje en la cola de la panadería: «En Fiverr lo hacen por 40 €». Una historia sobre qué cobrar cuando te comparan con lo barato.
 
+- [Le escribí por WhatsApp para cobrar y me dejó en visto](https://blixwerkstudio.com/guides/cliente-me-dejo-en-visto-whatsapp-cobrar-factura?s=github) – Dos checks azules y ninguna respuesta. Una historia para autónomos a quienes un cliente dejó en visto justo cuando pidieron que les pagara.
+
 - [Me dijo que era caro y no supe qué responder (freelance)](https://blixwerkstudio.com/guides/cliente-me-dice-que-soy-caro-no-se-que-responder-freelance?s=github) – Te dicen «eres caro» y se te cierra la garganta. Una historia sobre dejar de improvisar tu precio y poder responder con calma.
 
 - [Mi cliente me escribe a todas horas y no sé poner límites: domingo](https://blixwerkstudio.com/guides/cliente-me-escribe-fuera-de-horario-como-poner-limites?s=github) – Domingo, 11:40, el móvil vibra otra vez. Una historia sobre el cliente que escribe fuera de horario y cómo se siente poner un límite sin culpa.
@@ -1573,6 +1575,8 @@ Included (16 products, 175 USD if bought separately):
 - [¿Cuántos clientes necesito el próximo año como autónomo?](https://blixwerkstudio.com/guides/cuantos-clientes-necesito-proximo-ano-autonomo?s=github) – Tu tío pregunta cuántos clientes tendrás el año que viene y te quedas en blanco. Una historia sobre ordenar tu año de autónomo sin agobio.
 
 - [Cuántos días esperar para reclamar una factura: martes](https://blixwerkstudio.com/guides/cuantos-dias-esperar-antes-de-reclamar-una-factura?s=github) – Once días de retraso y una videollamada en la que el cliente sonríe. Una historia sobre cuándo reclamar una factura sin sentir que molestas.
+
+- [Gave Extra Work Free Mid-Job? Pricing Variations Calmly](https://blixwerkstudio.com/guides/customer-asked-extra-work-mid-job-didnt-charge-pricing-variations?s=github) – You said 'sure, no problem' on the ladder, and now the invoice has no line for it. A story about extra work, quiet resentment and a calmer way to price it.
 
 - [Asked for an Item You Don't Have? The Empty Tea Tin](https://blixwerkstudio.com/guides/customer-asked-for-item-not-in-stock?s=github) – A customer asks for the one thing you thought was on the shelf. You walk to the back and find it empty. A short story about stock you didn't know was gone.
 
@@ -2614,6 +2618,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Vorstellungsgespräch morgen – was stand in der Bewerbung?](https://blixwerkstudio.com/guides/vorstellungsgespraech-morgen-bewerbung-vergessen?s=github) – Morgen Vorstellungsgespräch, und du weißt nicht mehr, was du geschrieben hast? Eine kleine Geschichte über den Moment an der Supermarktkasse.
 
+- [Don't Know What to Do First Each Morning? The Bin Lorry](https://blixwerkstudio.com/guides/wake-up-not-knowing-what-to-do-first-overwhelmed-every-morning?s=github) – 6:50 am, eyes open, and everything wants you at once. A calm story about mornings that start with a pile instead of a first step.
+
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://blixwerkstudio.com/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
 
 - [Was soll ich posten? Der Satz der Kundin im Atelier](https://blixwerkstudio.com/guides/was-soll-ich-posten-social-media-kleines-unternehmen?s=github) – Jede Woche Stress, was du für dein kleines Unternehmen posten sollst? Eine Keramikerin, ein Satz im Atelier und ein ruhigerer Montag.
@@ -2665,6 +2671,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zu viel Ware im Lager, Geld gebunden? Die Kartons im Flur](https://blixwerkstudio.com/guides/zu-viel-ware-im-lager-geld-gebunden-kleines-unternehmen?s=github) – Der Steuerberater-Termin steht an, der Flur ist voll mit Kartons und das Konto ist leer. Eine Geschichte über Ware, die Geld festhält.
 
 - [Zu viele Excel-Listen, nichts passt? Die Dönerschlange](https://blixwerkstudio.com/guides/zu-viele-excel-tabellen-kleiner-betrieb-nichts-passt?s=github) – Fünf Tabellen, fünf Wahrheiten, und keine passt zur anderen. Eine Geschichte für alle, die ihren kleinen Betrieb in Excel jonglieren.
+
+- [Zweite Zahlungserinnerung ignoriert? Die Kaffeetafel](https://blixwerkstudio.com/guides/zweite-zahlungserinnerung-ignoriert-was-tun?s=github) – Die zweite Erinnerung blieb unbeantwortet, und du sitzt beim Kaffee mit dem Handy unterm Tisch. Eine Geschichte über Ruhe beim Nachhaken.
 
 ## Support
 
