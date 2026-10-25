@@ -2000,6 +2000,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
+- [Kunde sagt „Zahlung kommt“? Der Glühweinstand, 18:10](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-da-gluehweinstand?s=github) – Zum dritten Mal „Die Zahlung ist freigegeben“ und wieder kein Geld auf dem Konto. Eine Geschichte über ruhiges Nachfassen, ohne zu betteln.
+
 - [Kunde sagt „Zahlung kommt“? Das Kino-Foyer, 17:55](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-da?s=github) – „Die Zahlung kommt diese Woche.“ Und dann? Eine Geschichte über Versprechen, die nicht auf dem Konto landen, und darüber, wie Nachhaken ruhig wird.
 
 - [Kunde sagt „Zahlung kommt“? Der Pfandautomat, 8:20](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance-aa3d?s=github) – Der Kunde schreibt seit Wochen „Zahlung kommt“, aber das Konto bleibt leer. Eine Szene am Pfandautomat – und wie das Nachfassen leichter werden kann.
@@ -2221,6 +2223,8 @@ Included (16 products, 175 USD if bought separately):
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://blixwerkstudio.com/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
 - [Perdí a mi mayor cliente: casi todo mi ingreso era él](https://blixwerkstudio.com/guides/perdi-a-mi-mayor-cliente-autonomo-ingresos?s=github) – Una llamada de dos minutos y el cliente que pagaba casi todo se fue. Cómo se vuelve a respirar cuando ves tus cuentas con claridad.
+
+- [Photos Delivered, Payment Delayed? The Delivery Slot](https://blixwerkstudio.com/guides/photographer-client-delays-final-payment-after-delivery?s=github) – You delivered the edited photos two weeks ago. The final payment is still 'this week'. A quiet story about waiting, and the calmer way to know where you stand.
 
 - [Client Got All the Photos but Never Paid? The Bus Queue](https://blixwerkstudio.com/guides/photographer-client-got-all-photos-never-paid-balance?s=github) – The full gallery went out three weeks ago and the balance never came. A quiet story for photographers who feel awkward asking, and what calmer looks like.
 
@@ -2623,6 +2627,8 @@ Included (16 products, 175 USD if bought separately):
 - [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://blixwerkstudio.com/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
 
 - [VLOOKUP Not Working? The Hidden Space in Row 212](https://blixwerkstudio.com/guides/vlookup-not-working-hidden-spaces?s=github) – Two names that look identical, and VLOOKUP says #N/A. A story about hidden spaces in exported data, a client waiting on the line, and a calmer way to clean it.
+
+- [Volví del mercadillo con cajas sin vender: ¿gané algo?](https://blixwerkstudio.com/guides/volvi-del-mercadillo-con-cajas-sin-vender-gane-algo?s=github) – Domingo, seis de la tarde, el pasillo lleno de cajas y un sobre con billetes. ¿Ganaste algo en el mercadillo? Una historia sobre cómo dejar de adivinarlo.
 
 - [Vorstellungsgespräch morgen – was stand in der Bewerbung?](https://blixwerkstudio.com/guides/vorstellungsgespraech-morgen-bewerbung-vergessen?s=github) – Morgen Vorstellungsgespräch, und du weißt nicht mehr, was du geschrieben hast? Eine kleine Geschichte über den Moment an der Supermarktkasse.
 
