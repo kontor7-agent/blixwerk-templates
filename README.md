@@ -1680,6 +1680,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
+- [Busy Etsy Shop, No Money Left After Fees? The Toast](https://blixwerkstudio.com/guides/etsy-shop-busy-no-money-left-after-fees?s=github) – Orders keep coming, but the account stays thin. A story about a birthday toast, one honest question and the calm of seeing profit per product.
+
 - [Etsy-Weihnachtsbestellungen und das Wachs wird knapp](https://blixwerkstudio.com/guides/etsy-weihnachtsbestellungen-material-wird-knapp?s=github) – Die Bestellungen laufen ein, im Regal liegen noch drei Dochte. Eine Geschichte über das Weihnachtsgeschäft, knappes Material und den Überblick.
 
 - [EÜR machen, Belege weg? Die Waschküche am Samstag](https://blixwerkstudio.com/guides/euer-machen-keine-ahnung-wo-die-belege-sind?s=github) – Die EÜR steht an, und du weißt nicht, wo die Belege sind. Eine Geschichte über Samstag, Waschküche und die Ruhe, die zurückkommt, wenn alles einen Platz hat.
@@ -1926,6 +1928,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Invoiced the Same Project Twice? The Vending Machine Wait](https://blixwerkstudio.com/guides/i-think-i-invoiced-the-same-project-twice-how-to-check?s=github) – Your client asks about two invoices for one project, and you're stuck in a hospital corridor. A calm story about checking, and about knowing.
 
+- [La inflación se come mi tarifa freelance: ¿cuánto cobro?](https://blixwerkstudio.com/guides/inflacion-se-come-mi-tarifa-freelance-cuanto-cobrar-pesos?s=github) – El súper subió otra vez y tu tarifa sigue igual. Una historia sobre la inflación, los pesos y cómo volver a cobrar con la cabeza tranquila.
+
 - [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://blixwerkstudio.com/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
 
 - [Interview Invite, Can't Place the Job? The Level Crossing](https://blixwerkstudio.com/guides/interview-invite-cant-remember-which-job?s=github) – The invite says Thursday, 10:30. You can't remember the company or the role. A quiet story about a red barrier, a blank mind and a calmer job search.
@@ -2031,6 +2035,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde sagt „Zahlung kommt“? Der Pfandautomat, 8:20](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance-aa3d?s=github) – Der Kunde schreibt seit Wochen „Zahlung kommt“, aber das Konto bleibt leer. Eine Szene am Pfandautomat – und wie das Nachfassen leichter werden kann.
 
 - [Kunde sagt „Zahlung kommt“? Die Kasse im Biomarkt](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelance?s=github) – Der Kunde schreibt wieder „kommt diese Woche“. Eine Geschichte über Warten, Scham und die Ruhe, die entsteht, wenn du den nächsten Schritt kennst.
+
+- [Kunde sagt „Zahlung kommt“? Der Spind in der Sauna](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelancer-7b5c?s=github) – „Zahlung kommt diese Woche“, hieß es. Jetzt ist Samstag, dein Konto ist leer, und du checkst es sogar in der Sauna. Eine Geschichte über stilles Warten.
 
 - [Kunde zahlt nicht, sagt nur „kommt“? Der TÜV-Termin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-freelancer?s=github) – Zum dritten Mal „die Zahlung ist in Bearbeitung“, und das Konto bleibt leer. Eine Geschichte über Warten, Nachfragen und die Ruhe danach.
 
