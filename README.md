@@ -1510,6 +1510,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente paga a 90 días y no llego a fin de mes: el bus del 28](https://blixwerkstudio.com/guides/cliente-paga-a-90-dias-no-llego-a-fin-de-mes-autonomo?s=github) – El día 28, en el autobús, abres la app del banco: la factura a 90 días no llega y el alquiler sí. Una historia para autónomos que cobran tarde.
 
+- [Cliente que paga meses tarde: ¿sigo trabajando con él?](https://blixwerkstudio.com/guides/cliente-paga-facturas-meses-tarde-seguir-trabajando?s=github) – Te pide un proyecto nuevo y aún te debe tres facturas. Una llamada de lunes, una duda honesta y una forma más tranquila de decidir.
+
 - [Mi cliente paga tarde y no llego a la cuota de autónomos](https://blixwerkstudio.com/guides/cliente-paga-tarde-no-llego-cuota-autonomos?s=github) – El día 28, el móvil vibra con el aviso del banco y la factura de tu cliente sigue sin pagarse. Una historia sobre cobrar tarde y recuperar la calma.
 
 - [Me pagó menos de la factura y no sé cuánto me debe](https://blixwerkstudio.com/guides/cliente-pago-menos-de-la-factura-cuanto-me-debe?s=github) – Son las 9:15, miras el móvil en la cola de la panadería y el ingreso no coincide con la factura. ¿Falta dinero? Una historia para quien ha pasado por ahí.
@@ -2222,6 +2224,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot to Send the Final Invoice After a Shoot? The Dry Cleaner Queue](https://blixwerkstudio.com/guides/photographer-forgot-to-send-final-invoice-after-shoot?s=github) – The gallery went out five weeks ago. The thank-you email came. The final invoice never left. A quiet story for photographers who lost track after the shoot.
 
+- [Gallery Delivered, Balance Unpaid? The Barber's Mirror](https://blixwerkstudio.com/guides/photography-client-got-gallery-hasnt-paid-balance?s=github) – The gallery is delivered, the client is delighted, and the balance is still open. A photographer's quiet moment in a salon mirror, and a calmer way forward.
+
 - [Client Ignoring Your Final Invoice? The Swim-Class Bench](https://blixwerkstudio.com/guides/photography-client-ignoring-final-invoice-after-gallery-delivery?s=github) – You delivered the gallery, they downloaded every photo, and the final invoice sits unanswered. A calm story for photographers about getting paid.
 
 - [Client Wants All the Photos, Won't Pay the Deposit?](https://blixwerkstudio.com/guides/photography-client-wants-all-photos-wont-pay-deposit?s=github) – The shoot is done, the client wants every photo, and the deposit never arrived. A quiet story about a Saturday, a message, and a calmer way to keep track.
@@ -2255,6 +2259,8 @@ Included (16 products, 175 USD if bought separately):
 - [Primera factura freelance: no sé qué poner (plantilla gratis)](https://blixwerkstudio.com/guides/primera-factura-freelance-no-se-que-poner-plantilla-gratis?s=github) – El cliente dice «mándame la factura» y tú miras un documento en blanco sin saber qué poner. Una historia sobre ese miedo y una plantilla gratis.
 
 - [Can't Track Which Lessons Are Paid? The Study Room Clock](https://blixwerkstudio.com/guides/private-tutor-cant-track-which-lessons-are-paid?s=github) – A student asks, 'Did I pay for March?' and you don't know. A quiet story for private tutors who lose track of which lessons are paid for.
+
+- [Parent Forgot to Pay for Lessons Again? The Library Van](https://blixwerkstudio.com/guides/private-tutor-parent-forgot-to-pay-how-to-ask?s=github) – A parent forgot to pay for lessons again, and you're rehearsing the message in a queue. A calm story for private tutors about asking without awkwardness.
 
 - [Tutoring Parent Pays Late Again? The Station Café at 4:10](https://blixwerkstudio.com/guides/private-tutor-parent-pays-late-awkward-to-ask?s=github) – A parent pays late again and asking feels awkward. A tutor's quiet afternoon between two lessons, and what changes when you can finally see who is behind.
 
@@ -2557,6 +2563,8 @@ Included (16 products, 175 USD if bought separately):
 - [Überfällige Rechnung, Kunde schweigt? Das Schwimmbad-Café](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-kunde-antwortet-nicht?s=github) – Drei Mails, kein Wort zurück. Samstagvormittag im Schwimmbad-Café fragst du dich, was du noch schreiben sollst. Eine Geschichte über ruhiges Nachhaken.
 
 - [Überfällige Rechnung nachfassen, ohne unhöflich zu sein?](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-nachfassen-ohne-unhoeflich?s=github) – Samstag im Blumenladen: Die Rechnung ist 19 Tage überfällig, der Kunde ist nett. Eine Geschichte darüber, wie Nachfassen ruhig und freundlich klingen kann.
+
+- [Unangenehme Mail an Kunden? Alufolie im Haar, 11:20 Uhr](https://blixwerkstudio.com/guides/unangenehme-mail-an-kunden-schreiben-freelancer-ee8a?s=github) – Du schiebst die heikle Mail an deinen Kunden seit Tagen vor dir her. Eine Geschichte über Alufolie im Haar, ein leeres Feld und den ersten Satz.
 
 - [Unangenehme Mail an den Kunden: Der Cursor blinkt seit 40 Minuten](https://blixwerkstudio.com/guides/unangenehme-mail-an-kunden-schreiben-freelancer?s=github) – Dienstag, 9:50 Uhr, ein leeres Mailfenster und kein Satz, der passt. Eine Geschichte für alle, die vor schwierigen Kundenmails zurückschrecken.
 
