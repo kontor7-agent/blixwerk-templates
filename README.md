@@ -1336,6 +1336,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Did I Invoice Last Month's Work? The Bowling Alley Shoes](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-client-last-month?s=github) – Standing in rented bowling shoes, you can't remember if you invoiced September's work. A calm story about knowing what you billed without digging.
 
+- [Not Sure You Invoiced Last Week's Hours? The Record Shop](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-last-weeks-hours?s=github) – Standing in a record shop, you can't remember whether last week's hours went out on an invoice. A calm story about knowing, not guessing.
+
 - [Did You Invoice September's Hours? The Apple Press Queue](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-september-hours?s=github) – Standing in an orchard queue, one thought hits: did I ever invoice the hours I worked in September? A short story about that tight feeling, and the calm after.
 
 - [Did You Invoice This Month's Hours? The Motorway Services](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-this-months-hours-freelance?s=github) – Parked at a motorway services, phone in hand, you can't remember if you invoiced this month's hours. A freelancer's story about the calmer way.
@@ -1527,6 +1529,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me pagó menos de la factura y no sé cuánto me debe](https://blixwerkstudio.com/guides/cliente-pago-menos-de-la-factura-cuanto-me-debe?s=github) – Son las 9:15, miras el móvil en la cola de la panadería y el ingreso no coincide con la factura. ¿Falta dinero? Una historia para quien ha pasado por ahí.
 
 - [Ya entregué y el cliente pide descuento: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-pide-descuento-despues-de-entregar-el-proyecto?s=github) – Entregaste el proyecto y ahora el cliente pide descuento. Una escena de parque, un móvil que vibra y una forma más tranquila de responder.
+
+- [Mi cliente me pide factura con IRPF e IVA y me bloqueo](https://blixwerkstudio.com/guides/cliente-pide-factura-con-irpf-e-iva-no-se-como-ponerlo?s=github) – El cliente pide factura con IRPF e IVA y te quedas en blanco en plena llamada. Una historia sobre pasar del bloqueo a la calma, sin fórmulas.
 
 - [El cliente promete pagar y nunca paga: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-promete-pagar-factura-y-no-paga-que-le-digo?s=github) – Te dice «esta semana sin falta» por cuarta vez. Una historia sobre qué decir cuando el cliente promete pagar la factura y no paga.
 
@@ -1871,6 +1875,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stuhlmiete, Friseurin: Wie viel für Steuern zurücklegen?](https://blixwerkstudio.com/guides/friseurin-stuhlmiete-steuern-zurcklegen?s=github) – Stuhlmieterin im Salon und keine Ahnung, was fürs Finanzamt zur Seite gehört? Eine Geschichte über Trinkgeld, Kartenzahlung und ruhige Zahlen.
 
 - [Cash, Card and No-Shows Don't Add Up? The Barber's Sunday Float](https://blixwerkstudio.com/guides/salon-income-tracker-excel-no-shows-cash-card?s=github) – The till says one thing, the card app another, and the no-show cost you a morning. A calm story about solo stylists, nail techs and barbers who want clear books.
+
+- [Gehalt in Stundensatz umrechnen? Der Abschiedskuchen](https://blixwerkstudio.com/guides/gehalt-in-stundensatz-umrechnen-freiberufler?s=github) – Letzter Arbeitstag, Kuchen im Büro und die Frage, die du nicht beantworten kannst: Wie wird aus deinem Gehalt ein Stundensatz? Eine Geschichte.
 
 - [Mi gestor pide las facturas del trimestre y no las tengo](https://blixwerkstudio.com/guides/gestor-pide-facturas-gastos-trimestre-no-las-tengo-ordenadas?s=github) – Un mensaje de tu gestor, una guantera llena de tickets y el viernes encima. Una historia sobre llegar al trimestre con calma.
 
