@@ -1218,6 +1218,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [La agencia paga a 60 días y no me atrevo a preguntar](https://blixwerkstudio.com/guides/agencia-traduccion-paga-60-dias-factura?s=github) – Pasaron los 60 días, tu factura sigue sin pagar y el correo a la agencia lleva una semana en borradores. Una historia para traductores autónomos.
 
+- [Low Per-Word Rate From an Agency? The Knife Sharpener](https://blixwerkstudio.com/guides/agency-offered-low-per-word-rate-translator-worth-it?s=github) – An agency offers a lower per-word rate and you can't tell if it's worth it. A translator's Thursday at the market, and how a calmer answer feels.
+
 - [Agency Paid Late Again? A Translator's Quiet Tuesday Lunch](https://blixwerkstudio.com/guides/translator-agency-paid-late-how-to-chase-invoice-politely?s=github) – The agency invoice is 60 days old and you can't find the right words. A translator's lunch-break story about chasing late payment without the knot.
 
 - [Agenda llena en mi peluquería y a fin de mes, nada](https://blixwerkstudio.com/guides/agenda-llena-peluqueria-fin-de-mes-no-me-sobra-nada?s=github) – Martes, 15:10, el tinte haciendo efecto y la app del banco en la mano: la agenda está llena, pero la cuenta no. Una historia de peluquería.
@@ -1701,6 +1703,8 @@ Included (16 products, 175 USD if bought separately):
 - [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://blixwerkstudio.com/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
 
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://blixwerkstudio.com/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
+
+- [First Craft Fair Stall: How Much Stock, What Float?](https://blixwerkstudio.com/guides/first-craft-fair-stall-how-much-stock-to-bring-float?s=github) – Your first craft fair is on Saturday and the van is half packed. How much stock to bring, how big a float, and how to stop panicking at the kitchen table.
 
 - [Guessing Your Freelance Hourly Rate? The Required Field](https://blixwerkstudio.com/guides/first-year-freelancing-what-hourly-rate-should-i-charge?s=github) – A required field, a blinking cursor, and a number you're making up. A first-year freelancer's story about guessing your hourly rate.
 
@@ -2536,6 +2540,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Estoy enferma y no cobro: mi tarifa por hora freelance](https://blixwerkstudio.com/guides/tarifa-por-hora-freelance-vacaciones-enfermedad?s=github) – 38,4 de fiebre un martes y ni un euro entrando. Una historia sobre enfermar o irte de vacaciones siendo freelance y la tarifa por hora que lo olvida.
 
+- [Mi tarifa por hora no cubre mis gastos y trabajo de más](https://blixwerkstudio.com/guides/tarifa-por-hora-no-cubre-gastos-autonomo-trabajo-de-mas?s=github) – En la sala de espera del taller haces cuentas: tu tarifa por hora no cubre tus gastos y llevas meses trabajando de más. Una historia.
+
 - [Teléfonos en Excel en mil formatos y los necesito hoy](https://blixwerkstudio.com/guides/telefonos-distintos-formatos-excel-limpiar-hoy?s=github) – Seiscientos números, cada uno escrito a su manera, y el aviso sale a mediodía. Una mañana de jueves con la lista de teléfonos del Excel.
 
 - [Need to Tell a Client Their Work Needs Revisions? The Lift Doors](https://blixwerkstudio.com/guides/tell-client-work-needs-revisions-without-upsetting-them?s=github) – You're holding a draft that isn't right and a client who loves it. The pause before you hit send, and how it can feel lighter.
@@ -2681,6 +2687,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zahlungserinnerung an einen Kunden, den du magst: Der Mittwochmorgen](https://blixwerkstudio.com/guides/zahlungserinnerung-an-netten-kunden-schreiben?s=github) – Der Kunde ist nett, die Rechnung ist offen, und die Mail bleibt ungeschrieben. Eine Geschichte über Zahlungserinnerungen, die sich nicht wie Betteln anfühlen.
 
 - [Mail an Kunden wegen später Zahlung: Die Werkstatt, 14:10 Uhr](https://blixwerkstudio.com/guides/zahlungserinnerung-email-kunde-peinlich-formulieren?s=github) – Du starrst auf eine leere Mail an einen säumigen Kunden und löschst jeden Satz wieder. Eine kleine Geschichte aus dem Wartebereich einer Autowerkstatt.
+
+- [Freundin schuldet dir Geld? Der Geburtstagsbrunch](https://blixwerkstudio.com/guides/zahlungserinnerung-freundin-kunde-mahnen?s=github) – Die Rechnung an deine Freundin ist offen, und du stehst mit einem Glas Sekt neben ihr. Eine Geschichte übers Nachfragen, ohne Streit.
 
 - [Zu viel Ware im Lager, Geld gebunden? Die Kartons im Flur](https://blixwerkstudio.com/guides/zu-viel-ware-im-lager-geld-gebunden-kleines-unternehmen?s=github) – Der Steuerberater-Termin steht an, der Flur ist voll mit Kartons und das Konto ist leer. Eine Geschichte über Ware, die Geld festhält.
 
