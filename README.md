@@ -1702,6 +1702,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Miles de filas desordenadas en Excel: ¿por dónde empiezo?](https://blixwerkstudio.com/guides/excel-miles-de-filas-desordenadas-por-donde-empezar?s=github) – Lunes por la mañana, el tren y un Excel de 14.000 filas que no sabes por dónde coger. Una historia sobre abrirlo sin que se te encoja el estómago.
 
+- [Excel Numbers Stored as Text Again? The 10 am Report Call](https://blixwerkstudio.com/guides/excel-numbers-stored-as-text-weekly-report?s=github) – Your weekly report shows a total of zero because the numbers are text. A short story about a Thursday client call, and a calmer way to start the week.
+
 - [Excel cambió mis números a 1,2E+15 y ya lo mandé](https://blixwerkstudio.com/guides/excel-numeros-largos-notacion-cientifica-ya-lo-mande?s=github) – Tu clienta te llama por el archivo: los números largos se ven como 1,23E+15 y ya lo enviaste. Una historia para respirar y volver a confiar en tus datos.
 
 - [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://blixwerkstudio.com/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
@@ -2076,6 +2078,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will ständig noch eine Änderung? Runde Nummer 7](https://blixwerkstudio.com/guides/kunde-will-staendig-aenderung-korrekturschleifen?s=github) – Montag, 7:12 Uhr, S-Bahn: „Noch eine kleine Änderung.“ Wenn Korrekturschleifen kein Ende nehmen und du nicht weißt, wie du es ruhig sagst.
 
+- [Kunde will ständig Gratis-Extras? Die Tiefgarage, 8:55](https://blixwerkstudio.com/guides/kunde-will-staendig-gratis-extras-nein-sagen-ohne-verlieren?s=github) – Noch eine „kleine Sache“, natürlich ohne Aufpreis. Wie Mareike in der Tiefgarage lernt, Nein zu sagen, ohne den Kunden zu verlieren.
+
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
 
 - [Kunde zahlt erst, wenn sein Kunde zahlt? Das Laufband](https://blixwerkstudio.com/guides/kunde-zahlt-erst-wenn-sein-kunde-zahlt-freelancer?s=github) – „Wir zahlen, sobald unser Kunde zahlt.“ Ein Anruf auf dem Laufband, ein flaues Gefühl im Bauch und die Frage, wie du ruhig bleibst.
@@ -2157,6 +2161,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente no tiene dinero ahora y me pide esperar](https://blixwerkstudio.com/guides/mi-cliente-dice-que-no-tiene-dinero-y-me-pide-esperar-factura?s=github) – Tu cliente dice que ahora no tiene dinero y te pide esperar. Una historia sobre cómo responder con calma, sin sentirte mala persona.
 
 - [Mi cliente siempre paga tarde y me da apuro insistir](https://blixwerkstudio.com/guides/mi-cliente-siempre-paga-tarde-me-siento-mal-insistiendo?s=github) – Es lunes, la cafetera borbotea y vuelves a redactar el mismo correo al cliente que siempre paga tarde. Una historia para quien odia insistir cada mes.
+
+- [Mi contacto se fue de la empresa y nadie sabe mi factura](https://blixwerkstudio.com/guides/mi-contacto-se-fue-de-la-empresa-factura-pendiente?s=github) – Tu contacto dejó la empresa y tu factura sigue sin pagar. Una historia sobre qué pasa cuando nadie responde, y cómo volver a respirar con calma.
 
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
@@ -2503,6 +2509,8 @@ Included (16 products, 175 USD if bought separately):
 - [Server Disk Full Again? Old Log Files and a 7:45 Client Call](https://blixwerkstudio.com/guides/server-disk-full-old-log-files?s=github) – The disk is full again, and the culprit is months of old log files. A calm story about the Monday it stopped happening, and what changed.
 
 - [Server Out of Disk Space Overnight? The Gondola Queue](https://blixwerkstudio.com/guides/server-out-of-disk-space-overnight-log-files?s=github) – Your server ran out of disk space overnight because of log files, and you're in a gondola queue with one bar of signal. A story about calm after the alert.
+
+- [Charge a Late Fee to a Client? The Chairlift Question](https://blixwerkstudio.com/guides/should-i-charge-late-fee-client-pays-late-freelance?s=github) – Should you charge a late fee when a client pays late? A story about a chairlift, a three-week-old invoice and the awkward feeling of asking.
 
 - [Signed Contract, No Idea What to Ask? The Lobby Coffee](https://blixwerkstudio.com/guides/signed-contract-first-client-meeting-what-to-ask?s=github) – The contract is signed, the first meeting is in ten minutes, and your mind is blank. A short story about walking in calm instead of winging it.
 
