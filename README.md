@@ -2118,6 +2118,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Meses buscando trabajo y nadie llama: me siento perdido](https://blixwerkstudio.com/guides/llevo-meses-buscando-trabajo-no-me-llaman-perdido?s=github) – Mandas currículums y solo recibes silencio. Una mañana en la lavandería, demasiadas pestañas abiertas y la sensación de que puede haber otra forma.
 
+- [Semanas sin publicar en LinkedIn: ¿perderé clientes?](https://blixwerkstudio.com/guides/llevo-semanas-sin-publicar-en-linkedin-ansiedad-perder-clientes?s=github) – Seis semanas sin publicar en LinkedIn y la ansiedad de que se olviden de ti. Una historia sobre volver a aparecer sin el pánico del domingo.
+
 - [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
 
 - [Una mala reseña en Google y no sé cómo responder](https://blixwerkstudio.com/guides/mala-resena-google-no-se-como-responder?s=github) – Una estrella en Google a las 8:15, con la cola de la panadería delante. Una historia sobre responder a una mala reseña sin quedar mal.
@@ -2745,6 +2747,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zu viel Ware im Lager, Geld gebunden? Die Kartons im Flur](https://blixwerkstudio.com/guides/zu-viel-ware-im-lager-geld-gebunden-kleines-unternehmen?s=github) – Der Steuerberater-Termin steht an, der Flur ist voll mit Kartons und das Konto ist leer. Eine Geschichte über Ware, die Geld festhält.
 
 - [Zu viele Apps und Excel-Listen? Der Termin um 9:30 Uhr](https://blixwerkstudio.com/guides/zu-viele-apps-und-excel-listen-selbststaendig?s=github) – Fünf Apps, drei Tabellen, ein Zettel: Jana sitzt vor dem Steuerberater-Termin und sucht ihre Zahlen. Eine Geschichte für alle mit zu vielen Tools.
+
+- [Zu viele Excel-Listen und Zettel? Der Balkon, 12:45 Uhr](https://blixwerkstudio.com/guides/zu-viele-excel-listen-und-zettel-selbststaendig?s=github) – Haftnotizen am Monitor, drei Excel-Dateien, ein Kopf voller Zahlen: eine Mittagspause auf dem Balkon und die Frage, ob es auch ruhiger geht.
 
 - [Zu viele Excel-Listen, nichts passt? Die Dönerschlange](https://blixwerkstudio.com/guides/zu-viele-excel-tabellen-kleiner-betrieb-nichts-passt?s=github) – Fünf Tabellen, fünf Wahrheiten, und keine passt zur anderen. Eine Geschichte für alle, die ihren kleinen Betrieb in Excel jonglieren.
 
