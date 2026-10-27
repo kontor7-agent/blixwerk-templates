@@ -1636,6 +1636,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ordered Something You Don't Have Again? The Hilltop Picnic](https://blixwerkstudio.com/guides/customer-ordered-something-not-in-stock?s=github) – A customer ordered something you don't have, again, and it found you on a hilltop on your day off. A quiet story about stock that stops surprising you.
 
+- [Sold Something You Don't Have? The Cricket Tea Hatch](https://blixwerkstudio.com/guides/customer-ordered-something-out-of-stock?s=github) – A Saturday at the cricket club tea hatch, a phone buzz, and an order for a lead you no longer have. A story for makers who sell out by surprise.
+
 - [Customer Ordered Something Sold Out? The Theatre Interval](https://blixwerkstudio.com/guides/customer-ordered-something-sold-out-again?s=github) – The phone buzzes in the interval queue: an order for a jar you sold out of last week. A short story about stock that stops surprising you.
 
 - [Customer Says Your Quote Is Too Expensive? Hallway Tea](https://blixwerkstudio.com/guides/customer-said-my-quote-is-too-expensive-can-i-lower-it?s=github) – The customer says your quote is too expensive and you can't tell if you can go lower. A tradesperson's Thursday morning, and a calmer way to know your floor.
@@ -1747,6 +1749,8 @@ Included (16 products, 175 USD if bought separately):
 - [Falsche Rechnung an Kunden geschickt? Bushaltestelle 7:55](https://blixwerkstudio.com/guides/falsche-rechnung-an-kunden-geschickt-was-tun?s=github) – Falscher Betrag, falsche Nummer, schon raus: Was tun, wenn die Rechnung beim Kunden liegt? Eine Geschichte über den Schreck und die Ruhe danach.
 
 - [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://blixwerkstudio.com/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
+
+- [Festpreis genannt, Verlust gemacht? Die Kasse um 17:40](https://blixwerkstudio.com/guides/festpreis-genannt-verlust-freelance-projekt?s=github) – Du hast einen Festpreis genannt und merkst: Das Projekt kostet dich mehr, als es bringt. Eine Geschichte über den Moment an der Kasse und was danach ruhiger wird.
 
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://blixwerkstudio.com/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
 
@@ -2309,6 +2313,8 @@ Included (16 products, 175 USD if bought separately):
 - [Los padres no pagan la mensualidad y me da apuro reclamar](https://blixwerkstudio.com/guides/padres-no-pagan-mensualidad-clases-apuro-reclamar?s=github) – Entre dos clases miras el móvil y no sabes quién te debe la mensualidad. Una historia sobre reclamar sin apuro y volver a respirar con calma.
 
 - [Chasing Late Payment Feels Like Begging? The Gate at 7:40](https://blixwerkstudio.com/guides/how-to-chase-late-payment-without-feeling-pushy?s=github) – You're standing at the school gate, thumb over 'send', and the reminder still isn't written. A quiet story about chasing money without feeling like you're begging.
+
+- [PayPal se come mi tarifa freelance: ¿qué cobro de verdad?](https://blixwerkstudio.com/guides/paypal-comisiones-freelance-que-cobrar?s=github) – Facturas 450 € y te llegan 412. Una mañana en la panadería, una tarifa que no cuadra y una forma más tranquila de ponerle precio a tu trabajo.
 
 - [Pedí tarde al proveedor y me quedé sin stock en campaña](https://blixwerkstudio.com/guides/pedi-tarde-al-proveedor-sin-existencias-campana?s=github) – Lanzaste la campaña, los pedidos entran y el proveedor tarda tres semanas. Una historia sobre quedarte sin existencias y volver a respirar.
 
