@@ -1898,6 +1898,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zu billig als Freelancerin? Die Angst, die Preise zu erhöhen](https://blixwerkstudio.com/guides/freelancer-zu-wenig-verlangen-preise-erhoehen-angst?s=github) – Im Wartezimmer des Steuerberaters fällt Mara etwas auf: Sie arbeitet viel und verlangt wenig. Eine Geschichte über Mut, Preise und ein ruhiges Gefühl.
 
+- [Freelance in Germany: Invoices and Hours a Mess? Aisle 7](https://blixwerkstudio.com/guides/freelancing-in-germany-invoices-and-hours-a-mess?s=github) – Standing in a hardware store when a client asks which hours an invoice covers? A calm story for freelancers in Germany whose invoices and hours are a mess.
+
 - [Viel gearbeitet, am Monatsende bleibt nichts übrig? Das Wartezimmer](https://blixwerkstudio.com/guides/freiberufler-arbeitet-viel-monatsende-bleibt-nichts-uebrig?s=github) – Du arbeitest und arbeitest, und am Monatsende ist das Konto trotzdem fast leer. Eine Geschichte aus dem Wartezimmer der Steuerberaterin.
 
 - [Steuerfrist naht, Belege überall? Der Parkplatz um 9:48](https://blixwerkstudio.com/guides/freiberufler-steuerfrist-belege-chaos-parkplatz?s=github) – Zehn Minuten vor dem Termin sitzt du im Auto, neben dir ein Karton voller Belege. Eine Geschichte für alle, die jedes Jahr kurz vor der Frist suchen.
@@ -1971,6 +1973,8 @@ Included (16 products, 175 USD if bought separately):
 - [Job Search Spreadsheet a Mess? The Coach Window Seat](https://blixwerkstudio.com/guides/job-search-spreadsheet-mess-missed-follow-up-email?s=github) – You meant to follow up last Thursday. Now the spreadsheet is a maze and the reply window may have closed. A quiet story about a calmer job search.
 
 - [Lost Track of Job Applications? The Bookshop Call](https://blixwerkstudio.com/guides/lost-track-of-job-applications-tracker?s=github) – A recruiter calls and you can't remember which role she means. A calm story about job applications, follow-ups and interview prep that stops living in your head.
+
+- [Asked to Sign Off API Security? The Empty Release Ticket](https://blixwerkstudio.com/guides/junior-developer-asked-to-sign-off-api-security?s=github) – Your lead is off tomorrow and the ticket says 'security sign-off: you'. A calm story for the junior developer afraid of missing something.
 
 - [Kassenbons verblasst? Das Thermopapier im Ordner](https://blixwerkstudio.com/guides/kassenbons-verblasst-thermopapier-selbststaendig-was-tun?s=github) – Mittwoch, 11:20 Uhr: Der Bon aus dem Frühjahr ist leer, der Steuerberater-Termin ist Freitag. Eine Geschichte über verblasste Belege und ruhigere Jahre.
 
@@ -2083,6 +2087,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde schickt Rechnung zurück? Die Umkleide, 7:10](https://blixwerkstudio.com/guides/kunde-schickt-rechnung-zurueck-angaben-fehlen-freiberufler?s=github) – Die Rechnung kommt zurück: „Angaben fehlen.“ Eine Freiberuflerin, ein Handy in der Umkleide und die Frage, wie das nächste Mal ruhiger läuft.
 
 - [Kunde schreibt abends und am Wochenende – was antworten?](https://blixwerkstudio.com/guides/kunde-schreibt-abends-und-am-wochenende-was-antworten?s=github) – Samstag, 17:40, Kletterhalle: Die Kundenmail piept, dein Kopf rechnet schon. Eine Geschichte über Antworten ohne Druck und ohne dich zu verbiegen.
+
+- [Kunde storniert kurzfristig – Freiberufler ohne Geld?](https://blixwerkstudio.com/guides/kunde-storniert-auftrag-kurzfristig-freiberufler-bezahlt?s=github) – Die Absage kommt zwei Tage vor Projektstart, und du hattest alles freigehalten. Eine Geschichte aus dem Wartebereich vom Autohaus, Mittwoch, 15:20 Uhr.
 
 - [Zahlung versprochen, nichts da? Was sagst du? Baumarkt](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen-was-sagen-d6b3?s=github) – Der Kunde sagte „Überweisung geht raus“, doch das Konto bleibt leer. Eine Geschichte über den Moment, in dem dir die richtigen Worte fehlen.
 
@@ -2269,6 +2275,8 @@ Included (16 products, 175 USD if bought separately):
 - [No-Show im Salon: Was kostet dich der leere Termin?](https://blixwerkstudio.com/guides/no-show-salon-einnahmen-schwanken?s=github) – Der Kunde ist wieder nicht gekommen, und die Einnahmen im Salon schwanken. Eine Geschichte über Barber-Dienstag, leere Slots und ruhigere Zahlen.
 
 - [No tengo tiempo para mis redes sociales y me siento culpable](https://blixwerkstudio.com/guides/no-tengo-tiempo-redes-sociales-negocio-culpable?s=github) – La cola de la panadería, el móvil en la mano y 19 días sin publicar. Una historia sobre la culpa de las redes y cómo bajarle el volumen.
+
+- [Nombres en mayúsculas y minúsculas en Excel: entrego hoy](https://blixwerkstudio.com/guides/nombres-mayusculas-minusculas-mezclados-excel-entrego-hoy?s=github) – Las acreditaciones se imprimen a las dos y la lista mezcla MAYÚSCULAS y minúsculas. Una historia para quien entrega hoy.
 
 - [Cuentas en libretas y papeles: cómo ordenarlas en Excel](https://blixwerkstudio.com/guides/ordenar-cuentas-negocio-excel-libretas-papeles?s=github) – Libretas, tickets y notas pegadas en la pared. Una tapicera, una llamada de un cliente y la sensación de que ordenar las cuentas sí es posible.
 
