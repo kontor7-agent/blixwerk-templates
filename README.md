@@ -1408,6 +1408,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://blixwerkstudio.com/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
 
+- [Client Not Sending Files? The Sauna Bench Question](https://blixwerkstudio.com/guides/client-not-sending-files-project-stalled?s=github) – The site is due Friday, the shared folder is still empty, and the client has gone quiet. A story for freelancers whose projects stall on someone else's files.
+
 - [New Client Onboarding Chaos? The Reception Chair at 9:50](https://blixwerkstudio.com/guides/freelancer-client-onboarding-kickoff-checklist?s=github) – You're in a new client's lobby with the scope scattered across three emails and half the logins missing. A calmer way to begin every project.
 
 - [Paid Late Once, Now Ignoring Invoice 2? The Key Counter](https://blixwerkstudio.com/guides/client-paid-first-invoice-late-ignoring-second-invoice?s=github) – They paid the first invoice weeks late. Now the second one gets silence. A quiet story about chasing money without begging, and what changes when you have a plan.
@@ -1485,6 +1487,8 @@ Included (16 products, 175 USD if bought separately):
 - [Bizum y efectivo en mi peluquería: no apunto nada](https://blixwerkstudio.com/guides/clientas-pagan-bizum-efectivo-no-apunto-nada-peluqueria?s=github) – Martes, 9:10, antes de abrir: el móvil lleno de Bizums, el cajón con billetes y ninguna cuenta clara. Una historia para peluqueras que trabajan solas.
 
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://blixwerkstudio.com/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
+
+- [Mi cliente me manda audios de WhatsApp y cambia de idea](https://blixwerkstudio.com/guides/cliente-audios-whatsapp-cambia-lo-que-quiere-freelance?s=github) – Tres audios de WhatsApp, tres versiones distintas del encargo. Una historia sobre dejar de adivinar qué quiere tu cliente cada día.
 
 - [Canceló la sesión de fotos a última hora y perdí el día](https://blixwerkstudio.com/guides/cliente-cancelo-sesion-de-fotos-ultima-hora-fotografo-autonomo?s=github) – Sábado, 7:40, el coche cargado y un mensaje: «hoy no podemos». Una historia para fotógrafos autónomos que pierden el día por una cancelación.
 
@@ -1689,6 +1693,8 @@ Included (16 products, 175 USD if bought separately):
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
 - [Busy Etsy Shop, No Money Left After Fees? The Toast](https://blixwerkstudio.com/guides/etsy-shop-busy-no-money-left-after-fees?s=github) – Orders keep coming, but the account stays thin. A story about a birthday toast, one honest question and the calm of seeing profit per product.
+
+- [Etsy überverkauft, Bestellung stornieren? Sektempfang](https://blixwerkstudio.com/guides/etsy-ueberverkauft-bestellung-stornieren?s=github) – Samstag, Sektempfang, und plötzlich diese Nachricht: Das letzte Tassenset gibt es nicht mehr. Eine Geschichte über Überverkauf auf Etsy und Ruhe.
 
 - [Etsy-Weihnachtsbestellungen und das Wachs wird knapp](https://blixwerkstudio.com/guides/etsy-weihnachtsbestellungen-material-wird-knapp?s=github) – Die Bestellungen laufen ein, im Regal liegen noch drei Dochte. Eine Geschichte über das Weihnachtsgeschäft, knappes Material und den Überblick.
 
@@ -2265,6 +2271,8 @@ Included (16 products, 175 USD if bought separately):
 - [Overbooked as a Freelancer? The Park Bench Reply You Couldn't Send](https://blixwerkstudio.com/guides/overbooked-freelancer-how-to-tell-client-cant-take-more-work?s=github) – Your phone buzzes with one more request while your calendar is already full. A calm story about saying 'I'm booked' without losing the client.
 
 - [I Keep Overselling and Disappointing Customers: The Candle Fair](https://blixwerkstudio.com/guides/overselling-products-small-shop-disappointing-customers?s=github) – Sorry, that one's gone. You typed it again. A small-shop story about overselling, apologies, and the calm of knowing what's really on your shelf.
+
+- [Overstocked, Cash Tied Up in Stock? The Storage Unit](https://blixwerkstudio.com/guides/overstocked-cash-tied-up-in-stock-small-business?s=github) – Rent due Friday, the balance is low, and a storage unit is full of boxes you paid for months ago. A small-business story about cash sitting on shelves.
 
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://blixwerkstudio.com/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
 
