@@ -1370,6 +1370,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Doy clases particulares, pagan tarde y cancelan: ¿cómo llevo las cuentas?](https://blixwerkstudio.com/guides/clases-particulares-alumnos-pagan-tarde-cancelan-llevar-cuentas?s=github) – Son las 16:10, esperas en la parada y llega otro «perdona, hoy no puedo». Una historia para quien da clases y ya no sabe quién le debe qué.
 
+- [Invoice 'Being Processed' Again? The Art Shop Queue](https://blixwerkstudio.com/guides/client-accounts-department-says-invoice-is-being-processed?s=github) – Accounts keeps saying your invoice is 'being processed'. A story from an art shop queue about asking calmly, knowing your next step, and finally exhaling.
+
 - [Client Agreed to Pay but Keeps Making Excuses? Freelancer](https://blixwerkstudio.com/guides/client-agreed-to-pay-but-keeps-making-excuses-freelancer?s=github) – They said yes, they'll pay. Then came the excuses. A quiet story about a Thursday pickup line, and how chasing money can feel calmer.
 
 - [Client Wants Unlimited Revisions? The Tennis Club Bench](https://blixwerkstudio.com/guides/client-asked-for-unlimited-revisions-how-to-say-no?s=github) – A client wrote 'unlimited revisions are fine, right?' while you stood at a vending machine. A story about finding calm words for a clear, kind no.
@@ -1988,6 +1990,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [What Does Each Service Earn? The Nail Tech at the Wholesaler Till](https://blixwerkstudio.com/guides/what-does-each-service-earn-nail-tech-stylist-price-list?s=github) – The card machine shows 187 euros for gel, foils and tips, and you can't say which service paid for it. A story for solo stylists, nail techs and barbers.
 
+- [Krank als Freelancer, kein Einkommen? Mittwoch, 10:40](https://blixwerkstudio.com/guides/krank-als-freelancer-kein-einkommen-genug-verlangt?s=github) – Drei Wochen krank, null Einnahmen – und die leise Frage: Habe ich genug verlangt, um das aufzufangen? Eine Geschichte für Freiberufler.
+
 - [Kunde antwortet nicht auf dein Angebot? Der Dienstag im Zug](https://blixwerkstudio.com/guides/kunde-antwortet-nicht-auf-mein-angebot?s=github) – Das Angebot ist raus, der Posteingang bleibt still. Eine Geschichte über Warten, Zweifeln und den Mut, ruhig und freundlich nachzufragen.
 
 - [Rechnung nie bekommen? Wenn der Kunde das behauptet](https://blixwerkstudio.com/guides/kunde-behauptet-rechnung-nie-bekommen?s=github) – Der Kunde sagt, er habe deine Rechnung nie bekommen. Du stehst im Freibad, das Handy am Ohr, und weißt nicht mehr genau, wann du sie geschickt hast.
@@ -2440,6 +2444,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Factura vencida: recordárselo al cliente sin sonar borde](https://blixwerkstudio.com/guides/recordar-cliente-factura-vencida-sin-sonar-borde?s=github) – Son las 13:10, hay cola en el microondas y tu cliente lleva doce días de retraso. Del apuro a un recordatorio tranquilo, sin sonar borde.
 
+- [Salary Expectations Asked Again? The Mattress Showroom](https://blixwerkstudio.com/guides/recruiter-asked-salary-expectations-cant-remember-what-i-told-others?s=github) – A recruiter asks your salary expectations and you can't recall what you told the others. A calm story about keeping one clear record of every job conversation.
+
 - [Recruiter Called, Can't Place the Job? The Housewarming](https://blixwerkstudio.com/guides/recruiter-called-cant-remember-which-job-i-applied-to?s=github) – A recruiter calls mid-party and you can't place the job. A quiet story about the blank moment, and how a simple job search overview ends it.
 
 - [Recruiter Called, Forgot You Applied? The Cloakroom Ticket](https://blixwerkstudio.com/guides/recruiter-called-forgot-which-jobs-i-applied-to?s=github) – The recruiter says your name warmly. You have no idea which job she means. A short story about that blank moment, and what a calmer job search feels like.
@@ -2679,6 +2685,8 @@ Included (16 products, 175 USD if bought separately):
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://blixwerkstudio.com/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
 
 - [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://blixwerkstudio.com/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
+
+- [Tres entrevistas esta semana y se me mezclan las empresas](https://blixwerkstudio.com/guides/varias-entrevistas-esta-semana-se-me-mezclan-las-empresas?s=github) – Suena el teléfono y dudas: ¿esta era la de la startup o la de la consultora? Una historia sobre ordenar varias entrevistas en una sola semana.
 
 - [Varios clientes y no sé qué factura me falta por cobrar](https://blixwerkstudio.com/guides/varios-clientes-no-se-que-factura-falta-por-cobrar?s=github) – Lunes, videollamada y una pregunta: «¿esto ya lo facturaste?». Una historia para quien trabaja con varios clientes y pierde el hilo de sus facturas.
 
