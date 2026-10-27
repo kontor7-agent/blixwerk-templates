@@ -1574,6 +1574,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerkstudio.com/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
+- [Mi copia de seguridad dejó de funcionar y no me di cuenta](https://blixwerkstudio.com/guides/copia-de-seguridad-automatica-dejo-de-funcionar?s=github) – Un martes a las 11:00 un cliente pide un archivo de hace semanas y descubres que tu copia automática llevaba tiempo parada. Una historia que reconocerás.
+
 - [Correos del negocio sin fin: ¿qué delego a la IA?](https://blixwerkstudio.com/guides/correos-del-negocio-que-delegar-a-la-ia?s=github) – Miércoles, 11:15, la bandeja llena de correos del negocio. Una historia sobre qué delegar a la IA y qué seguir haciendo tú, con calma.
 
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://blixwerkstudio.com/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
@@ -1637,6 +1639,8 @@ Included (16 products, 175 USD if bought separately):
 - [Customer Ordered Something Sold Out? The Theatre Interval](https://blixwerkstudio.com/guides/customer-ordered-something-sold-out-again?s=github) – The phone buzzes in the interval queue: an order for a jar you sold out of last week. A short story about stock that stops surprising you.
 
 - [Customer Says Your Quote Is Too Expensive? Hallway Tea](https://blixwerkstudio.com/guides/customer-said-my-quote-is-too-expensive-can-i-lower-it?s=github) – The customer says your quote is too expensive and you can't tell if you can go lower. A tradesperson's Thursday morning, and a calmer way to know your floor.
+
+- [Customer Sent a Security Questionnaire? The Cake Counter](https://blixwerkstudio.com/guides/customer-sent-security-questionnaire-api-dont-know-answers?s=github) – A customer's security questionnaire about your API lands while you wait for a cake. Half the questions make you freeze. Here's how that moment can feel calmer.
 
 - [Sold Out and Didn't Know? The Driving Test Waiting Room](https://blixwerkstudio.com/guides/customer-wanted-to-buy-sold-out-didnt-know?s=github) – A customer wanted to buy and you were already sold out without knowing. A quiet story from a waiting room about how that stops being a surprise.
 
@@ -2132,11 +2136,15 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunden höflich kündigen als Freelancer? Die Sonntagsmail](https://blixwerkstudio.com/guides/kunden-hoeflich-kuendigen-freelancer?s=github) – Sonntag, 15:40: Eine Nachricht vom anstrengenden Kunden, und dein Magen zieht sich zusammen. Eine Geschichte über das Ende einer Zusammenarbeit.
 
+- [Kunden-Mail um 23 Uhr: Wie antworte ich professionell?](https://blixwerkstudio.com/guides/kunden-mail-nachts-professionell-antworten-freelancer?s=github) – Samstag, Supermarktschlange, und auf dem Handy die Mail von 23:04 mit drei Änderungen. Wie du ruhig antwortest, ohne dich zu verbiegen.
+
 - [Lagerbestand Excel Vorlage: The Cold Stall at 6:40 am](https://blixwerkstudio.com/guides/lagerbestand-excel-vorlage-nachbestellung?s=github) – You unload the van at a Christmas market and the bestseller isn't in the boxes. A calm story about stock you can see before the day starts.
 
 - [Where Did the Stock Go? The Tuesday Morning Count in the Back Room](https://blixwerkstudio.com/guides/stock-list-reorder-point-excel-small-business?s=github) – You count shelves by hand, and the numbers still don't match. A calm story about a small business owner who stops being surprised by an empty shelf.
 
 - [Lagerbestand stimmt nie mit der Excel-Liste? Samstag, 7:50 Uhr](https://blixwerkstudio.com/guides/lagerbestand-stimmt-nicht-mit-excel-liste-ueberein?s=github) – Auf der Liste stehen 14, in der Kiste ist nichts. Eine Geschichte vom Marktstand und davon, wie es sich anfühlt, wenn der Bestand endlich stimmt.
+
+- [Laid Off, Applying Everywhere? The Neighbour's Question](https://blixwerkstudio.com/guides/laid-off-applying-everywhere-keep-track-of-applications?s=github) – Laid off and sending applications everywhere? A quiet story about the phone call you can't place, and how to keep track of every application calmly.
 
 - [Tutor Students Pay Late, Cancel Late? The Car Outside Number 14](https://blixwerkstudio.com/guides/private-tutor-lesson-log-invoice-tracker-late-payments-cancellations?s=github) – Your 4 pm student cancels by text while you sit outside in the rain. Who is behind, what it costs, and when to raise your rate – a tutor's story.
 
