@@ -1256,6 +1256,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ask a Client for a Testimonial Without Feeling Awkward](https://blixwerkstudio.com/guides/ask-client-for-testimonial-without-feeling-awkward?s=github) – The project went well, the client said thanks, and the draft email still sits unsent. A calm story about asking for a testimonial without squirming.
 
+- [Asked to Review API Security, Don't Know Where to Start?](https://blixwerkstudio.com/guides/asked-to-review-api-security-where-to-start?s=github) – A client asks you to review their API security by Friday and your mind goes blank. A quiet story about starting without the knot in your stomach.
+
 - [Auftrag ablehnen ohne schlechtes Gewissen? Die Mail um 8:50 Uhr](https://blixwerkstudio.com/guides/auftrag-ablehnen-ohne-schlechtes-gewissen-freiberufler?s=github) – Die Anfrage klingt gut, der Preis nicht, die Woche ist voll. Eine Geschichte darüber, wie ein Nein sich anfühlen kann, ohne dass du dich dafür rechtfertigst.
 
 - [Auftrag zu billig angenommen? Die Schlange beim Bäcker](https://blixwerkstudio.com/guides/auftrag-zu-billig-angenommen-bereut?s=github) – Du hast einen Auftrag zu billig angenommen und bereust es? Eine Geschichte über Freitag, 12:10 Uhr, ein Brötchen und den Moment, in dem sich etwas klärt.
@@ -1948,6 +1950,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://blixwerkstudio.com/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
 
+- [Job Search Spreadsheet a Mess? The Coach Window Seat](https://blixwerkstudio.com/guides/job-search-spreadsheet-mess-missed-follow-up-email?s=github) – You meant to follow up last Thursday. Now the spreadsheet is a maze and the reply window may have closed. A quiet story about a calmer job search.
+
 - [Lost Track of Job Applications? The Bookshop Call](https://blixwerkstudio.com/guides/lost-track-of-job-applications-tracker?s=github) – A recruiter calls and you can't remember which role she means. A calm story about job applications, follow-ups and interview prep that stops living in your head.
 
 - [Kassenbons verblasst? Das Thermopapier im Ordner](https://blixwerkstudio.com/guides/kassenbons-verblasst-thermopapier-selbststaendig-was-tun?s=github) – Mittwoch, 11:20 Uhr: Der Bon aus dem Frühjahr ist leer, der Steuerberater-Termin ist Freitag. Eine Geschichte über verblasste Belege und ruhigere Jahre.
@@ -1989,6 +1993,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde nimmt deinen Preis sofort an – war ich zu billig?](https://blixwerkstudio.com/guides/kunde-hat-meinen-preis-sofort-akzeptiert-war-ich-zu-billig?s=github) – Eine Mail, ein Wort: „Passt.“ Und plötzlich zweifelst du. Eine Geschichte für alle, deren Preis zu schnell akzeptiert wurde und die sich fragen: zu billig?
 
 - [Kunde hat nur die Hälfte bezahlt? Der Stau auf der A7](https://blixwerkstudio.com/guides/kunde-hat-nur-die-haelfte-der-rechnung-bezahlt?s=github) – Die Banking-App zeigt 1.190 € statt 2.380 €. Eine Geschichte über halb bezahlte Rechnungen, ein flaues Gefühl im Stau und wie wieder Ruhe einkehrt.
+
+- [Kunde ignoriert Mails zur offenen Rechnung? Gartencenter](https://blixwerkstudio.com/guides/kunde-ignoriert-mails-ueberfaellige-rechnung-was-tun?s=github) – Dritte Nachfrage, wieder keine Antwort. Eine Geschichte über das Schweigen nach der Rechnung und darüber, wie Nachhaken wieder ruhig werden kann.
 
 - [Kunde ignoriert deine Rechnung? Der Urlaubstag am Baggersee](https://blixwerkstudio.com/guides/kunde-ignoriert-rechnung-nachfassen?s=github) – Du liegst am See, aber im Kopf bleibt die unbeantwortete Rechnung. Eine Geschichte darüber, wie Nachfassen ruhiger werden kann.
 
@@ -2585,6 +2591,8 @@ Included (16 products, 175 USD if bought separately):
 - [Estoy enferma y no cobro: mi tarifa por hora freelance](https://blixwerkstudio.com/guides/tarifa-por-hora-freelance-vacaciones-enfermedad?s=github) – 38,4 de fiebre un martes y ni un euro entrando. Una historia sobre enfermar o irte de vacaciones siendo freelance y la tarifa por hora que lo olvida.
 
 - [Mi tarifa por hora no cubre mis gastos y trabajo de más](https://blixwerkstudio.com/guides/tarifa-por-hora-no-cubre-gastos-autonomo-trabajo-de-mas?s=github) – En la sala de espera del taller haces cuentas: tu tarifa por hora no cubre tus gastos y llevas meses trabajando de más. Una historia.
+
+- [Mi tarifa real por hora freelance, menor de lo que creía](https://blixwerkstudio.com/guides/tarifa-real-por-hora-freelance-menor-de-lo-que-creia?s=github) – En la cola de la ITV hiciste la cuenta de tu tarifa real por hora freelance. Dolió, pero después llegó la calma. Una historia.
 
 - [Teléfonos en Excel en mil formatos y los necesito hoy](https://blixwerkstudio.com/guides/telefonos-distintos-formatos-excel-limpiar-hoy?s=github) – Seiscientos números, cada uno escrito a su manera, y el aviso sale a mediodía. Una mañana de jueves con la lista de teléfonos del Excel.
 
