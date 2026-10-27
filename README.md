@@ -1472,6 +1472,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://blixwerkstudio.com/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
 
+- [Refund Request on a Finished Project? The Minigolf Queue](https://blixwerkstudio.com/guides/client-wants-refund-on-finished-project-what-to-say?s=github) – The client loved the project, then asked for the money back. A calm story about the Saturday you stopped drafting replies in your head and found the words.
+
 - [Renegotiating Price After the Project? The Tower Stairs](https://blixwerkstudio.com/guides/client-wants-to-renegotiate-price-after-project-finished?s=github) – The project is delivered, the invoice is out, and now the client wants a lower price. A calm story about what to say, and how not to fold on the stairs.
 
 - [Client Wants to Start Tomorrow, No Contract? Cable Car](https://blixwerkstudio.com/guides/client-wants-to-start-tomorrow-no-contract-kickoff-plan?s=github) – The client wants to start tomorrow. There's no contract and no kickoff plan, and you're in a cable car queue. A story about calm starts for freelancers.
@@ -1906,6 +1908,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Handwerkermarkt in zwei Wochen: Wie viel Ware machen?](https://blixwerkstudio.com/guides/handwerkermarkt-in-zwei-wochen-wie-viel-ware-herstellen?s=github) – Der Markt ist in zwei Wochen, im Regal stehen Tassen und im Kopf Fragezeichen. Eine Geschichte über Bauchgefühl, Brennofen-Ladungen und mehr Ruhe.
 
+- [Haven't Posted on LinkedIn in Weeks? The Pottery Stall Ask](https://blixwerkstudio.com/guides/havent-posted-on-linkedin-in-weeks-guilty?s=github) – Weeks since your last LinkedIn post, and the guilt arrives at the school pickup line. A quiet story about showing up again without the Sunday panic.
+
 - [Hice el presupuesto sin margen y la obra me da pérdidas](https://blixwerkstudio.com/guides/hice-presupuesto-sin-margen-pierdo-dinero-obra-autonomo?s=github) – Presupuestaste la obra sin contar el margen y lo ves en la cola de la ferretería. Una historia para autónomos que quieren cobrar lo que trabajan.
 
 - [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
@@ -2304,6 +2308,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Planning a Freelance Year on Unpredictable Income: The Paint Counter](https://blixwerkstudio.com/guides/plan-freelance-year-unpredictable-income?s=github) – The paint is mixing, the calendar is blank, and next year's income is a guess. A gentle story about planning a freelance year without pretending.
 
+- [Las apps no me funcionan: planificador en papel autónomos](https://blixwerkstudio.com/guides/planificador-en-papel-autonomos-apps-productividad?s=github) – Probaste cinco apps de productividad y sigues olvidándolo todo. Una historia sobre un lunes de autónomo, un cuaderno y la calma de verlo todo en papel.
+
 - [Planner Too Many Boxes? Simple ADHD Page: The Dentist Chair](https://blixwerkstudio.com/guides/planner-too-many-boxes-simple-adhd-printable?s=github) – Every planner you buy has too many boxes. A story about a Thursday at the dentist, one page with three lines, and a week that finally feels light.
 
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://blixwerkstudio.com/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
@@ -2561,6 +2567,8 @@ Included (16 products, 175 USD if bought separately):
 - [Fixing a Messy CSV Again? The Sunday Roast Interruption](https://blixwerkstudio.com/guides/spent-all-evening-fixing-messy-csv-file?s=github) – Another evening gone to a messy CSV file? A Sunday-lunch scene about getting those hours back, and what a calmer Monday could feel like.
 
 - [Steuerberater wartet auf deine Unterlagen? Der Anruf in der Bäckerei](https://blixwerkstudio.com/guides/steuerberater-wartet-unterlagen-durcheinander-selbststaendig?s=github) – Dienstag, 8:20 Uhr, Bäckerei-Schlange: Die Kanzlei fragt nach deinen Unterlagen, und bei dir liegt alles durcheinander. Eine Geschichte über Ruhe im Kopf.
+
+- [Steuererklärung aufgeschoben? Der Fensterputz-Samstag](https://blixwerkstudio.com/guides/steuererklaerung-selbststaendig-aufgeschoben?s=github) – Samstag, 10:40 Uhr: Du putzt lieber Fenster, als die Steuererklärung anzufassen. Eine Geschichte über Aufschieben und die Ruhe danach.
 
 - [Steuerfrist naht, Belege-Chaos? Die Mail am Montag um 8:05](https://blixwerkstudio.com/guides/steuerfrist-belege-chaos-freelancer-unterlagen-sortieren?s=github) – Montagmorgen, eine Mail vom Steuerberater, und deine Belege liegen überall verstreut. Eine Geschichte über das Chaos davor und die Ruhe danach.
 
