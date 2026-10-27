@@ -1588,6 +1588,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
 
+- [CSV Opens in Excel All in One Column? The Kitchen Table](https://blixwerkstudio.com/guides/csv-opens-in-excel-all-in-one-column?s=github) – The export lands in Excel as one long column and the clock is ticking. A quiet story about messy CSVs, and what a calmer routine feels like.
+
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
 
 - [CSV Weird Characters Every Time? The Greenhouse Thursday](https://blixwerkstudio.com/guides/csv-weird-characters-encoding-errors-every-time-i-open-it?s=github) – Every CSV opens with Ã¼ and â‚¬ instead of real letters. A calm story about a Thursday morning in a greenhouse, and what it feels like when exports just open right.
@@ -2368,6 +2370,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://blixwerkstudio.com/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
 
+- [Mi proveedor tarda semanas: ¿cuándo pido el género?](https://blixwerkstudio.com/guides/proveedor-tarda-semanas-me-quedo-sin-genero-cuando-pedir?s=github) – Tu proveedor tarda tres semanas y tu producto estrella ya se agotó. Una historia sobre pedir a tiempo sin adivinar, desde la cola de la panadería.
+
 - [Mi proyecto se alargó y cobré lo mismo como autónomo](https://blixwerkstudio.com/guides/proyecto-se-alargo-cobre-lo-mismo-autonomo?s=github) – En la cola del pan llega el mensaje: «¿Cerramos ya?». El proyecto duró el triple y la factura es la misma. Una historia sobre verlo a tiempo.
 
 - [Mi script de Python falla con un CSV roto y entrego hoy](https://blixwerkstudio.com/guides/python-script-falla-csv-error-codificacion-entrego-hoy?s=github) – Son las 11:20, tu script de Python se cae con un CSV lleno de caracteres raros y la entrega es hoy. Una historia sobre volver a respirar.
@@ -2728,6 +2732,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://blixwerkstudio.com/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
 
+- [Was kann ich absetzen? Privat und beruflich gemischt](https://blixwerkstudio.com/guides/was-kann-ich-absetzen-privat-und-beruflich-gemischt-freelancer?s=github) – Ein Bon, Druckerpapier und Shampoo: Was ist beruflich, was privat? Eine Geschichte für Selbstständige, die beim Absetzen unsicher sind.
+
 - [Was soll ich posten? Der Satz der Kundin im Atelier](https://blixwerkstudio.com/guides/was-soll-ich-posten-social-media-kleines-unternehmen?s=github) – Jede Woche Stress, was du für dein kleines Unternehmen posten sollst? Eine Keramikerin, ein Satz im Atelier und ein ruhigerer Montag.
 
 - [Wedding Photographer: Client Hasn't Paid the Balance?](https://blixwerkstudio.com/guides/wedding-photographer-client-hasnt-paid-remaining-balance?s=github) – The gallery is delivered, the couple is thrilled, and the remaining balance is still open. A calm story for wedding photographers who hate chasing money.
@@ -2755,6 +2761,8 @@ Included (16 products, 175 USD if bought separately):
 - [Wochenlang nichts auf Instagram gepostet? Die Hundewiese, 16:30](https://blixwerkstudio.com/guides/wochenlang-nichts-auf-instagram-gepostet-schlechtes-gewissen-selbststa?s=github) – Seit Wochen kein Post, und dann fragt jemand beiläufig nach. Eine Geschichte über das schlechte Gewissen auf Instagram und wie es leiser werden kann.
 
 - [Worked More Hours Than You Invoiced? The Arrivals Hall](https://blixwerkstudio.com/guides/worked-more-hours-than-invoiced-freelance-quarter?s=github) – The quarter ends and your gut says you worked more than you billed. A quiet story from an airport arrivals hall about seeing your hours and invoices together.
+
+- [SOPs Take Forever to Write? The Picnic Table Phone Call](https://blixwerkstudio.com/guides/writing-standard-operating-procedures-small-business?s=github) – Your standard operating procedures stay half-written and your week off isn't one. A short story about the document you keep meaning to finish.
 
 - [Wütende Kunden-Mail beantworten – ohne Roboter-Ton](https://blixwerkstudio.com/guides/wuetende-kunden-mail-beantworten-ohne-defensiv?s=github) – Donnerstag, 12:50, Mail vom Kunden: „Das ist inakzeptabel.“ Dein Puls steigt. Eine Geschichte über Antworten, die ruhig klingen und trotzdem nach dir.
 
