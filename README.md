@@ -1196,6 +1196,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Nombre y apellidos en una sola columna: 3000 contactos](https://blixwerkstudio.com/guides/3000-contactos-excel-nombre-y-apellidos-en-una-columna?s=github) – Tienes 3000 contactos con nombre y apellidos en una sola columna y una llamada en cinco minutos. Una historia sobre cómo dejar de sufrir con tu Excel.
 
+- [50 Bewerbungen, keine Antwort? Sonntagsbraten bei Mama](https://blixwerkstudio.com/guides/50-bewerbungen-keine-antwort?s=github) – Fünfzig Bewerbungen raus, nichts zurück – und am Esstisch fragt jemand nach. Eine Geschichte über Überblick und Ruhe in der Jobsuche.
+
 - [Abandon Every Planner by February? The Blank Page Call](https://blixwerkstudio.com/guides/abandon-every-planner-by-february?s=github) – The planner was gorgeous in January. By the February client call, its pages are blank and you're guessing. A calm story for freelancers who keep starting over.
 
 - [Abschlagsrechnung vergessen? Projekt fertig, kein Geld](https://blixwerkstudio.com/guides/abschlagsrechnung-vergessen-projekt-fertig-kunde-hat-nichts-gezahlt?s=github) – Die Terrasse ist fertig, der Kunde strahlt, und dir fällt ein: Es gab nie eine Abschlagsrechnung. Eine Geschichte über Ruhe im Zahlungsfluss.
@@ -1519,6 +1521,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente me pide rebaja y no sé qué responder: la llamada](https://blixwerkstudio.com/guides/cliente-me-pide-rebaja-precio-no-se-que-responder-freelance?s=github) – Suena el móvil, el cliente dice «¿me haces un precio?» y te quedas en blanco. Una historia sobre responder a una rebaja con calma.
 
 - [Mi cliente no contesta mis correos: cómo escribirle sin quedar mal](https://blixwerkstudio.com/guides/cliente-no-contesta-mis-correos-como-escribirle-sin-quedar-mal?s=github) – Llevas diez días sin respuesta y el cursor parpadea sobre «Solo quería saber si…». Una historia sobre escribir a un cliente callado sin sentirte pesada.
+
+- [«No me convence» y nada más: ¿qué le contesto al cliente?](https://blixwerkstudio.com/guides/cliente-no-le-convence-trabajo-no-concreta-que-cambiar?s=github) – Lunes, 9:10. El cliente escribe «no me convence» y nada más. Una historia sobre cómo salir del bloqueo y contestar con calma, sin ponerte a la defensiva.
 
 - [El cliente no manda la información y no puedo arrancar](https://blixwerkstudio.com/guides/cliente-no-manda-informacion-proyecto-no-arranca?s=github) – Tres semanas esperando logos, textos y accesos. Una historia sobre el cliente que lo promete todo y no manda nada, y el proyecto que no arranca.
 
@@ -2388,6 +2392,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ran Out of Your Best Seller Again? The Video Call at 11](https://blixwerkstudio.com/guides/ran-out-of-best-selling-product-customers-asked?s=github) – You find out your best seller is gone when a customer asks. A quiet story about stock surprises, and what a calm Monday looks like without them.
 
+- [Ran Out of Change at Your Market Stall? The Bakery Dash](https://blixwerkstudio.com/guides/ran-out-of-change-at-my-market-stall?s=github) – A queue at your stall, a 50 note, and a cash box with no change. A calm story for makers who want market days to stop feeling like guesswork.
+
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
 
 - [Scared of Ransomware, No Automatic Backup? The Tax Week Hum](https://blixwerkstudio.com/guides/ransomware-small-business-server-no-automatic-backup?s=github) – The server hums under the desk, tax week is close, and you can't remember when anything was last copied. A calm story about getting that knot to loosen.
@@ -2455,6 +2461,8 @@ Included (16 products, 175 USD if bought separately):
 - [Salon immer voll, aber was verdienst du wirklich? 8:40 am Automat](https://blixwerkstudio.com/guides/salon-immer-voll-aber-wie-viel-verdiene-ich-eigentlich?s=github) – Du arbeitest die ganze Woche am Stuhl und weißt trotzdem nicht, was bei dir ankommt. Eine Geschichte vom Einzahlautomat und von ruhigeren Montagen.
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://blixwerkstudio.com/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
+
+- [Same Customer Spelled 5 Ways in Excel? The Fair Stand](https://blixwerkstudio.com/guides/same-customer-spelled-five-ways-in-excel?s=github) – Hartmann, Hartman, HARTMANN GmbH: your export counts one client five times. A quiet story about the moment a trade-fair question exposed it.
 
 - [Can't Say No to a Client's Extra Work? The Lifting Bridge](https://blixwerkstudio.com/guides/say-no-to-client-extra-work-politely?s=github) – The bridge goes up, your phone buzzes: 'one small extra thing?' A story about saying no to extra client work without sounding rude.
 
