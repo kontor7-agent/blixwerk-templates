@@ -1244,6 +1244,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Angry Customer Email? How to Reply: The Bakery Counter](https://blixwerkstudio.com/guides/angry-customer-email-how-to-reply-small-business?s=github) – An angry customer email lands at 8:05 on a Monday and your stomach drops. A calm story about replying without panic, defensiveness or three lost hours.
 
+- [Another Contractor Quoted Cheaper? The Bakery Van Text](https://blixwerkstudio.com/guides/another-contractor-quoted-cheaper-what-do-i-say?s=github) – The text arrives while you're buying lunch: 'Someone else quoted less.' A story about the quiet panic of a cheaper quote, and what steadies your voice.
+
 - [Worried Your API Has Security Holes? The Train to the Demo](https://blixwerkstudio.com/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
 
 - [Did I Miss an API Security Check? The Handover Call at 10 am](https://blixwerkstudio.com/guides/api-security-check-before-launch-client-handover?s=github) – The client is waiting on the call, your API is ready, and one quiet thought won't leave: did I miss a security check? A calm story about shipping without doubt.
@@ -1377,6 +1379,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Wants Unlimited Revisions? The Tennis Club Bench](https://blixwerkstudio.com/guides/client-asked-for-unlimited-revisions-how-to-say-no?s=github) – A client wrote 'unlimited revisions are fine, right?' while you stood at a vending machine. A story about finding calm words for a clear, kind no.
 
 - [Client Asked to Cut Your Price? The Stairwell Landing](https://blixwerkstudio.com/guides/client-asked-me-to-cut-my-price-after-quoting-how-to-say-no?s=github) – You quoted, they said yes, then came the email asking for less. A quiet story about saying no to a price cut without losing the client or your calm.
+
+- [Asked to Pick Your Brain for Free? The Ticket Machine](https://blixwerkstudio.com/guides/client-asked-to-pick-my-brain-for-free-how-to-reply?s=github) – A 'quick coffee to pick your brain' lands while you feed a parking meter. A calm story about replying warmly, without working for free or losing the lead.
 
 - [Client Asking for a Discount? How to Reply Without Losing Them](https://blixwerkstudio.com/guides/client-asking-for-discount-how-to-reply-freelance?s=github) – The email says 'any chance of a better price?' and your stomach drops. A calm story about replying to a discount request without losing the client.
 
@@ -2260,6 +2264,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No sé cuánto he ganado este mes como autónomo: el día 30](https://blixwerkstudio.com/guides/no-se-cuanto-he-ganado-este-mes-como-autonomo?s=github) – Tu pareja pregunta cuánto has ganado este mes y tú no sabes qué contestar. Una historia sobre el agobio de no ver tus números y la calma de verlos.
 
+- [Black Friday: no sé cuánto pedir y temo quedarme sin stock](https://blixwerkstudio.com/guides/no-se-cuanto-pedir-black-friday-miedo-quedarme-sin-stock?s=github) – Black Friday a un mes, no sabes cuánto pedir y temes quedarte sin stock. Una historia de taller, café frío y un jueves que cambia.
+
 - [No sé cuánto tengo que facturar al mes para vivir como autónomo](https://blixwerkstudio.com/guides/no-se-cuanto-tengo-que-facturar-al-mes-para-vivir-como-autonomo?s=github) – Sentada en la sala de espera del dentista, abres la calculadora y te das cuenta: no sabes qué cifra necesitas facturar cada mes. Una historia sobre ponerle número.
 
 - [No sé qué clientes me dan más dinero y cuáles me hacen perder tiempo](https://blixwerkstudio.com/guides/no-se-que-clientes-me-dan-mas-dinero-freelance?s=github) – En el tren de vuelta de una reunión, Lucía se pregunta qué clientes le dan dinero y cuáles solo tiempo perdido. Una historia para freelances.
@@ -2681,6 +2687,8 @@ Included (16 products, 175 USD if bought separately):
 - [Überfällige Rechnung, Kunde schweigt? Das Schwimmbad-Café](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-kunde-antwortet-nicht?s=github) – Drei Mails, kein Wort zurück. Samstagvormittag im Schwimmbad-Café fragst du dich, was du noch schreiben sollst. Eine Geschichte über ruhiges Nachhaken.
 
 - [Überfällige Rechnung nachfassen, ohne unhöflich zu sein?](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-nachfassen-ohne-unhoeflich?s=github) – Samstag im Blumenladen: Die Rechnung ist 19 Tage überfällig, der Kunde ist nett. Eine Geschichte darüber, wie Nachfassen ruhig und freundlich klingen kann.
+
+- [Umsatzsteuervoranmeldung vergessen? Der Wartebereich, 9:40](https://blixwerkstudio.com/guides/umsatzsteuervoranmeldung-vergessen-selbststaendig?s=github) – Dir fällt im Wartezimmer ein: Die Umsatzsteuervoranmeldung ist nicht draußen. Eine Geschichte über Panik, Überblick und den ruhigeren nächsten Monat.
 
 - [Unangenehme Mail an Kunden? Alufolie im Haar, 11:20 Uhr](https://blixwerkstudio.com/guides/unangenehme-mail-an-kunden-schreiben-freelancer-ee8a?s=github) – Du schiebst die heikle Mail an deinen Kunden seit Tagen vor dir her. Eine Geschichte über Alufolie im Haar, ein leeres Feld und den ersten Satz.
 
