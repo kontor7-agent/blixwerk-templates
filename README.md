@@ -1744,6 +1744,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://blixwerkstudio.com/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
+- [Excel Keeps Crashing on a Huge CSV? The Replacement Bus](https://blixwerkstudio.com/guides/excel-keeps-crashing-huge-csv-file?s=github) – The spinner, the 'Not Responding' bar, a call at 9:30. A calm story for anyone whose Excel keeps crashing when they open a huge CSV file.
+
 - [Miles de filas desordenadas en Excel: ¿por dónde empiezo?](https://blixwerkstudio.com/guides/excel-miles-de-filas-desordenadas-por-donde-empezar?s=github) – Lunes por la mañana, el tren y un Excel de 14.000 filas que no sabes por dónde coger. Una historia sobre abrirlo sin que se te encoja el estómago.
 
 - [Excel Numbers Stored as Text Again? The 10 am Report Call](https://blixwerkstudio.com/guides/excel-numbers-stored-as-text-weekly-report?s=github) – Your weekly report shows a total of zero because the numbers are text. A short story about a Thursday client call, and a calmer way to start the week.
@@ -2274,6 +2276,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [I Never Know When to Reorder Stock: The Bus Stop at 7:52](https://blixwerkstudio.com/guides/never-know-when-to-reorder-stock-small-shop?s=github) – You're at the bus stop when a customer asks if the grey is back in stock, and you honestly don't know. A story about reorder timing for small shops.
 
+- [Never Tested Your Backup Restore? The Spare Tyre](https://blixwerkstudio.com/guides/never-tested-backup-restore-what-if-it-doesnt-work?s=github) – The spare tyre was soft, and your backup restore has never been tried. A calm story about the quiet worry of not knowing whether it would work.
+
 - [New Freelance Client, No Idea How to Start? The Egg Queue](https://blixwerkstudio.com/guides/new-freelance-client-how-to-start-project?s=github) – The yes arrives while you queue for eggs. Now what? A calm story about starting a new freelance client project without winging it.
 
 - [New Freelance Client, No Process? The Porridge Monday](https://blixwerkstudio.com/guides/new-freelance-client-no-process-messy-start?s=github) – A new client says 'let's start Monday' and your process is scattered emails and guesswork. A short story about a calmer first week.
@@ -2564,6 +2568,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Se acerca enero y no sé qué objetivos ponerme (autónomo)](https://blixwerkstudio.com/guides/se-acerca-enero-no-se-que-objetivos-ponerme-autonomo?s=github) – Estás en la papelería con una agenda de 2027 en blanco y ni idea de qué objetivos ponerte como autónomo. Una historia para respirar antes de enero.
 
+- [Cierra el trimestre y no encuentro las facturas de gastos](https://blixwerkstudio.com/guides/se-cierra-el-trimestre-no-encuentro-facturas-de-gastos?s=github) – Miércoles, la furgoneta, el trimestre a punto de cerrar y las facturas de gastos por todas partes. Una historia para quien busca un respiro.
+
 - [Se me acumulan las tareas y no sé por dónde empezar hoy](https://blixwerkstudio.com/guides/se-me-acumulan-las-tareas-no-se-por-donde-empezar-hoy?s=github) – Lunes, 9:05, veintitrés cosas pendientes y ninguna por la que empezar. Una historia sobre cómo un día puede volver a caber en una hoja.
 
 - [Se me borró la carpeta del trabajo: sin copia, un martes](https://blixwerkstudio.com/guides/se-me-borro-la-carpeta-del-trabajo-sin-copia-de-seguridad?s=github) – Martes, 9:10: la carpeta del cliente ya no está y no hay copia de seguridad. Una historia sobre ese vacío en el estómago y la calma que llega después.
@@ -2823,6 +2829,8 @@ Included (16 products, 175 USD if bought separately):
 - [Which Project Hours Are Invoiced? The Ferris Wheel Pause](https://blixwerkstudio.com/guides/which-project-hours-invoiced-still-open?s=github) – Your phone buzzes at the top of a ferris wheel: 'Can you invoice what's done so far?' And you can't tell which project hours are billed and which are open.
 
 - [Wie sage ich dem Kunden, dass es teurer wird? Der Bahnsteig um 7:48](https://blixwerkstudio.com/guides/wie-sage-ich-dem-kunden-dass-es-teurer-wird?s=github) – Der Entwurf liegt seit März im Handy: Preiserhöhung ankündigen. Eine Geschichte vom Bahnsteig und davon, wie ein ruhiger Satz plötzlich leichter fällt.
+
+- [Wie viel nachbestellen? Die Warteschleife, 11:15](https://blixwerkstudio.com/guides/wie-viel-nachbestellen-kleiner-shop-schaetze-immer-falsch?s=github) – Du hängst in der Warteschleife beim Lieferanten und rätst wieder: 200 oder 400 nachbestellen? Eine Geschichte für alle, die immer falsch schätzen.
 
 - [Stunden im Monat abrechnen als Freiberufler? Die Kantine](https://blixwerkstudio.com/guides/wie-viele-stunden-im-monat-als-freiberufler-abrechnen?s=github) – Voller Kalender, wenig Geld: Eine Mittagspause in der Kundenkantine zeigt, warum abrechenbare Stunden anders zählen als Arbeitsstunden.
 
