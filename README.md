@@ -1724,6 +1724,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [EÜR machen, Belege weg? Die Waschküche am Samstag](https://blixwerkstudio.com/guides/euer-machen-keine-ahnung-wo-die-belege-sind?s=github) – Die EÜR steht an, und du weißt nicht, wo die Belege sind. Eine Geschichte über Samstag, Waschküche und die Ruhe, die zurückkommt, wenn alles einen Platz hat.
 
+- [Everything in Your Head, Can't Delegate? The Pool Lounger](https://blixwerkstudio.com/guides/everything-in-my-head-small-business-cant-delegate?s=github) – Day two of a week off and you're still the only one who knows how everything works. A short story about getting it out of your head and letting go.
+
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://blixwerkstudio.com/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
 
 - [Excel cambió los decimales de mi CSV y no cuadra el total](https://blixwerkstudio.com/guides/excel-cambia-decimales-csv-totales-no-cuadran?s=github) – Excel cambió los decimales de tu CSV y los totales no cuadran, y el cliente espera el informe. Una historia sobre recuperar la calma un lunes.
@@ -1954,6 +1956,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Haven't Posted on LinkedIn in Weeks? The Pottery Stall Ask](https://blixwerkstudio.com/guides/havent-posted-on-linkedin-in-weeks-guilty?s=github) – Weeks since your last LinkedIn post, and the guilt arrives at the school pickup line. A quiet story about showing up again without the Sunday panic.
 
+- [No Day Off in Months? Freelancer Burnout and the Voucher](https://blixwerkstudio.com/guides/havent-taken-a-day-off-in-months-freelancer-burnout?s=github) – A balloon voucher expires in three weeks and you can't name one free day. A calm story for freelancers who haven't taken a day off in months.
+
 - [Hice el presupuesto sin margen y la obra me da pérdidas](https://blixwerkstudio.com/guides/hice-presupuesto-sin-margen-pierdo-dinero-obra-autonomo?s=github) – Presupuestaste la obra sin contar el margen y lo ves en la cola de la ferretería. Una historia para autónomos que quieren cobrar lo que trabajan.
 
 - [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
@@ -2150,6 +2154,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde zahlt immer nach 45 Tagen? Der Spielplatz, 12:20](https://blixwerkstudio.com/guides/kunde-zahlt-immer-nach-45-tagen-obwohl-14-tage-zahlungsziel?s=github) – 14 Tage Zahlungsziel, und wieder kommt das Geld erst nach 45. Eine Illustratorin, ein Spielplatz und die Frage, wann man eigentlich nachhaken darf.
 
+- [Kunde zahlt jeden Monat zu spät – aufhören? Montag, 9:15](https://blixwerkstudio.com/guides/kunde-zahlt-jeden-monat-zu-spaet-aufhoeren?s=github) – Er ist nett, aber das Geld kommt jeden Monat zu spät. Eine Geschichte über Bauchweh, Kunden, die du magst, und die Frage: bleiben oder gehen?
+
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://blixwerkstudio.com/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
 - [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://blixwerkstudio.com/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
@@ -2161,6 +2167,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunden höflich kündigen als Freelancer? Die Sonntagsmail](https://blixwerkstudio.com/guides/kunden-hoeflich-kuendigen-freelancer?s=github) – Sonntag, 15:40: Eine Nachricht vom anstrengenden Kunden, und dein Magen zieht sich zusammen. Eine Geschichte über das Ende einer Zusammenarbeit.
 
 - [Kunden-Mail um 23 Uhr: Wie antworte ich professionell?](https://blixwerkstudio.com/guides/kunden-mail-nachts-professionell-antworten-freelancer?s=github) – Samstag, Supermarktschlange, und auf dem Handy die Mail von 23:04 mit drei Änderungen. Wie du ruhig antwortest, ohne dich zu verbiegen.
+
+- [La agencia descuenta repeticiones: ¿cuánto gano por hora?](https://blixwerkstudio.com/guides/la-agencia-me-descuenta-las-repeticiones-cuanto-gano-por-hora-traducto?s=github) – El informe de la agencia descuenta repeticiones y tú no sabes cuánto ganas por hora. Una mañana de traductora, y cómo se afloja el nudo.
 
 - [Lagerbestand Excel Vorlage: The Cold Stall at 6:40 am](https://blixwerkstudio.com/guides/lagerbestand-excel-vorlage-nachbestellung?s=github) – You unload the van at a Christmas market and the bestseller isn't in the boxes. A calm story about stock you can see before the day starts.
 
