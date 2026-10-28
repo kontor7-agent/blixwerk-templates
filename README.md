@@ -1306,6 +1306,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Billed the Same Week Twice? The Cheese Counter Ticket](https://blixwerkstudio.com/guides/billed-same-week-twice-which-hours-invoiced?s=github) – You think you billed the same week twice and can't tell which hours are invoiced. A quiet story about a Saturday queue, two PDFs, and getting calm back.
 
+- [Bombed an Interview, Can't Recall What You Said?](https://blixwerkstudio.com/guides/bombed-interview-cant-remember-what-i-said-prepare-better?s=github) – You walked out of the interview and the answers blurred. Here is a calm story about what to do with that sinking feeling, and how to prepare next time.
+
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://blixwerkstudio.com/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
 
 - [Rewriting Data Scripts Again? The Cottage Week Off](https://blixwerkstudio.com/guides/rewriting-data-scripts-again-data-cleaning-file-automation?s=github) – A week off that isn't one: the same CSV cleanup, rewritten from scratch on a cottage sofa. A story for developers tired of rebuilding old scripts.
@@ -1954,6 +1956,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerkstudio.com/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
 
+- [How to Politely Fire a Difficult Client: The Green Man](https://blixwerkstudio.com/guides/how-to-politely-fire-a-difficult-client?s=github) – You've decided to end things with a difficult client, but the email won't write itself. A quiet story about the pause at a red light, and what comes after.
+
 - [Can't Politely Say No to a Client Request? The Bus Aisle](https://blixwerkstudio.com/guides/how-to-politely-say-no-to-client-request-freelancer?s=github) – The client's message sits unanswered while your bus crawls home. How to say no without guilt, and why the right words don't have to be hard to find.
 
 - [Polite No to Extra Client Work? The Self-Checkout Beep](https://blixwerkstudio.com/guides/how-to-politely-say-no-to-extra-work-from-client?s=github) – A client message arrives while you scan the milk: just one small extra thing. A story about finding a calm, polite way to say no to extra work.
@@ -1973,6 +1977,8 @@ Included (16 products, 175 USD if bought separately):
 - [Interview Tomorrow, Can't Remember What You Sent Them?](https://blixwerkstudio.com/guides/interview-tomorrow-cant-remember-what-i-sent-them?s=github) – Interview at 10 tomorrow, and you can't recall which CV or cover letter you sent. A quiet story about walking in prepared instead of guessing.
 
 - [Interviewed Last Week, No Reply? The Launderette Table](https://blixwerkstudio.com/guides/interviewed-last-week-no-reply-how-to-follow-up?s=github) – Interviewed a week ago and the inbox is silent? A story about the waiting, the follow-up you keep rewriting, and getting your calm back.
+
+- [El inventario no cuadra con las ventas: ¿me falta género?](https://blixwerkstudio.com/guides/inventario-no-cuadra-con-ventas-falta-mercancia-tienda?s=github) – Nueve cuadernos en el estante, catorce en la pantalla. Una historia sobre el inventario que no cuadra con las ventas y la calma que vuelve.
 
 - [Inventur, Zahlen stimmen nie? Der 2. Januar, 8:10 Uhr](https://blixwerkstudio.com/guides/inventur-kleines-geschaeft-zahlen-stimmen-nie?s=github) – Zwei Zahlen, ein Regal: Jonas zählt Schläuche und Ketten, und nichts passt zur Liste. Eine Geschichte über Inventur im kleinen Geschäft.
 
@@ -2537,6 +2543,8 @@ Included (16 products, 175 USD if bought separately):
 - [Selbstständig überfordert: Rechnungen, Stunden und Lager überall](https://blixwerkstudio.com/guides/selbstaendig-ueberfordert-rechnungen-stunden-lager-chaos?s=github) – Im Zug zum Steuerberater, fünf Orte für drei Themen: Rechnungen, Stunden, Lager. Eine Geschichte für alle, die das Gefühl kennen, nichts im Griff zu haben.
 
 - [Selbstgemachtes verkaufen – verdiene ich überhaupt was?](https://blixwerkstudio.com/guides/selbstgemachtes-verkaufen-preis-kalkulieren-verdiene-ich-was?s=github) – Sonntag, 14:20, Handwerkermarkt: Jemand fragt nach dem Preis deiner Kerze, und du weißt nicht, ob du daran überhaupt etwas verdienst.
+
+- [Auftragsflaute im Winter? Der Eiskratzer um 7:50 Uhr](https://blixwerkstudio.com/guides/selbststaendig-angst-vor-auftragsflaute-im-winter?s=github) – Selbstständig und Angst vor der Auftragsflaute im Winter? Eine Geschichte über leere Kalenderwochen und die Ruhe, die ein einfacher Plan bringen kann.
 
 - [Selbstständig und alles chaotisch? Der Elternabend, 19:40](https://blixwerkstudio.com/guides/selbststaendig-chaos-rechnungen-preise-planung-system?s=github) – Rechnungen, Preise, Planung: alles im Kopf und auf Zetteln? Eine Geschichte über das Freelancer-Chaos und darüber, wie ein ruhiger Montag aussieht.
 
