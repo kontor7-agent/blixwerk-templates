@@ -1346,6 +1346,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Track Job Applications? The Noodle Stall Email](https://blixwerkstudio.com/guides/cant-keep-track-of-job-applications?s=github) – An interview invite arrives and you can't remember the company. A lunchtime story for anyone losing track of job applications and who replied.
 
+- [Bank Payments Won't Match Your Invoices? The Paint Mixer](https://blixwerkstudio.com/guides/cant-match-bank-payments-to-freelance-invoices?s=github) – Three deposits, three vague bank lines, and a paint mixer that takes twelve minutes. A story for freelancers who can't match payments to invoices.
+
 - [Not Sure You Billed Your Retainer Client? The Lido Café](https://blixwerkstudio.com/guides/cant-remember-if-i-billed-my-retainer-client-this-month?s=github) – Your retainer client pays the same every month, so why can't you remember if you sent this month's invoice? A calm story about the 'did I?' feeling.
 
 - [Did I Invoice Last Month's Work? The Bowling Alley Shoes](https://blixwerkstudio.com/guides/cant-remember-if-i-invoiced-client-last-month?s=github) – Standing in rented bowling shoes, you can't remember if you invoiced September's work. A calm story about knowing what you billed without digging.
@@ -1659,6 +1661,8 @@ Included (16 products, 175 USD if bought separately):
 - [Customer Ordered Something Sold Out? The Theatre Interval](https://blixwerkstudio.com/guides/customer-ordered-something-sold-out-again?s=github) – The phone buzzes in the interval queue: an order for a jar you sold out of last week. A short story about stock that stops surprising you.
 
 - [Customer Says Your Quote Is Too Expensive? Hallway Tea](https://blixwerkstudio.com/guides/customer-said-my-quote-is-too-expensive-can-i-lower-it?s=github) – The customer says your quote is too expensive and you can't tell if you can go lower. A tradesperson's Thursday morning, and a calmer way to know your floor.
+
+- [Final Bill Higher Than Your Quote? The Paint Tin Lid](https://blixwerkstudio.com/guides/customer-says-final-bill-higher-than-quote-what-do-i-do?s=github) – The customer holds your invoice and says it's higher than the quote. A painter's quiet moment in a finished hallway, and a calmer way to price jobs.
 
 - [Customer Sent a Security Questionnaire? The Cake Counter](https://blixwerkstudio.com/guides/customer-sent-security-questionnaire-api-dont-know-answers?s=github) – A customer's security questionnaire about your API lands while you wait for a cake. Half the questions make you freeze. Here's how that moment can feel calmer.
 
@@ -2152,6 +2156,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde verspricht Zahlung, aber nichts kommt? Die Parkbank](https://blixwerkstudio.com/guides/kunde-verspricht-zahlung-aber-nichts-kommt-freelancer?s=github) – Donnerstag, 12:20, Banking-App zum x-ten Mal: Der Kunde verspricht zu zahlen, aber nichts kommt. Eine Geschichte über mehr Ruhe.
 
+- [Zahlung „kommt bald“, nichts da? Kanupause auf der Lahn](https://blixwerkstudio.com/guides/kunde-verspricht-zahlung-nichts-kommt-freelancer-erinnerung?s=github) – Dein Kunde schreibt wieder „Zahlung kommt bald“, und auf dem Konto passiert nichts. Eine Geschichte über Mahnen ohne Betteln und den Kopf, der Pause machen darf.
+
 - [Kunde will 90 Tage Zahlungsziel? Der Videocall um 11:20](https://blixwerkstudio.com/guides/kunde-will-90-tage-zahlungsziel-freelancer?s=github) – Der Kunde nennt 90 Tage Zahlungsziel, und deine Miete ist in zwei Wochen fällig. Eine Geschichte über Ruhe, wenn Geld spät kommt.
 
 - [Kunde will alle Rohbilder? Mehr Stunden als gebucht](https://blixwerkstudio.com/guides/kunde-will-alle-rohbilder-mehr-stunden-als-gebucht-fotograf?s=github) – Der Kunde will alle Rohbilder und zwei Stunden mehr als gebucht. Du stehst mit der Kamera am Buffet und weißt nicht, was vereinbart war. Eine Szene.
@@ -2419,6 +2425,8 @@ Included (16 products, 175 USD if bought separately):
 - [Preise erhöhen bei Bestandskunden? Die Ladesäule, 15:40](https://blixwerkstudio.com/guides/preise-erhoehen-bestandskunden-freelance-angst?s=github) – Preise bei Stammkunden erhöhen, aber die Mail bleibt im Entwurf? Eine Geschichte von der Ladesäule und der Ruhe, die danach kam.
 
 - [Presupuesto de una obra y no sé cuánto cobrar: el baño](https://blixwerkstudio.com/guides/presupuesto-obra-cuanto-cobrar-materiales-mano-de-obra?s=github) – Con el metro en la mano y el cliente esperando un precio, no sabes cuánto cobrar entre materiales y mano de obra. Una historia.
+
+- [Presupuesto para pintar un piso: el miedo a quedarte corto](https://blixwerkstudio.com/guides/presupuesto-pintar-piso-cuanto-cobrar-sin-quedarme-corto?s=github) – Sábado por la mañana, un piso vacío y una clienta esperando el precio. Una historia sobre presupuestar una pintura sin regalar tu trabajo.
 
 - [Cliente pide presupuesto urgente y no sé cuánto tardo](https://blixwerkstudio.com/guides/presupuesto-urgente-no-se-cuanto-tiempo-me-llevara?s=github) – Te piden un presupuesto para hoy y no sabes cuánto tiempo llevará. Una mañana en una cocina ajena y cómo se siente tener los números a mano.
 
