@@ -1576,6 +1576,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cliente tóxico y autónomo: cómo dejarlo sin quedar mal (un lunes)](https://blixwerkstudio.com/guides/cliente-toxico-autonomo-como-dejar-de-trabajar-con-el-sin-quedar-mal?s=github) – Lunes, 9:10, otro mensaje de ese cliente. Una historia sobre cómo despedirte de un cliente tóxico sin quedar mal y recuperar la calma.
 
+- [Cliente pide trabajo urgente en fin de semana: ¿recargo?](https://blixwerkstudio.com/guides/cliente-trabajo-urgente-fin-de-semana-recargo-freelance?s=github) – Sábado por la mañana, en la cola del mercado, te llega un «¿puedes para el lunes?». Una historia sobre cobrar el recargo sin pedir perdón.
+
 - [Cobrar por proyecto o por hora: el café con Lucía](https://blixwerkstudio.com/guides/cobrar-por-proyecto-o-por-hora-freelance?s=github) – Te piden precio cerrado o por horas y te quedas en blanco. Una historia sobre cobrar por proyecto o por hora sin miedo a equivocarte.
 
 - [Cobrar en dólares y no saber qué tarifa por hora poner](https://blixwerkstudio.com/guides/cobro-en-dolares-clientes-estados-unidos-tarifa-por-hora?s=github) – Un cliente de Estados Unidos te pregunta tu tarifa por hora y te quedas en blanco. Una historia sobre cobrar en dólares con más calma.
@@ -2180,6 +2182,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde zahlt jeden Monat zu spät – aufhören? Montag, 9:15](https://blixwerkstudio.com/guides/kunde-zahlt-jeden-monat-zu-spaet-aufhoeren?s=github) – Er ist nett, aber das Geld kommt jeden Monat zu spät. Eine Geschichte über Bauchweh, Kunden, die du magst, und die Frage: bleiben oder gehen?
 
+- [Verzugszinsen verlangen? Kunde zahlt monatelang zu spät](https://blixwerkstudio.com/guides/kunde-zahlt-monatelang-zu-spaet-verzugszinsen-freiberufler?s=github) – Der Kunde zahlt seit Monaten nicht, die Bank wartet. Darf man Verzugszinsen verlangen – und wie sagst du es, ohne zu betteln? Eine Geschichte.
+
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://blixwerkstudio.com/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
 - [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://blixwerkstudio.com/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
@@ -2369,6 +2373,8 @@ Included (16 products, 175 USD if bought separately):
 - [Overwhelmed by Social Media? No Plan for What to Post This Week](https://blixwerkstudio.com/guides/overwhelmed-by-social-media-no-plan-what-to-post-this-week?s=github) – Phone in hand at the laundromat, twelve half-ideas and no plan for this week's posts. A calm story about showing up without the dread.
 
 - [Overwhelmed Planning 2027 as a Freelancer? The Spa Day](https://blixwerkstudio.com/guides/overwhelmed-planning-next-year-freelancer-no-structure?s=github) – A spa day that wasn't restful, because next year had no shape. A quiet story for freelancers who feel overwhelmed planning 2027 with no structure.
+
+- [Overwrote a File, No Backup? The Left-Luggage Counter](https://blixwerkstudio.com/guides/overwrote-important-file-no-backup?s=github) – You hit Save over the one file that mattered, and there's no backup. A calm story about that stomach drop, and what a quiet Monday looks like after.
 
 - [Los padres no pagan la mensualidad y me da apuro reclamar](https://blixwerkstudio.com/guides/padres-no-pagan-mensualidad-clases-apuro-reclamar?s=github) – Entre dos clases miras el móvil y no sabes quién te debe la mensualidad. Una historia sobre reclamar sin apuro y volver a respirar con calma.
 
@@ -2705,6 +2711,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stock Runs Out Before You Notice? The Hotel Basket Call](https://blixwerkstudio.com/guides/stock-keeps-running-out-before-i-notice-small-shop?s=github) – A hotel wants 30 tins by Friday and you say yes before checking the shelf. A small-shop story about stock that runs out before you notice, and the calm after.
 
 - [Keep Selling Items You Don't Have? The Cinema Foyer](https://blixwerkstudio.com/guides/stop-overselling-items-not-in-stock-small-shop?s=github) – The trailers are rolling when your phone buzzes: another order for the last skein, sold twice. A quiet story for shop owners who keep overselling.
+
+- [Should I Stop Working for a Client Who Hasn't Paid?](https://blixwerkstudio.com/guides/stop-working-for-client-who-hasnt-paid-invoice?s=github) – The client wants phase two on Monday, but the last invoice is still open. A quiet story about pausing without a fight, and sleeping better.
 
 - [Students Paying Late for Lessons? The Staff Room Printer](https://blixwerkstudio.com/guides/students-paying-late-for-lessons-private-tutor-track?s=github) – Wednesday, 8:50, a printer jams and you can't say which students still owe you for lessons. A calm story for private tutors who chase payments from memory.
 
