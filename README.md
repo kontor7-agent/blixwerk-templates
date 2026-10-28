@@ -1314,6 +1314,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Bombed an Interview, Can't Recall What You Said?](https://blixwerkstudio.com/guides/bombed-interview-cant-remember-what-i-said-prepare-better?s=github) – You walked out of the interview and the answers blurred. Here is a calm story about what to do with that sinking feeling, and how to prepare next time.
 
+- [Boss Asked If Our API Is Secure? The Dishwasher Silence](https://blixwerkstudio.com/guides/boss-asked-if-our-api-is-secure?s=github) – Your boss asks if the API is secure while you stand by the dishwasher, and all you have is 'I think so.' A calm story about a better answer.
+
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://blixwerkstudio.com/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
 
 - [Rewriting Data Scripts Again? The Cottage Week Off](https://blixwerkstudio.com/guides/rewriting-data-scripts-again-data-cleaning-file-automation?s=github) – A week off that isn't one: the same CSV cleanup, rewritten from scratch on a cottage sofa. A story for developers tired of rebuilding old scripts.
@@ -1480,6 +1482,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
 
+- [Client Pays When Their Client Pays? The Egg Timer](https://blixwerkstudio.com/guides/client-says-they-will-pay-once-their-customer-pays?s=github) – "I'll pay you once my client pays me." A freelancer's quiet Monday with an egg timer, and a calmer way to answer without begging.
+
 - [Client Says You Never Billed Them? The Parking Meter](https://blixwerkstudio.com/guides/client-says-you-never-billed-last-month-cant-prove-hours?s=github) – A client says you never billed last month, and you can't prove which hours you worked. A short story about that call, and the calmer Monday after it.
 
 - [Client Sent No Brief but Wants It Tomorrow? Farm Shop Box](https://blixwerkstudio.com/guides/client-sent-no-brief-expects-results-tomorrow-freelance?s=github) – No brief, no files, and a client who wants results tomorrow. A freelancer's Thursday at a farm shop, and a calmer way to begin next time.
@@ -1513,6 +1517,8 @@ Included (16 products, 175 USD if bought separately):
 - [Canceló la sesión de fotos a última hora y perdí el día](https://blixwerkstudio.com/guides/cliente-cancelo-sesion-de-fotos-ultima-hora-fotografo-autonomo?s=github) – Sábado, 7:40, el coche cargado y un mensaje: «hoy no podemos». Una historia para fotógrafos autónomos que pierden el día por una cancelación.
 
 - [Entregué el trabajo, el cliente desapareció y no me paga](https://blixwerkstudio.com/guides/cliente-desaparecio-despues-de-entregar-el-trabajo-no-paga?s=github) – Entregaste el trabajo, él dejó de contestar y la factura sigue ahí. Una historia sobre cobrar sin suplicar y recuperar la calma.
+
+- [El material no estaba en el presupuesto y lo pago yo](https://blixwerkstudio.com/guides/cliente-dice-presupuesto-no-incluia-material?s=github) – Dice que el material no estaba en el presupuesto y lo pagas tú de tu bolsillo. Una mañana en la ferretería y lo que cambia cuando ya no pasa.
 
 - [Cliente dice que cobré horas de más y no tengo registro](https://blixwerkstudio.com/guides/cliente-dice-que-cobre-mas-horas-de-las-que-trabaje-sin-registro?s=github) – Tu cliente duda de las horas de la factura y no tienes registro. Una videollamada de martes y cómo se siente tenerlo todo claro.
 
@@ -2175,6 +2181,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde will ständig Gratis-Extras? Die Tiefgarage, 8:55](https://blixwerkstudio.com/guides/kunde-will-staendig-gratis-extras-nein-sagen-ohne-verlieren?s=github) – Noch eine „kleine Sache“, natürlich ohne Aufpreis. Wie Mareike in der Tiefgarage lernt, Nein zu sagen, ohne den Kunden zu verlieren.
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
+
+- [Kunde schreibt wütend wegen Rechnung? Die Post-Schlange](https://blixwerkstudio.com/guides/kunde-wuetende-mail-rechnung-ruhig-antworten?s=github) – Wütende Mail zur Rechnung, und du stehst in der Post-Schlange? Eine Geschichte darüber, wie du ruhig antwortest, statt im Kopf zu streiten.
 
 - [Kunde zahlt erst, wenn sein Kunde zahlt? Das Laufband](https://blixwerkstudio.com/guides/kunde-zahlt-erst-wenn-sein-kunde-zahlt-freelancer?s=github) – „Wir zahlen, sobald unser Kunde zahlt.“ Ein Anruf auf dem Laufband, ein flaues Gefühl im Bauch und die Frage, wie du ruhig bleibst.
 
