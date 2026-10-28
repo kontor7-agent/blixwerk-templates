@@ -1576,6 +1576,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Creo que cobro poco a mis clientes y me da miedo subir tarifas](https://blixwerkstudio.com/guides/cobro-poco-a-mis-clientes-miedo-subir-tarifas?s=github) – Un jueves, junto a la máquina de café del coworking, una frase te hace dudar de lo que cobras. Una historia para quien teme subir sus tarifas.
 
+- [Committed an API Key to GitHub? What Else Did I Miss?](https://blixwerkstudio.com/guides/committed-api-key-to-github-what-else-did-i-miss?s=github) – You pushed an API key to GitHub and fixed it in minutes. The real question is what else you missed. A quiet story from under the salon foils.
+
 - [Cómo decirle a los padres que subo el precio de las clases](https://blixwerkstudio.com/guides/como-decirle-a-los-padres-que-subo-el-precio-de-las-clases-particulare?s=github) – Llevas tres años cobrando lo mismo y la madre de Pablo te saluda en la panadería. Una historia sobre subir el precio de las clases sin que se te encoja el estómago.
 
 - [Cuento el inventario a mano y nunca me cuadra (lunes)](https://blixwerkstudio.com/guides/contar-inventario-a-mano-nunca-cuadra?s=github) – Lunes, 8:15, persiana a medias y una libreta llena de tachones. Contar el inventario de tu tienda a mano y que nunca cuadre tiene una salida más tranquila.
@@ -1655,6 +1657,8 @@ Included (16 products, 175 USD if bought separately):
 - [Customer Sent a Security Questionnaire? The Cake Counter](https://blixwerkstudio.com/guides/customer-sent-security-questionnaire-api-dont-know-answers?s=github) – A customer's security questionnaire about your API lands while you wait for a cake. Half the questions make you freeze. Here's how that moment can feel calmer.
 
 - [Sold Out and Didn't Know? The Driving Test Waiting Room](https://blixwerkstudio.com/guides/customer-wanted-to-buy-sold-out-didnt-know?s=github) – A customer wanted to buy and you were already sold out without knowing. A quiet story from a waiting room about how that stops being a surprise.
+
+- [Customer Wants Extra Work on Your Quote? The Ladder Pause](https://blixwerkstudio.com/guides/customer-wants-extra-work-on-top-of-quote?s=github) – You're up the ladder and the customer adds one more job. A quiet story about saying yes to extra work and still getting paid for it, without losing them.
 
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
@@ -2180,6 +2184,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Tutor Students Pay Late, Cancel Late? The Car Outside Number 14](https://blixwerkstudio.com/guides/private-tutor-lesson-log-invoice-tracker-late-payments-cancellations?s=github) – Your 4 pm student cancels by text while you sit outside in the rain. Who is behind, what it costs, and when to raise your rate – a tutor's story.
 
+- [Lieferant erhöht Preise: Verdienst du noch? Samstag, 6:50](https://blixwerkstudio.com/guides/lieferant-erhoeht-preise-verdiene-ich-noch-etwas?s=github) – Der Lieferant hat die Preise erhöht, und du weißt nicht, ob sich dein Sortiment noch lohnt. Eine Geschichte vom Samstagmorgen am Marktstand.
+
 - [Lieferant liefert zu spät, Ware ist aus? Der Anruf um 11:20 Uhr](https://blixwerkstudio.com/guides/lieferant-liefert-zu-spaet-ware-ist-aus?s=github) – Der Lieferant meldet sich: drei Wochen Verzug. Im Shop steht noch „2 verfügbar“. Eine Geschichte über leere Regale und die Ruhe, die danach möglich ist.
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://blixwerkstudio.com/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
@@ -2431,6 +2437,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi proveedor tarda semanas: ¿cuándo pido el género?](https://blixwerkstudio.com/guides/proveedor-tarda-semanas-me-quedo-sin-genero-cuando-pedir?s=github) – Tu proveedor tarda tres semanas y tu producto estrella ya se agotó. Una historia sobre pedir a tiempo sin adivinar, desde la cola de la panadería.
 
 - [Mi proyecto se alargó y cobré lo mismo como autónomo](https://blixwerkstudio.com/guides/proyecto-se-alargo-cobre-lo-mismo-autonomo?s=github) – En la cola del pan llega el mensaje: «¿Cerramos ya?». El proyecto duró el triple y la factura es la misma. Una historia sobre verlo a tiempo.
+
+- [Cliente que siempre paga tarde: ¿puedo cobrar recargo?](https://blixwerkstudio.com/guides/puedo-cobrar-recargo-cliente-que-paga-tarde?s=github) – Tiendes la ropa, abres la app del banco y otra vez nada. ¿Puedes cobrar un recargo a ese cliente? Una historia sobre cobrar sin sentirte mal.
 
 - [Mi script de Python falla con un CSV roto y entrego hoy](https://blixwerkstudio.com/guides/python-script-falla-csv-error-codificacion-entrego-hoy?s=github) – Son las 11:20, tu script de Python se cae con un CSV lleno de caracteres raros y la entrega es hoy. Una historia sobre volver a respirar.
 
