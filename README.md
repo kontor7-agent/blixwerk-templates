@@ -1230,6 +1230,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Facturas, stock y clientes en excels sueltos: un lunes distinto](https://blixwerkstudio.com/guides/agobiado-administracion-negocio-pequeno-excels-sueltos?s=github) – Siete archivos abiertos, una llamada de un cliente y ninguna respuesta rápida. Una historia sobre ordenar facturas, stock y clientes sin sentirte perdido.
 
+- [Alquilo una silla en una peluquería: ¿me sale a cuenta?](https://blixwerkstudio.com/guides/alquilo-una-silla-en-una-peluqueria-me-sale-a-cuenta?s=github) – La dueña te sube el alquiler de la silla y no sabes si te sale a cuenta. Una historia sobre mirar tus números con calma, sin hojas sueltas.
+
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://blixwerkstudio.com/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
 
 - [Alumno cancela la clase a última hora: ¿pierdo el dinero?](https://blixwerkstudio.com/guides/alumno-cancela-clase-ultima-hora-pierdo-dinero?s=github) – Son las 15:52, tu alumno escribe que no llega y el hueco ya no se llena. Una historia sobre cancelaciones de última hora y cómo dejar de callarte.
@@ -1746,6 +1748,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://blixwerkstudio.com/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
 
+- [External Hard Drive Died, No Backup? The Tuesday Click](https://blixwerkstudio.com/guides/external-hard-drive-died-no-backup-client-work?s=github) – The drive with every client project starts clicking at 8:40 am, and there is no backup. A calm story about what changes once someone else watches your files.
+
 - [Factura impagada me quita el sueño: comida del domingo](https://blixwerkstudio.com/guides/factura-impagada-me-quita-el-sueno-autonomo?s=github) – Comida familiar de domingo y tú mirando el móvil: la factura impagada sigue ahí. Una historia sobre apuro, autónomos y volver a dormir con calma.
 
 - [Factura con importe equivocado: mi facturación es un lío](https://blixwerkstudio.com/guides/factura-importe-equivocado-facturacion-desordenada?s=github) – Mandaste la factura con un importe que no era y el cliente te llama a las diez. Una historia sobre facturar con calma, sin miedo a equivocarte.
@@ -1767,6 +1771,8 @@ Included (16 products, 175 USD if bought separately):
 - [Guessing Your Freelance Hourly Rate? The Required Field](https://blixwerkstudio.com/guides/first-year-freelancing-what-hourly-rate-should-i-charge?s=github) – A required field, a blinking cursor, and a number you're making up. A first-year freelancer's story about guessing your hourly rate.
 
 - [Overdue Invoice Follow-Up Without Sounding Desperate](https://blixwerkstudio.com/guides/follow-up-overdue-invoice-without-sounding-rude?s=github) – You're in the cheese queue, the invoice is 19 days late, and every email draft sounds either grovelling or furious. There's a calmer way to follow up.
+
+- [Forget Deadlines Despite Phone Reminders? The Plum Stall](https://blixwerkstudio.com/guides/forget-deadlines-appointments-despite-phone-reminders?s=github) – Your phone buzzed. You swiped it away. A quiet story for freelancers who forget appointments even with reminders, and what a calmer week can feel like.
 
 - [Keep Forgetting to Chase Unpaid Invoices? The Fishmonger's Queue](https://blixwerkstudio.com/guides/forget-to-chase-unpaid-invoices-freelancer?s=github) – You meant to chase that invoice three weeks ago. A Saturday queue, a number in your head, and a calmer way to remember who still owes you.
 
@@ -2845,6 +2851,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zu viele Excel-Listen, nichts passt? Die Dönerschlange](https://blixwerkstudio.com/guides/zu-viele-excel-tabellen-kleiner-betrieb-nichts-passt?s=github) – Fünf Tabellen, fünf Wahrheiten, und keine passt zur anderen. Eine Geschichte für alle, die ihren kleinen Betrieb in Excel jonglieren.
 
 - [Zweite Zahlungserinnerung ignoriert? Die Kaffeetafel](https://blixwerkstudio.com/guides/zweite-zahlungserinnerung-ignoriert-was-tun?s=github) – Die zweite Erinnerung blieb unbeantwortet, und du sitzt beim Kaffee mit dem Handy unterm Tisch. Eine Geschichte über Ruhe beim Nachhaken.
+
+- [Zweite Zahlungserinnerung schreiben? Die Malerleiter](https://blixwerkstudio.com/guides/zweite-zahlungserinnerung-netter-kunde?s=github) – Du magst den Kunden, die Rechnung ist trotzdem überfällig. Eine Geschichte über die zweite Zahlungserinnerung – und wie sie leichter wird.
 
 ## Support
 
