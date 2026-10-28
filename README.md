@@ -1440,6 +1440,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Paid the Wrong Amount? The Copy Shop and the 2,000 Mystery](https://blixwerkstudio.com/guides/client-paid-wrong-amount-invoice-what-is-still-owed?s=github) – A payment lands, but it matches nothing. Two invoices, one transfer, a gap you can't explain. A quiet story about knowing what's still owed.
 
+- [Client Pays 45 Days Late Every Month? The Shoe Shop Queue](https://blixwerkstudio.com/guides/client-pays-45-days-late-every-month?s=github) – The money lands on day 45, every month. A freelancer, a card reader in a shoe-shop queue, and a calmer way to deal with a client who's always late.
+
 - [Client Pays 60 Days Late on Net 30? The Fire Drill](https://blixwerkstudio.com/guides/client-pays-60-days-late-net-30-how-to-stop-it?s=github) – Net 30 turned into day 60 again. A freelancer at a fire drill, a quiet bank app, and a calmer way to chase money without begging.
 
 - [Client Promised to Pay Twice, Still Nothing? What to Say](https://blixwerkstudio.com/guides/client-promised-to-pay-twice-still-nothing-what-to-say?s=github) – They said Friday. Then 'next week, for sure.' Still nothing. A quiet story about the third message and how to send it without feeling like you're begging.
@@ -1559,6 +1561,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente paga tarde y no llego a la cuota de autónomos](https://blixwerkstudio.com/guides/cliente-paga-tarde-no-llego-cuota-autonomos?s=github) – El día 28, el móvil vibra con el aviso del banco y la factura de tu cliente sigue sin pagarse. Una historia sobre cobrar tarde y recuperar la calma.
 
 - [Me pagó menos de la factura y no sé cuánto me debe](https://blixwerkstudio.com/guides/cliente-pago-menos-de-la-factura-cuanto-me-debe?s=github) – Son las 9:15, miras el móvil en la cola de la panadería y el ingreso no coincide con la factura. ¿Falta dinero? Una historia para quien ha pasado por ahí.
+
+- [Me pide los RAW y no sé cuánto cobrar como fotógrafa](https://blixwerkstudio.com/guides/cliente-pide-archivos-raw-sesion-cuanto-cobrar-fotografo-autonomo?s=github) – El cliente te pide los RAW de la sesión y se te queda la mente en blanco. Una historia sobre poner precio con calma, sin apuro.
 
 - [Ya entregué y el cliente pide descuento: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-pide-descuento-despues-de-entregar-el-proyecto?s=github) – Entregaste el proyecto y ahora el cliente pide descuento. Una escena de parque, un móvil que vibra y una forma más tranquila de responder.
 
@@ -1950,6 +1954,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Gehalt in Stundensatz umrechnen? Der Abschiedskuchen](https://blixwerkstudio.com/guides/gehalt-in-stundensatz-umrechnen-freiberufler?s=github) – Letzter Arbeitstag, Kuchen im Büro und die Frage, die du nicht beantworten kannst: Wie wird aus deinem Gehalt ein Stundensatz? Eine Geschichte.
 
+- [Gekündigt, 40 Bewerbungen, kein Überblick? Der Flur, 9:20](https://blixwerkstudio.com/guides/gekuendigt-bewerbungen-ueberblick-behalten?s=github) – Gekündigt, dutzende Bewerbungen raus und du weißt nicht mehr, wo du dich wann beworben hast? Eine Geschichte über Ruhe im Kopf statt Zettelchaos.
+
 - [Mi gestor pide las facturas del trimestre y no las tengo](https://blixwerkstudio.com/guides/gestor-pide-facturas-gastos-trimestre-no-las-tengo-ordenadas?s=github) – Un mensaje de tu gestor, una guantera llena de tickets y el viernes encima. Una historia sobre llegar al trimestre con calma.
 
 - [Got a Callback, Can't Remember the Job? The Pay Machine](https://blixwerkstudio.com/guides/got-a-callback-cant-remember-what-i-applied-for?s=github) – A company calls back and you can't remember what you applied for. A short story about that cold moment, and how a calmer job search feels.
@@ -1957,6 +1963,8 @@ Included (16 products, 175 USD if bought separately):
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
 
 - [Clients Cancel Last Minute at Your Salon? The 13:40 Text](https://blixwerkstudio.com/guides/hairdresser-clients-cancel-last-minute-losing-money?s=github) – A lunch break, a 'so sorry' text, and an empty chair. A calm story about last-minute cancellations and finally seeing what they cost you.
+
+- [Double Booked Clients, Tips and Cash Off? The Two Coats](https://blixwerkstudio.com/guides/hairdresser-double-booked-clients-tips-cash-dont-add-up?s=github) – Two clients at 11:00 and a cash jar that won't match the week. A story for solo stylists who want a calmer chair, calmer books and a calm Sunday.
 
 - [Handmade Profit After Fees? The Book Club Question](https://blixwerkstudio.com/guides/handmade-profit-after-fees?s=github) – Someone asks if your handmade shop is going well, and you say 'yes' without knowing. A quiet story about finding out what you really keep after fees.
 
