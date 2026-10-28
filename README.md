@@ -1486,6 +1486,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Taking Forever to Reply? Following Up Without Pushy](https://blixwerkstudio.com/guides/client-taking-forever-to-reply-how-to-follow-up-without-being-pushy?s=github) – Your client has gone quiet and every follow-up draft sounds either desperate or cross. A quiet Monday-morning story about finding the calm middle.
 
+- [Client Wants 90 Day Payment Terms? The Bike Rack Call](https://blixwerkstudio.com/guides/client-wants-90-day-payment-terms-freelancer?s=github) – The client says their standard is 90 days and you freeze at the bike rack. A calm story for freelancers who worry about long payment terms and chasing money.
+
 - [Client Wants a Call Tomorrow, No Kickoff Questions Ready?](https://blixwerkstudio.com/guides/client-wants-a-call-tomorrow-no-kickoff-questions?s=github) – A new client wants a call tomorrow at ten and you have no questions ready. A calm story about walking into a kickoff call prepared.
 
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://blixwerkstudio.com/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
@@ -1683,6 +1685,8 @@ Included (16 products, 175 USD if bought separately):
 - [Does My Hourly Rate Cover Taxes and Unpaid Time? The Bus Home](https://blixwerkstudio.com/guides/does-my-hourly-rate-cover-taxes-and-unpaid-time?s=github) – On the bus home, a nice number on an invoice suddenly feels too small. A quiet story about rates, taxes and the hours nobody pays you for.
 
 - [Can't Reply to a Difficult Client Email? The Ironing Board Monday](https://blixwerkstudio.com/guides/dont-know-how-to-reply-to-difficult-client-email-freelance?s=github) – The email lands at 7:52 on a Monday. You read it four times and still don't know what to write. A story for freelancers who freeze on hard replies.
+
+- [Dos listas de clientes en Excel y no sé cuáles me faltan](https://blixwerkstudio.com/guides/dos-listas-de-clientes-en-excel-cual-falta?s=github) – El gestor llama el jueves y tienes dos listas de clientes en Excel que no coinciden. Una historia sobre ordenar lo que falta sin perder la mañana.
 
 - [Mandé dos recordatorios y mi cliente sigue sin pagar](https://blixwerkstudio.com/guides/dos-recordatorios-de-pago-cliente-sigue-sin-pagar-que-escribir?s=github) – Dos recordatorios enviados, ni una respuesta y el cursor parpadeando. Una historia sobre qué escribir cuando un cliente sigue sin pagar, sin sentirte pidiendo limosna.
 
@@ -2198,6 +2202,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Semanas sin publicar en LinkedIn: ¿perderé clientes?](https://blixwerkstudio.com/guides/llevo-semanas-sin-publicar-en-linkedin-ansiedad-perder-clientes?s=github) – Seis semanas sin publicar en LinkedIn y la ansiedad de que se olviden de ti. Una historia sobre volver a aparecer sin el pánico del domingo.
 
+- [Made a Mistake on a Client Project? The Car Park Ticket](https://blixwerkstudio.com/guides/made-a-mistake-on-client-project-how-to-apologize-email-freelancer?s=github) – You spot your own mistake in a client's files while the car park barrier is stuck. The apology email you can't start, and what it quietly costs you.
+
 - [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
 
 - [Una mala reseña en Google y no sé cómo responder](https://blixwerkstudio.com/guides/mala-resena-google-no-se-como-responder?s=github) – Una estrella en Google a las 8:15, con la cola de la panadería delante. Una historia sobre responder a una mala reseña sin quedar mal.
@@ -2587,6 +2593,8 @@ Included (16 products, 175 USD if bought separately):
 - [Selbstständig und alles chaotisch? Der Elternabend, 19:40](https://blixwerkstudio.com/guides/selbststaendig-chaos-rechnungen-preise-planung-system?s=github) – Rechnungen, Preise, Planung: alles im Kopf und auf Zetteln? Eine Geschichte über das Freelancer-Chaos und darüber, wie ein ruhiger Montag aussieht.
 
 - [Selbstständig Jahresplanung 2027: Wo soll ich nur anfangen?](https://blixwerkstudio.com/guides/selbststaendig-jahresplanung-2027-wo-anfangen?s=github) – Am Stehtisch fragt jemand nach deinem 2027 und du sagst „läuft“. Eine Geschichte über den Moment, in dem aus Planlosigkeit ein erster ruhiger Schritt wird.
+
+- [Preise okay? Steuern zurückgelegt? Das Vorzimmer, 15:30](https://blixwerkstudio.com/guides/selbststaendig-preis-richtig-steuern-zuruecklegen-ueberblick?s=github) – Im Vorzimmer des Steuerberaters merkt Jonas: Er weiß weder, ob sein Preis passt, noch, was er zurückgelegt hat. Eine Geschichte über Ruhe im Kopf.
 
 - [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://blixwerkstudio.com/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
 
