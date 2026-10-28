@@ -1584,6 +1584,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Correos del negocio sin fin: ¿qué delego a la IA?](https://blixwerkstudio.com/guides/correos-del-negocio-que-delegar-a-la-ia?s=github) – Miércoles, 11:15, la bandeja llena de correos del negocio. Una historia sobre qué delegar a la IA y qué seguir haciendo tú, con calma.
 
+- [Craft Fair Customer Said Prices Too High? The Oak Board](https://blixwerkstudio.com/guides/craft-fair-customer-said-prices-too-high-underpricing-handmade?s=github) – A customer sighs at your price tag at the craft fair. Are you underpricing handmade work, or is the number fine? A quiet story about knowing.
+
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://blixwerkstudio.com/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
 
 - [Llevo años cobrando de menos y me da miedo subir mis tarifas](https://blixwerkstudio.com/guides/creo-que-llevo-anos-cobrando-poco-miedo-a-subir-tarifas?s=github) – Una mañana de domingo en el mercado, una cifra en la libreta y la sospecha de que llevas años cobrando de menos. Y el miedo a decirlo en voz alta.
@@ -1921,6 +1923,8 @@ Included (16 products, 175 USD if bought separately):
 - [Viel gearbeitet, am Monatsende bleibt nichts übrig? Das Wartezimmer](https://blixwerkstudio.com/guides/freiberufler-arbeitet-viel-monatsende-bleibt-nichts-uebrig?s=github) – Du arbeitest und arbeitest, und am Monatsende ist das Konto trotzdem fast leer. Eine Geschichte aus dem Wartezimmer der Steuerberaterin.
 
 - [Steuerfrist naht, Belege überall? Der Parkplatz um 9:48](https://blixwerkstudio.com/guides/freiberufler-steuerfrist-belege-chaos-parkplatz?s=github) – Zehn Minuten vor dem Termin sitzt du im Auto, neben dir ein Karton voller Belege. Eine Geschichte für alle, die jedes Jahr kurz vor der Frist suchen.
+
+- [Friend Hasn't Paid Your Invoice? The Opening-Day Latte](https://blixwerkstudio.com/guides/friend-hired-me-hasnt-paid-invoice-how-to-ask?s=github) – Your friend hired you, loves the work, and still hasn't paid. A quiet story about asking for your money without losing the friendship.
 
 - [Stuhlmiete, Friseurin: Wie viel für Steuern zurücklegen?](https://blixwerkstudio.com/guides/friseurin-stuhlmiete-steuern-zurcklegen?s=github) – Stuhlmieterin im Salon und keine Ahnung, was fürs Finanzamt zur Seite gehört? Eine Geschichte über Trinkgeld, Kartenzahlung und ruhige Zahlen.
 
@@ -2305,6 +2309,8 @@ Included (16 products, 175 USD if bought separately):
 - [No tengo tiempo para mis redes sociales y me siento culpable](https://blixwerkstudio.com/guides/no-tengo-tiempo-redes-sociales-negocio-culpable?s=github) – La cola de la panadería, el móvil en la mano y 19 días sin publicar. Una historia sobre la culpa de las redes y cómo bajarle el volumen.
 
 - [Nombres en mayúsculas y minúsculas en Excel: entrego hoy](https://blixwerkstudio.com/guides/nombres-mayusculas-minusculas-mezclados-excel-entrego-hoy?s=github) – Las acreditaciones se imprimen a las dos y la lista mezcla MAYÚSCULAS y minúsculas. Una historia para quien entrega hoy.
+
+- [Nur die Hälfte abrechenbar: Reicht dein Stundensatz?](https://blixwerkstudio.com/guides/nur-haelfte-stunden-abrechenbar-stundensatz-reicht-nicht?s=github) – Zehn Minuten zu früh vor dem Kundentermin fällt dir auf: Nur die Hälfte deiner Stunden landet auf der Rechnung. Reicht dein Stundensatz dann überhaupt?
 
 - [Cuentas en libretas y papeles: cómo ordenarlas en Excel](https://blixwerkstudio.com/guides/ordenar-cuentas-negocio-excel-libretas-papeles?s=github) – Libretas, tickets y notas pegadas en la pared. Una tapicera, una llamada de un cliente y la sensación de que ordenar las cuentas sí es posible.
 
@@ -2695,6 +2701,8 @@ Included (16 products, 175 USD if bought separately):
 - [Trabajo mal pagado como autónomo: ¿me compensa aceptarlo?](https://blixwerkstudio.com/guides/trabajo-mal-pagado-autonomo-me-compensa-aceptarlo?s=github) – Te ofrecen un trabajo mal pagado y el sí casi sale solo. Una historia sobre dudar en la cola de la farmacia y decidir con calma, sin culpa.
 
 - [Trabajo muchas horas y gano poco como freelance: el tren de vuelta](https://blixwerkstudio.com/guides/trabajo-muchas-horas-gano-poco-freelance-que-hago-mal?s=github) – Jueves, 18:10, en el tren de vuelta de una reunión. Trabajas más que nunca y la cuenta no lo refleja. Una historia para quien se pregunta qué hace mal.
+
+- [Traducción urgente a la misma tarifa: no sé decir que no](https://blixwerkstudio.com/guides/traduccion-urgente-misma-tarifa-por-palabra-como-decir-no?s=github) – La agencia quiere tu traducción esta noche, a la misma tarifa por palabra. Una historia sobre el nudo en el estómago y cómo ponerle números.
 
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://blixwerkstudio.com/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
 
