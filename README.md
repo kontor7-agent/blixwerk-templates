@@ -1206,6 +1206,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Accountant Wants Your Receipts? The Passport Office Ticket](https://blixwerkstudio.com/guides/accountant-wants-my-receipts-no-idea-where-they-are?s=github) – Waiting in line, your accountant's email lands: 'Please send all receipts by Friday.' You have no idea where half of them are. A calmer way is possible.
 
+- [ADHD Brain Fog, Can't Plan Your Day? The Cold Kettle](https://blixwerkstudio.com/guides/adhd-brain-fog-cant-plan-my-day-overwhelmed?s=github) – It's 10:40, the kettle has gone cold twice and you can't pick a first task. A quiet story for freelancers with ADHD brain fog who feel overwhelmed.
+
 - [Overwhelmed by To-Do Lists? The Monday Call Question](https://blixwerkstudio.com/guides/simple-printable-planner-overwhelmed-to-do-list-freelancer?s=github) – Monday, 9:05, a client asks what your priorities are this week, and your head fills with twenty things. A quiet story about a simpler planner.
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://blixwerkstudio.com/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
@@ -1251,6 +1253,8 @@ Included (16 products, 175 USD if bought separately):
 - [Did I Miss an API Security Check? The Handover Call at 10 am](https://blixwerkstudio.com/guides/api-security-check-before-launch-client-handover?s=github) – The client is waiting on the call, your API is ready, and one quiet thought won't leave: did I miss a security check? A calm story about shipping without doubt.
 
 - [The Night Before Launch: A REST API Security Checklist Story](https://blixwerkstudio.com/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
+
+- [Applied to 100 Jobs, No Reply? The Pub Quiz Tiebreaker](https://blixwerkstudio.com/guides/applied-to-100-jobs-no-reply?s=github) – You've applied to around a hundred jobs and heard almost nothing. A pub quiz tiebreaker, a blank answer, and a calmer way to see where you actually stand.
 
 - [Applied to Too Many Jobs? The Unknown Number Call](https://blixwerkstudio.com/guides/applied-to-so-many-jobs-cant-remember-which-replied?s=github) – An unknown number rings at the self-checkout and you can't place the company. A story about blurred job applications, and the calm that follows.
 
@@ -2577,6 +2581,8 @@ Included (16 products, 175 USD if bought separately):
 - [Selling on Etsy but Not Making Money? The Stall Form](https://blixwerkstudio.com/guides/selling-on-etsy-not-making-money?s=github) – Orders keep coming, the shop looks busy, yet your account says otherwise. A quiet story for makers who suspect they're not really earning on Etsy.
 
 - [Invoice Sent Two Months Ago, No Reply? The Radiator Key](https://blixwerkstudio.com/guides/sent-invoice-two-months-ago-no-reply-what-now?s=github) – You sent the invoice two months ago and heard nothing. A quiet Monday story about the silence, and how to stop wondering who still owes you.
+
+- [Separar la dirección en Excel: 5000 filas y una llamada](https://blixwerkstudio.com/guides/separar-direccion-en-columnas-excel-5000-filas?s=github) – Tienes 5000 direcciones en una sola celda y el cliente espera a las 11. Una historia para quien no logra separarlas en columnas en Excel.
 
 - [Ser autónomo me supera: cobros, precios y papeleo](https://blixwerkstudio.com/guides/ser-autonomo-me-supera-cobros-precios-papeleo?s=github) – Comida de domingo, el móvil vibra y una lista infinita en notas: cobros, precios, papeleo. Una historia para quien no sabe por dónde empezar.
 
