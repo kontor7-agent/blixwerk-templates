@@ -1590,6 +1590,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente me pide factura con IRPF e IVA y me bloqueo](https://blixwerkstudio.com/guides/cliente-pide-factura-con-irpf-e-iva-no-se-como-ponerlo?s=github) – El cliente pide factura con IRPF e IVA y te quedas en blanco en plena llamada. Una historia sobre pasar del bloqueo a la calma, sin fórmulas.
 
+- [Me piden otra vez documentos para pagar mi factura](https://blixwerkstudio.com/guides/cliente-pide-otra-vez-documentos-pagar-factura?s=github) – Tercer correo pidiendo el mismo PDF y tu factura sigue sin pagar. Una historia sobre dejar de sentirte en deuda con quien te debe.
+
 - [El cliente promete pagar y nunca paga: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-promete-pagar-factura-y-no-paga-que-le-digo?s=github) – Te dice «esta semana sin falta» por cuarta vez. Una historia sobre qué decir cuando el cliente promete pagar la factura y no paga.
 
 - [Mi cliente quiere ampliar el proyecto sin pagar más](https://blixwerkstudio.com/guides/cliente-quiere-ampliar-el-proyecto-sin-pagar-mas?s=github) – Sábado, la cola de la panadería y un mensaje: «ya que estás, ¿me haces también…?». Cuando el cliente amplía el proyecto y no sabes cómo decírselo.
@@ -2003,6 +2005,8 @@ Included (16 products, 175 USD if bought separately):
 - [Gehalt in Stundensatz umrechnen? Der Abschiedskuchen](https://blixwerkstudio.com/guides/gehalt-in-stundensatz-umrechnen-freiberufler?s=github) – Letzter Arbeitstag, Kuchen im Büro und die Frage, die du nicht beantworten kannst: Wie wird aus deinem Gehalt ein Stundensatz? Eine Geschichte.
 
 - [Gekündigt, 40 Bewerbungen, kein Überblick? Der Flur, 9:20](https://blixwerkstudio.com/guides/gekuendigt-bewerbungen-ueberblick-behalten?s=github) – Gekündigt, dutzende Bewerbungen raus und du weißt nicht mehr, wo du dich wann beworben hast? Eine Geschichte über Ruhe im Kopf statt Zettelchaos.
+
+- [Geld reicht nächsten Monat? Die Schlange an der Zoo-Kasse](https://blixwerkstudio.com/guides/geld-reicht-naechsten-monat-freelancer-angst?s=github) – Samstag an der Zoo-Kasse, der Kontostand im Kopf: eine Geschichte für alle, die als Selbstständige nie wissen, ob das Geld nächsten Monat reicht.
 
 - [Mi gestor pide las facturas del trimestre y no las tengo](https://blixwerkstudio.com/guides/gestor-pide-facturas-gastos-trimestre-no-las-tengo-ordenadas?s=github) – Un mensaje de tu gestor, una guantera llena de tickets y el viernes encima. Una historia sobre llegar al trimestre con calma.
 
