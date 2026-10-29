@@ -1308,6 +1308,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Bewerbungen im Überblick behalten? Der Anruf an der Ampel](https://blixwerkstudio.com/guides/bewerbungen-ueberblick-behalten-excel?s=github) – Du hast dich so oft beworben, dass du nicht mehr weißt, wo. Eine Geschichte über einen Anruf an der Ampel und wie wieder Ruhe in dein Bewerben kommt.
 
+- [Beworben, keine Antwort? Wann nachhaken? Gepäckband 4](https://blixwerkstudio.com/guides/beworben-keine-antwort-wann-nachfragen?s=github) – Vor drei Wochen beworben, seitdem Stille. Eine Geschichte vom Gepäckband über das Warten und den Moment, in dem das Nachhaken ruhig wird.
+
 - [Billed the Wrong Hours? The Meatball Queue Panic](https://blixwerkstudio.com/guides/billed-client-wrong-hours-panic?s=github) – The client emails: 'Are these hours right?' and your stomach drops. A calm story about checking, correcting and never guessing at your hours again.
 
 - [Billed a Client Twice by Mistake? The Pumpkin Patch Panic](https://blixwerkstudio.com/guides/billed-same-client-hours-twice-panic?s=github) – You think you billed the same client hours twice, and you're standing in a field with a paper cup. A story about the panic, and the calmer way after it.
@@ -2246,6 +2248,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Una mala reseña en Google y no sé cómo responder](https://blixwerkstudio.com/guides/mala-resena-google-no-se-como-responder?s=github) – Una estrella en Google a las 8:15, con la cola de la panadería delante. Una historia sobre responder a una mala reseña sin quedar mal.
 
+- [Mandé el mismo correo dos veces por duplicados en Excel](https://blixwerkstudio.com/guides/mande-el-mismo-correo-dos-veces-duplicados-excel?s=github) – Dos correos idénticos a tus clientes y la vergüenza en la cola del súper. Una historia sobre duplicados en Excel y cómo volver a respirar.
+
 - [Mandé muchos currículums y no sé quién me ha respondido](https://blixwerkstudio.com/guides/mande-muchos-curriculums-no-se-quien-me-ha-respondido?s=github) – Te llaman de un número desconocido y no sabes a qué empresa mandaste el currículum. Una historia sobre ordenar tu búsqueda de empleo sin agobio.
 
 - [Handmade Profit Per Product? The Custom Quote at a Market Stall](https://blixwerkstudio.com/guides/handmade-profit-per-product-market-stall-custom-quote?s=github) – A customer asks for twelve custom mugs and you quote from your head. A market-day story about true profit, cash float and stock, and the calm after.
@@ -2411,6 +2415,8 @@ Included (16 products, 175 USD if bought separately):
 - [Pedí tarde al proveedor y me quedé sin stock en campaña](https://blixwerkstudio.com/guides/pedi-tarde-al-proveedor-sin-existencias-campana?s=github) – Lanzaste la campaña, los pedidos entran y el proveedor tarda tres semanas. Una historia sobre quedarte sin existencias y volver a respirar.
 
 - [Pen Test Next Week, Unsure Your REST API Is Ready?](https://blixwerkstudio.com/guides/pen-test-next-week-rest-api-not-ready?s=github) – The pen test is booked for next Tuesday and your API feels half-checked. A calm story about the Thursday stand-up, the quiet dread, and the relief after.
+
+- [Pentest Found API Flaws? Embarrassed in the Rain Shelter](https://blixwerkstudio.com/guides/pentest-found-vulnerabilities-api-embarrassed?s=github) – The pentest report lands while you stand in the rain at football training. Findings in your API, a hot face, and a calmer way to see the next review.
 
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://blixwerkstudio.com/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
@@ -2895,6 +2901,8 @@ Included (16 products, 175 USD if bought separately):
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://blixwerkstudio.com/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
 - [What to Post for Your Small Business? The Late Pupil](https://blixwerkstudio.com/guides/what-to-post-small-business-every-week?s=github) – Staring at your phone, no idea what to post this week? A driving instructor's ten spare minutes, and what a calm content week can feel like.
+
+- [Which File Is the Latest Version? The Projector Cable](https://blixwerkstudio.com/guides/which-file-is-the-latest-version-report-final-v2-final?s=github) – report_final_v2_FINAL.docx, report_final_v2_FINAL_neu.docx... and a client waiting on the line. A story about files everywhere, and the calm after.
 
 - [Which Project Hours Are Invoiced? The Ferris Wheel Pause](https://blixwerkstudio.com/guides/which-project-hours-invoiced-still-open?s=github) – Your phone buzzes at the top of a ferris wheel: 'Can you invoice what's done so far?' And you can't tell which project hours are billed and which are open.
 
