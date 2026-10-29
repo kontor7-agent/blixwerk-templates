@@ -1484,6 +1484,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Payment 'Coming' but Nothing Arrives? The Fuel Pump](https://blixwerkstudio.com/guides/client-says-payment-is-coming-but-nothing-arrives?s=github) – Your client swears the payment is on its way, but the account says otherwise. A calm story about what to say next, and how to stop dreading it.
 
+- [Payment 'On the Way' for a Month? The Sewing Repair Shop](https://blixwerkstudio.com/guides/client-says-payment-is-on-the-way-a-month-later-what-to-say?s=github) – Your client said the payment is on the way. That was four weeks ago. A calm story about what to say next, and how to stop dreading it.
+
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
 
 - [Client Says They'll Pay, Nothing Arrives? The Piano Tuner](https://blixwerkstudio.com/guides/client-says-they-will-pay-but-nothing-arrives?s=github) – The client swears the money is on its way. Day 38, nothing. A quiet story about the piano tuner, the unsent email, and chasing without begging.
@@ -1790,6 +1792,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [External Hard Drive Died, No Backup? The Tuesday Click](https://blixwerkstudio.com/guides/external-hard-drive-died-no-backup-client-work?s=github) – The drive with every client project starts clicking at 8:40 am, and there is no backup. A calm story about what changes once someone else watches your files.
 
+- [Mi factura sigue «en revisión de contabilidad» y no pagan](https://blixwerkstudio.com/guides/factura-en-revision-de-contabilidad-cliente-no-paga?s=github) – Tu factura lleva semanas «en revisión de contabilidad» y el cliente no paga. Una historia sobre cobrar con calma, sin sentirte pesada.
+
 - [Factura impagada me quita el sueño: comida del domingo](https://blixwerkstudio.com/guides/factura-impagada-me-quita-el-sueno-autonomo?s=github) – Comida familiar de domingo y tú mirando el móvil: la factura impagada sigue ahí. Una historia sobre apuro, autónomos y volver a dormir con calma.
 
 - [Factura con importe equivocado: mi facturación es un lío](https://blixwerkstudio.com/guides/factura-importe-equivocado-facturacion-desordenada?s=github) – Mandaste la factura con un importe que no era y el cliente te llama a las diez. Una historia sobre facturar con calma, sin miedo a equivocarte.
@@ -1797,6 +1801,8 @@ Included (16 products, 175 USD if bought separately):
 - [Factura vencida hace 60 días y miedo a perder al cliente](https://blixwerkstudio.com/guides/factura-vencida-60-dias-reclamar-sin-perder-al-cliente?s=github) – El cliente te propone otro proyecto y su factura lleva 60 días vencida. Una historia sobre reclamar sin romper la relación.
 
 - [Facturas pendientes: no sé cuáles están vencidas (sala de espera)](https://blixwerkstudio.com/guides/facturas-pendientes-no-se-cuales-estan-vencidas-autonomo?s=github) – Estás en la sala de espera del dentista y quieres saber qué facturas están vencidas. Una historia para autónomos que lo buscan en tres sitios a la vez.
+
+- [Falling Behind in Your Freelance Business? The Puncture](https://blixwerkstudio.com/guides/falling-behind-freelance-business-where-to-start?s=github) – Feel like you're falling behind in your freelance business and can't tell where to start? A story about a flat tyre, a long to-do list and one small relief.
 
 - [Falsche Rechnung an Kunden geschickt? Bushaltestelle 7:55](https://blixwerkstudio.com/guides/falsche-rechnung-an-kunden-geschickt-was-tun?s=github) – Falscher Betrag, falsche Nummer, schon raus: Was tun, wenn die Rechnung beim Kunden liegt? Eine Geschichte über den Schreck und die Ruhe danach.
 
@@ -2889,6 +2895,8 @@ Included (16 products, 175 USD if bought separately):
 - [Was kann ich absetzen? Privat und beruflich gemischt](https://blixwerkstudio.com/guides/was-kann-ich-absetzen-privat-und-beruflich-gemischt-freelancer?s=github) – Ein Bon, Druckerpapier und Shampoo: Was ist beruflich, was privat? Eine Geschichte für Selbstständige, die beim Absetzen unsicher sind.
 
 - [Was soll ich posten? Der Satz der Kundin im Atelier](https://blixwerkstudio.com/guides/was-soll-ich-posten-social-media-kleines-unternehmen?s=github) – Jede Woche Stress, was du für dein kleines Unternehmen posten sollst? Eine Keramikerin, ein Satz im Atelier und ein ruhigerer Montag.
+
+- [Was soll ich posten? Montag, 8:40 an der Drogeriekasse](https://blixwerkstudio.com/guides/was-soll-ich-posten-social-media-woche-kleines-unternehmen?s=github) – Du stehst an der Kasse, das Handy leer, und weißt wieder nicht, was du diese Woche posten sollst. Eine Geschichte über Social Media ohne Sonntagspanik.
 
 - [Wedding Photographer: Client Hasn't Paid the Balance?](https://blixwerkstudio.com/guides/wedding-photographer-client-hasnt-paid-remaining-balance?s=github) – The gallery is delivered, the couple is thrilled, and the remaining balance is still open. A calm story for wedding photographers who hate chasing money.
 
