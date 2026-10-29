@@ -1714,6 +1714,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Dreading Year-End Freelance Paperwork? The Hotel Breakfast Reminder](https://blixwerkstudio.com/guides/dreading-year-end-freelance-paperwork-dont-know-where-to-start?s=github) – A calendar reminder pops up over your hotel coffee: 'Year-end admin.' You feel your stomach drop and have no idea where to start. A short story.
 
+- [Dritte Zahlungserinnerung schreiben? Was jetzt?](https://blixwerkstudio.com/guides/dritte-zahlungserinnerung-schreiben-was-jetzt?s=github) – Zwei Erinnerungen sind raus, das Geld nicht da. Auf der Schwimmbad-Tribüne fragt sich Mara: Was schreibe ich bei der dritten Mahnung überhaupt noch?
+
 - [Duplicate Files Everywhere on Your PC? The Car Park, 8:50](https://blixwerkstudio.com/guides/duplicate-files-random-names-pc-cant-find-anything?s=github) – Ten minutes early for a client meeting, and the file you need could be any of six copies with random names. A calm story about a PC you can trust again.
 
 - [Eilauftrag: Wie viel Aufschlag, ohne schlechtes Gewissen?](https://blixwerkstudio.com/guides/eilauftrag-aufschlag-freelance-schlechtes-gewissen?s=github) – Der Kunde braucht es bis morgen, und du tippst „wie immer“ in die Antwort. Eine Geschichte über Eilaufträge, Aufschlag und das schlechte Gewissen.
@@ -2416,6 +2418,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Ignoring Your Final Invoice? The Swim-Class Bench](https://blixwerkstudio.com/guides/photography-client-ignoring-final-invoice-after-gallery-delivery?s=github) – You delivered the gallery, they downloaded every photo, and the final invoice sits unanswered. A calm story for photographers about getting paid.
 
+- [More Edits, Still No Final Payment? The Apple Orchard](https://blixwerkstudio.com/guides/photography-client-more-edits-final-balance-unpaid?s=github) – Fourth round of edits, final balance still unpaid. A photographer at a pick-your-own orchard, and what calm looks like when every shoot has a status.
+
 - [Client Wants All the Photos, Won't Pay the Deposit?](https://blixwerkstudio.com/guides/photography-client-wants-all-photos-wont-pay-deposit?s=github) – The shoot is done, the client wants every photo, and the deposit never arrived. A quiet story about a Saturday, a message, and a calmer way to keep track.
 
 - [Client Wants More Edits Before Paying the Final Invoice?](https://blixwerkstudio.com/guides/photography-client-wants-more-edited-photos-before-paying-final-invoic?s=github) – The gallery is delivered, the final invoice is open, and now your client wants twelve more edits first. A quiet story about holding the line, calmly.
@@ -2738,6 +2742,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Stundensatz reicht nicht für Steuern und Krankenkasse?](https://blixwerkstudio.com/guides/stundensatz-reicht-nicht-steuern-krankenkasse?s=github) – Ein Brief im Hausflur, und die Frage: Reicht dein Stundensatz für Steuern und Krankenkasse? Eine Geschichte über Ruhe statt Bauchgefühl.
 
+- [Subí mi API a producción y no sé si es segura: la cola](https://blixwerkstudio.com/guides/subi-mi-api-a-produccion-no-se-si-es-segura?s=github) – Sábado por la mañana, la API ya en producción y una duda que no te deja disfrutar el pan. Una historia para quien lanzó y no sabe si es segura.
+
 - [Tardo una hora en escribir un correo a un cliente: el lunes de las 9:40](https://blixwerkstudio.com/guides/tardo-una-hora-en-escribir-un-correo-a-un-cliente?s=github) – Son las 9:40, el café se enfría y el correo para tu cliente sigue en blanco. Una historia sobre bloquearse al escribir y cómo soltar ese nudo.
 
 - [Estoy enferma y no cobro: mi tarifa por hora freelance](https://blixwerkstudio.com/guides/tarifa-por-hora-freelance-vacaciones-enfermedad?s=github) – 38,4 de fiebre un martes y ni un euro entrando. Una historia sobre enfermar o irte de vacaciones siendo freelance y la tarifa por hora que lo olvida.
@@ -2865,6 +2871,8 @@ Included (16 products, 175 USD if bought separately):
 - [Welche Kunden lohnen sich wirklich? Montag, 9:05 Uhr](https://blixwerkstudio.com/guides/welche-kunden-lohnen-sich-freelance?s=github) – Du weißt nicht, welche Kunden sich als Freelancer wirklich lohnen? Eine Geschichte über ein Bauchgefühl, das beim Steuerberater plötzlich Zahlen braucht.
 
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://blixwerkstudio.com/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
+
+- [What to Post for Your Small Business? The Late Pupil](https://blixwerkstudio.com/guides/what-to-post-small-business-every-week?s=github) – Staring at your phone, no idea what to post this week? A driving instructor's ten spare minutes, and what a calm content week can feel like.
 
 - [Which Project Hours Are Invoiced? The Ferris Wheel Pause](https://blixwerkstudio.com/guides/which-project-hours-invoiced-still-open?s=github) – Your phone buzzes at the top of a ferris wheel: 'Can you invoice what's done so far?' And you can't tell which project hours are billed and which are open.
 
