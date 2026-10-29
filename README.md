@@ -2198,6 +2198,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung „kommt bald“, nichts da? Kanupause auf der Lahn](https://blixwerkstudio.com/guides/kunde-verspricht-zahlung-nichts-kommt-freelancer-erinnerung?s=github) – Dein Kunde schreibt wieder „Zahlung kommt bald“, und auf dem Konto passiert nichts. Eine Geschichte über Mahnen ohne Betteln und den Kopf, der Pause machen darf.
 
+- [Rechnung offen, Kunde nur per WhatsApp? Beim Tierarzt](https://blixwerkstudio.com/guides/kunde-whatsapp-rechnung-nicht-bezahlt-erinnern?s=github) – Der Kunde antwortet nur noch per WhatsApp, die Rechnung ist offen. Eine Geschichte über den Moment, in dem Erinnern plötzlich ruhig wird.
+
 - [Kunde will 90 Tage Zahlungsziel? Der Videocall um 11:20](https://blixwerkstudio.com/guides/kunde-will-90-tage-zahlungsziel-freelancer?s=github) – Der Kunde nennt 90 Tage Zahlungsziel, und deine Miete ist in zwei Wochen fällig. Eine Geschichte über Ruhe, wenn Geld spät kommt.
 
 - [Kunde will alle Rohbilder? Mehr Stunden als gebucht](https://blixwerkstudio.com/guides/kunde-will-alle-rohbilder-mehr-stunden-als-gebucht-fotograf?s=github) – Der Kunde will alle Rohbilder und zwei Stunden mehr als gebucht. Du stehst mit der Kamera am Buffet und weißt nicht, was vereinbart war. Eine Szene.
@@ -2832,6 +2834,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://blixwerkstudio.com/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
 
+- [Traductora autónoma: ¿cuántas palabras al día necesito?](https://blixwerkstudio.com/guides/traductora-autonoma-cuantas-palabras-al-dia-fin-de-mes?s=github) – Marta, traductora autónoma, hace cuentas en la cola de la panadería: ¿cuántas palabras al día para llegar a fin de mes? Una historia para reconocerte.
+
 - [Fuzzy Match Discount, Below Minimum Wage? Fabric Counter](https://blixwerkstudio.com/guides/translation-agency-discount-repetitions-fuzzy-matches-minimum-wage-hou?s=github) – The agency wants a discount for repetitions and fuzzy matches, and you wonder if you earn less than minimum wage per hour. A quiet story from a fabric counter.
 
 - [Translator Per-Word Rate to Hourly Pay? The Bike Shop](https://blixwerkstudio.com/guides/translator-per-word-rate-to-hourly-pay?s=github) – A rush job, a CAT discount, a per-word rate you never converted. A translator's Thursday at the bike shop, and the calm of knowing your hourly pay.
@@ -2863,6 +2867,8 @@ Included (16 products, 175 USD if bought separately):
 - [Unangenehme Mail an den Kunden: Der Cursor blinkt seit 40 Minuten](https://blixwerkstudio.com/guides/unangenehme-mail-an-kunden-schreiben-freelancer?s=github) – Dienstag, 9:50 Uhr, ein leeres Mailfenster und kein Satz, der passt. Eine Geschichte für alle, die vor schwierigen Kundenmails zurückschrecken.
 
 - [Freundlicher Kunde zahlt nicht? Das Grillfest im Hof](https://blixwerkstudio.com/guides/unbezahlte-rechnung-freundlicher-kunde-nachfragen-peinlich?s=github) – Der Kunde ist nett, die Rechnung seit Wochen offen, und du bringst die Frage nicht über die Lippen. Eine Geschichte über Bratwurst und leise Gelassenheit.
+
+- [Undercounted Billable Hours? The Tea Van Lay-By Doubt](https://blixwerkstudio.com/guides/undercounted-billable-hours-this-month?s=github) – You're about to send the invoice and the hours look too low. A quiet story about the doubt behind undercounted billable hours, and what calm looks like.
 
 - [I Underpriced a Job and I'm Losing Money: What Do I Do?](https://blixwerkstudio.com/guides/underpriced-a-job-losing-money-what-do-i-do?s=github) – Halfway through the job, you realise the price was too low. A calm story about the sinking feeling, what to do next, and quoting without guessing.
 
