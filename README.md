@@ -1258,6 +1258,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Applied to 100 Jobs, No Reply? The Pub Quiz Tiebreaker](https://blixwerkstudio.com/guides/applied-to-100-jobs-no-reply?s=github) – You've applied to around a hundred jobs and heard almost nothing. A pub quiz tiebreaker, a blank answer, and a calmer way to see where you actually stand.
 
+- [Applied to the Same Company Twice? The Pretzel Stand Call](https://blixwerkstudio.com/guides/applied-to-same-company-twice-by-accident?s=github) – The recruiter says she has two applications from you, three weeks apart. A small story about applying twice by accident and a calmer way to keep track.
+
 - [Applied to Too Many Jobs? The Unknown Number Call](https://blixwerkstudio.com/guides/applied-to-so-many-jobs-cant-remember-which-replied?s=github) – An unknown number rings at the self-checkout and you can't place the company. A story about blurred job applications, and the calm that follows.
 
 - [Applied to So Many Jobs? The Family Brunch Question](https://blixwerkstudio.com/guides/applied-to-so-many-jobs-cant-remember-who-replied?s=github) – Someone asks, 'Have you heard back?' and you can't say which companies you even wrote to. A calm story about job applications and finding your footing.
@@ -1538,6 +1540,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente de iguala se pasa de horas y no sé decírselo](https://blixwerkstudio.com/guides/cliente-iguala-mensual-mas-horas-de-las-pactadas?s=github) – La iguala eran 20 horas, pero este mes ya van 31. Un lunes en el tranvía, un mensaje nuevo y la duda de cómo decírselo sin sonar a queja.
 
+- [Me bloqueó en WhatsApp y me debe una factura: lunes, 8:05](https://blixwerkstudio.com/guides/cliente-me-bloqueo-whatsapp-me-debe-factura?s=github) – Un lunes en la parada del autobús, un chat sin foto de perfil y una factura sin cobrar. Una historia para quien se siente ignorado por un cliente.
+
 - [Me comparan con un freelance de Fiverr y no sé qué cobrar](https://blixwerkstudio.com/guides/cliente-me-compara-freelance-barato-fiverr-que-cobrar?s=github) – Un mensaje en la cola de la panadería: «En Fiverr lo hacen por 40 €». Una historia sobre qué cobrar cuando te comparan con lo barato.
 
 - [Le escribí por WhatsApp para cobrar y me dejó en visto](https://blixwerkstudio.com/guides/cliente-me-dejo-en-visto-whatsapp-cobrar-factura?s=github) – Dos checks azules y ninguna respuesta. Una historia para autónomos a quienes un cliente dejó en visto justo cuando pidieron que les pagara.
@@ -1776,6 +1780,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel cambió mis números a 1,2E+15 y ya lo mandé](https://blixwerkstudio.com/guides/excel-numeros-largos-notacion-cientifica-ya-lo-mande?s=github) – Tu clienta te llama por el archivo: los números largos se ven como 1,23E+15 y ya lo enviaste. Una historia para respirar y volver a confiar en tus datos.
 
+- [Excel Removed Leading Zeros From My CSV? The Courier Desk](https://blixwerkstudio.com/guides/excel-removed-leading-zeros-from-my-csv?s=github) – Postcode 01067 became 1067 and the courier queue is behind you. A short story about leading zeros, CSV files and getting a calm Tuesday back.
+
 - [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://blixwerkstudio.com/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
 
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://blixwerkstudio.com/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
@@ -1863,6 +1869,8 @@ Included (16 products, 175 USD if bought separately):
 - [Invoice Hours Don't Match Client's? The Paddling Pool](https://blixwerkstudio.com/guides/freelance-client-says-hours-on-invoice-dont-match-my-records?s=github) – The client's email says 31 hours, your invoice says 42, and you're standing in a garden holding a hose. A quiet story about being able to answer calmly.
 
 - [No Contract or Brief, Work Already Started? The Dog Walk](https://blixwerkstudio.com/guides/freelance-client-started-work-without-contract-or-brief?s=github) – Tuesday, 7:30, rain on the lead: the client is already sending files and nothing is in writing. A calm look at how it feels, and what changes.
+
+- [Freelance-Einkommen nach Steuern zu wenig? Parkhaus 16:10](https://blixwerkstudio.com/guides/freelance-einkommen-nach-steuern-zu-wenig?s=github) – Du arbeitest die ganze Woche, und nach Steuern bleibt trotzdem wenig. Eine Geschichte über den Moment, in dem die Zahlen endlich Sinn ergeben.
 
 - [Einkommen schwankt jeden Monat? Der Parkplatz vor der Kita](https://blixwerkstudio.com/guides/freelance-einkommen-schwankt-naechstes-jahr-planen?s=github) – Freitag, 16:25 Uhr, Parkplatz vor der Kita: Ein Monat voll, der nächste leer. Wie sich das nächste Jahr plötzlich weniger wie Glücksspiel anfühlt.
 
