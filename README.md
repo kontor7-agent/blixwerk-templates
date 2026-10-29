@@ -1734,6 +1734,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Empecé con un cliente sin contrato y todo se desordena](https://blixwerkstudio.com/guides/empece-con-un-cliente-sin-contrato-condiciones-claras?s=github) – Dijiste que sí con un mensaje rápido y ahora nadie recuerda qué estaba incluido. Una historia sobre empezar bien con un cliente nuevo.
 
+- [Empecé sin presupuesto firmado: «no es lo acordado»](https://blixwerkstudio.com/guides/empece-sin-presupuesto-firmado-cliente-dice-no-es-lo-acordado?s=github) – Empezaste sin el presupuesto firmado y ahora el cliente dice que no era lo acordado. Una historia sobre un martes a las 11:05 y cómo volver a respirar.
+
 - [Entregué las fotos de la boda y no me pagan el resto](https://blixwerkstudio.com/guides/entregue-las-fotos-de-la-boda-y-el-cliente-no-paga-el-resto?s=github) – Entregaste la galería, los novios te dieron las gracias y el resto sigue sin llegar. Una historia sobre cobrar sin apuro y con la cabeza tranquila.
 
 - [Entrevista mañana y no sé a quién envié mi currículum](https://blixwerkstudio.com/guides/entrevista-manana-no-se-que-preparar-curriculum-enviado?s=github) – Te llaman a las 14:10 para una entrevista mañana y no recuerdas qué empresa era. Una historia sobre ordenar la búsqueda y llegar con calma.
@@ -1849,6 +1851,8 @@ Included (16 products, 175 USD if bought separately):
 - [Fotos geliefert, Restzahlung offen? Die Raststätte, 13:15](https://blixwerkstudio.com/guides/foto-restzahlung-offen-kunde-hat-alle-bilder?s=github) – Alle Fotos sind raus, der Restbetrag fehlt noch. Eine Fotografin an der Raststätte und die Ruhe, die kommt, wenn du siehst, was offen ist.
 
 - [Fotograf: Stunden in der Bearbeitung – verdienst du überhaupt was?](https://blixwerkstudio.com/guides/fotograf-bildbearbeitung-dauert-ewig-verdiene-ich-ueberhaupt-was?s=github) – Das Brautpaar fragt nach den Bildern, du sitzt seit Tagen in der Bearbeitung und weißt nicht, ob sich der Auftrag lohnt. Eine Geschichte.
+
+- [Fotograf: Freund will Fotos gratis? Der Trödelmarkt](https://blixwerkstudio.com/guides/fotograf-freund-fragt-gratis-shooting-nein-sagen?s=github) – Ein Freund fragt, ob du sein Event umsonst fotografierst. Eine Geschichte über das Nein, das nicht nach Absage klingt, und über ruhige Zahlen im Hintergrund.
 
 - [Kunde will noch mehr Edits? Die Zulassungsstelle, 10:20](https://blixwerkstudio.com/guides/fotograf-kunde-will-nach-lieferung-noch-mehr-edits?s=github) – Die Galerie ist längst geliefert, doch die Wünsche hören nicht auf. Eine Geschichte über Edits nach der Abgabe – und wie wieder Ruhe einkehrt.
 
@@ -2039,6 +2043,8 @@ Included (16 products, 175 USD if bought separately):
 - [La inflación se come mi tarifa freelance: ¿cuánto cobro?](https://blixwerkstudio.com/guides/inflacion-se-come-mi-tarifa-freelance-cuanto-cobrar-pesos?s=github) – El súper subió otra vez y tu tarifa sigue igual. Una historia sobre la inflación, los pesos y cómo volver a cobrar con la cabeza tranquila.
 
 - [Ingresos irregulares de freelance: el agosto que no fue vacaciones](https://blixwerkstudio.com/guides/ingresos-irregulares-freelance-como-planificar?s=github) – Un mes entra mucho, el siguiente casi nada. Una historia sobre ingresos irregulares como freelance y la calma de saber qué viene después.
+
+- [Inherited an API, Is It Secure? The Fuse Box Viewing](https://blixwerkstudio.com/guides/inherited-api-from-developer-who-left-is-it-secure?s=github) – The developer left, the API is yours, and nobody can say if it's secure. A quiet story about the doubt of inherited code, and how it eases.
 
 - [Interview Invite, Can't Place the Job? The Level Crossing](https://blixwerkstudio.com/guides/interview-invite-cant-remember-which-job?s=github) – The invite says Thursday, 10:30. You can't remember the company or the role. A quiet story about a red barrier, a blank mind and a calmer job search.
 
@@ -2821,6 +2827,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tutoring Parents Always Pay Late? The Phone Repair Kiosk](https://blixwerkstudio.com/guides/tutoring-parents-pay-late-hate-asking-for-money?s=github) – Your phone is in for repair, a parent's payment is three weeks late, and asking feels awful. A tutor's quiet story about hating to chase money.
 
 - [Student Cancelled Again and Still Unpaid? The Red Man](https://blixwerkstudio.com/guides/tutoring-student-cancelled-last-minute-still-hasnt-paid?s=github) – A private tutor stands at a red crossing light, a last-minute cancellation on her screen and an unpaid invoice in her head. A calmer way to see it all.
+
+- [Two Job Offers, Can't Compare Them? The Zebra Crossing](https://blixwerkstudio.com/guides/two-job-offers-cant-compare-them?s=github) – Two offers, one deadline, details scattered across emails and voicemails. A Thursday-morning story about comparing job offers with a calmer head.
 
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://blixwerkstudio.com/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
 
