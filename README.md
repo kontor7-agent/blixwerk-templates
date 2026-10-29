@@ -2242,6 +2242,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Stall Cash Doesn't Match Sales? The Tailgate at 5:10](https://blixwerkstudio.com/guides/market-stall-cash-doesnt-match-sales?s=github) – The cash tin is short, the notebook says otherwise, and the car is half packed. A market maker's quiet moment at the tailgate, and a calmer way to end the day.
 
+- [Takings Don't Match Unsold Stock? The Church Hall Key](https://blixwerkstudio.com/guides/market-stall-takings-dont-match-unsold-stock?s=github) – Four crates left, a cash box that feels light, and a caretaker jangling keys. A market-stall story about the end-of-day sums that never quite add up.
+
 - [Material ausgegangen, Bestellungen offen? Mittwoch, 15:10](https://blixwerkstudio.com/guides/material-ausgegangen-mitten-in-den-bestellungen?s=github) – Elf Bestellungen, fünf Dochte im Karton: Eine Kerzengießerin merkt mitten im Auftrag, dass das Material fehlt. Eine beispielhafte Geschichte.
 
 - [Subió el material y ya di el presupuesto: ¿qué hago?](https://blixwerkstudio.com/guides/material-subio-de-precio-presupuesto-ya-enviado?s=github) – El material subió de precio y el presupuesto ya está en manos del cliente. Una historia desde el mostrador del almacén y de cómo recuperar la calma.
@@ -2272,6 +2274,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Merging Dozens of CSV Files Every Month? The Dentist Queue](https://blixwerkstudio.com/guides/merge-csv-files-different-headers-every-month?s=github) – Forty CSV files, forty different headers, and a deadline on Friday. A calm story about the monthly merge that eats your week, and what changes when it stops.
 
+- [Mes flojo de ingresos y sin colchón: el paseo de las 8:10](https://blixwerkstudio.com/guides/mes-flojo-ingresos-autonomo-sin-colchon-ahorro?s=github) – Octubre fue flojo y no tienes colchón de ahorro. Una historia sobre ese nudo en el estómago y cómo se siente ver el año entero con calma.
+
 - [Messy CSV Exports Every Week? The Cabin Draining Board](https://blixwerkstudio.com/guides/messy-csv-exports-every-week-fixing-by-hand?s=github) – Half-term in a rented cabin, laptop on the draining board, and the same messy CSV to fix by hand again. A story for anyone who loses hours to exports.
 
 - [Mezclo gastos personales y del negocio: ¿y ahora qué?](https://blixwerkstudio.com/guides/mezclo-gastos-personales-y-del-negocio-autonomo?s=github) – Estás en la gasolinera con un ticket en la mano y no sabes si es del negocio o de casa. Una historia para autónomos con los gastos revueltos.
@@ -2287,6 +2291,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
 - [Miedo a gastarme el IVA y el IRPF del trimestre](https://blixwerkstudio.com/guides/miedo-gastarme-iva-irpf-trimestral-autonomo?s=github) – Es mediados de octubre, el trimestre se acerca y no sabes cuánto apartar. Una historia sobre el miedo a gastarte un dinero que no es del todo tuyo.
+
+- [Mind Racing at Night? Can't Remember Tomorrow? The Fridge](https://blixwerkstudio.com/guides/mind-racing-at-night-cant-remember-tomorrows-tasks-adhd?s=github) – 3:20 am, tomorrow's tasks looping in your head, scared you'll forget one. A short story about getting it out of your head and onto one calm page.
 
 - [Mindestbestand vergessen? Der Anruf vom Fußballverein](https://blixwerkstudio.com/guides/mindestbestand-vergessen-zu-spaet-nachbestellt-kunde-wartet?s=github) – Freitag, 9:10 Uhr: Die Rohlinge sind aus, der Verein braucht die Trikots morgen. Eine Geschichte für alle, die den Mindestbestand mal wieder vergessen haben.
 
@@ -2577,6 +2583,8 @@ Included (16 products, 175 USD if bought separately):
 - [Renombrar cientos de archivos a mano en Windows: un lunes](https://blixwerkstudio.com/guides/renombrar-cientos-de-archivos-windows?s=github) – Son las 9:40, tienes 340 archivos con nombres imposibles y una entrega a las 11. Una historia sobre renombrar en Windows sin perder la mañana.
 
 - [Repetitive Data Chores Eating Your Week? The Cold Monday Coffee](https://blixwerkstudio.com/guides/repetitive-data-and-file-chores-at-work?s=github) – Monday, 8:40 am, coffee going cold while you rename files and fix the same export again. A story for anyone tired of repetitive data and file chores.
+
+- [Retoure gebucht, Bestand falsch? Der Karton im Flur](https://blixwerkstudio.com/guides/retoure-gebucht-bestand-stimmt-nicht-online-shop?s=github) – Die Retoure ist im Shop gebucht, aber der Bestand stimmt nicht mehr. Eine Mittagspause auf der Parkbank und der Gedanke: Das muss ruhiger gehen.
 
 - [Rewriting the Same Client Email? The Breakdown Lay-By](https://blixwerkstudio.com/guides/rewriting-the-same-awkward-client-email?s=github) – Eleven drafts, one awkward email, and a recovery truck forty minutes away. A story for anyone who keeps rewriting the same client message and still hates it.
 
