@@ -1630,6 +1630,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CSV Full of Duplicates Every Week? The Friday 11:00 Call](https://blixwerkstudio.com/guides/csv-file-full-of-duplicates-inconsistent-formatting-every-week?s=github) – Same export, same duplicates, same odd formatting every week. A story about the Friday call where the numbers didn't match, and a calmer way to start the week.
 
+- [CSV Import Failed: Encoding Error, Deadline in an Hour](https://blixwerkstudio.com/guides/csv-import-failed-encoding-error-deadline-in-an-hour?s=github) – The import says 'encoding error' and the sale goes live in an hour. A calm story about weird characters, a ticking clock, and what changes afterwards.
+
 - [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
 
 - [CSV Opens in Excel All in One Column? The Kitchen Table](https://blixwerkstudio.com/guides/csv-opens-in-excel-all-in-one-column?s=github) – The export lands in Excel as one long column and the clock is ticking. A quiet story about messy CSVs, and what a calmer routine feels like.
@@ -1699,6 +1701,8 @@ Included (16 products, 175 USD if bought separately):
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://blixwerkstudio.com/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
 
 - [Hours Lost to Data and File Chores? The Dentist Waiting Room](https://blixwerkstudio.com/guides/developer-wasting-hours-on-data-and-file-chores?s=github) – You meant to read a paper in the waiting room, but you were rebuilding last week's file chores in your head. A quiet story for developers who want those hours back.
+
+- [Dinero parado en mercancía: el trastero que no cuadra](https://blixwerkstudio.com/guides/dinero-parado-en-mercancia-tienda?s=github) – Un martes, un palé nuevo y una pregunta sin respuesta: ¿cuánto dinero tengo parado en mercancía? Una historia para quien lleva una tienda pequeña.
 
 - [Mi disco duro hace ruidos y no tengo copia de seguridad](https://blixwerkstudio.com/guides/disco-duro-hace-ruidos-sin-copia-de-seguridad?s=github) – Un clic raro en tu disco duro, una videollamada y ninguna copia de seguridad. Una historia sobre el miedo callado y la calma de tenerlo guardado.
 
@@ -2666,6 +2670,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Selbstständig Jahresplanung 2027: Wo soll ich nur anfangen?](https://blixwerkstudio.com/guides/selbststaendig-jahresplanung-2027-wo-anfangen?s=github) – Am Stehtisch fragt jemand nach deinem 2027 und du sagst „läuft“. Eine Geschichte über den Moment, in dem aus Planlosigkeit ein erster ruhiger Schritt wird.
 
+- [Kein System fürs Geld als Selbstständige? Videocall, 14 Uhr](https://blixwerkstudio.com/guides/selbststaendig-kein-system-fuers-geld?s=github) – Der Kunde fragt nach Kapazität und Preis, und du antwortest nur „Ich schau mal“. Eine Geschichte über Chaos, Geld und das Gefühl, wieder den Überblick zu haben.
+
 - [Preise okay? Steuern zurückgelegt? Das Vorzimmer, 15:30](https://blixwerkstudio.com/guides/selbststaendig-preis-richtig-steuern-zuruecklegen-ueberblick?s=github) – Im Vorzimmer des Steuerberaters merkt Jonas: Er weiß weder, ob sein Preis passt, noch, was er zurückgelegt hat. Eine Geschichte über Ruhe im Kopf.
 
 - [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://blixwerkstudio.com/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
@@ -2757,6 +2763,8 @@ Included (16 products, 175 USD if bought separately):
 - [Steuernachzahlung selbstständig: Kein Geld zurückgelegt?](https://blixwerkstudio.com/guides/steuernachzahlung-selbststaendig-kein-geld-zurueckgelegt?s=github) – Der Brief liegt im Briefkasten, das Konto ist halbleer. Eine Geschichte für alle, die bei der Steuernachzahlung nichts zurückgelegt haben.
 
 - [Stock que no se vende y dinero parado: el martes de la gestoría](https://blixwerkstudio.com/guides/stock-acumulado-que-no-se-vende-dinero-parado-pequeno-negocio?s=github) – La gestora te pide el valor de tu almacén y no lo sabes. Una historia sobre stock acumulado, dinero parado y cómo respirar con más calma.
+
+- [Stock Doesn't Match Your Spreadsheet? Shutter at 9:50](https://blixwerkstudio.com/guides/stock-count-doesnt-match-spreadsheet-small-shop?s=github) – The shelf says four, the sheet says eleven, and the doors open in ten minutes. A calm story for small shop owners whose stock count never matches.
 
 - [Stock Runs Out Before You Notice? The Hotel Basket Call](https://blixwerkstudio.com/guides/stock-keeps-running-out-before-i-notice-small-shop?s=github) – A hotel wants 30 tins by Friday and you say yes before checking the shelf. A small-shop story about stock that runs out before you notice, and the calm after.
 
