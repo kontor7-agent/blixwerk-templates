@@ -1288,6 +1288,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Backup Drive Full? The Bakery Question at 6:30 am](https://blixwerkstudio.com/guides/backup-drive-full-log-files-never-rotated?s=github) – The owner asks, 'We're backed up, right?' and the drive says otherwise. A calm story about backups, old logs and finally trusting them.
 
+- [Backup Overwrites Yesterday's Copy? The Hotel Lobby Wi-Fi](https://blixwerkstudio.com/guides/backup-script-overwrites-yesterdays-backup?s=github) – You asked for last Tuesday's file and found only today's copy. A quiet story about a backup script that overwrites itself, and what calm looks like instead.
+
 - [Backup Script Stopped Running? The Poolside Bench](https://blixwerkstudio.com/guides/backup-script-stopped-running-noticed-late?s=github) – Your backup script stopped running and you only just noticed. A Tuesday on a humid poolside bench, and what a calmer routine feels like afterwards.
 
 - [Backup Stopped Weeks Ago? The Laptop Repair Counter](https://blixwerkstudio.com/guides/backup-stopped-running-weeks-ago?s=github) – The repair technician asks when your last backup ran. You check. It was weeks ago. A calm story about noticing late, and what changes afterwards.
@@ -1592,6 +1594,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente quiere ampliar el proyecto sin pagar más](https://blixwerkstudio.com/guides/cliente-quiere-ampliar-el-proyecto-sin-pagar-mas?s=github) – Sábado, la cola de la panadería y un mensaje: «ya que estás, ¿me haces también…?». Cuando el cliente amplía el proyecto y no sabes cómo decírselo.
 
+- [Mi cliente quiere una iguala y no sé cuánto cobrarle](https://blixwerkstudio.com/guides/cliente-quiere-iguala-mensual-cuanto-cobrar?s=github) – Martes, 12:00, videollamada: «¿Cuánto sería una iguala mensual?» Y tú, en blanco. Una historia sobre cómo responder con calma.
+
 - [Cliente tóxico y autónomo: cómo dejarlo sin quedar mal (un lunes)](https://blixwerkstudio.com/guides/cliente-toxico-autonomo-como-dejar-de-trabajar-con-el-sin-quedar-mal?s=github) – Lunes, 9:10, otro mensaje de ese cliente. Una historia sobre cómo despedirte de un cliente tóxico sin quedar mal y recuperar la calma.
 
 - [Cliente pide trabajo urgente en fin de semana: ¿recargo?](https://blixwerkstudio.com/guides/cliente-trabajo-urgente-fin-de-semana-recargo-freelance?s=github) – Sábado por la mañana, en la cola del mercado, te llega un «¿puedes para el lunes?». Una historia sobre cobrar el recargo sin pedir perdón.
@@ -1889,6 +1893,8 @@ Included (16 products, 175 USD if bought separately):
 - [No Contract or Brief, Work Already Started? The Dog Walk](https://blixwerkstudio.com/guides/freelance-client-started-work-without-contract-or-brief?s=github) – Tuesday, 7:30, rain on the lead: the client is already sending files and nothing is in writing. A calm look at how it feels, and what changes.
 
 - [Freelance-Einkommen nach Steuern zu wenig? Parkhaus 16:10](https://blixwerkstudio.com/guides/freelance-einkommen-nach-steuern-zu-wenig?s=github) – Du arbeitest die ganze Woche, und nach Steuern bleibt trotzdem wenig. Eine Geschichte über den Moment, in dem die Zahlen endlich Sinn ergeben.
+
+- [Freelance-Einkommen schwankt, kein Plan? Das Klassentreffen](https://blixwerkstudio.com/guides/freelance-einkommen-schwankt-kein-plan-naechstes-jahr?s=github) – Gutes Jahr, schlechtes Jahr, alles nur im Kopf? Eine Geschichte vom Klassentreffen und dem Moment, in dem 2027 plötzlich einen Plan bekommt.
 
 - [Einkommen schwankt jeden Monat? Der Parkplatz vor der Kita](https://blixwerkstudio.com/guides/freelance-einkommen-schwankt-naechstes-jahr-planen?s=github) – Freitag, 16:25 Uhr, Parkplatz vor der Kita: Ein Monat voll, der nächste leer. Wie sich das nächste Jahr plötzlich weniger wie Glücksspiel anfühlt.
 
@@ -2611,6 +2617,8 @@ Included (16 products, 175 USD if bought separately):
 - [Recruiter Email, Can't Recall the Job? The Car Boot Sale](https://blixwerkstudio.com/guides/recruiter-email-cant-remember-which-job?s=github) – A recruiter writes back and you can't place the job. A Saturday car boot sale, a buzzing phone, and what a calmer job search feels like afterwards.
 
 - [Had to Refund an Order Because It Was Sold Out? The Birthday Lunch](https://blixwerkstudio.com/guides/refund-customer-item-already-sold-out?s=github) – The phone buzzes under the table: the last skein is gone and the customer has already paid. A story about refunds, sold-out stock and a calmer shelf.
+
+- [Rejection Emails Piling Up, Lost Track? The Photo Booth](https://blixwerkstudio.com/guides/rejection-emails-piling-up-lost-track-job-search?s=github) – Rejection emails keep arriving and you can't remember which jobs they were for. A quiet story from a station photo booth, and a calmer way to keep track.
 
 - [Duplicates and Dates Gone Wrong: A CSV, pandas, and 11 pm](https://blixwerkstudio.com/guides/remove-duplicates-fix-date-formats-csv-python-pandas?s=github) – It's 11 pm, the CSV has the same customer three times and dates that mean two things. A short story about cleaning it up without losing the evening.
 
