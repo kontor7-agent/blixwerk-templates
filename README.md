@@ -1234,6 +1234,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://blixwerkstudio.com/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
 
+- [Alumna pide recuperar clases ya pagadas: ¿qué política?](https://blixwerkstudio.com/guides/alumna-pide-recuperar-clases-pagadas-politica?s=github) – Sábado en la panadería, un WhatsApp: «¿puedo recuperar las clases que ya pagué?». Y tú sin saber cuántas quedaban ni qué política tienes.
+
 - [Alumno cancela la clase a última hora: ¿pierdo el dinero?](https://blixwerkstudio.com/guides/alumno-cancela-clase-ultima-hora-pierdo-dinero?s=github) – Son las 15:52, tu alumno escribe que no llega y el hueco ya no se llena. Una historia sobre cancelaciones de última hora y cómo dejar de callarte.
 
 - [Mis alumnos me pagan en efectivo y no sé quién me debe](https://blixwerkstudio.com/guides/alumnos-pagan-en-efectivo-no-se-quien-me-debe-clases?s=github) – Un sobre arrugado, un cuaderno con tachones y la duda de quién te debe clases. Una mañana de sábado en la que todo empezó a ordenarse.
@@ -2204,6 +2206,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will Rabatt? Freiberuflerin, Nudelwasser und kein Satz](https://blixwerkstudio.com/guides/kunde-will-rabatt-freiberufler-was-sagen?s=github) – Der Kunde fragt nach Rabatt, und dir fällt nichts ein. Eine Geschichte über das Schweigen am Telefon und darüber, wie du ruhig antworten kannst.
 
+- [Kunde will nachträglich Rabatt? Der Milchschaum, 10:20](https://blixwerkstudio.com/guides/kunde-will-rabatt-nach-lieferung-was-sagen?s=github) – Projekt geliefert, Rechnung raus – und dann die Mail: „Geht beim Preis noch was?“ Eine Geschichte über den Satz, der dir in diesem Moment fehlt.
+
 - [Kunde will Rechnung in Raten zahlen? Die Apotheken-Schlange](https://blixwerkstudio.com/guides/kunde-will-rechnung-in-raten-zahlen-freiberufler?s=github) – Der Kunde fragt am Telefon, ob er die Rechnung in Raten zahlen kann. Du stehst in der Apotheke und sagst Ja, bevor du nachgedacht hast. Eine Geschichte.
 
 - [Kunde will ständig noch eine Änderung? Runde Nummer 7](https://blixwerkstudio.com/guides/kunde-will-staendig-aenderung-korrekturschleifen?s=github) – Montag, 7:12 Uhr, S-Bahn: „Noch eine kleine Änderung.“ Wenn Korrekturschleifen kein Ende nehmen und du nicht weißt, wie du es ruhig sagst.
@@ -2712,6 +2716,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Server Out of Disk Space Overnight? The Gondola Queue](https://blixwerkstudio.com/guides/server-out-of-disk-space-overnight-log-files?s=github) – Your server ran out of disk space overnight because of log files, and you're in a gondola queue with one bar of signal. A story about calm after the alert.
 
+- [Shop Asked for Wholesale Prices? The Hilltop Signal Bar](https://blixwerkstudio.com/guides/shop-asked-for-wholesale-prices-handmade-profit?s=github) – A shop wants wholesale prices for your handmade work and you can't tell if you'd earn anything. A quiet story about finding out before you reply.
+
 - [Charge a Late Fee to a Client? The Chairlift Question](https://blixwerkstudio.com/guides/should-i-charge-late-fee-client-pays-late-freelance?s=github) – Should you charge a late fee when a client pays late? A story about a chairlift, a three-week-old invoice and the awkward feeling of asking.
 
 - [Signed Contract, No Idea What to Ask? The Lobby Coffee](https://blixwerkstudio.com/guides/signed-contract-first-client-meeting-what-to-ask?s=github) – The contract is signed, the first meeting is in ten minutes, and your mind is blank. A short story about walking in calm instead of winging it.
@@ -2825,6 +2831,8 @@ Included (16 products, 175 USD if bought separately):
 - [Traducción urgente a la misma tarifa: no sé decir que no](https://blixwerkstudio.com/guides/traduccion-urgente-misma-tarifa-por-palabra-como-decir-no?s=github) – La agencia quiere tu traducción esta noche, a la misma tarifa por palabra. Una historia sobre el nudo en el estómago y cómo ponerle números.
 
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://blixwerkstudio.com/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
+
+- [Fuzzy Match Discount, Below Minimum Wage? Fabric Counter](https://blixwerkstudio.com/guides/translation-agency-discount-repetitions-fuzzy-matches-minimum-wage-hou?s=github) – The agency wants a discount for repetitions and fuzzy matches, and you wonder if you earn less than minimum wage per hour. A quiet story from a fabric counter.
 
 - [Translator Per-Word Rate to Hourly Pay? The Bike Shop](https://blixwerkstudio.com/guides/translator-per-word-rate-to-hourly-pay?s=github) – A rush job, a CAT discount, a per-word rate you never converted. A translator's Thursday at the bike shop, and the calm of knowing your hourly pay.
 
