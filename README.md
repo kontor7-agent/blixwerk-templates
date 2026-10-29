@@ -1482,6 +1482,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
 
+- [Client Says They'll Pay, Nothing Arrives? The Piano Tuner](https://blixwerkstudio.com/guides/client-says-they-will-pay-but-nothing-arrives?s=github) – The client swears the money is on its way. Day 38, nothing. A quiet story about the piano tuner, the unsent email, and chasing without begging.
+
 - [Client Pays When Their Client Pays? The Egg Timer](https://blixwerkstudio.com/guides/client-says-they-will-pay-once-their-customer-pays?s=github) – "I'll pay you once my client pays me." A freelancer's quiet Monday with an egg timer, and a calmer way to answer without begging.
 
 - [Client Says You Never Billed Them? The Parking Meter](https://blixwerkstudio.com/guides/client-says-you-never-billed-last-month-cant-prove-hours?s=github) – A client says you never billed last month, and you can't prove which hours you worked. A short story about that call, and the calmer Monday after it.
@@ -2586,6 +2588,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Retoure gebucht, Bestand falsch? Der Karton im Flur](https://blixwerkstudio.com/guides/retoure-gebucht-bestand-stimmt-nicht-online-shop?s=github) – Die Retoure ist im Shop gebucht, aber der Bestand stimmt nicht mehr. Eine Mittagspause auf der Parkbank und der Gedanke: Das muss ruhiger gehen.
 
+- [Reuniones con clientes que no cobro: trabajo gratis](https://blixwerkstudio.com/guides/reuniones-con-clientes-que-no-cobro-trabajo-gratis?s=github) – La llamada de «solo 15 minutos» duró hora y cuarto y nadie la va a pagar. Una historia sobre tus reuniones sin cobrar y cómo recuperar la calma.
+
 - [Rewriting the Same Client Email? The Breakdown Lay-By](https://blixwerkstudio.com/guides/rewriting-the-same-awkward-client-email?s=github) – Eleven drafts, one awkward email, and a recovery truck forty minutes away. A story for anyone who keeps rewriting the same client message and still hates it.
 
 - [Out of Content Ideas Every Week? The Florist's Till Roll](https://blixwerkstudio.com/guides/run-out-of-content-ideas-small-business-social-media?s=github) – Monday, shop quiet, phone in hand, and not one idea for this week's posts. A calm story about running out of content ideas, and what changes it.
@@ -2807,6 +2811,8 @@ Included (16 products, 175 USD if bought separately):
 - [Überfällige Rechnung nachfassen, ohne unhöflich zu sein?](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-nachfassen-ohne-unhoeflich?s=github) – Samstag im Blumenladen: Die Rechnung ist 19 Tage überfällig, der Kunde ist nett. Eine Geschichte darüber, wie Nachfassen ruhig und freundlich klingen kann.
 
 - [Umsatzsteuervoranmeldung vergessen? Der Wartebereich, 9:40](https://blixwerkstudio.com/guides/umsatzsteuervoranmeldung-vergessen-selbststaendig?s=github) – Dir fällt im Wartezimmer ein: Die Umsatzsteuervoranmeldung ist nicht draußen. Eine Geschichte über Panik, Überblick und den ruhigeren nächsten Monat.
+
+- [Unangenehme Mail an Kunden? Der Fernbus um 11:35](https://blixwerkstudio.com/guides/unangenehme-mail-an-freelance-kunden-schreiben?s=github) – Du weißt, was du dem Kunden schreiben musst, und schiebst es seit Tagen vor dir her. Eine Geschichte über den ersten Satz und die Ruhe danach.
 
 - [Unangenehme Mail an Kunden? Alufolie im Haar, 11:20 Uhr](https://blixwerkstudio.com/guides/unangenehme-mail-an-kunden-schreiben-freelancer-ee8a?s=github) – Du schiebst die heikle Mail an deinen Kunden seit Tagen vor dir her. Eine Geschichte über Alufolie im Haar, ein leeres Feld und den ersten Satz.
 
