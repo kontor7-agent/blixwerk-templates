@@ -1710,6 +1710,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Freelance Receipts a Mess in December? The Advent Door](https://blixwerkstudio.com/guides/december-freelance-receipts-a-mess-where-to-start?s=github) – It's December, your receipts are in a carrier bag, and you don't know where to start. A quiet Monday-morning story about a calmer way into year-end.
 
+- [Dejar mi trabajo para ser freelance: ¿cuánto cobrar?](https://blixwerkstudio.com/guides/dejar-mi-trabajo-para-ser-freelance-cuanto-cobrar?s=github) – En la cocina de la oficina, con la carta de renuncia a medias, una pregunta sin respuesta: ¿cuánto cobrar como freelance?
+
 - [Desktop Full of Screenshots? The Kitchen TV Mirror](https://blixwerkstudio.com/guides/desktop-full-of-screenshots-cant-find-anything?s=github) – Your desktop is a wall of screenshots and random files, and the family TV just mirrored it. A calm story about finding things again.
 
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://blixwerkstudio.com/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
@@ -2094,6 +2096,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Asked to Sign Off API Security? The Empty Release Ticket](https://blixwerkstudio.com/guides/junior-developer-asked-to-sign-off-api-security?s=github) – Your lead is off tomorrow and the ticket says 'security sign-off: you'. A calm story for the junior developer afraid of missing something.
 
+- [Junior Dev Built Our API, Safe to Launch? Cake Tasting](https://blixwerkstudio.com/guides/junior-developer-built-our-api-safe-to-launch?s=github) – Your junior developer says the API is done and launch is Friday. You're holding a fork of lemon sponge and can't tell whether it's safe. A story about that gap.
+
 - [Kassenbons verblasst? Das Thermopapier im Ordner](https://blixwerkstudio.com/guides/kassenbons-verblasst-thermopapier-selbststaendig-was-tun?s=github) – Mittwoch, 11:20 Uhr: Der Bon aus dem Frühjahr ist leer, der Steuerberater-Termin ist Freitag. Eine Geschichte über verblasste Belege und ruhigere Jahre.
 
 - [Keep Running Out of Stock? The Vet Waiting Room Message](https://blixwerkstudio.com/guides/keep-running-out-of-stock-customers-complain?s=github) – The cat is in the vet's back room when a customer writes that your bestseller is gone again. A calm story for small shop owners tired of finding out too late.
@@ -2177,6 +2181,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
 - [Kunde: „Zahlung kommt diese Woche“? Die Turnhalle](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-diese-woche-nichts-passiert?s=github) – Zum dritten Mal schreibt der Kunde, die Zahlung komme. Samstagmorgen in der Turnhalle weißt du: Du willst nicht mehr betteln, sondern ruhig nachfassen.
+
+- [„Zahlung kommt“ – aber nichts da? Ferienwohnung, Tag vier](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-freelancer-nichts-eingegangen?s=github) – Der Kunde schreibt seit Wochen „Zahlung kommt“, doch auf dem Konto bleibt es still. Eine Geschichte über ruhiges Nachfassen ohne Betteln.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
 
@@ -2655,6 +2661,8 @@ Included (16 products, 175 USD if bought separately):
 - [Reuniones con clientes que no cobro: trabajo gratis](https://blixwerkstudio.com/guides/reuniones-con-clientes-que-no-cobro-trabajo-gratis?s=github) – La llamada de «solo 15 minutos» duró hora y cuarto y nadie la va a pagar. Una historia sobre tus reuniones sin cobrar y cómo recuperar la calma.
 
 - [Rewriting the Same Client Email? The Breakdown Lay-By](https://blixwerkstudio.com/guides/rewriting-the-same-awkward-client-email?s=github) – Eleven drafts, one awkward email, and a recovery truck forty minutes away. A story for anyone who keeps rewriting the same client message and still hates it.
+
+- [Robocopy Backup Failed for Weeks? The Vineyard Terrace](https://blixwerkstudio.com/guides/robocopy-backup-script-failed-didnt-notice-for-weeks?s=github) – Your robocopy backup script failed and nobody told you. A quiet story about finding out on a terrace, and what a calm backup routine feels like.
 
 - [Out of Content Ideas Every Week? The Florist's Till Roll](https://blixwerkstudio.com/guides/run-out-of-content-ideas-small-business-social-media?s=github) – Monday, shop quiet, phone in hand, and not one idea for this week's posts. A calm story about running out of content ideas, and what changes it.
 
