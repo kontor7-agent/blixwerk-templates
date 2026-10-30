@@ -1802,6 +1802,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel con espacios y nombres mal escritos: no lo limpio a mano](https://blixwerkstudio.com/guides/excel-espacios-nombres-mal-escritos-limpiar-datos?s=github) – Jueves por la mañana, 412 filas con espacios y nombres mal escritos y una entrega a mediodía. Una historia para quien no puede limpiar tanto dato a mano.
 
+- [Excel con filas vacías y celdas combinadas: no importa](https://blixwerkstudio.com/guides/excel-filas-vacias-celdas-combinadas-no-importa?s=github) – Las 11:40, el portal rechaza tu Excel con filas vacías y celdas combinadas y la entrega es hoy. Una historia para respirar hondo.
+
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://blixwerkstudio.com/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
 - [Excel Keeps Crashing on a Huge CSV? The Replacement Bus](https://blixwerkstudio.com/guides/excel-keeps-crashing-huge-csv-file?s=github) – The spinner, the 'Not Responding' bar, a call at 9:30. A calm story for anyone whose Excel keeps crashing when they open a huge CSV file.
@@ -2092,6 +2094,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Inventur, Zahlen stimmen nie? Der 2. Januar, 8:10 Uhr](https://blixwerkstudio.com/guides/inventur-kleines-geschaeft-zahlen-stimmen-nie?s=github) – Zwei Zahlen, ein Regal: Jonas zählt Schläuche und Ketten, und nichts passt zur Liste. Eine Geschichte über Inventur im kleinen Geschäft.
 
+- [Invoice 90 Days Overdue, Client Silent? The Cake Knife](https://blixwerkstudio.com/guides/invoice-90-days-overdue-client-stopped-answering?s=github) – Your invoice is 90 days overdue and the client has stopped answering. A quiet story about a birthday party, a buzzing phone and a calmer way to chase.
+
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://blixwerkstudio.com/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
 
 - [Invoiced the Same Hours Twice? The Red Light at 8:42](https://blixwerkstudio.com/guides/invoiced-same-hours-twice-freelance?s=github) – You think you billed the same hours twice. A freelancer's story from a pedestrian crossing, and how a calmer Monday feels when your hours and invoices line up.
@@ -2185,6 +2189,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zahlung kommt angeblich, aber nichts? Der Friseurstuhl](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-freelancer?s=github) – Folie im Haar, Handy im Schoß, wieder nur „kommt diese Woche“. Eine Geschichte über leere Zahlungszusagen und darüber, wie ruhiges Nachfassen sich anfühlt.
 
 - [Kunde: „Zahlung kommt“ – nichts da? Die Umzugskartons](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelance?s=github) – Zwischen Umzugskartons wartest du auf Geld, das „diese Woche“ kommen soll. Eine Geschichte über Zusagen, die nie ankommen, und wie es ruhiger wird.
+
+- [Kunde zahlt nicht, sagt immer „kommt“? Mittwoch, 16 Uhr](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer-c7d9?s=github) – Der Kunde schreibt seit Wochen „Zahlung kommt“, aber auf dem Konto bleibt es still. Eine Geschichte über Ruhe beim Nachhaken, ohne zu betteln.
 
 - [Zahlung kommt bald, aber nichts kommt? Der Wäscheständer](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-aber-nichts-kommt-freelancer?s=github) – Der Kunde sagt zum x-ten Mal, das Geld sei unterwegs. Eine Geschichte über Wäsche, Warten und die Ruhe, die zurückkommt, wenn du einen Plan hast.
 
@@ -2487,6 +2493,8 @@ Included (16 products, 175 USD if bought separately):
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://blixwerkstudio.com/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
 - [Perdí a mi mayor cliente: casi todo mi ingreso era él](https://blixwerkstudio.com/guides/perdi-a-mi-mayor-cliente-autonomo-ingresos?s=github) – Una llamada de dos minutos y el cliente que pagaba casi todo se fue. Cómo se vuelve a respirar cuando ves tus cuentas con claridad.
+
+- [Phone Numbers Messy in Your CSV? The Market Stall Texts](https://blixwerkstudio.com/guides/phone-numbers-names-inconsistent-csv-fix?s=github) – Phone numbers in six formats, names in three cases, and a Saturday reminder to send. A calm story about messy CSV contact lists and getting hours back.
 
 - [Photos Delivered, Payment Delayed? The Delivery Slot](https://blixwerkstudio.com/guides/photographer-client-delays-final-payment-after-delivery?s=github) – You delivered the edited photos two weeks ago. The final payment is still 'this week'. A quiet story about waiting, and the calmer way to know where you stand.
 
