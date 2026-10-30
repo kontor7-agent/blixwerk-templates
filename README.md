@@ -1268,6 +1268,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Apunto las horas de mis clientes en el móvil y se me escapan](https://blixwerkstudio.com/guides/apunto-las-horas-de-mis-clientes-en-el-movil-y-se-me-escapan?s=github) – Estás en el tren, abres las notas del móvil y no recuerdas cuántas horas le dedicaste a ese cliente. Una historia para quien siempre pierde horas sin cobrar.
 
+- [Archivos repetidos en el PC y no sé cuáles borrar](https://blixwerkstudio.com/guides/archivos-repetidos-en-el-pc-no-se-cuales-borrar?s=github) – Compartes pantalla en una videollamada y tu carpeta de Descargas se queda a la vista: miles de archivos repetidos y ninguna certeza de cuáles borrar.
+
 - [Ask a Client for a Testimonial Without Feeling Awkward](https://blixwerkstudio.com/guides/ask-client-for-testimonial-without-feeling-awkward?s=github) – The project went well, the client said thanks, and the draft email still sits unsent. A calm story about asking for a testimonial without squirming.
 
 - [Asked to Review API Security, Don't Know Where to Start?](https://blixwerkstudio.com/guides/asked-to-review-api-security-where-to-start?s=github) – A client asks you to review their API security by Friday and your mind goes blank. A quiet story about starting without the knot in your stomach.
@@ -1309,6 +1311,8 @@ Included (16 products, 175 USD if bought separately):
 - [Best Seller Out of Stock Again? The Platform at 8:03 am](https://blixwerkstudio.com/guides/best-seller-out-of-stock-again-customer-asked?s=github) – Your best seller sold out days ago and you only found out when a customer asked. A calm story about noticing sooner, before the message arrives.
 
 - [Best Seller Sold Out Unnoticed? The Beach Café Weekend](https://blixwerkstudio.com/guides/best-seller-sold-out-and-i-didnt-notice?s=github) – Your best seller was gone for days and nobody told you. A quiet story about a weekend away, a buzzing phone and a shelf that stops surprising you.
+
+- [Bestseller auf dem Markt ausverkauft? Sonntag, 13:20 Uhr](https://blixwerkstudio.com/guides/bestseller-auf-dem-markt-ausverkauft-lagerbestand-unbekannt?s=github) – Mittags ist dein Bestseller weg, und du weißt nicht, wie viel Lager noch da ist. Eine Geschichte vom Handwerkermarkt – und vom Aufatmen.
 
 - [Bestseller schon wieder ausverkauft? Dienstag, 7:40 Uhr](https://blixwerkstudio.com/guides/bestseller-ausverkauft-handmade-shop-bestand-unklar?s=github) – Der Bestseller ist wieder weg, und du weißt nicht, was im Regal noch liegt. Eine Geschichte über Handmade-Alltag und ein ruhigeres Lager.
 
@@ -1634,6 +1638,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Correos del negocio sin fin: ¿qué delego a la IA?](https://blixwerkstudio.com/guides/correos-del-negocio-que-delegar-a-la-ia?s=github) – Miércoles, 11:15, la bandeja llena de correos del negocio. Una historia sobre qué delegar a la IA y qué seguir haciendo tú, con calma.
 
+- [CORS Wildcard in Production? The Escape Room Countdown](https://blixwerkstudio.com/guides/cors-wildcard-open-endpoints-production-api?s=github) – A wildcard CORS header and a few open endpoints, two days before launch. A calm story about the doubt in the back of your head, and how it can ease.
+
 - [Craft Fair Customer Said Prices Too High? The Oak Board](https://blixwerkstudio.com/guides/craft-fair-customer-said-prices-too-high-underpricing-handmade?s=github) – A customer sighs at your price tag at the craft fair. Are you underpricing handmade work, or is the number fine? A quiet story about knowing.
 
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://blixwerkstudio.com/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
@@ -1813,6 +1819,8 @@ Included (16 products, 175 USD if bought separately):
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://blixwerkstudio.com/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
 - [Excel Keeps Crashing on a Huge CSV? The Replacement Bus](https://blixwerkstudio.com/guides/excel-keeps-crashing-huge-csv-file?s=github) – The spinner, the 'Not Responding' bar, a call at 9:30. A calm story for anyone whose Excel keeps crashing when they open a huge CSV file.
+
+- [CSV Long IDs Turn to 4.9E+12 in Excel? The Station Bakery](https://blixwerkstudio.com/guides/excel-long-id-numbers-scientific-notation-csv-fix?s=github) – A 9:30 call, a CSV and order numbers that read 4.9E+12. A short story about long IDs, Excel, and getting your Monday morning back.
 
 - [Miles de filas desordenadas en Excel: ¿por dónde empiezo?](https://blixwerkstudio.com/guides/excel-miles-de-filas-desordenadas-por-donde-empezar?s=github) – Lunes por la mañana, el tren y un Excel de 14.000 filas que no sabes por dónde coger. Una historia sobre abrirlo sin que se te encoja el estómago.
 
