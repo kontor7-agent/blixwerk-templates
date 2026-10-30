@@ -1290,6 +1290,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Backup Overwrites Yesterday's Copy? The Hotel Lobby Wi-Fi](https://blixwerkstudio.com/guides/backup-script-overwrites-yesterdays-backup?s=github) – You asked for last Tuesday's file and found only today's copy. A quiet story about a backup script that overwrites itself, and what calm looks like instead.
 
+- [Backup Ran, Files Are Empty? The Humming Freezer](https://blixwerkstudio.com/guides/backup-script-ran-but-backup-files-are-empty?s=github) – The script said it finished. The folder says 0 KB. A calm story about the green tick that lied, and what a backup you can actually trust feels like.
+
 - [Backup Script Stopped Running? The Poolside Bench](https://blixwerkstudio.com/guides/backup-script-stopped-running-noticed-late?s=github) – Your backup script stopped running and you only just noticed. A Tuesday on a humid poolside bench, and what a calmer routine feels like afterwards.
 
 - [Backup Stopped Weeks Ago? The Laptop Repair Counter](https://blixwerkstudio.com/guides/backup-stopped-running-weeks-ago?s=github) – The repair technician asks when your last backup ran. You check. It was weeks ago. A calm story about noticing late, and what changes afterwards.
@@ -1846,6 +1848,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot to Reorder Stock Until Too Late? The Deli Call](https://blixwerkstudio.com/guides/forget-to-reorder-stock-until-too-late-small-business?s=github) – The deli buyer wants 200 bottles and the caps ran out last week. A calm story for small business owners who keep reordering stock too late.
 
+- [Forgot an Appointment Again? ADHD and the Cycle Path](https://blixwerkstudio.com/guides/forgot-important-appointment-again-adhd?s=github) – 10:07 on a cycle path, your phone lights up: the call started seven minutes ago. A story for ADHD brains who forgot an important appointment again.
+
 - [Forgot to Send an Invoice as a Freelancer? The Waiting Room](https://blixwerkstudio.com/guides/forgot-invoice-freelancer-lost-overview?s=github) – Thursday, 10:20, a waiting room, and a sudden thought: did you ever send that invoice? A calm story about losing track and getting the overview back.
 
 - [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://blixwerkstudio.com/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
@@ -2111,6 +2115,8 @@ Included (16 products, 175 USD if bought separately):
 - [What Does Each Service Earn? The Nail Tech at the Wholesaler Till](https://blixwerkstudio.com/guides/what-does-each-service-earn-nail-tech-stylist-price-list?s=github) – The card machine shows 187 euros for gel, foils and tips, and you can't say which service paid for it. A story for solo stylists, nail techs and barbers.
 
 - [Krank als Freelancer, kein Einkommen? Mittwoch, 10:40](https://blixwerkstudio.com/guides/krank-als-freelancer-kein-einkommen-genug-verlangt?s=github) – Drei Wochen krank, null Einnahmen – und die leise Frage: Habe ich genug verlangt, um das aufzufangen? Eine Geschichte für Freiberufler.
+
+- [Kunde ändert ständig den Umfang? Regentag an der Ostsee](https://blixwerkstudio.com/guides/kunde-aendert-staendig-umfang-nein-sagen-ohne-unhoeflich?s=github) – Der Kunde will „nur kurz“ noch etwas ändern – mitten im Urlaub. Eine Geschichte darüber, wie Nein sagen ohne unhöflich zu klingen leichter wird.
 
 - [Kunde antwortet nicht auf dein Angebot? Der Dienstag im Zug](https://blixwerkstudio.com/guides/kunde-antwortet-nicht-auf-mein-angebot?s=github) – Das Angebot ist raus, der Posteingang bleibt still. Eine Geschichte über Warten, Zweifeln und den Mut, ruhig und freundlich nachzufragen.
 
@@ -2447,6 +2453,8 @@ Included (16 products, 175 USD if bought separately):
 - [Overwrote a File, No Backup? The Left-Luggage Counter](https://blixwerkstudio.com/guides/overwrote-important-file-no-backup?s=github) – You hit Save over the one file that mattered, and there's no backup. A calm story about that stomach drop, and what a quiet Monday looks like after.
 
 - [Los padres no pagan la mensualidad y me da apuro reclamar](https://blixwerkstudio.com/guides/padres-no-pagan-mensualidad-clases-apuro-reclamar?s=github) – Entre dos clases miras el móvil y no sabes quién te debe la mensualidad. Una historia sobre reclamar sin apuro y volver a respirar con calma.
+
+- [Pagar la sesión de fotos en cuotas: ¿cómo lo controlo?](https://blixwerkstudio.com/guides/pagar-sesion-de-fotos-en-cuotas-control?s=github) – Dijiste que sí a cobrar la sesión de fotos en cuotas. Ahora: ¿quién pagó qué y cuándo entregas la galería? Una historia para recuperar la calma.
 
 - [Chasing Late Payment Feels Like Begging? The Gate at 7:40](https://blixwerkstudio.com/guides/how-to-chase-late-payment-without-feeling-pushy?s=github) – You're standing at the school gate, thumb over 'send', and the reminder still isn't written. A quiet story about chasing money without feeling like you're begging.
 
