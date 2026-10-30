@@ -2122,6 +2122,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Junior Dev Built Our API, Safe to Launch? Cake Tasting](https://blixwerkstudio.com/guides/junior-developer-built-our-api-safe-to-launch?s=github) – Your junior developer says the API is done and launch is Friday. You're holding a fork of lemon sponge and can't tell whether it's safe. A story about that gap.
 
+- [Just Quit to Freelance, Unsure What to Charge? The 12 Bus](https://blixwerkstudio.com/guides/just-quit-job-to-freelance-what-to-charge-per-hour?s=github) – You quit your job to freelance and a client just asked your hourly rate. A bus-ride story about the number you made up, and a calmer way.
+
 - [JWT Tokens Never Expire? The Key Box Code](https://blixwerkstudio.com/guides/jwt-tokens-never-expire-security-problem?s=github) – Standing in a holiday flat, one sentence about a key box code makes you remember: your API's JWT tokens never expire. Is that a problem? A calm story.
 
 - [Kassenbons verblasst? Das Thermopapier im Ordner](https://blixwerkstudio.com/guides/kassenbons-verblasst-thermopapier-selbststaendig-was-tun?s=github) – Mittwoch, 11:20 Uhr: Der Bon aus dem Frühjahr ist leer, der Steuerberater-Termin ist Freitag. Eine Geschichte über verblasste Belege und ruhigere Jahre.
@@ -2135,6 +2137,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kein Plan fürs neue Jahr als Freelancer? Die Frage am Kaffeetisch](https://blixwerkstudio.com/guides/kein-plan-neues-jahr-freelancer-jahresplanung?s=github) – Zwischen den Jahren fragt jemand: „Und, wie läuft's nächstes Jahr?“ Und du hast keine Antwort. Eine Geschichte über Ruhe im Kopf für Selbstständige.
 
 - [Keine Ahnung, wie viel dir Kunden schulden? Die Kaffeemaschine](https://blixwerkstudio.com/guides/keine-ahnung-wie-viel-kunden-mir-schulden-freelancer?s=github) – Donnerstag, 10:20 Uhr: Die Steuerberaterin fragt nach offenen Rechnungen und du kannst nur schätzen. Eine Geschichte über den Moment, in dem das aufhört.
+
+- [Keine Content-Ideen für nächsten Monat? Die Bank am Rhein](https://blixwerkstudio.com/guides/keine-content-ideen-naechster-monat-selbststaendig?s=github) – Der Monat endet, der Redaktionsplan ist leer und das Brot schmeckt nach nichts. Eine Geschichte für alle, die Social Media im Kopf planen.
 
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://blixwerkstudio.com/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
@@ -2322,6 +2326,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Semanas sin publicar en LinkedIn: ¿perderé clientes?](https://blixwerkstudio.com/guides/llevo-semanas-sin-publicar-en-linkedin-ansiedad-perder-clientes?s=github) – Seis semanas sin publicar en LinkedIn y la ansiedad de que se olviden de ti. Una historia sobre volver a aparecer sin el pánico del domingo.
 
+- [Post-Editing Pay Too Low? The Parents' Evening Corridor](https://blixwerkstudio.com/guides/machine-translation-post-editing-pay-too-low-per-hour-translator?s=github) – The agency calls it light post-editing. Your afternoon says otherwise. A quiet story about finding your real hourly pay as a translator.
+
 - [Made a Mistake on a Client Project? The Car Park Ticket](https://blixwerkstudio.com/guides/made-a-mistake-on-client-project-how-to-apologize-email-freelancer?s=github) – You spot your own mistake in a client's files while the car park barrier is stuck. The apology email you can't start, and what it quietly costs you.
 
 - [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
@@ -2431,6 +2437,8 @@ Included (16 products, 175 USD if bought separately):
 - [No encuentro la versión final y el cliente espera](https://blixwerkstudio.com/guides/no-encuentro-la-version-final-archivo-cliente-carpetas-desordenadas?s=github) – El cliente espera en la videollamada y tú abres 'final_v3_ok'. Una historia sobre carpetas desordenadas y cómo se siente tenerlas en orden.
 
 - [No me cuadra la caja del mercadillo y no sé cuánto vendí](https://blixwerkstudio.com/guides/no-me-cuadra-la-caja-del-mercadillo?s=github) – Son las seis, el mercadillo termina y la caja no cuadra con el cuaderno. Una historia sobre contar el día sin adivinar y volver a casa con calma.
+
+- [No planifiqué las publicaciones del mes y me da pánico](https://blixwerkstudio.com/guides/no-planifique-publicaciones-del-mes-pani-co-quedarme-sin-contenido?s=github) – Es día 1, tu feed lleva días en silencio y no tienes nada preparado. Una historia sobre el pánico a quedarte sin contenido y cómo se calma.
 
 - [No puedo importar mi Excel de clientes al CRM: el lunes](https://blixwerkstudio.com/guides/no-puedo-importar-excel-clientes-crm-telefonos-nombres?s=github) – El CRM rechaza tu Excel de clientes por teléfonos y nombres en formatos distintos. Una historia de un lunes que puede acabar más tranquilo.
 
