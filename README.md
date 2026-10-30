@@ -1558,6 +1558,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me comparan con un freelance de Fiverr y no sé qué cobrar](https://blixwerkstudio.com/guides/cliente-me-compara-freelance-barato-fiverr-que-cobrar?s=github) – Un mensaje en la cola de la panadería: «En Fiverr lo hacen por 40 €». Una historia sobre qué cobrar cuando te comparan con lo barato.
 
+- [Me debe tres facturas y no sé por cuál reclamar primero](https://blixwerkstudio.com/guides/cliente-me-debe-tres-facturas-por-cual-reclamar?s=github) – Tres facturas pendientes, un solo cliente y un nudo en el estómago. Una historia para cuando no sabes por dónde empezar a reclamar.
+
 - [Le escribí por WhatsApp para cobrar y me dejó en visto](https://blixwerkstudio.com/guides/cliente-me-dejo-en-visto-whatsapp-cobrar-factura?s=github) – Dos checks azules y ninguna respuesta. Una historia para autónomos a quienes un cliente dejó en visto justo cuando pidieron que les pagara.
 
 - [Me dijo que era caro y no supe qué responder (freelance)](https://blixwerkstudio.com/guides/cliente-me-dice-que-soy-caro-no-se-que-responder-freelance?s=github) – Te dicen «eres caro» y se te cierra la garganta. Una historia sobre dejar de improvisar tu precio y poder responder con calma.
@@ -1699,6 +1701,8 @@ Included (16 products, 175 USD if bought separately):
 - [Customer Ordered Something Sold Out? The Theatre Interval](https://blixwerkstudio.com/guides/customer-ordered-something-sold-out-again?s=github) – The phone buzzes in the interval queue: an order for a jar you sold out of last week. A short story about stock that stops surprising you.
 
 - [Customer Says Your Quote Is Too Expensive? Hallway Tea](https://blixwerkstudio.com/guides/customer-said-my-quote-is-too-expensive-can-i-lower-it?s=github) – The customer says your quote is too expensive and you can't tell if you can go lower. A tradesperson's Thursday morning, and a calmer way to know your floor.
+
+- [Customer Saw Another's Data in Your API? Oat Milk Queue](https://blixwerkstudio.com/guides/customer-saw-another-customers-data-api?s=github) – A customer saw someone else's data through your API. How did you miss it? A calm story about the message, the fix and what changes after.
 
 - [Final Bill Higher Than Your Quote? The Paint Tin Lid](https://blixwerkstudio.com/guides/customer-says-final-bill-higher-than-quote-what-do-i-do?s=github) – The customer holds your invoice and says it's higher than the quote. A painter's quiet moment in a finished hallway, and a calmer way to price jobs.
 
@@ -2033,6 +2037,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ghosted After the Final Interview? The Charity Shop Queue](https://blixwerkstudio.com/guides/ghosted-after-final-interview-what-do-i-do?s=github) – Final interview done, then nothing for eleven days. A quiet story about waiting, checking your phone, and getting your head back when the silence drags on.
 
 - [Got a Callback, Can't Remember the Job? The Pay Machine](https://blixwerkstudio.com/guides/got-a-callback-cant-remember-what-i-applied-for?s=github) – A company calls back and you can't remember what you applied for. A short story about that cold moment, and how a calmer job search feels.
+
+- [Größten Kunden verloren? Der Videocall, Donnerstag 14:30](https://blixwerkstudio.com/guides/groessten-kunden-verloren-freelance-panik-was-jetzt?s=github) – Dein größter Kunde sagt im Videocall ab, und dein Kopf rechnet sofort das Schlimmste. Eine Geschichte über Panik, Überblick und den nächsten ruhigen Schritt.
 
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
 
@@ -2479,6 +2485,8 @@ Included (16 products, 175 USD if bought separately):
 - [Los padres no pagan la mensualidad y me da apuro reclamar](https://blixwerkstudio.com/guides/padres-no-pagan-mensualidad-clases-apuro-reclamar?s=github) – Entre dos clases miras el móvil y no sabes quién te debe la mensualidad. Una historia sobre reclamar sin apuro y volver a respirar con calma.
 
 - [Pagar la sesión de fotos en cuotas: ¿cómo lo controlo?](https://blixwerkstudio.com/guides/pagar-sesion-de-fotos-en-cuotas-control?s=github) – Dijiste que sí a cobrar la sesión de fotos en cuotas. Ahora: ¿quién pagó qué y cuándo entregas la galería? Una historia para recuperar la calma.
+
+- [read_csv Error Tokenizing Data? The Trampoline Bench](https://blixwerkstudio.com/guides/pandas-read-csv-error-tokenizing-data?s=github) – Saturday, a trampoline park bench, and a client CSV that pandas refuses to read again. A story about messy files and getting your weekend back.
 
 - [Chasing Late Payment Feels Like Begging? The Gate at 7:40](https://blixwerkstudio.com/guides/how-to-chase-late-payment-without-feeling-pushy?s=github) – You're standing at the school gate, thumb over 'send', and the reminder still isn't written. A quiet story about chasing money without feeling like you're begging.
 
