@@ -1624,6 +1624,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cómo decirle a los padres que subo el precio de las clases](https://blixwerkstudio.com/guides/como-decirle-a-los-padres-que-subo-el-precio-de-las-clases-particulare?s=github) – Llevas tres años cobrando lo mismo y la madre de Pablo te saluda en la panadería. Una historia sobre subir el precio de las clases sin que se te encoja el estómago.
 
+- [Undercut on Handmade Prices? The Kiln Shop Car Park](https://blixwerkstudio.com/guides/competitors-undercutting-my-handmade-prices-what-do-i-do?s=github) – Someone is selling a lookalike mug for half your price. Before you slash yours, a quiet story about knowing your real numbers first.
+
 - [Cuento el inventario a mano y nunca me cuadra (lunes)](https://blixwerkstudio.com/guides/contar-inventario-a-mano-nunca-cuadra?s=github) – Lunes, 8:15, persiana a medias y una libreta llena de tachones. Contar el inventario de tu tienda a mano y que nunca cuadre tiene una salida más tranquila.
 
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerkstudio.com/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
@@ -1917,6 +1919,8 @@ Included (16 products, 175 USD if bought separately):
 - [Invoice Hours Don't Match Client's? The Paddling Pool](https://blixwerkstudio.com/guides/freelance-client-says-hours-on-invoice-dont-match-my-records?s=github) – The client's email says 31 hours, your invoice says 42, and you're standing in a garden holding a hose. A quiet story about being able to answer calmly.
 
 - [No Contract or Brief, Work Already Started? The Dog Walk](https://blixwerkstudio.com/guides/freelance-client-started-work-without-contract-or-brief?s=github) – Tuesday, 7:30, rain on the lead: the client is already sending files and nothing is in writing. A calm look at how it feels, and what changes.
+
+- [Einkommen wieder gesunken? Kein Plan fürs nächste Quartal](https://blixwerkstudio.com/guides/freelance-einkommen-gesunken-kein-plan-naechstes-quartal?s=github) – Dienstag, 10:50, am Aasee: Eine Absage, ein Kontostand, kein Plan fürs nächste Quartal. Eine Geschichte für Freelancer, deren Einkommen wieder gesunken ist.
 
 - [Freelance-Einkommen nach Steuern zu wenig? Parkhaus 16:10](https://blixwerkstudio.com/guides/freelance-einkommen-nach-steuern-zu-wenig?s=github) – Du arbeitest die ganze Woche, und nach Steuern bleibt trotzdem wenig. Eine Geschichte über den Moment, in dem die Zahlen endlich Sinn ergeben.
 
@@ -2580,6 +2584,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Students Forget to Pay for Lessons? The 12:50 Sandwich](https://blixwerkstudio.com/guides/private-tutor-students-forget-to-pay-for-lessons?s=github) – Four minutes between two video lessons, a sandwich going dry, and a question you can't ask: who hasn't paid? A story for private tutors.
 
+- [Se me caducó producto en el almacén y perdí dinero](https://blixwerkstudio.com/guides/producto-caducado-almacen-tienda-perdi-dinero?s=github) – Martes, 9:15. Detrás de una caja nueva aparecen 40 tarros caducados. Una historia sobre el stock que se olvida y la calma de volver a verlo.
+
 - [Profit on Handmade Items After Etsy Fees? The Frame Shop](https://blixwerkstudio.com/guides/profit-on-handmade-items-after-etsy-fees?s=github) – The framer asked how your Etsy shop was going and you said 'good!' without knowing. A quiet story about handmade profit after fees, and what eases the doubt.
 
 - [Project Taking Longer Than Planned? The Playground Bench](https://blixwerkstudio.com/guides/project-taking-longer-than-planned-tell-client?s=github) – The edit is two weeks behind and the client thinks it's nearly done. A quiet story about finally finding the words to say it, calmly.
@@ -2829,6 +2835,8 @@ Included (16 products, 175 USD if bought separately):
 - [Sold 50 Handmade Items, No Idea If You Made Profit?](https://blixwerkstudio.com/guides/sold-50-handmade-items-no-idea-if-i-made-profit?s=github) – Fifty orders packed, a full cash box, and still no idea what you actually kept. A quiet story about a maker, a train platform, and finally seeing profit.
 
 - [Sold Loads on Etsy, No Money Left? The Dinner Bill](https://blixwerkstudio.com/guides/sold-a-lot-on-etsy-no-money-left-after-fees-and-materials?s=github) – Your Etsy shop had its best month ever, so why is the account empty? A birthday dinner, a split bill and a quieter way to see what you really keep.
+
+- [Sold Out by Noon at the Craft Fair? The Empty Crate](https://blixwerkstudio.com/guides/sold-out-at-craft-fair-by-noon-not-enough-stock?s=github) – It's 12:10, your table is bare and people keep asking. A gentle story for makers who sold out at the craft fair and wish they'd brought more.
 
 - [Soy autónomo y no controlo mi dinero ni mi tiempo](https://blixwerkstudio.com/guides/soy-autonomo-no-controlo-mi-dinero-ni-mi-tiempo?s=github) – Miércoles, 14:10, menú del día y una pregunta que no te dejas hacer: ¿dónde se fue el mes? Una historia para quien trabaja por su cuenta y va a ciegas.
 
