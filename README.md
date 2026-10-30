@@ -1440,6 +1440,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [New Client Onboarding Chaos? The Reception Chair at 9:50](https://blixwerkstudio.com/guides/freelancer-client-onboarding-kickoff-checklist?s=github) – You're in a new client's lobby with the scope scattered across three emails and half the logins missing. A calmer way to begin every project.
 
+- [Client Owes Me Money: Give Up or Take It Further?](https://blixwerkstudio.com/guides/client-owes-me-money-give-up-or-take-it-further-freelance?s=github) – A client owes you money and you're torn between letting it go and pushing on. A skatepark bench, a phone and a calmer way to decide your next step.
+
 - [Paid Late Once, Now Ignoring Invoice 2? The Key Counter](https://blixwerkstudio.com/guides/client-paid-first-invoice-late-ignoring-second-invoice?s=github) – They paid the first invoice weeks late. Now the second one gets silence. A quiet story about chasing money without begging, and what changes when you have a plan.
 
 - [Client Paid Half My Invoice, Now Silent? The Jetty at Noon](https://blixwerkstudio.com/guides/client-paid-half-my-invoice-and-wont-answer-emails?s=github) – Half the money arrived, then silence. A Sunday on a rented rowing boat, one unanswered email, and a calmer way to follow up without begging.
@@ -2026,6 +2028,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi gestor pide las facturas del trimestre y no las tengo](https://blixwerkstudio.com/guides/gestor-pide-facturas-gastos-trimestre-no-las-tengo-ordenadas?s=github) – Un mensaje de tu gestor, una guantera llena de tickets y el viernes encima. Una historia sobre llegar al trimestre con calma.
 
+- [Ghosted After the Final Interview? The Charity Shop Queue](https://blixwerkstudio.com/guides/ghosted-after-final-interview-what-do-i-do?s=github) – Final interview done, then nothing for eleven days. A quiet story about waiting, checking your phone, and getting your head back when the silence drags on.
+
 - [Got a Callback, Can't Remember the Job? The Pay Machine](https://blixwerkstudio.com/guides/got-a-callback-cant-remember-what-i-applied-for?s=github) – A company calls back and you can't remember what you applied for. A short story about that cold moment, and how a calmer job search feels.
 
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
@@ -2357,6 +2361,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente siempre paga tarde y me da apuro insistir](https://blixwerkstudio.com/guides/mi-cliente-siempre-paga-tarde-me-siento-mal-insistiendo?s=github) – Es lunes, la cafetera borbotea y vuelves a redactar el mismo correo al cliente que siempre paga tarde. Una historia para quien odia insistir cada mes.
 
 - [Mi contacto se fue de la empresa y nadie sabe mi factura](https://blixwerkstudio.com/guides/mi-contacto-se-fue-de-la-empresa-factura-pendiente?s=github) – Tu contacto dejó la empresa y tu factura sigue sin pagar. Una historia sobre qué pasa cuando nadie responde, y cómo volver a respirar con calma.
+
+- [Mi pareja pregunta cuánto gano al mes y no sé qué decir](https://blixwerkstudio.com/guides/mi-pareja-me-pregunta-cuanto-gano-al-mes-autonomo?s=github) – Sábado, camino de IKEA, y una pregunta sencilla: «¿cuánto ganas al mes?». Una historia para autónomos que no saben qué contestar.
 
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
@@ -2901,6 +2907,8 @@ Included (16 products, 175 USD if bought separately):
 - [Überfällige Rechnung, Kunde schweigt? Das Schwimmbad-Café](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-kunde-antwortet-nicht?s=github) – Drei Mails, kein Wort zurück. Samstagvormittag im Schwimmbad-Café fragst du dich, was du noch schreiben sollst. Eine Geschichte über ruhiges Nachhaken.
 
 - [Überfällige Rechnung nachfassen, ohne unhöflich zu sein?](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-nachfassen-ohne-unhoeflich?s=github) – Samstag im Blumenladen: Die Rechnung ist 19 Tage überfällig, der Kunde ist nett. Eine Geschichte darüber, wie Nachfassen ruhig und freundlich klingen kann.
+
+- [Netter Kunde zahlt nicht? Kaffee auf der Terrasse, 10:30](https://blixwerkstudio.com/guides/ueberfaellige-rechnung-netter-kunde-nachhaken?s=github) – Du magst deinen Kunden, die Rechnung ist überfällig, und er schenkt dir Kaffee ein. Eine Geschichte übers Nachhaken, ohne zu betteln.
 
 - [Umsatzsteuervoranmeldung vergessen? Der Wartebereich, 9:40](https://blixwerkstudio.com/guides/umsatzsteuervoranmeldung-vergessen-selbststaendig?s=github) – Dir fällt im Wartezimmer ein: Die Umsatzsteuervoranmeldung ist nicht draußen. Eine Geschichte über Panik, Überblick und den ruhigeren nächsten Monat.
 
