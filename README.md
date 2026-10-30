@@ -2442,6 +2442,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No puedo importar mi Excel de clientes al CRM: el lunes](https://blixwerkstudio.com/guides/no-puedo-importar-excel-clientes-crm-telefonos-nombres?s=github) – El CRM rechaza tu Excel de clientes por teléfonos y nombres en formatos distintos. Una historia de un lunes que puede acabar más tranquilo.
 
+- [No Rate Limiting on Your API? The Honey Stall Queue](https://blixwerkstudio.com/guides/no-rate-limiting-api-launch-monday?s=github) – Launch is Monday and your API has no rate limiting. A Saturday-morning story about the knot in your stomach, and how a calm review can loosen it.
+
 - [Haven't Kept Any Receipts This Year? The Hut Terrace](https://blixwerkstudio.com/guides/no-receipts-kept-this-year-freelancer-panic?s=github) – October, a mountain terrace, and one text that makes you realise you kept no receipts all year. A calm story for freelancers who feel behind.
 
 - [No sé a qué precio vender lo hecho a mano y me da miedo](https://blixwerkstudio.com/guides/no-se-a-que-precio-vender-mis-productos-hechos-a-mano?s=github) – La dueña de la tienda pregunta tu precio y se te escapa uno demasiado bajo. Una historia para quien hace cosas a mano y teme ponerlas caras.
@@ -2501,6 +2503,8 @@ Included (16 products, 175 USD if bought separately):
 - [Los padres no pagan la mensualidad y me da apuro reclamar](https://blixwerkstudio.com/guides/padres-no-pagan-mensualidad-clases-apuro-reclamar?s=github) – Entre dos clases miras el móvil y no sabes quién te debe la mensualidad. Una historia sobre reclamar sin apuro y volver a respirar con calma.
 
 - [Pagar la sesión de fotos en cuotas: ¿cómo lo controlo?](https://blixwerkstudio.com/guides/pagar-sesion-de-fotos-en-cuotas-control?s=github) – Dijiste que sí a cobrar la sesión de fotos en cuotas. Ahora: ¿quién pagó qué y cuándo entregas la galería? Una historia para recuperar la calma.
+
+- [Pandas Won't Convert CSV Prices? The Rental Flat Balcony](https://blixwerkstudio.com/guides/pandas-csv-prices-mixed-currency-formats-cant-convert?s=github) – €1.299,00, $1,299.00, 'approx 1299 EUR' and pandas says no. A holiday that isn't one, and the calm of a price column that finally behaves.
 
 - [read_csv Error Tokenizing Data? The Trampoline Bench](https://blixwerkstudio.com/guides/pandas-read-csv-error-tokenizing-data?s=github) – Saturday, a trampoline park bench, and a client CSV that pandas refuses to read again. A story about messy files and getting your weekend back.
 
@@ -2645,6 +2649,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
 
 - [Scared of Ransomware, No Automatic Backup? The Tax Week Hum](https://blixwerkstudio.com/guides/ransomware-small-business-server-no-automatic-backup?s=github) – The server hums under the desk, tax week is close, and you can't remember when anything was last copied. A calm story about getting that knot to loosen.
+
+- [Rechnung zum dritten Mal schicken? Der Flohmarkt, 11:10](https://blixwerkstudio.com/guides/rechnung-dritten-mal-schicken-kunde?s=github) – Der Kunde bittet zum dritten Mal um dieselbe Rechnung, und du stehst am Flohmarkttisch. Eine Geschichte über Ruhe beim Nachhaken.
 
 - [Späte Rechnung, netter Kunde: Wie mahnen ohne unhöflich?](https://blixwerkstudio.com/guides/rechnung-freundlich-mahnen-netter-kunde?s=github) – Der Kunde ist nett, die Rechnung seit Wochen offen. Eine Geschichte über das Nachhaken, ohne dich zu verbiegen – mitten auf einer Hochzeitsfeier.
 
@@ -2967,6 +2973,8 @@ Included (16 products, 175 USD if bought separately):
 - [Underquoted a Job and Lost Money? The Tiles on Thursday Morning](https://blixwerkstudio.com/guides/underquoted-a-job-and-lost-money-contractor?s=github) – You quoted the bathroom job in ten minutes on the doorstep. By Thursday, the tiles told you the truth. A story for contractors who underquoted.
 
 - [UnicodeDecodeError al leer un CSV en Python y entrego hoy](https://blixwerkstudio.com/guides/unicodedecodeerror-leer-csv-python-entrego-hoy?s=github) – El CSV no se lee, la pantalla en rojo y el cliente espera a las 12. Una historia para quien tiene que entregar hoy y no sabe por dónde empezar.
+
+- [Tengo 50 archivos CSV y debo unirlos en uno hoy](https://blixwerkstudio.com/guides/unir-50-archivos-csv-en-uno-solo-hoy?s=github) – Cincuenta CSV en la carpeta, una llamada a las 12:00 y el reloj en marcha. Una historia para quien necesita unirlos en un solo archivo hoy.
 
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://blixwerkstudio.com/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
 
