@@ -2094,6 +2094,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Interview Tomorrow, Can't Remember What You Sent Them?](https://blixwerkstudio.com/guides/interview-tomorrow-cant-remember-what-i-sent-them?s=github) – Interview at 10 tomorrow, and you can't recall which CV or cover letter you sent. A quiet story about walking in prepared instead of guessing.
 
+- [Interview Tomorrow, No Questions to Ask? The Risotto Pan](https://blixwerkstudio.com/guides/interview-tomorrow-no-questions-to-ask?s=github) – Interview tomorrow and your mind goes blank when you think of questions to ask them? A quiet story about the stirring pan, the empty note, and a calmer way.
+
 - [Interviewed Last Week, No Reply? The Launderette Table](https://blixwerkstudio.com/guides/interviewed-last-week-no-reply-how-to-follow-up?s=github) – Interviewed a week ago and the inbox is silent? A story about the waiting, the follow-up you keep rewriting, and getting your calm back.
 
 - [El inventario no cuadra con las ventas: ¿me falta género?](https://blixwerkstudio.com/guides/inventario-no-cuadra-con-ventas-falta-mercancia-tienda?s=github) – Nueve cuadernos en el estante, catorce en la pantalla. Una historia sobre el inventario que no cuadra con las ventas y la calma que vuelve.
@@ -2115,6 +2117,8 @@ Included (16 products, 175 USD if bought separately):
 - [Asked to Sign Off API Security? The Empty Release Ticket](https://blixwerkstudio.com/guides/junior-developer-asked-to-sign-off-api-security?s=github) – Your lead is off tomorrow and the ticket says 'security sign-off: you'. A calm story for the junior developer afraid of missing something.
 
 - [Junior Dev Built Our API, Safe to Launch? Cake Tasting](https://blixwerkstudio.com/guides/junior-developer-built-our-api-safe-to-launch?s=github) – Your junior developer says the API is done and launch is Friday. You're holding a fork of lemon sponge and can't tell whether it's safe. A story about that gap.
+
+- [JWT Tokens Never Expire? The Key Box Code](https://blixwerkstudio.com/guides/jwt-tokens-never-expire-security-problem?s=github) – Standing in a holiday flat, one sentence about a key box code makes you remember: your API's JWT tokens never expire. Is that a problem? A calm story.
 
 - [Kassenbons verblasst? Das Thermopapier im Ordner](https://blixwerkstudio.com/guides/kassenbons-verblasst-thermopapier-selbststaendig-was-tun?s=github) – Mittwoch, 11:20 Uhr: Der Bon aus dem Frühjahr ist leer, der Steuerberater-Termin ist Freitag. Eine Geschichte über verblasste Belege und ruhigere Jahre.
 
@@ -2702,6 +2706,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://blixwerkstudio.com/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
 
+- [Salon voll, aber verdienst du was? Vor dem Steuerberater](https://blixwerkstudio.com/guides/salon-voll-aber-verdienst-du-was?s=github) – Der Kalender ist voll, das Konto sagt etwas anderes. Eine Geschichte für Friseurinnen, Nagelstudios und Barber vor dem Steuerberater-Termin.
+
 - [Same Customer Spelled 5 Ways in Excel? The Fair Stand](https://blixwerkstudio.com/guides/same-customer-spelled-five-ways-in-excel?s=github) – Hartmann, Hartman, HARTMANN GmbH: your export counts one client five times. A quiet story about the moment a trade-fair question exposed it.
 
 - [Can't Say No to a Client's Extra Work? The Lifting Bridge](https://blixwerkstudio.com/guides/say-no-to-client-extra-work-politely?s=github) – The bridge goes up, your phone buzzes: 'one small extra thing?' A story about saying no to extra client work without sounding rude.
@@ -2729,6 +2735,8 @@ Included (16 products, 175 USD if bought separately):
 - [Se me olvidó facturar a un cliente y han pasado semanas](https://blixwerkstudio.com/guides/se-me-olvido-facturar-a-un-cliente-semanas?s=github) – Ves tus fotos en las redes de un cliente y te das cuenta: nunca le enviaste la factura. Una historia sobre el despiste y cómo se vuelve a respirar.
 
 - [Se me olvidó facturar a un cliente y ya pasó un mes: la llamada](https://blixwerkstudio.com/guides/se-me-olvido-facturar-a-un-cliente-y-ya-paso-un-mes?s=github) – Una llamada de martes, una pregunta sencilla y un mes de trabajo sin facturar. Para quien se olvidó de cobrar y no sabe cómo decirlo.
+
+- [Se me pasó el vencimiento de una factura: la lavandería](https://blixwerkstudio.com/guides/se-me-paso-la-fecha-de-vencimiento-de-una-factura?s=github) – Miras la app del banco mientras gira la secadora y lo ves: una factura venció hace tres semanas. Nadie te avisó, y tú tampoco te diste cuenta.
 
 - [Selbstständig überfordert: Rechnungen, Stunden und Lager überall](https://blixwerkstudio.com/guides/selbstaendig-ueberfordert-rechnungen-stunden-lager-chaos?s=github) – Im Zug zum Steuerberater, fünf Orte für drei Themen: Rechnungen, Stunden, Lager. Eine Geschichte für alle, die das Gefühl kennen, nichts im Griff zu haben.
 
