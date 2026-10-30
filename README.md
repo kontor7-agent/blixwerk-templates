@@ -1446,6 +1446,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Paid My Invoice, But Which Hours Did It Cover?](https://blixwerkstudio.com/guides/client-paid-invoice-which-hours-were-covered?s=github) – The payment landed, but you can't tell which hours it covered. A calm story about a Monday-morning bank notification and finally seeing it clearly.
 
+- [Client Paid Late Again and Wants More Work? The Tile Wall](https://blixwerkstudio.com/guides/client-paid-late-again-keeps-asking-for-more-work?s=github) – A message arrives: 'Can you start phase two?' Invoice one is still unpaid. A quiet story about holding a calm line, without begging.
+
 - [Client Paid Late Again, Which Invoices Are Open? The Allotment Shed](https://blixwerkstudio.com/guides/client-paid-late-again-which-invoices-are-still-open?s=github) – A payment lands with a reference you don't recognise. Which invoice was that? A calm story for freelancers who can't tell what's still open.
 
 - [Client Paid Only Part of My Invoice: The Monday Bank Notification](https://blixwerkstudio.com/guides/client-paid-only-part-of-my-invoice-whats-outstanding?s=github) – The money arrived, but it's not the full amount. Now you can't tell what's still outstanding. A short story about a Monday morning, and the calm after.
@@ -1587,6 +1589,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me pide los RAW y no sé cuánto cobrar como fotógrafa](https://blixwerkstudio.com/guides/cliente-pide-archivos-raw-sesion-cuanto-cobrar-fotografo-autonomo?s=github) – El cliente te pide los RAW de la sesión y se te queda la mente en blanco. Una historia sobre poner precio con calma, sin apuro.
 
 - [Ya entregué y el cliente pide descuento: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-pide-descuento-despues-de-entregar-el-proyecto?s=github) – Entregaste el proyecto y ahora el cliente pide descuento. Una escena de parque, un móvil que vibra y una forma más tranquila de responder.
+
+- [Me pide que le devuelva el dinero de la sesión de fotos](https://blixwerkstudio.com/guides/cliente-pide-devolver-dinero-sesion-de-fotos?s=github) – Entregaste las fotos y llega un mensaje: «¿nos devuelves el dinero?». Una historia sobre el apuro, la duda y la calma de tener tus sesiones a la vista.
 
 - [Mi cliente me pide factura con IRPF e IVA y me bloqueo](https://blixwerkstudio.com/guides/cliente-pide-factura-con-irpf-e-iva-no-se-como-ponerlo?s=github) – El cliente pide factura con IRPF e IVA y te quedas en blanco en plena llamada. Una historia sobre pasar del bloqueo a la calma, sin fórmulas.
 
@@ -1767,6 +1771,8 @@ Included (16 products, 175 USD if bought separately):
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
 
 - [Busy Etsy Shop, No Money Left After Fees? The Toast](https://blixwerkstudio.com/guides/etsy-shop-busy-no-money-left-after-fees?s=github) – Orders keep coming, but the account stays thin. A story about a birthday toast, one honest question and the calm of seeing profit per product.
+
+- [Etsy läuft, aber verdienst du was? Der Anruf um 14 Uhr](https://blixwerkstudio.com/guides/etsy-shop-viel-zu-tun-gewinn-unklar?s=github) – Die Bestellungen kommen, das Paketband ist voll – und doch weißt du nicht, was am Ende bleibt. Eine Geschichte über einen Anruf und die Ruhe danach.
 
 - [Etsy überverkauft, Bestellung stornieren? Sektempfang](https://blixwerkstudio.com/guides/etsy-ueberverkauft-bestellung-stornieren?s=github) – Samstag, Sektempfang, und plötzlich diese Nachricht: Das letzte Tassenset gibt es nicht mehr. Eine Geschichte über Überverkauf auf Etsy und Ruhe.
 
@@ -2339,6 +2345,8 @@ Included (16 products, 175 USD if bought separately):
 - [Miedo a gastarme el IVA y el IRPF del trimestre](https://blixwerkstudio.com/guides/miedo-gastarme-iva-irpf-trimestral-autonomo?s=github) – Es mediados de octubre, el trimestre se acerca y no sabes cuánto apartar. Una historia sobre el miedo a gastarte un dinero que no es del todo tuyo.
 
 - [Mind Racing at Night? Can't Remember Tomorrow? The Fridge](https://blixwerkstudio.com/guides/mind-racing-at-night-cant-remember-tomorrows-tasks-adhd?s=github) – 3:20 am, tomorrow's tasks looping in your head, scared you'll forget one. A short story about getting it out of your head and onto one calm page.
+
+- [Mind Blank in an Interview? The Frozen Smile on Camera](https://blixwerkstudio.com/guides/mind-went-blank-in-interview-cant-remember-examples-of-my-work?s=github) – Your mind went blank in the interview and you couldn't recall a single example of your work. A quiet story about what happens next, and a calmer way to prepare.
 
 - [Mindestbestand vergessen? Der Anruf vom Fußballverein](https://blixwerkstudio.com/guides/mindestbestand-vergessen-zu-spaet-nachbestellt-kunde-wartet?s=github) – Freitag, 9:10 Uhr: Die Rohlinge sind aus, der Verein braucht die Trikots morgen. Eine Geschichte für alle, die den Mindestbestand mal wieder vergessen haben.
 
