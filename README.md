@@ -1638,6 +1638,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://blixwerkstudio.com/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
 
+- [CSV Dates Day and Month Swapped? The Corridor Chairs](https://blixwerkstudio.com/guides/csv-dates-day-and-month-swapped-after-import?s=github) – You sent the report, then a client asked why you billed a day they were closed. Day and month swapped after a CSV import. A calm story, and a way out.
+
 - [Messy CSV Export Every Week? The Conference Coffee Line](https://blixwerkstudio.com/guides/csv-export-full-of-messy-data-every-week?s=github) – The same messy CSV lands in your inbox every week, and every week you fix it by hand. A short story about the Monday it stopped being your job.
 
 - [CSV Full of Trailing Spaces and Mixed Dates? The Lunch Break Fix](https://blixwerkstudio.com/guides/csv-export-trailing-spaces-mixed-date-formats?s=github) – Half past twelve, a sandwich going cold, and a CSV where every date looks different. A short story about cleaning exports by hand, and the day it stopped.
@@ -1837,6 +1839,8 @@ Included (16 products, 175 USD if bought separately):
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://blixwerkstudio.com/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
 
 - [First Craft Fair Stall: How Much Stock, What Float?](https://blixwerkstudio.com/guides/first-craft-fair-stall-how-much-stock-to-bring-float?s=github) – Your first craft fair is on Saturday and the van is half packed. How much stock to bring, how big a float, and how to stop panicking at the kitchen table.
+
+- [First Quote, No Idea What Markup to Add? The Shelf Bay](https://blixwerkstudio.com/guides/first-time-quote-how-much-markup-on-materials?s=github) – Your first quote, a customer waiting, and no idea what to add on materials. A short story about the pause, and how it can feel calmer.
 
 - [Guessing Your Freelance Hourly Rate? The Required Field](https://blixwerkstudio.com/guides/first-year-freelancing-what-hourly-rate-should-i-charge?s=github) – A required field, a blinking cursor, and a number you're making up. A first-year freelancer's story about guessing your hourly rate.
 
@@ -2231,6 +2235,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde will 90 Tage Zahlungsziel? Der Videocall um 11:20](https://blixwerkstudio.com/guides/kunde-will-90-tage-zahlungsziel-freelancer?s=github) – Der Kunde nennt 90 Tage Zahlungsziel, und deine Miete ist in zwei Wochen fällig. Eine Geschichte über Ruhe, wenn Geld spät kommt.
 
 - [Kunde will alle Rohbilder? Mehr Stunden als gebucht](https://blixwerkstudio.com/guides/kunde-will-alle-rohbilder-mehr-stunden-als-gebucht-fotograf?s=github) – Der Kunde will alle Rohbilder und zwei Stunden mehr als gebucht. Du stehst mit der Kamera am Buffet und weißt nicht, was vereinbart war. Eine Szene.
+
+- [Kunde will Gratis-Korrekturen? Der Blutspendetermin](https://blixwerkstudio.com/guides/kunde-will-kostenlose-korrekturen-nein-sagen?s=github) – Zum dritten Mal „nur noch eine kleine Änderung“, und du weißt nicht, wie du Nein sagst. Eine Geschichte über Grenzen, die ruhig klingen dürfen.
 
 - [Kunde will nur eine Kleinigkeit? Der Freitag um 16:50](https://blixwerkstudio.com/guides/kunde-will-noch-eine-kleinigkeit-nein-sagen-freelancer?s=github) – „Nur noch eine kleine Änderung“ – zum zwölften Mal. Eine Freitagsgeschichte aus der Kassenschlange über Scope Creep und den Mut, ruhig Nein zu sagen.
 
@@ -2833,6 +2839,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stundensatz reicht nicht für Steuern und Krankenkasse?](https://blixwerkstudio.com/guides/stundensatz-reicht-nicht-steuern-krankenkasse?s=github) – Ein Brief im Hausflur, und die Frage: Reicht dein Stundensatz für Steuern und Krankenkasse? Eine Geschichte über Ruhe statt Bauchgefühl.
 
 - [Subí mi API a producción y no sé si es segura: la cola](https://blixwerkstudio.com/guides/subi-mi-api-a-produccion-no-se-si-es-segura?s=github) – Sábado por la mañana, la API ya en producción y una duda que no te deja disfrutar el pan. Una historia para quien lanzó y no sabe si es segura.
+
+- [Tardé semanas en contestar a un cliente: me da vergüenza](https://blixwerkstudio.com/guides/tarde-semanas-en-contestar-a-un-cliente-me-da-verguenza?s=github) – Tres semanas sin contestar a un cliente y cada día cuesta más escribirle. Una historia sobre el lunes en que por fin abres ese correo.
 
 - [Tardo una hora en escribir un correo a un cliente: el lunes de las 9:40](https://blixwerkstudio.com/guides/tardo-una-hora-en-escribir-un-correo-a-un-cliente?s=github) – Son las 9:40, el café se enfría y el correo para tu cliente sigue en blanco. Una historia sobre bloquearse al escribir y cómo soltar ese nudo.
 
