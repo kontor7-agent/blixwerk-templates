@@ -1558,6 +1558,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente dice que ya pagó y no me llega el dinero (autónoma)](https://blixwerkstudio.com/guides/cliente-dice-que-ya-pago-pero-no-me-llega-el-dinero-autonomo?s=github) – Tu cliente jura que ya transfirió y tu cuenta sigue igual. Una mañana de martes, un justificante y la calma de saber qué factura es cuál.
 
+- [Cliente discute mi factura y no tengo el desglose de horas](https://blixwerkstudio.com/guides/cliente-discute-factura-sin-desglose-de-horas?s=github) – «Esto es más de lo que hablamos». Y tú sin el desglose de horas. Una historia sobre sentirte sin defensa con un cliente, y cómo dejar de estarlo.
+
 - [Cliente enfadado me manda un correo borde: ¿qué contesto?](https://blixwerkstudio.com/guides/cliente-enfadado-correo-borde-que-contestar-autonomo?s=github) – Un cliente enfadado te escribe un correo borde mientras haces cola en la panadería, y no sabes qué contestar. Una historia sobre recuperar la calma.
 
 - [Mi cliente ignora mis recordatorios: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-ignora-recordatorios-de-pago-freelance-que-decir?s=github) – Tercer correo redactado y borrado en la cola de la panadería. Una historia sobre cobrar sin suplicar cuando tu cliente ignora los recordatorios.
@@ -1727,6 +1729,8 @@ Included (16 products, 175 USD if bought separately):
 - [Sold Out and Didn't Know? The Driving Test Waiting Room](https://blixwerkstudio.com/guides/customer-wanted-to-buy-sold-out-didnt-know?s=github) – A customer wanted to buy and you were already sold out without knowing. A quiet story from a waiting room about how that stops being a surprise.
 
 - [Customer Wants Extra Work on Your Quote? The Ladder Pause](https://blixwerkstudio.com/guides/customer-wants-extra-work-on-top-of-quote?s=github) – You're up the ladder and the customer adds one more job. A quiet story about saying yes to extra work and still getting paid for it, without losing them.
+
+- [Customer Won't Pay a Materials Deposit? The Utility Room](https://blixwerkstudio.com/guides/customer-wont-pay-deposit-for-materials-contractor?s=github) – The customer says they'll pay when it's done, and the supplier wants cash now. A quiet story for tradespeople stuck funding the materials.
 
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
@@ -2758,6 +2762,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Scared Your Freelance Income Will Drop? Planning 2027](https://blixwerkstudio.com/guides/scared-freelance-income-will-drop-next-year-plan-2027?s=github) – The Tuesday supermarket queue, a half-empty calendar and one quiet fear: will 2027 be a thin year? A calm story about planning ahead without panic.
 
+- [Scared to Send a Final Notice? The Kite Hill Sunday](https://blixwerkstudio.com/guides/scared-to-send-final-notice-unpaid-invoice-freelancer-guilty?s=github) – Draft open, thumb hovering, stomach in a knot. A story for freelancers who feel guilty about sending a final notice for an unpaid invoice.
+
 - [Scheduled Backup Failed? The Folder With No Recent Files](https://blixwerkstudio.com/guides/scheduled-backup-failed-backup-folder-no-recent-files?s=github) – You open the backup folder to find a file for a client and the newest one is months old. A calm story about that drop in your stomach, and what comes after.
 
 - [Schwierige Kunden-Mails: Vier Entwürfe am Spielfeldrand](https://blixwerkstudio.com/guides/schwierige-mails-an-kunden-freelance?s=github) – Vier Entwürfe im Postfach, keiner abgeschickt. Eine Geschichte über schwierige Mails an Kunden, die du ewig vor dir herschiebst – und wie es leichter wird.
@@ -2917,6 +2923,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stunden vergessen, Rechnung zu niedrig? Der Anruf um 10:40](https://blixwerkstudio.com/guides/stunden-vergessen-rechnung-zu-niedrig-nachberechnen?s=github) – Stunden vergessen, Rechnung zu niedrig: Kann ich nachberechnen? Eine Geschichte über einen Anruf, ein mulmiges Gefühl und mehr Klarheit.
 
 - [Stunden vergessen, Rechnungstag? Die Elternbank, 16:15](https://blixwerkstudio.com/guides/stunden-vergessen-rechnungstag-freelancer?s=github) – Rechnungstag, aber keine Stunden notiert? Eine Geschichte vom Beckenrand – und davon, wie sich ein ruhiger Monatsabschluss anfühlt.
+
+- [Stundensatz oder Projektpreis? Der Timer am Edersee](https://blixwerkstudio.com/guides/stundensatz-oder-projektpreis-freelance?s=github) – Die Zeiterfassung nervt, aber Projektpreise machen dir Angst? Eine Geschichte vom Wanderweg über Stundensatz, Projektpreis und die Ruhe dazwischen.
 
 - [Stundensatz reicht nicht für Steuern und Krankenkasse?](https://blixwerkstudio.com/guides/stundensatz-reicht-nicht-steuern-krankenkasse?s=github) – Ein Brief im Hausflur, und die Frage: Reicht dein Stundensatz für Steuern und Krankenkasse? Eine Geschichte über Ruhe statt Bauchgefühl.
 
