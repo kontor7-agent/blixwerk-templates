@@ -2312,6 +2312,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://blixwerkstudio.com/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
+- [Kunde zahlt trotz Mahnung nicht? Das Wartezimmer, 8:15](https://blixwerkstudio.com/guides/kunde-zahlt-trotz-mahnung-nicht-inkasso?s=github) – Dritte Mahnung raus, Funkstille. Inkasso ja oder nein? Eine Lektorin im Physio-Wartezimmer und die Ruhe, die kommt, wenn du den nächsten Schritt kennst.
+
 - [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://blixwerkstudio.com/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
 
 - [Kunde fügt ständig Extra-Arbeit hinzu? Was sagst du?](https://blixwerkstudio.com/guides/kunde-zusatzarbeit-nach-auftrag-was-sagen?s=github) – „Noch eine Kleinigkeit …“ – schon wieder. Montag, 8:40 Uhr, der Cursor blinkt. Eine Geschichte für alle, die Nein sagen wollen, ohne unhöflich zu klingen.
@@ -2940,9 +2942,13 @@ Included (16 products, 175 USD if bought separately):
 
 - [Tickets por todas partes y ni idea de qué puedo deducir](https://blixwerkstudio.com/guides/tickets-por-todas-partes-no-se-que-puedo-deducir-autonomo?s=github) – Es sábado por la mañana, la caja de zapatos está abierta y los tickets se desbordan. Una historia sobre el miedo a la declaración y cómo se calma.
 
+- [Time Blindness and Always Late? Can't Plan Your ADHD Week](https://blixwerkstudio.com/guides/time-blindness-always-late-cant-plan-my-week-adhd?s=github) – Joining the call eleven minutes late, again? A quiet story about time blindness, ADHD and a week you can finally see on one page.
+
 - [So Tired of the Same Data and File Chores? A Developer's Tuesday](https://blixwerkstudio.com/guides/tired-of-boring-data-and-file-chores-as-a-developer?s=github) – Third week renaming the same files and fixing the same export. A quiet story for developers tired of daily data and file chores, and what changes.
 
 - [Tired of Manual Data Cleanup Every Week? The Airport Gate Fix](https://blixwerkstudio.com/guides/tired-of-manual-data-cleanup-file-chores-developer?s=github) – Waiting at the gate, you're renaming files and fixing a CSV by hand again. A story about weekly developer chores and what a quiet Monday can feel like.
+
+- [Todo el año apagando fuegos como autónomo: ¿avancé algo?](https://blixwerkstudio.com/guides/todo-el-ano-apagando-fuegos-autonomo-no-he-avanzado?s=github) – Es octubre y no sabes si avanzaste o solo sobreviviste. Una historia sobre dejar de apagar fuegos y mirar tu año como autónomo con calma.
 
 - [Said It's in Stock When It Isn't? The Rowing Machine](https://blixwerkstudio.com/guides/told-customer-item-in-stock-when-it-isnt?s=github) – You told a customer the item was in stock, and it wasn't. A short story about the knot that creates, and a calmer way to start the week.
 
@@ -3071,6 +3077,8 @@ Included (16 products, 175 USD if bought separately):
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://blixwerkstudio.com/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
 - [What to Post for Your Small Business? The Late Pupil](https://blixwerkstudio.com/guides/what-to-post-small-business-every-week?s=github) – Staring at your phone, no idea what to post this week? A driving instructor's ten spare minutes, and what a calm content week can feel like.
+
+- [No Response After Applying? When to Follow Up: The Jigsaw](https://blixwerkstudio.com/guides/when-to-follow-up-after-job-application-no-response?s=github) – Applied, heard nothing, and the phone stays face down. A quiet story about when to follow up after a job application, and how to stop guessing.
 
 - [Which File Is the Latest Version? The Projector Cable](https://blixwerkstudio.com/guides/which-file-is-the-latest-version-report-final-v2-final?s=github) – report_final_v2_FINAL.docx, report_final_v2_FINAL_neu.docx... and a client waiting on the line. A story about files everywhere, and the calm after.
 
