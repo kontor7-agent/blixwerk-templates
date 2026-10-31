@@ -1236,6 +1236,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Alumna pide recuperar clases ya pagadas: ¿qué política?](https://blixwerkstudio.com/guides/alumna-pide-recuperar-clases-pagadas-politica?s=github) – Sábado en la panadería, un WhatsApp: «¿puedo recuperar las clases que ya pagué?». Y tú sin saber cuántas quedaban ni qué política tienes.
 
+- [Mi alumno adulto me debe dos meses y me da vergüenza](https://blixwerkstudio.com/guides/alumno-adulto-me-debe-dos-meses-de-clases-verguenza?s=github) – Jueves, 10:50, y él llega sonriendo con la funda de la guitarra. Te debe dos meses de clases y no te sale la frase. Una historia para quien se reconoce.
+
 - [Alumno cancela la clase a última hora: ¿pierdo el dinero?](https://blixwerkstudio.com/guides/alumno-cancela-clase-ultima-hora-pierdo-dinero?s=github) – Son las 15:52, tu alumno escribe que no llega y el hueco ya no se llena. Una historia sobre cancelaciones de última hora y cómo dejar de callarte.
 
 - [Mis alumnos me pagan en efectivo y no sé quién me debe](https://blixwerkstudio.com/guides/alumnos-pagan-en-efectivo-no-se-quien-me-debe-clases?s=github) – Un sobre arrugado, un cuaderno con tachones y la duda de quién te debe clases. Una mañana de sábado en la que todo empezó a ordenarse.
@@ -1671,6 +1673,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Import Failed: Encoding Error, Deadline in an Hour](https://blixwerkstudio.com/guides/csv-import-failed-encoding-error-deadline-in-an-hour?s=github) – The import says 'encoding error' and the sale goes live in an hour. A calm story about weird characters, a ticking clock, and what changes afterwards.
 
 - [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
+
+- [CSV Messy Dates and Duplicates, Due Today? The 9:05 Text](https://blixwerkstudio.com/guides/csv-messy-dates-duplicates-deadline-today?s=github) – A CSV full of mixed dates and duplicates, and the client wants it by five. A short story about the knot in your stomach, and what a calmer Thursday feels like.
 
 - [CSV Opens in Excel All in One Column? The Kitchen Table](https://blixwerkstudio.com/guides/csv-opens-in-excel-all-in-one-column?s=github) – The export lands in Excel as one long column and the clock is ticking. A quiet story about messy CSVs, and what a calmer routine feels like.
 
@@ -2197,6 +2201,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde hat nur die Hälfte bezahlt? Der Stau auf der A7](https://blixwerkstudio.com/guides/kunde-hat-nur-die-haelfte-der-rechnung-bezahlt?s=github) – Die Banking-App zeigt 1.190 € statt 2.380 €. Eine Geschichte über halb bezahlte Rechnungen, ein flaues Gefühl im Stau und wie wieder Ruhe einkehrt.
 
 - [Kunde ignoriert Mails zur offenen Rechnung? Gartencenter](https://blixwerkstudio.com/guides/kunde-ignoriert-mails-ueberfaellige-rechnung-was-tun?s=github) – Dritte Nachfrage, wieder keine Antwort. Eine Geschichte über das Schweigen nach der Rechnung und darüber, wie Nachhaken wieder ruhig werden kann.
+
+- [Kunde ignoriert Rechnung seit 45 Tagen? Der Empfang](https://blixwerkstudio.com/guides/kunde-ignoriert-rechnung-45-tage-beziehung-nicht-ruinieren?s=github) – 45 Tage offen, und du willst die gute Beziehung nicht ruinieren. Eine Geschichte vom Empfang, vom Besucherausweis und von leiseren Wegen, nachzufragen.
 
 - [Kunde ignoriert deine Rechnung? Der Urlaubstag am Baggersee](https://blixwerkstudio.com/guides/kunde-ignoriert-rechnung-nachfassen?s=github) – Du liegst am See, aber im Kopf bleibt die unbeantwortete Rechnung. Eine Geschichte darüber, wie Nachfassen ruhiger werden kann.
 
