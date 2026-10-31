@@ -1330,6 +1330,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Billed the Same Week Twice? The Cheese Counter Ticket](https://blixwerkstudio.com/guides/billed-same-week-twice-which-hours-invoiced?s=github) – You think you billed the same week twice and can't tell which hours are invoiced. A quiet story about a Saturday queue, two PDFs, and getting calm back.
 
+- [Black Friday naht, Lager fast leer? Die Postschlange](https://blixwerkstudio.com/guides/black-friday-lager-fast-leer-bestand-im-blick?s=github) – Donnerstag, 10:15 Uhr, Postfiliale: Dein Handy erinnert an Black Friday, und im Regal fehlt schon Ware. Eine Geschichte über Ruhe im Lager.
+
 - [Bombed an Interview, Can't Recall What You Said?](https://blixwerkstudio.com/guides/bombed-interview-cant-remember-what-i-said-prepare-better?s=github) – You walked out of the interview and the answers blurred. Here is a calm story about what to do with that sinking feeling, and how to prepare next time.
 
 - [Boss Asked If Our API Is Secure? The Dishwasher Silence](https://blixwerkstudio.com/guides/boss-asked-if-our-api-is-secure?s=github) – Your boss asks if the API is secure while you stand by the dishwasher, and all you have is 'I think so.' A calm story about a better answer.
@@ -1632,6 +1634,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cobrar en dólares y no saber qué tarifa por hora poner](https://blixwerkstudio.com/guides/cobro-en-dolares-clientes-estados-unidos-tarifa-por-hora?s=github) – Un cliente de Estados Unidos te pregunta tu tarifa por hora y te quedas en blanco. Una historia sobre cobrar en dólares con más calma.
 
+- [Cobro en pesos y mi cliente paga en dólares: ¿tarifa?](https://blixwerkstudio.com/guides/cobro-en-pesos-cliente-paga-en-dolares-cuanto-cobrar-por-hora?s=github) – Una videollamada, un «dime tu tarifa en dólares» y Mariana haciendo cuentas de cabeza. Una historia para quien cobra en pesos y trabaja para fuera.
+
 - [¿Cobro muy poco como freelance? La cola del súper me lo dijo](https://blixwerkstudio.com/guides/cobro-muy-poco-como-freelance?s=github) – Una cola de supermercado, una pregunta inocente y un número que no te sale. Una historia para quien sospecha que cobra menos de lo que vale.
 
 - [Creo que cobro poco a mis clientes y me da miedo subir tarifas](https://blixwerkstudio.com/guides/cobro-poco-a-mis-clientes-miedo-subir-tarifas?s=github) – Un jueves, junto a la máquina de café del coworking, una frase te hace dudar de lo que cobras. Una historia para quien teme subir sus tarifas.
@@ -1677,6 +1681,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Messy Dates and Duplicates, Due Today? The 9:05 Text](https://blixwerkstudio.com/guides/csv-messy-dates-duplicates-deadline-today?s=github) – A CSV full of mixed dates and duplicates, and the client wants it by five. A short story about the knot in your stomach, and what a calmer Thursday feels like.
 
 - [CSV Opens in Excel All in One Column? The Kitchen Table](https://blixwerkstudio.com/guides/csv-opens-in-excel-all-in-one-column?s=github) – The export lands in Excel as one long column and the clock is ticking. A quiet story about messy CSVs, and what a calmer routine feels like.
+
+- [CSV Prices With Symbols Won't Convert? The Hardware Till](https://blixwerkstudio.com/guides/csv-prices-currency-symbols-commas-wont-convert-to-numbers?s=github) – The sum says 0. Prices with € signs and commas sit in your CSV as text while a client waits on the phone. A calm story about getting that Monday back.
 
 - [Mi CSV se abre en una sola columna en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-se-abre-en-una-sola-columna-excel?s=github) – Lunes, tren de las 8:15, un CSV que se abre en una sola columna y una entrega a las doce. Una historia para quien ya ha sentido ese nudo.
 
@@ -2767,6 +2773,8 @@ Included (16 products, 175 USD if bought separately):
 - [Out of Content Ideas Every Week? The Florist's Till Roll](https://blixwerkstudio.com/guides/run-out-of-content-ideas-small-business-social-media?s=github) – Monday, shop quiet, phone in hand, and not one idea for this week's posts. A calm story about running out of content ideas, and what changes it.
 
 - [Running Out of Stock Without Noticing? The Hill Climb](https://blixwerkstudio.com/guides/running-out-of-stock-without-noticing-small-business?s=github) – Halfway up a Sunday hill, your phone buzzes: another sold-out apology to write. A calm story about never being surprised by an empty shelf again.
+
+- [Busy Salon, Not Sure It Pays? The Baby Shower Question](https://blixwerkstudio.com/guides/salon-busy-all-week-but-not-profitable?s=github) – Your diary is full, your feet ache, and someone asks if business is booming. You smile, but you honestly don't know. A quiet story for solo stylists.
 
 - [Salon Client No-Show Again? Booth Rent Stress on a Quiet Friday](https://blixwerkstudio.com/guides/salon-client-no-show-again-booth-rent-stress?s=github) – The 2 pm chair stays empty, the booth rent is still due. A calm story for solo stylists and nail techs who lose money to no-shows and wonder what it adds up to.
 
