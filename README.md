@@ -1862,6 +1862,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [First Craft Fair Stall: How Much Stock, What Float?](https://blixwerkstudio.com/guides/first-craft-fair-stall-how-much-stock-to-bring-float?s=github) – Your first craft fair is on Saturday and the van is half packed. How much stock to bring, how big a float, and how to stop panicking at the kitchen table.
 
+- [Sent Your First Freelance Invoice? The Gift-Wrap Counter](https://blixwerkstudio.com/guides/first-freelance-invoice-what-to-include?s=github) – You sent your first freelance invoice and now wonder what's missing. A lunchtime story about that wobble, and a calmer way to send the next one.
+
 - [First Quote, No Idea What Markup to Add? The Shelf Bay](https://blixwerkstudio.com/guides/first-time-quote-how-much-markup-on-materials?s=github) – Your first quote, a customer waiting, and no idea what to add on materials. A short story about the pause, and how it can feel calmer.
 
 - [Guessing Your Freelance Hourly Rate? The Required Field](https://blixwerkstudio.com/guides/first-year-freelancing-what-hourly-rate-should-i-charge?s=github) – A required field, a blinking cursor, and a number you're making up. A first-year freelancer's story about guessing your hourly rate.
@@ -2081,6 +2083,8 @@ Included (16 products, 175 USD if bought separately):
 - [Is My Freelance Day Rate Too Low? The Soft-Play Birthday Party](https://blixwerkstudio.com/guides/how-do-i-know-if-my-freelance-day-rate-is-too-low?s=github) – A birthday party, a stranger's casual question, and the number you said too fast. A quiet story about how you know your day rate is too low.
 
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://blixwerkstudio.com/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
+
+- [How Much Safety Stock Is Enough? The Recital Row](https://blixwerkstudio.com/guides/how-much-safety-stock-small-shop?s=github) – You sit in a folding chair at a recital, doing stock maths in your head. How much safety stock should a small shop keep? A calmer way to stop guessing.
 
 - [How Much to Charge for a Job You Always Underestimate? The Fence Job](https://blixwerkstudio.com/guides/how-much-to-charge-for-a-job-i-always-underestimate?s=github) – You said "about a day" on the doorstep. By Wednesday it was three. A calm story about quoting jobs you always underestimate, and what changes.
 
@@ -2892,6 +2896,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Freelance-Stunden nicht erfasst? Donnerstag, 10:15 Uhr](https://blixwerkstudio.com/guides/stunden-nicht-erfasst-freelance-rechnung?s=github) – Der Kunde will die Abrechnung, und du hast keine Stunden notiert. Eine Geschichte über Schätzzahlen, ein mulmiges Gefühl und wie es ruhiger werden kann.
 
+- [Stunden nicht geloggt, Rechnung blockiert? Das Tretboot](https://blixwerkstudio.com/guides/stunden-nicht-erfasst-rechnung-nicht-moeglich?s=github) – Sonntag auf dem See, Montag soll die Rechnung raus – und die Stunden stehen nirgends. Eine Geschichte über Erinnerungslücken und leise Erleichterung.
+
 - [Stunden verloren, Rechnungen offen? Der Anruf, der dich kalt erwischt](https://blixwerkstudio.com/guides/stunden-und-offene-rechnungen-freelance-uebersicht-verloren?s=github) – Dienstag, 10:40 Uhr: Der Kunde fragt nach deinen Stunden, und du weißt es nicht. Eine Geschichte über Freelance-Chaos und die Ruhe danach.
 
 - [Stunden vergessen aufzuschreiben? Der 30. in der Supermarktschlange](https://blixwerkstudio.com/guides/stunden-vergessen-aufzuschreiben-freiberufler-monatsende?s=github) – Du stehst an der Kasse und weißt nicht mehr, wie viele Stunden du im Monat gearbeitet hast. Eine kleine Geschichte über Monatsende, Bauchgefühl und Ruhe.
@@ -3033,6 +3039,8 @@ Included (16 products, 175 USD if bought separately):
 - [Volví del mercadillo con cajas sin vender: ¿gané algo?](https://blixwerkstudio.com/guides/volvi-del-mercadillo-con-cajas-sin-vender-gane-algo?s=github) – Domingo, seis de la tarde, el pasillo lleno de cajas y un sobre con billetes. ¿Ganaste algo en el mercadillo? Una historia sobre cómo dejar de adivinarlo.
 
 - [Vorstellungsgespräch morgen – was stand in der Bewerbung?](https://blixwerkstudio.com/guides/vorstellungsgespraech-morgen-bewerbung-vergessen?s=github) – Morgen Vorstellungsgespräch, und du weißt nicht mehr, was du geschrieben hast? Eine kleine Geschichte über den Moment an der Supermarktkasse.
+
+- [Voy a dos mercadillos y no sé cuál me compensa: el bocata](https://blixwerkstudio.com/guides/voy-a-dos-mercadillos-no-se-cual-me-compensa?s=github) – Sábado en la plaza, domingo en la feria: dos puestos, un bocadillo y la pregunta de cuál te compensa de verdad.
 
 - [Don't Know What to Do First Each Morning? The Bin Lorry](https://blixwerkstudio.com/guides/wake-up-not-knowing-what-to-do-first-overwhelmed-every-morning?s=github) – 6:50 am, eyes open, and everything wants you at once. A calm story about mornings that start with a pile instead of a first step.
 
