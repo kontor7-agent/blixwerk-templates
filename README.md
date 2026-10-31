@@ -1254,6 +1254,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Another Contractor Quoted Cheaper? The Bakery Van Text](https://blixwerkstudio.com/guides/another-contractor-quoted-cheaper-what-do-i-say?s=github) – The text arrives while you're buying lunch: 'Someone else quoted less.' A story about the quiet panic of a cheaper quote, and what steadies your voice.
 
+- [API Key Visible in Frontend Code? The Tasting Table Text](https://blixwerkstudio.com/guides/api-key-visible-in-frontend-code-am-i-in-trouble?s=github) – A message from a client's nephew, a key in the browser, and a knot in your stomach. A calm story for anyone asking whether an exposed API key is trouble.
+
 - [API Returns Too Much Data? The Window Envelope Call](https://blixwerkstudio.com/guides/api-returns-too-much-data-in-responses?s=github) – A screen-share, a network tab, and one JSON field nobody meant to send. A calm story for developers who worry their API says more than it should.
 
 - [Worried Your API Has Security Holes? The Train to the Demo](https://blixwerkstudio.com/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
@@ -1677,6 +1679,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Import Failed: Encoding Error, Deadline in an Hour](https://blixwerkstudio.com/guides/csv-import-failed-encoding-error-deadline-in-an-hour?s=github) – The import says 'encoding error' and the sale goes live in an hour. A calm story about weird characters, a ticking clock, and what changes afterwards.
 
 - [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
+
+- [CSV Junk Header Rows Breaking Import? The Blood Test Queue](https://blixwerkstudio.com/guides/csv-junk-header-rows-total-line-breaking-import?s=github) – The export has report titles on top and a total line at the bottom, and your import keeps failing. A quiet story about a morning like that, and the way out.
 
 - [CSV Messy Dates and Duplicates, Due Today? The 9:05 Text](https://blixwerkstudio.com/guides/csv-messy-dates-duplicates-deadline-today?s=github) – A CSV full of mixed dates and duplicates, and the client wants it by five. A short story about the knot in your stomach, and what a calmer Thursday feels like.
 
@@ -2265,6 +2269,8 @@ Included (16 products, 175 USD if bought separately):
 - [„Zahlung kommt“ – aber nichts da? Ferienwohnung, Tag vier](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-freelancer-nichts-eingegangen?s=github) – Der Kunde schreibt seit Wochen „Zahlung kommt“, doch auf dem Konto bleibt es still. Eine Geschichte über ruhiges Nachfassen ohne Betteln.
 
 - [Kunde: „Zahlung kommt nächste Woche“ – zum dritten Mal](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-naechste-woche?s=github) – Zum dritten Mal „kommt nächste Woche“. Eine Geschichte vom Beckenrand und davon, wie es ruhiger wird, wenn du weißt, was als Nächstes dran ist.
+
+- [Kunde sagt „Zahlung kommt“? Der Kontoauszugsdrucker](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-da-7f73?s=github) – Zum dritten Mal heißt es „Die Zahlung kommt diese Woche“, und der Kontostand bleibt gleich. Eine Geschichte über das Warten und wie es ruhiger wird.
 
 - [Kunde sagt „Zahlung kommt“? Der Glühweinstand, 18:10](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-da-gluehweinstand?s=github) – Zum dritten Mal „Die Zahlung ist freigegeben“ und wieder kein Geld auf dem Konto. Eine Geschichte über ruhiges Nachfassen, ohne zu betteln.
 
@@ -2963,6 +2969,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stundensatz reicht nicht für Steuern und Krankenkasse?](https://blixwerkstudio.com/guides/stundensatz-reicht-nicht-steuern-krankenkasse?s=github) – Ein Brief im Hausflur, und die Frage: Reicht dein Stundensatz für Steuern und Krankenkasse? Eine Geschichte über Ruhe statt Bauchgefühl.
 
 - [Subí mi API a producción y no sé si es segura: la cola](https://blixwerkstudio.com/guides/subi-mi-api-a-produccion-no-se-si-es-segura?s=github) – Sábado por la mañana, la API ya en producción y una duda que no te deja disfrutar el pan. Una historia para quien lanzó y no sabe si es segura.
+
+- [Subir precios en mi peluquería: miedo a perder clientas](https://blixwerkstudio.com/guides/subir-precios-peluqueria-miedo-perder-clientas?s=github) – Lunes, 9:40: la lista de precios en el espejo y un nudo en el estómago. Una historia sobre subir precios sin perder clientas.
 
 - [Tardé semanas en contestar a un cliente: me da vergüenza](https://blixwerkstudio.com/guides/tarde-semanas-en-contestar-a-un-cliente-me-da-verguenza?s=github) – Tres semanas sin contestar a un cliente y cada día cuesta más escribirle. Una historia sobre el lunes en que por fin abres ese correo.
 
