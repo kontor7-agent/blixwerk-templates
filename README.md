@@ -2026,6 +2026,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [The Client Asked About Hours: Track Freelance Projects in Excel](https://blixwerkstudio.com/guides/how-to-track-freelance-projects-hours-and-invoices-in-excel?s=github) – A client asks how many hours the project took and you start digging. A calmer way to keep projects, hours and invoices in one Excel file.
 
+- [Freelancer Quarterly Taxes Panic? The Quiet Coach, 8:40](https://blixwerkstudio.com/guides/freelancer-quarterly-taxes-how-much-to-set-aside?s=github) – A deadline reminder, a half-empty account and no idea how much to set aside. A short story about freelancer quarterly taxes and finding calm.
+
 - [Receipts Everywhere, Tax Deadline Near? The Cherry Ladder](https://blixwerkstudio.com/guides/freelancer-receipts-everywhere-tax-deadline-panic?s=github) – Receipts in coat pockets, a tax deadline on the calendar, and a ladder in your mother's garden. A short story about calm admin for freelancers.
 
 - [Tax Return Week: Your Invoices and Hours Won't Add Up](https://blixwerkstudio.com/guides/freelancer-steuererklaerung-rechnungen-stunden-nicht-nachvollziehbar?s=github) – The tax adviser's email asks for your income and hours. Your invoices say one thing, your notes another. A calm look at how it feels when they match.
@@ -2155,6 +2157,8 @@ Included (16 products, 175 USD if bought separately):
 - [JWT Tokens Never Expire? The Key Box Code](https://blixwerkstudio.com/guides/jwt-tokens-never-expire-security-problem?s=github) – Standing in a holiday flat, one sentence about a key box code makes you remember: your API's JWT tokens never expire. Is that a problem? A calm story.
 
 - [Kassenbons verblasst? Das Thermopapier im Ordner](https://blixwerkstudio.com/guides/kassenbons-verblasst-thermopapier-selbststaendig-was-tun?s=github) – Mittwoch, 11:20 Uhr: Der Bon aus dem Frühjahr ist leer, der Steuerberater-Termin ist Freitag. Eine Geschichte über verblasste Belege und ruhigere Jahre.
+
+- [Checking Your Bank for a Client's Payment? The Bus Tour](https://blixwerkstudio.com/guides/keep-checking-bank-account-waiting-for-client-to-pay-invoice?s=github) – You swipe to your banking app for the ninth time today, waiting for a client's payment. A story about the knot behind the refresh, and a calmer way to wait.
 
 - [Keep Running Out of Stock? The Vet Waiting Room Message](https://blixwerkstudio.com/guides/keep-running-out-of-stock-customers-complain?s=github) – The cat is in the vet's back room when a customer writes that your bestseller is gone again. A calm story for small shop owners tired of finding out too late.
 
@@ -2772,6 +2776,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Scheduled Backup Failed? The Folder With No Recent Files](https://blixwerkstudio.com/guides/scheduled-backup-failed-backup-folder-no-recent-files?s=github) – You open the backup folder to find a file for a client and the newest one is months old. A calm story about that drop in your stomach, and what comes after.
 
+- [Schlechte Google-Bewertung vom Kunden? Was antworten?](https://blixwerkstudio.com/guides/schlechte-google-bewertung-von-kunde-was-antworten?s=github) – Zwei Sterne, drei Zeilen, und dein Puls steigt. Eine Geschichte über schlechte Google-Bewertungen und die Ruhe, die richtigen Worte zu finden.
+
 - [Schwierige Kunden-Mails: Vier Entwürfe am Spielfeldrand](https://blixwerkstudio.com/guides/schwierige-mails-an-kunden-freelance?s=github) – Vier Entwürfe im Postfach, keiner abgeschickt. Eine Geschichte über schwierige Mails an Kunden, die du ewig vor dir herschiebst – und wie es leichter wird.
 
 - [Scope Creep: Client Keeps Adding Work? The Campsite Bank Holiday](https://blixwerkstudio.com/guides/scope-creep-client-keeps-adding-work-how-to-push-back?s=github) – One bar of signal on a bank holiday, and the client wants 'just one more thing'. A calm story about scope creep and finding your words to push back.
@@ -2883,6 +2889,8 @@ Included (16 products, 175 USD if bought separately):
 - [Social Media jeden Sonntag Stress? Was soll ich diese Woche posten?](https://blixwerkstudio.com/guides/social-media-sonntag-stress-was-soll-ich-diese-woche-posten?s=github) – Sonntag, 16:40, Kaffeetafel bei deiner Mutter, und unter dem Tisch starrst du aufs leere Textfeld. Warum die Postfrage nicht jede Woche neu wehtun muss.
 
 - [Social Media vergessen? Die Kundin in der Tischlerei](https://blixwerkstudio.com/guides/social-media-vergessen-kleines-unternehmen-posten?s=github) – Donnerstag, 17:40 Uhr, Werkstatt: „Ich hab euch ewig nicht gesehen.“ Eine Geschichte für alle, die schon wieder vergessen haben zu posten.
+
+- [Mi socio y yo contamos distinto el stock: ¿cuánto hay?](https://blixwerkstudio.com/guides/socio-y-yo-contamos-distinto-el-stock-tienda?s=github) – Él dice que quedan seis, tu cuaderno dice dos, y la clienta espera en el mostrador. Una historia sobre dejar de discutir cuánto stock hay en la tienda.
 
 - [Sold 50 Handmade Items, No Idea If You Made Profit?](https://blixwerkstudio.com/guides/sold-50-handmade-items-no-idea-if-i-made-profit?s=github) – Fifty orders packed, a full cash box, and still no idea what you actually kept. A quiet story about a maker, a train platform, and finally seeing profit.
 
