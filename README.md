@@ -1252,6 +1252,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Another Contractor Quoted Cheaper? The Bakery Van Text](https://blixwerkstudio.com/guides/another-contractor-quoted-cheaper-what-do-i-say?s=github) – The text arrives while you're buying lunch: 'Someone else quoted less.' A story about the quiet panic of a cheaper quote, and what steadies your voice.
 
+- [API Returns Too Much Data? The Window Envelope Call](https://blixwerkstudio.com/guides/api-returns-too-much-data-in-responses?s=github) – A screen-share, a network tab, and one JSON field nobody meant to send. A calm story for developers who worry their API says more than it should.
+
 - [Worried Your API Has Security Holes? The Train to the Demo](https://blixwerkstudio.com/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
 
 - [Did I Miss an API Security Check? The Handover Call at 10 am](https://blixwerkstudio.com/guides/api-security-check-before-launch-client-handover?s=github) – The client is waiting on the call, your API is ready, and one quiet thought won't leave: did I miss a security check? A calm story about shipping without doubt.
@@ -1549,6 +1551,8 @@ Included (16 products, 175 USD if bought separately):
 - [Cliente dice que cobré horas de más y no tengo registro](https://blixwerkstudio.com/guides/cliente-dice-que-cobre-mas-horas-de-las-que-trabaje-sin-registro?s=github) – Tu cliente duda de las horas de la factura y no tienes registro. Una videollamada de martes y cómo se siente tenerlo todo claro.
 
 - [Dice que no recibió mi factura y ya la mandé dos veces](https://blixwerkstudio.com/guides/cliente-dice-que-no-recibio-mi-factura?s=github) – Lunes en la cola de la frutería: tu cliente dice que no ha visto la factura. Otra vez. Una historia sobre cobrar sin sentir que estás mendigando.
+
+- [Otro me lo hace más barato: ¿bajo mi presupuesto?](https://blixwerkstudio.com/guides/cliente-dice-que-otro-hace-el-presupuesto-mas-barato-bajar-precio?s=github) – El cliente te dice que otro cobra menos y tú tienes el teléfono en la mano. Una historia sobre dudar, mirar tus números y contestar con calma.
 
 - [Mi cliente dice que pagará la semana que viene y no paga](https://blixwerkstudio.com/guides/cliente-dice-que-pagara-la-semana-que-viene-y-nunca-paga?s=github) – En la cola de la panadería lees otra vez «te pago la semana que viene». Una historia para quien persigue cobros sin sentirse pesado.
 
@@ -2856,6 +2860,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Shop Keeps Overselling Stock? The Wedding Pew Buzz](https://blixwerkstudio.com/guides/small-shop-keeps-overselling-items-not-in-stock?s=github) – Your phone buzzes mid-vows: another order for something you no longer have. A calm story for small shop owners tired of overselling and apologising.
 
+- [Social Media Burnout? Der Transporter um 12:10 Uhr](https://blixwerkstudio.com/guides/social-media-burnout-keine-zeit-posts-planen?s=github) – Mittagspause im Transporter, Instagram offen, kein Gedanke im Kopf. Wenn Social Media dich auslaugt und die Zeit zum Planen fehlt. Eine Geschichte.
+
 - [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://blixwerkstudio.com/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
 
 - [Immer vergessen, auf Social Media zu posten? Der Marktstand](https://blixwerkstudio.com/guides/social-media-posten-vergessen-kleines-unternehmen?s=github) – Samstag am Marktstand sagt jemand: „Ich dachte, es gibt euch nicht mehr.“ Eine Geschichte für alle, die das Posten ständig vergessen.
@@ -2873,6 +2879,8 @@ Included (16 products, 175 USD if bought separately):
 - [Soy autónomo y no controlo mi dinero ni mi tiempo](https://blixwerkstudio.com/guides/soy-autonomo-no-controlo-mi-dinero-ni-mi-tiempo?s=github) – Miércoles, 14:10, menú del día y una pregunta que no te dejas hacer: ¿dónde se fue el mes? Una historia para quien trabaja por su cuenta y va a ciegas.
 
 - [Fixing a Messy CSV Again? The Sunday Roast Interruption](https://blixwerkstudio.com/guides/spent-all-evening-fixing-messy-csv-file?s=github) – Another evening gone to a messy CSV file? A Sunday-lunch scene about getting those hours back, and what a calmer Monday could feel like.
+
+- [Staff Keep Asking the Same Questions? The Third Roundabout](https://blixwerkstudio.com/guides/staff-keep-asking-same-questions-small-business-owner?s=github) – Your phone buzzes at the roundabout: the same question again. A small business owner's story about answers that live only in your head.
 
 - [Steuerberater wartet auf deine Unterlagen? Der Anruf in der Bäckerei](https://blixwerkstudio.com/guides/steuerberater-wartet-unterlagen-durcheinander-selbststaendig?s=github) – Dienstag, 8:20 Uhr, Bäckerei-Schlange: Die Kanzlei fragt nach deinen Unterlagen, und bei dir liegt alles durcheinander. Eine Geschichte über Ruhe im Kopf.
 
