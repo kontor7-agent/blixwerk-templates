@@ -1848,6 +1848,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://blixwerkstudio.com/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
 
+- [Excel Shows Dates as 45231 After CSV Import? Breakfast Room](https://blixwerkstudio.com/guides/excel-shows-dates-as-45231-after-importing-csv?s=github) – 7:45 in a hotel breakfast room, the CSV opens and every date is a five-digit number. A calm story about the 45231 problem and the morning after.
+
 - [Excel Turned My CSV Dates and Zip Codes Into Garbage](https://blixwerkstudio.com/guides/excel-turned-my-csv-dates-and-zip-codes-into-garbage?s=github) – The client call is in ten minutes and your zip codes have lost their zeros. A calm story about CSV dates gone wrong, and the Monday when they stay put.
 
 - [External Hard Drive Died, No Backup? The Tuesday Click](https://blixwerkstudio.com/guides/external-hard-drive-died-no-backup-client-work?s=github) – The drive with every client project starts clicking at 8:40 am, and there is no backup. A calm story about what changes once someone else watches your files.
@@ -1859,6 +1861,8 @@ Included (16 products, 175 USD if bought separately):
 - [Factura con importe equivocado: mi facturación es un lío](https://blixwerkstudio.com/guides/factura-importe-equivocado-facturacion-desordenada?s=github) – Mandaste la factura con un importe que no era y el cliente te llama a las diez. Una historia sobre facturar con calma, sin miedo a equivocarte.
 
 - [Factura vencida hace 60 días y miedo a perder al cliente](https://blixwerkstudio.com/guides/factura-vencida-60-dias-reclamar-sin-perder-al-cliente?s=github) – El cliente te propone otro proyecto y su factura lleva 60 días vencida. Una historia sobre reclamar sin romper la relación.
+
+- [Facturé y no me han pagado, y toca el IVA del trimestre](https://blixwerkstudio.com/guides/facturar-cliente-no-ha-pagado-iva-trimestre?s=github) – Factura enviada, dinero sin llegar y el trimestre cierra. Una historia ilustrativa sobre vivir esa semana con calma y saber qué te deben.
 
 - [Facturas pendientes: no sé cuáles están vencidas (sala de espera)](https://blixwerkstudio.com/guides/facturas-pendientes-no-se-cuales-estan-vencidas-autonomo?s=github) – Estás en la sala de espera del dentista y quieres saber qué facturas están vencidas. Una historia para autónomos que lo buscan en tres sitios a la vez.
 
@@ -1963,6 +1967,8 @@ Included (16 products, 175 USD if bought separately):
 - [The Invoice You Forgot to Send: A Free Freelance Tracker Story](https://blixwerkstudio.com/guides/freelance-invoice-tracker-excel-template-free?s=github) – It's 10:40 pm and you can't remember if you invoiced that project. A story about freelance invoice tracking in Excel, and the calm that follows.
 
 - [Freelance-Jahr voll, aber was verdient? Das Raclette](https://blixwerkstudio.com/guides/freelance-jahr-voll-aber-was-verdient?s=github) – Das Jahr war randvoll, aber was ist am Ende wirklich bei dir angekommen? Eine Geschichte über eine Frage am Raclette-Tisch und die Ruhe danach.
+
+- [Preise erhöhen, Kunden weg? Samstag im Baumarkt](https://blixwerkstudio.com/guides/freelance-preise-erhoehen-angst-kunden-verlieren?s=github) – Die Nebenkostenabrechnung ist da, dein Stundensatz seit Jahren gleich. Warum die Angst vor der Preiserhöhung so laut ist – und wie sie leiser wird.
 
 - [Freelance principiante: cuánto cobrar por hora sin miedo](https://blixwerkstudio.com/guides/freelance-principiante-cuanto-cobrar-por-hora-miedo-pedir-de-mas?s=github) – Tu cliente pregunta cuánto cobras por hora y tú escribes, borras y vuelves a escribir. Una historia para quien empieza y teme pedir de más.
 
@@ -3009,6 +3015,8 @@ Included (16 products, 175 USD if bought separately):
 - [Student Cancelled Again and Still Unpaid? The Red Man](https://blixwerkstudio.com/guides/tutoring-student-cancelled-last-minute-still-hasnt-paid?s=github) – A private tutor stands at a red crossing light, a last-minute cancellation on her screen and an unpaid invoice in her head. A calmer way to see it all.
 
 - [Two Job Offers, Can't Compare Them? The Zebra Crossing](https://blixwerkstudio.com/guides/two-job-offers-cant-compare-them?s=github) – Two offers, one deadline, details scattered across emails and voicemails. A Thursday-morning story about comparing job offers with a calmer head.
+
+- [Two Recruiters Submitted Me for the Same Job? The Ticket Barrier](https://blixwerkstudio.com/guides/two-recruiters-submitted-me-for-the-same-job?s=github) – Two recruiters, one role, and your phone buzzing at the station barrier. A calm story about keeping your head clear when your name is in two places.
 
 - [Nicht mehr wissen, welche Rechnungen bezahlt sind? Der Anruf am Dienstag](https://blixwerkstudio.com/guides/ueberblick-bezahlte-rechnungen-freelancer?s=github) – Du sitzt im Kundentelefonat und weißt nicht, ob die Rechnung bezahlt ist. Eine Geschichte über Überblick, der dir den Magen wieder weich macht.
 
