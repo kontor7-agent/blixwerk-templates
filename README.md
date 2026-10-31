@@ -1390,6 +1390,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot What You Invoiced This Quarter? The Harbour Bench](https://blixwerkstudio.com/guides/cant-remember-which-projects-invoiced-this-quarter?s=github) – Half a bag of chips, a phone at 9% and one question you can't answer: which projects did you already invoice this quarter? A calm story about knowing.
 
+- [Carta de Hacienda y sin justificantes de mis gastos](https://blixwerkstudio.com/guides/carta-de-hacienda-sin-justificantes-gastos-autonomo?s=github) – Abres el buzón y hay una carta de Hacienda. Tus justificantes de autónomo están «en algún sitio». Una historia para respirar y ordenar con calma.
+
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://blixwerkstudio.com/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
 - [ChatGPT Too Generic for Your Business? The Coffee Queue](https://blixwerkstudio.com/guides/chatgpt-generic-answers-small-business-what-to-ask?s=github) – ChatGPT keeps giving you bland answers for your small business? A quiet story about the moment the question, not the tool, turned out to be the problem.
@@ -1437,6 +1439,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Keeps Moving the Deadline? The Email You Dread Writing](https://blixwerkstudio.com/guides/client-keeps-moving-the-deadline-email?s=github) – The third 'can we push it a week?' arrives while you're in the bakery queue. Here's how the dreaded deadline email stops feeling like a confrontation.
 
 - [Client Keeps Promising to Pay? The Library Printer Queue](https://blixwerkstudio.com/guides/client-keeps-promising-to-pay-freelancer?s=github) – "Payment goes out Friday." Three Fridays later, nothing. A quiet story for freelancers whose client keeps promising to pay and never does.
+
+- [Client Missed the Payment Run? The Hallway Paint Roller](https://blixwerkstudio.com/guides/client-missed-payment-run-invoice-unpaid?s=github) – Your client missed the payment run and the invoice is still open. A story about the knot in your stomach, and a calmer way to follow up.
 
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://blixwerkstudio.com/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
 
@@ -2670,6 +2674,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Rechnung monatelang nicht geschrieben? Der Satz im Videocall](https://blixwerkstudio.com/guides/rechnung-monatelang-nicht-geschrieben-nachtraeglich-schicken?s=github) – Im Kundengespräch fällt dir ein: Die Rechnung vom Frühjahr ist nie rausgegangen. Eine Geschichte über Peinlichkeit, Ruhe und den Weg zurück.
 
+- [Rechnung nachfassen: Wie oft ist zu oft? Mittagspause](https://blixwerkstudio.com/guides/rechnung-nachfassen-wie-oft-unhoeflich?s=github) – Vierte Mail oder lieber warten? Ein Landschaftsgärtner, eine Thermoskanne und die Frage, ab wann Nachhaken bei einer offenen Rechnung unhöflich wird.
+
 - [Rechnung an netten Kunden mahnen? Die Teeküche im Cowork](https://blixwerkstudio.com/guides/rechnung-nettem-kunden-mahnen-unangenehm?s=github) – Der Kunde ist nett, die Rechnung seit drei Wochen offen. Warum Nachhaken sich wie Betteln anfühlt – und wie es ruhiger werden kann.
 
 - [Rechnung offen, Kundin nett: Nachhaken ohne Peinlichkeit](https://blixwerkstudio.com/guides/rechnung-offen-netter-kunde-nachhaken-peinlich?s=github) – Du magst die Kundin, die Rechnung ist 38 Tage offen, und beim Sektempfang lächelt ihr euch zu. Eine Geschichte übers Nachhaken ohne Bauchweh.
@@ -2915,6 +2921,8 @@ Included (16 products, 175 USD if bought separately):
 - [Need to Tell a Client Their Work Needs Revisions? The Lift Doors](https://blixwerkstudio.com/guides/tell-client-work-needs-revisions-without-upsetting-them?s=github) – You're holding a draft that isn't right and a client who loves it. The pause before you hit send, and how it can feel lighter.
 
 - [Tengo TDAH, trabajo por mi cuenta y me agobio cada día](https://blixwerkstudio.com/guides/tengo-tdah-trabajo-por-mi-cuenta-olvido-tareas-agobio?s=github) – En la cola del súper, el móvil vibra y recuerdas lo que olvidaste. Una historia para autónomos con TDAH que se agobian cada día y buscan algo de calma.
+
+- [Three Interviews, Mixing Up Companies? The Visitor Badge](https://blixwerkstudio.com/guides/three-interviews-mixing-up-companies?s=github) – Three interviews in one week and the companies blur together. A quiet story about the lobby moment you dread, and how it can feel instead.
 
 - [Tickets por todas partes y ni idea de qué puedo deducir](https://blixwerkstudio.com/guides/tickets-por-todas-partes-no-se-que-puedo-deducir-autonomo?s=github) – Es sábado por la mañana, la caja de zapatos está abierta y los tickets se desbordan. Una historia sobre el miedo a la declaración y cómo se calma.
 
