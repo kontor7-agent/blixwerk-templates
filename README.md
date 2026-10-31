@@ -1670,6 +1670,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CSV Dates Day and Month Swapped? The Corridor Chairs](https://blixwerkstudio.com/guides/csv-dates-day-and-month-swapped-after-import?s=github) – You sent the report, then a client asked why you billed a day they were closed. Day and month swapped after a CSV import. A calm story, and a way out.
 
+- [CSV Decimal Comma Won't Add Up in Excel? The Balcony Sum](https://blixwerkstudio.com/guides/csv-decimal-comma-numbers-wont-add-up-excel-stored-as-text?s=github) – The total says 0, the numbers sit on the left, the report is due at five. A story about decimal commas in a CSV – and getting the afternoon back.
+
 - [Messy CSV Export Every Week? The Conference Coffee Line](https://blixwerkstudio.com/guides/csv-export-full-of-messy-data-every-week?s=github) – The same messy CSV lands in your inbox every week, and every week you fix it by hand. A short story about the Monday it stopped being your job.
 
 - [CSV Full of Trailing Spaces and Mixed Dates? The Lunch Break Fix](https://blixwerkstudio.com/guides/csv-export-trailing-spaces-mixed-date-formats?s=github) – Half past twelve, a sandwich going cold, and a CSV where every date looks different. A short story about cleaning exports by hand, and the day it stopped.
@@ -2120,6 +2122,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [How Much to Charge for a Job You Always Underestimate? The Fence Job](https://blixwerkstudio.com/guides/how-much-to-charge-for-a-job-i-always-underestimate?s=github) – You said "about a day" on the doorstep. By Wednesday it was three. A calm story about quoting jobs you always underestimate, and what changes.
 
+- [How Much to Charge for Handmade Jewelry? The Deli Queue](https://blixwerkstudio.com/guides/how-much-to-charge-for-handmade-jewelry?s=github) – A stranger admires your ring and asks the price. You hear yourself say a number you made up. For makers who feel like they're just guessing.
+
 - [Missed a Client Deadline? The Apology Email at the Greengrocer](https://blixwerkstudio.com/guides/how-to-apologize-to-client-for-missing-deadline-email?s=github) – You missed the deadline and the client's message is waiting. A calm story about writing the apology email without grovelling or hiding.
 
 - [The Project That Paid Less Than You Thought: Your Real Hourly Rate](https://blixwerkstudio.com/guides/how-to-calculate-effective-hourly-rate-freelancer-excel?s=github) – The invoice said €2,400. Your gut says something is off. A quiet evening story about finding your effective hourly rate as a freelancer in Excel.
@@ -2338,6 +2342,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde zahlt erst, wenn sein Kunde zahlt? Das Laufband](https://blixwerkstudio.com/guides/kunde-zahlt-erst-wenn-sein-kunde-zahlt-freelancer?s=github) – „Wir zahlen, sobald unser Kunde zahlt.“ Ein Anruf auf dem Laufband, ein flaues Gefühl im Bauch und die Frage, wie du ruhig bleibst.
 
+- [Kunde zahlt immer 60 Tage zu spät? Angst vorm Verlieren](https://blixwerkstudio.com/guides/kunde-zahlt-immer-60-tage-zu-spaet-angst-ihn-zu-verlieren?s=github) – Der Kunde ist nett, bringt Aufträge und zahlt trotzdem immer nach 60 Tagen. Eine Geschichte über die Angst, ihn zu verlieren, und was Ruhe bringt.
+
 - [Kunde zahlt immer nach 45 Tagen? Der Spielplatz, 12:20](https://blixwerkstudio.com/guides/kunde-zahlt-immer-nach-45-tagen-obwohl-14-tage-zahlungsziel?s=github) – 14 Tage Zahlungsziel, und wieder kommt das Geld erst nach 45. Eine Illustratorin, ein Spielplatz und die Frage, wann man eigentlich nachhaken darf.
 
 - [Kunde zahlt jeden Monat zu spät – aufhören? Montag, 9:15](https://blixwerkstudio.com/guides/kunde-zahlt-jeden-monat-zu-spaet-aufhoeren?s=github) – Er ist nett, aber das Geld kommt jeden Monat zu spät. Eine Geschichte über Bauchweh, Kunden, die du magst, und die Frage: bleiben oder gehen?
@@ -2407,6 +2413,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://blixwerkstudio.com/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
 
 - [Me da vergüenza decirle mi precio a un cliente nuevo: el café](https://blixwerkstudio.com/guides/me-da-verguenza-decirle-mi-precio-a-un-cliente-nuevo-freelance?s=github) – Estás en un café con un cliente nuevo y te pregunta cuánto cobras. Una historia para quien siente que el precio se le atasca en la garganta.
+
+- [Me devolvieron varios pedidos y mi inventario no cuadra](https://blixwerkstudio.com/guides/me-devolvieron-pedidos-inventario-excel-no-cuadra?s=github) – Tres devoluciones en una mañana y el Excel dice otra cosa. Una historia sobre stock que no cuadra y cómo volver a ver tu inventario con calma.
 
 - [Me equivoqué con un cliente y no sé cómo pedir disculpas](https://blixwerkstudio.com/guides/me-equivoque-con-un-cliente-como-pedir-disculpas-por-correo?s=github) – Lunes, 8:10, el tren y un error con la fecha que ya salió a 800 personas. La historia de Carla y del correo de disculpas que no sabía cómo empezar.
 
