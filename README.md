@@ -1978,6 +1978,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Receipts Everywhere, Deadline Close? The Yoga Mat Pause](https://blixwerkstudio.com/guides/freelance-receipts-everywhere-tax-deadline-close?s=github) – Thursday lunchtime, the tax deadline is close and your receipts are in six places. A quiet story about the moment it stops feeling like a mountain.
 
+- [Freelance Receipts, What Accountant Needs? The Slipway](https://blixwerkstudio.com/guides/freelance-receipts-everywhere-what-does-my-accountant-need?s=github) – Your accountant asks for 'everything' and you have a shoebox, three inboxes and a phone full of photos. A calm story about finally knowing what goes where.
+
 - [Welche Rechnungen hab ich geschickt? Der Anruf um 10:05](https://blixwerkstudio.com/guides/freelance-rechnungen-geschickt-wer-hat-bezahlt?s=github) – Du weißt nicht mehr, welche Rechnung raus ist und wer gezahlt hat? Eine Lektorin, ein Anruf aus der Buchhaltung – und ein ruhigerer Dienstag.
 
 - [Translator: Am I Earning Enough Per Hour? The Alumni Lunch](https://blixwerkstudio.com/guides/freelance-translator-earning-enough-per-hour?s=github) – A classmate asks what you earn per hour, and you realise you don't know. A quiet story for freelance translators who suspect the answer is less than it looks.
@@ -2404,6 +2406,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
 
+- [Me sube la cuota de autónomos: ¿cuánto subo mi tarifa?](https://blixwerkstudio.com/guides/me-sube-la-cuota-de-autonomos-cuanto-subir-mi-tarifa-por-hora?s=github) – Te llega el aviso de que la cuota sube y tu cabeza va a mil: ¿cuánto subo mi tarifa por hora? Una mañana de martes, una historia y un respiro.
+
 - [Me voy de vacaciones y no cobro: ¿cuánto cobrar por hora?](https://blixwerkstudio.com/guides/me-voy-de-vacaciones-y-no-cobro-cuanto-cobrar-por-hora-autonomo?s=github) – En la puerta de embarque, Dani calcula lo que cuesta cada día libre. Una historia sobre cuánto cobrar por hora como autónomo para poder descansar.
 
 - [Mensajes de clientes sin contestar y no tengo tiempo](https://blixwerkstudio.com/guides/mensajes-de-clientes-sin-contestar-no-tengo-tiempo?s=github) – Doce mensajes sin contestar y un bocadillo a medias en la furgoneta. Una historia para quien no tiene tiempo ni de responder a sus clientes.
@@ -2805,6 +2809,8 @@ Included (16 products, 175 USD if bought separately):
 - [Selbstgemachtes verkaufen – verdiene ich überhaupt was?](https://blixwerkstudio.com/guides/selbstgemachtes-verkaufen-preis-kalkulieren-verdiene-ich-was?s=github) – Sonntag, 14:20, Handwerkermarkt: Jemand fragt nach dem Preis deiner Kerze, und du weißt nicht, ob du daran überhaupt etwas verdienst.
 
 - [Auftragsflaute im Winter? Der Eiskratzer um 7:50 Uhr](https://blixwerkstudio.com/guides/selbststaendig-angst-vor-auftragsflaute-im-winter?s=github) – Selbstständig und Angst vor der Auftragsflaute im Winter? Eine Geschichte über leere Kalenderwochen und die Ruhe, die ein einfacher Plan bringen kann.
+
+- [Belege überall, Steuerfrist naht? Wo fange ich an?](https://blixwerkstudio.com/guides/selbststaendig-belege-ueberall-steuerfrist-wo-anfangen?s=github) – Donnerstag, 17:40, Supermarktkasse: Der Bon in deiner Hand, der Schuhkarton zu Hause, die Frist im Kopf. Eine Geschichte über den ersten kleinen Schritt.
 
 - [Selbstständig und alles chaotisch? Der Elternabend, 19:40](https://blixwerkstudio.com/guides/selbststaendig-chaos-rechnungen-preise-planung-system?s=github) – Rechnungen, Preise, Planung: alles im Kopf und auf Zetteln? Eine Geschichte über das Freelancer-Chaos und darüber, wie ein ruhiger Montag aussieht.
 
