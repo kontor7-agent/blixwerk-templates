@@ -1370,6 +1370,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No Planner Fits Your Freelance Year? The Stationery Aisle](https://blixwerkstudio.com/guides/printable-freelancer-planner-2027?s=github) – Three diaries in your hands, none made for freelancers. A short story about finding one calm place for your year, your clients and your invoices.
 
+- [Campaña de Navidad: no sé qué publicar y voy tarde](https://blixwerkstudio.com/guides/campana-de-navidad-redes-sociales-no-se-que-publicar?s=github) – Es 1 de noviembre, la cola de la panadería avanza y tu campaña de Navidad en redes sigue en blanco. Una historia para quien ya va tarde y no sabe qué publicar.
+
 - [Cancelaron la traducción a medias y no quieren pagarme](https://blixwerkstudio.com/guides/cancelaron-traduccion-a-medias-no-quieren-pagarme?s=github) – El cliente canceló el encargo con la mitad entregada y el correo dice que no hay nada que pagar. Una traductora, un martes y cómo volver a respirar.
 
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://blixwerkstudio.com/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
@@ -1930,6 +1932,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Guessing Your Freelance Hourly Rate? The Required Field](https://blixwerkstudio.com/guides/first-year-freelancing-what-hourly-rate-should-i-charge?s=github) – A required field, a blinking cursor, and a number you're making up. A first-year freelancer's story about guessing your hourly rate.
 
+- [First Year Self-Employed, What Paperwork Do I Keep?](https://blixwerkstudio.com/guides/first-year-self-employed-paperwork-to-keep-for-taxes?s=github) – Eight months freelancing, a carrier bag of paper and one question you're afraid to ask: what do I actually keep? A calm story about the first year.
+
 - [Overdue Invoice Follow-Up Without Sounding Desperate](https://blixwerkstudio.com/guides/follow-up-overdue-invoice-without-sounding-rude?s=github) – You're in the cheese queue, the invoice is 19 days late, and every email draft sounds either grovelling or furious. There's a calmer way to follow up.
 
 - [Forget Deadlines Despite Phone Reminders? The Plum Stall](https://blixwerkstudio.com/guides/forget-deadlines-appointments-despite-phone-reminders?s=github) – Your phone buzzed. You swiped it away. A quiet story for freelancers who forget appointments even with reminders, and what a calmer week can feel like.
@@ -2198,6 +2202,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Invoice 90 Days Overdue, Client Silent? The Cake Knife](https://blixwerkstudio.com/guides/invoice-90-days-overdue-client-stopped-answering?s=github) – Your invoice is 90 days overdue and the client has stopped answering. A quiet story about a birthday party, a buzzing phone and a calmer way to chase.
 
+- [Invoice Rejected, No PO Number? The Village Shop Signal](https://blixwerkstudio.com/guides/invoice-rejected-missing-po-number-payment-delayed?s=github) – Your invoice bounced back for a missing PO number and payment slips again. A quiet story about chasing money without feeling like you're begging.
+
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://blixwerkstudio.com/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
 
 - [Invoiced the Same Hours Twice? The Red Light at 8:42](https://blixwerkstudio.com/guides/invoiced-same-hours-twice-freelance?s=github) – You think you billed the same hours twice. A freelancer's story from a pedestrian crossing, and how a calmer Monday feels when your hours and invoices line up.
@@ -2401,6 +2407,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde zahlt trotz Mahnung nicht? Das Wartezimmer, 8:15](https://blixwerkstudio.com/guides/kunde-zahlt-trotz-mahnung-nicht-inkasso?s=github) – Dritte Mahnung raus, Funkstille. Inkasso ja oder nein? Eine Lektorin im Physio-Wartezimmer und die Ruhe, die kommt, wenn du den nächsten Schritt kennst.
 
 - [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://blixwerkstudio.com/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
+
+- [Zufriedener Kunde: Empfehlung fragen? Der Launch-Call](https://blixwerkstudio.com/guides/kunde-zufrieden-nach-empfehlung-fragen-freelance?s=github) – Der Kunde ist begeistert, du lächelst – und fragst trotzdem nicht nach einer Empfehlung. Eine Geschichte über den Satz, der dir im Hals stecken bleibt.
 
 - [Kunde fügt ständig Extra-Arbeit hinzu? Was sagst du?](https://blixwerkstudio.com/guides/kunde-zusatzarbeit-nach-auftrag-was-sagen?s=github) – „Noch eine Kleinigkeit …“ – schon wieder. Montag, 8:40 Uhr, der Cursor blinkt. Eine Geschichte für alle, die Nein sagen wollen, ohne unhöflich zu klingen.
 
