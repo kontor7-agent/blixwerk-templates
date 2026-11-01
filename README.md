@@ -1226,6 +1226,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Agency Paid Late Again? A Translator's Quiet Tuesday Lunch](https://blixwerkstudio.com/guides/translator-agency-paid-late-how-to-chase-invoice-politely?s=github) – The agency invoice is 60 days old and you can't find the right words. A translator's lunch-break story about chasing late payment without the knot.
 
+- [Empiezo el año con ganas y en febrero abandono la agenda](https://blixwerkstudio.com/guides/agenda-autonomo-abandono-febrero?s=github) – Enero fue de colores y buenos propósitos. En febrero la agenda ya es un adorno. Una historia para autónomos que empiezan fuertes y se pierden.
+
 - [Agenda llena en mi peluquería y a fin de mes, nada](https://blixwerkstudio.com/guides/agenda-llena-peluqueria-fin-de-mes-no-me-sobra-nada?s=github) – Martes, 15:10, el tinte haciendo efecto y la app del banco en la mano: la agenda está llena, pero la cuenta no. Una historia de peluquería.
 
 - [Facturas, stock y clientes en excels sueltos: un lunes distinto](https://blixwerkstudio.com/guides/agobiado-administracion-negocio-pequeno-excels-sueltos?s=github) – Siete archivos abiertos, una llamada de un cliente y ninguna respuesta rápida. Una historia sobre ordenar facturas, stock y clientes sin sentirte perdido.
@@ -1710,6 +1712,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CSV Messy Dates and Duplicates, Due Today? The 9:05 Text](https://blixwerkstudio.com/guides/csv-messy-dates-duplicates-deadline-today?s=github) – A CSV full of mixed dates and duplicates, and the client wants it by five. A short story about the knot in your stomach, and what a calmer Thursday feels like.
 
+- [CSV Mixed Dates and Duplicates, No Time? The Badge Table](https://blixwerkstudio.com/guides/csv-mixed-date-formats-duplicates-out-of-time?s=github) – Three date formats, doubled names, and a coach leaving at ten. A short story about a messy CSV and what a calmer morning could feel like.
+
 - [CSV Opens in Excel All in One Column? The Kitchen Table](https://blixwerkstudio.com/guides/csv-opens-in-excel-all-in-one-column?s=github) – The export lands in Excel as one long column and the clock is ticking. A quiet story about messy CSVs, and what a calmer routine feels like.
 
 - [CSV Prices With Symbols Won't Convert? The Hardware Till](https://blixwerkstudio.com/guides/csv-prices-currency-symbols-commas-wont-convert-to-numbers?s=github) – The sum says 0. Prices with € signs and commas sit in your CSV as text while a client waits on the phone. A calm story about getting that Monday back.
@@ -2035,6 +2039,8 @@ Included (16 products, 175 USD if bought separately):
 - [Freelance Rate Too Low, Scared to Raise It? The Pier Café](https://blixwerkstudio.com/guides/freelance-rate-too-low-scared-to-raise-it?s=github) – Your rate feels too low, but every time you think of raising it, your stomach drops. A quiet story about a Tuesday lunch and a calmer way to start.
 
 - [December and Your Freelance Receipts a Mess? The Tree Lot](https://blixwerkstudio.com/guides/freelance-receipts-a-mess-december?s=github) – It's December, your wallet is full of crumpled receipts and the year is nearly over. A calm story about ending the January scramble before it starts.
+
+- [Freelance Receipts a Mess in December? The Boiler Window](https://blixwerkstudio.com/guides/freelance-receipts-a-mess-in-december?s=github) – Waiting for the boiler engineer, a carrier bag of receipts on the table and no idea where December went. A calm story for freelancers who feel behind.
 
 - [Freelance Receipts Everywhere? The Spare Room on the 28th](https://blixwerkstudio.com/guides/freelance-receipts-all-over-the-place-year-end?s=github) – It's nearly year end and your freelance receipts are in coat pockets, inboxes and a carrier bag. A quiet story about ending the January scramble.
 
@@ -2373,6 +2379,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde will 90 Tage Zahlungsziel? Der Videocall um 11:20](https://blixwerkstudio.com/guides/kunde-will-90-tage-zahlungsziel-freelancer?s=github) – Der Kunde nennt 90 Tage Zahlungsziel, und deine Miete ist in zwei Wochen fällig. Eine Geschichte über Ruhe, wenn Geld spät kommt.
 
 - [Kunde will alle Rohbilder? Mehr Stunden als gebucht](https://blixwerkstudio.com/guides/kunde-will-alle-rohbilder-mehr-stunden-als-gebucht-fotograf?s=github) – Der Kunde will alle Rohbilder und zwei Stunden mehr als gebucht. Du stehst mit der Kamera am Buffet und weißt nicht, was vereinbart war. Eine Szene.
+
+- [Kunde will Geld zurück nach Lieferung? Der Bahnhofskiosk](https://blixwerkstudio.com/guides/kunde-will-geld-zurueck-nach-lieferung-freelancer?s=github) – Das Projekt ist geliefert, die Rechnung bezahlt – und dann will der Kunde sein Geld zurück. Eine Geschichte über Ruhe statt Herzklopfen.
 
 - [Kunde will Gratis-Probe vor dem Auftrag? Der Balkon](https://blixwerkstudio.com/guides/kunde-will-gratis-probearbeit-vor-auftrag-nein-sagen?s=github) – Ein Kunde will erst eine kostenlose Probe, dann vielleicht beauftragen. Eine Geschichte über das Nein, das nicht unhöflich sein muss.
 
