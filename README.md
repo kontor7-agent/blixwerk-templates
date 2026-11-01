@@ -1366,6 +1366,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No Planner Fits Your Freelance Year? The Stationery Aisle](https://blixwerkstudio.com/guides/printable-freelancer-planner-2027?s=github) – Three diaries in your hands, none made for freelancers. A short story about finding one calm place for your year, your clients and your invoices.
 
+- [Cancelaron la traducción a medias y no quieren pagarme](https://blixwerkstudio.com/guides/cancelaron-traduccion-a-medias-no-quieren-pagarme?s=github) – El cliente canceló el encargo con la mitad entregada y el correo dice que no hay nada que pagar. Una traductora, un martes y cómo volver a respirar.
+
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://blixwerkstudio.com/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
 - [Can't Keep Track of Job Applications? The Parkrun Question](https://blixwerkstudio.com/guides/cant-keep-track-of-job-applications-who-got-back-to-me?s=github) – Someone asks how the job search is going and you can't say who replied. A calm story about losing track of applications, and the quiet way out.
@@ -2714,6 +2716,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Quoted a Job, Materials Cost More? The Deck Rail Call](https://blixwerkstudio.com/guides/quoted-job-materials-cost-more-how-to-stop?s=github) – You quoted from memory, then the timber invoice landed. A short story for tradespeople about materials, margin and quoting without the knot in your stomach.
 
+- [Quoted Too Cheap, Materials Eating Profit? The Pickup Line](https://blixwerkstudio.com/guides/quoted-too-cheap-materials-eating-profit?s=github) – You quoted a garden job from memory and the receipts in the cup holder say the materials ate your profit. A calm story about seeing it before it happens.
+
 - [Raise Your Lesson Rate Without Dread: The Piano Stool at 3:40](https://blixwerkstudio.com/guides/raise-lesson-rate-private-tutor-price-increase-letter?s=github) – Your lesson rate hasn't moved in four years and the letter sits unwritten. A quiet story about finally saying the new price in your own calm voice.
 
 - [Ran Out of Your Best Seller Again? The Video Call at 11](https://blixwerkstudio.com/guides/ran-out-of-best-selling-product-customers-asked?s=github) – You find out your best seller is gone when a customer asks. A quiet story about stock surprises, and what a calm Monday looks like without them.
@@ -3156,6 +3160,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Wie viel nachbestellen? Die Warteschleife, 11:15](https://blixwerkstudio.com/guides/wie-viel-nachbestellen-kleiner-shop-schaetze-immer-falsch?s=github) – Du hängst in der Warteschleife beim Lieferanten und rätst wieder: 200 oder 400 nachbestellen? Eine Geschichte für alle, die immer falsch schätzen.
 
+- [Wie viele Kunden brauche ich 2027? Der Zug nach Kassel](https://blixwerkstudio.com/guides/wie-viele-kunden-brauche-ich-einkommensziel-freelance-2027?s=github) – Du willst 2027 ein festes Einkommensziel erreichen, weißt aber nicht, wie viele Kunden dafür nötig sind? Eine Zugfahrt, ein Zettel und ein ruhigerer Blick.
+
 - [Stunden im Monat abrechnen als Freiberufler? Die Kantine](https://blixwerkstudio.com/guides/wie-viele-stunden-im-monat-als-freiberufler-abrechnen?s=github) – Voller Kalender, wenig Geld: Eine Mittagspause in der Kundenkantine zeigt, warum abrechenbare Stunden anders zählen als Arbeitsstunden.
 
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://blixwerkstudio.com/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
@@ -3167,6 +3173,8 @@ Included (16 products, 175 USD if bought separately):
 - [Wochenlang nichts auf Instagram gepostet? Die Hundewiese, 16:30](https://blixwerkstudio.com/guides/wochenlang-nichts-auf-instagram-gepostet-schlechtes-gewissen-selbststa?s=github) – Seit Wochen kein Post, und dann fragt jemand beiläufig nach. Eine Geschichte über das schlechte Gewissen auf Instagram und wie es leiser werden kann.
 
 - [Worked More Hours Than You Invoiced? The Arrivals Hall](https://blixwerkstudio.com/guides/worked-more-hours-than-invoiced-freelance-quarter?s=github) – The quarter ends and your gut says you worked more than you billed. A quiet story from an airport arrivals hall about seeing your hours and invoices together.
+
+- [Worried About 2027 Freelance Income? The Lease Renewal](https://blixwerkstudio.com/guides/worried-about-freelance-income-next-year-plan-2027?s=github) – The lease renewal letter asks one simple question: can you commit to next year? A calm story for freelancers whose income is unpredictable.
 
 - [SOPs Take Forever to Write? The Picnic Table Phone Call](https://blixwerkstudio.com/guides/writing-standard-operating-procedures-small-business?s=github) – Your standard operating procedures stay half-written and your week off isn't one. A short story about the document you keep meaning to finish.
 
