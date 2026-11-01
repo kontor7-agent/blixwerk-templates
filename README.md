@@ -1254,6 +1254,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Another Contractor Quoted Cheaper? The Bakery Van Text](https://blixwerkstudio.com/guides/another-contractor-quoted-cheaper-what-do-i-say?s=github) – The text arrives while you're buying lunch: 'Someone else quoted less.' A story about the quiet panic of a cheaper quote, and what steadies your voice.
 
+- [Another Year Gone, Freelance Going Nowhere? The Clock Shop](https://blixwerkstudio.com/guides/another-year-gone-freelance-business-went-nowhere?s=github) – December is close and the year feels wasted. A quiet scene in a clock shop about slow progress you can't see, and a calmer way to start 2027.
+
 - [API Key Visible in Frontend Code? The Tasting Table Text](https://blixwerkstudio.com/guides/api-key-visible-in-frontend-code-am-i-in-trouble?s=github) – A message from a client's nephew, a key in the browser, and a knot in your stomach. A calm story for anyone asking whether an exposed API key is trouble.
 
 - [API Returning Stack Traces in Production? The Kiosk Queue](https://blixwerkstudio.com/guides/api-returning-stack-trace-in-production-error-response?s=github) – A screenshot of your API's error page lands in a client's message at 8:50 on a Monday. Is the stack trace showing too much? A calm story and a way forward.
@@ -1775,6 +1777,8 @@ Included (16 products, 175 USD if bought separately):
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://blixwerkstudio.com/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
 
 - [Hours Lost to Data and File Chores? The Dentist Waiting Room](https://blixwerkstudio.com/guides/developer-wasting-hours-on-data-and-file-chores?s=github) – You meant to read a paper in the waiting room, but you were rebuilding last week's file chores in your head. A quiet story for developers who want those hours back.
+
+- [Didn't Track Business Expenses All Year? The Hill Walk](https://blixwerkstudio.com/guides/didnt-track-business-expenses-all-year-freelancer-now-what?s=github) – November, a hill walk, and the thought you've dodged since March: you never tracked your expenses. A calm story about starting late, with no shame.
 
 - [Dinero parado en mercancía: el trastero que no cuadra](https://blixwerkstudio.com/guides/dinero-parado-en-mercancia-tienda?s=github) – Un martes, un palé nuevo y una pregunta sin respuesta: ¿cuánto dinero tengo parado en mercancía? Una historia para quien lleva una tienda pequeña.
 
@@ -2339,6 +2343,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde will 90 Tage Zahlungsziel? Der Videocall um 11:20](https://blixwerkstudio.com/guides/kunde-will-90-tage-zahlungsziel-freelancer?s=github) – Der Kunde nennt 90 Tage Zahlungsziel, und deine Miete ist in zwei Wochen fällig. Eine Geschichte über Ruhe, wenn Geld spät kommt.
 
 - [Kunde will alle Rohbilder? Mehr Stunden als gebucht](https://blixwerkstudio.com/guides/kunde-will-alle-rohbilder-mehr-stunden-als-gebucht-fotograf?s=github) – Der Kunde will alle Rohbilder und zwei Stunden mehr als gebucht. Du stehst mit der Kamera am Buffet und weißt nicht, was vereinbart war. Eine Szene.
+
+- [Kunde will Gratis-Probe vor dem Auftrag? Der Balkon](https://blixwerkstudio.com/guides/kunde-will-gratis-probearbeit-vor-auftrag-nein-sagen?s=github) – Ein Kunde will erst eine kostenlose Probe, dann vielleicht beauftragen. Eine Geschichte über das Nein, das nicht unhöflich sein muss.
 
 - [Kunde will Gratis-Korrekturen? Der Blutspendetermin](https://blixwerkstudio.com/guides/kunde-will-kostenlose-korrekturen-nein-sagen?s=github) – Zum dritten Mal „nur noch eine kleine Änderung“, und du weißt nicht, wie du Nein sagst. Eine Geschichte über Grenzen, die ruhig klingen dürfen.
 
