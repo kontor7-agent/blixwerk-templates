@@ -1256,6 +1256,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [API Key Visible in Frontend Code? The Tasting Table Text](https://blixwerkstudio.com/guides/api-key-visible-in-frontend-code-am-i-in-trouble?s=github) – A message from a client's nephew, a key in the browser, and a knot in your stomach. A calm story for anyone asking whether an exposed API key is trouble.
 
+- [API Returning Stack Traces in Production? The Kiosk Queue](https://blixwerkstudio.com/guides/api-returning-stack-trace-in-production-error-response?s=github) – A screenshot of your API's error page lands in a client's message at 8:50 on a Monday. Is the stack trace showing too much? A calm story and a way forward.
+
 - [API Returns Too Much Data? The Window Envelope Call](https://blixwerkstudio.com/guides/api-returns-too-much-data-in-responses?s=github) – A screen-share, a network tab, and one JSON field nobody meant to send. A calm story for developers who worry their API says more than it should.
 
 - [Worried Your API Has Security Holes? The Train to the Demo](https://blixwerkstudio.com/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
@@ -1596,6 +1598,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente me pide cambios sin parar y no sé cómo decirle que no](https://blixwerkstudio.com/guides/cliente-me-pide-cambios-sin-parar-como-decirle-que-no?s=github) – Otra vez el mismo mensaje: «una cosita más». Una historia sobre cambios sin fin, el miedo a decir que no y cómo se siente poner un límite con calma.
 
+- [Me pide extras en plena obra y no sé cómo cobrarlos](https://blixwerkstudio.com/guides/cliente-me-pide-extras-en-plena-obra-como-cobrarlos?s=github) – El cliente señala la pared y dice «ya que estás...». Una historia sobre extras en plena obra, el apuro de cobrarlos y la calma de tenerlo claro.
+
 - [Mi cliente me pide rebaja y no sé qué responder: la llamada](https://blixwerkstudio.com/guides/cliente-me-pide-rebaja-precio-no-se-que-responder-freelance?s=github) – Suena el móvil, el cliente dice «¿me haces un precio?» y te quedas en blanco. Una historia sobre responder a una rebaja con calma.
 
 - [Mi cliente no contesta mis correos: cómo escribirle sin quedar mal](https://blixwerkstudio.com/guides/cliente-no-contesta-mis-correos-como-escribirle-sin-quedar-mal?s=github) – Llevas diez días sin respuesta y el cursor parpadea sobre «Solo quería saber si…». Una historia sobre escribir a un cliente callado sin sentirte pesada.
@@ -1673,6 +1677,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi CSV se abre con caracteres raros en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-caracteres-raros-excel-entregar-hoy?s=github) – Son las 11:40, el archivo se abre lleno de Ã© y �, y la entrega es a las dos. Una historia sobre el CSV que no se deja leer y la calma después.
 
 - [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://blixwerkstudio.com/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
+
+- [CSV Commas Shifting Columns? The Changing Room Bench](https://blixwerkstudio.com/guides/csv-commas-inside-text-fields-shifting-columns?s=github) – A comma in an address field and suddenly every column is off by one. A calm story about messy CSV imports, and what a quiet Monday looks like without them.
 
 - [CSV Dates Day and Month Swapped? The Corridor Chairs](https://blixwerkstudio.com/guides/csv-dates-day-and-month-swapped-after-import?s=github) – You sent the report, then a client asked why you billed a day they were closed. Day and month swapped after a CSV import. A calm story, and a way out.
 
@@ -2207,6 +2213,8 @@ Included (16 products, 175 USD if bought separately):
 - [The Order You Had to Cancel: Running Out of Stock Unnoticed](https://blixwerkstudio.com/guides/kept-running-out-of-stock-didnt-notice-until-customer-ordered?s=github) – A customer clicks 'buy' on the soap you swore was on the shelf. A story about running out of stock unnoticed, and what a calmer Monday looks like.
 
 - [Can't Word the Price Increase Email? The Football Pitch Bench](https://blixwerkstudio.com/guides/ai-prompts-client-emails-german-freelancers-price-increase-reminder?s=github) – Thursday, 5:10 pm, phone in hand, one client email you can't word. A story about du or Sie, awkward asks, and getting your voice back.
+
+- [Kilometer und Belege ein Jahr vergessen? Die Tankstelle](https://blixwerkstudio.com/guides/kilometer-und-belege-ein-jahr-vergessen-selbststaendig?s=github) – Montag, 7:50 Uhr, Tankstelle: Du hast das ganze Jahr keine Fahrten und Ausgaben notiert. Eine Geschichte über den Moment, in dem es leichter wird.
 
 - [Kleinunternehmergrenze überschritten? Der Kindergeburtstag](https://blixwerkstudio.com/guides/kleinunternehmergrenze-ueberschritten-umsatz-nicht-im-blick?s=github) – Du weißt nicht, ob du die Kleinunternehmergrenze schon überschritten hast? Eine Geschichte über eine Frage im Garten – und den Überblick danach.
 
