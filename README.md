@@ -1284,6 +1284,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Auftrag zu billig angenommen? Die Schlange beim Bäcker](https://blixwerkstudio.com/guides/auftrag-zu-billig-angenommen-bereut?s=github) – Du hast einen Auftrag zu billig angenommen und bereust es? Eine Geschichte über Freitag, 12:10 Uhr, ein Brötchen und den Moment, in dem sich etwas klärt.
 
+- [Auslandskunde zahlt nicht? Dienstag im Kühlregal](https://blixwerkstudio.com/guides/auslandskunde-zahlt-rechnung-nicht?s=github) – Die Rechnung an den Kunden im Ausland ist seit Wochen offen, und du weißt nicht, was du schreiben sollst. Eine Geschichte über den Moment davor.
+
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerkstudio.com/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
 
 - [Backup Hasn't Run in Weeks? The Lost Property Office](https://blixwerkstudio.com/guides/automatic-backup-hasnt-run-in-weeks?s=github) – You queue at the lost property office and glance at your backup status: last run, five weeks ago. A short story about the quiet kind of dread, and what calms it.
@@ -1399,6 +1401,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot What You Invoiced This Quarter? The Harbour Bench](https://blixwerkstudio.com/guides/cant-remember-which-projects-invoiced-this-quarter?s=github) – Half a bag of chips, a phone at 9% and one question you can't answer: which projects did you already invoice this quarter? A calm story about knowing.
 
 - [Carta de Hacienda y sin justificantes de mis gastos](https://blixwerkstudio.com/guides/carta-de-hacienda-sin-justificantes-gastos-autonomo?s=github) – Abres el buzón y hay una carta de Hacienda. Tus justificantes de autónomo están «en algún sitio». Una historia para respirar y ordenar con calma.
+
+- [Cerré el proyecto a precio fijo: ¿gané dinero por hora?](https://blixwerkstudio.com/guides/cerre-proyecto-precio-fijo-gane-dinero-por-hora?s=github) – Entregaste a precio fijo y el cliente está feliz, pero no sabes cuántas horas te costó. Una historia sobre mirar los números sin miedo.
 
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://blixwerkstudio.com/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
@@ -1678,6 +1682,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CSV Full of Duplicates Every Week? The Friday 11:00 Call](https://blixwerkstudio.com/guides/csv-file-full-of-duplicates-inconsistent-formatting-every-week?s=github) – Same export, same duplicates, same odd formatting every week. A story about the Friday call where the numbers didn't match, and a calmer way to start the week.
 
+- [CSV File Keeps Breaking My Import? The Tide Table](https://blixwerkstudio.com/guides/csv-file-keeps-breaking-my-import?s=github) – The import rejects your CSV for the fourth time and the client launch is at noon. A calm story about breaking out of the fix-and-retry loop.
+
 - [CSV Import Failed: Encoding Error, Deadline in an Hour](https://blixwerkstudio.com/guides/csv-import-failed-encoding-error-deadline-in-an-hour?s=github) – The import says 'encoding error' and the sale goes live in an hour. A calm story about weird characters, a ticking clock, and what changes afterwards.
 
 - [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
@@ -1951,6 +1957,8 @@ Included (16 products, 175 USD if bought separately):
 - [Minimum Freelance Hourly Rate & Day Rate: The Quote at 11 pm](https://blixwerkstudio.com/guides/how-to-calculate-minimum-freelance-hourly-rate-and-day-rate?s=github) – It's 11 pm, the client wants a quote, and your number is a guess. A quiet story about finding your minimum freelance hourly and day rate.
 
 - [Freelance Admin Out of Control? The Sunday Driveway Moment](https://blixwerkstudio.com/guides/freelance-admin-out-of-control-feel-behind-on-everything?s=github) – You sit in the car outside your parents' house, phone full of things you haven't done. If freelance admin feels out of control, this story is for you.
+
+- [Freelance Business a Mess? The Map at the Info Desk](https://blixwerkstudio.com/guides/freelance-business-a-mess-where-to-start?s=github) – Your freelance business feels like a mess and you don't know where to start. A short story about a holiday that isn't one, and a map that says: you are here.
 
 - [Freelance Business Out of Control? The Moving Boxes](https://blixwerkstudio.com/guides/freelance-business-out-of-control-where-to-start?s=github) – Your freelance business feels out of control and you don't know where to start. A quiet story about moving boxes, one small list, and a calmer Monday.
 
