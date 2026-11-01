@@ -1716,6 +1716,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cuánto cobrar por clase particular: el miedo a pedir poco](https://blixwerkstudio.com/guides/cuanto-cobrar-por-clase-particular-miedo-pedir-poco?s=github) – Te escriben «¿cuánto cobras?» en la cola de la panadería y te quedas en blanco. Una historia sobre ponerle precio a tus clases sin miedo.
 
+- [Cuánto cobrar por hora como diseñador gráfico: la bici](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-diseador-grafico-freelance?s=github) – Una pregunta del cliente mientras esperas la bici: ¿cuánto cobrar por hora como diseñador gráfico freelance sin quedarte corto?
+
 - [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
 
 - [Cuánto cobrar por un tinte si gasto mucho producto](https://blixwerkstudio.com/guides/cuanto-cobrar-por-un-tinte-peluqueria-gasto-mucho-producto?s=github) – Mezclaste el doble de color y la clienta pregunta el precio. Una historia para peluqueras que no saben si ganan con cada tinte.
@@ -1801,6 +1803,8 @@ Included (16 products, 175 USD if bought separately):
 - [Dos listas de clientes en Excel y no sé cuáles me faltan](https://blixwerkstudio.com/guides/dos-listas-de-clientes-en-excel-cual-falta?s=github) – El gestor llama el jueves y tienes dos listas de clientes en Excel que no coinciden. Una historia sobre ordenar lo que falta sin perder la mañana.
 
 - [Mandé dos recordatorios y mi cliente sigue sin pagar](https://blixwerkstudio.com/guides/dos-recordatorios-de-pago-cliente-sigue-sin-pagar-que-escribir?s=github) – Dos recordatorios enviados, ni una respuesta y el cursor parpadeando. Una historia sobre qué escribir cuando un cliente sigue sin pagar, sin sentirte pidiendo limosna.
+
+- [Downloads Folder Chaos? Embarrassed to Share Your Screen](https://blixwerkstudio.com/guides/downloads-folder-thousands-of-files-embarrassed-share-screen?s=github) – Thousands of files in Downloads and a student waiting on your screen share. A calm story for anyone who has hovered over the share button and flinched.
 
 - [Dreading a Difficult Client Email? The Fitting Room](https://blixwerkstudio.com/guides/dreading-difficult-client-email-freelancer-what-to-say?s=github) – The client's email sits unanswered while you wait behind a fitting room curtain. For freelancers who don't know what to say, and how that knot can loosen.
 
@@ -1953,6 +1957,8 @@ Included (16 products, 175 USD if bought separately):
 - [Fotos geliefert, Restzahlung offen? Die Raststätte, 13:15](https://blixwerkstudio.com/guides/foto-restzahlung-offen-kunde-hat-alle-bilder?s=github) – Alle Fotos sind raus, der Restbetrag fehlt noch. Eine Fotografin an der Raststätte und die Ruhe, die kommt, wenn du siehst, was offen ist.
 
 - [Fotograf: Stunden in der Bearbeitung – verdienst du überhaupt was?](https://blixwerkstudio.com/guides/fotograf-bildbearbeitung-dauert-ewig-verdiene-ich-ueberhaupt-was?s=github) – Das Brautpaar fragt nach den Bildern, du sitzt seit Tagen in der Bearbeitung und weißt nicht, ob sich der Auftrag lohnt. Eine Geschichte.
+
+- [Zwei Kunden am selben Tag gebucht? Der Anruf um 8:15](https://blixwerkstudio.com/guides/fotograf-doppelt-gebucht-zwei-kunden-am-selben-tag?s=github) – Als Fotografin doppelt gebucht: zwei Kunden, ein Samstag, ein Kalender, dem du nicht mehr traust. Eine Geschichte über den Moment danach und was ihn ruhiger macht.
 
 - [Fotograf: Freund will Fotos gratis? Der Trödelmarkt](https://blixwerkstudio.com/guides/fotograf-freund-fragt-gratis-shooting-nein-sagen?s=github) – Ein Freund fragt, ob du sein Event umsonst fotografierst. Eine Geschichte über das Nein, das nicht nach Absage klingt, und über ruhige Zahlen im Hintergrund.
 
@@ -2189,6 +2195,8 @@ Included (16 products, 175 USD if bought separately):
 - [Invoiced the Same Hours Twice? The Red Light at 8:42](https://blixwerkstudio.com/guides/invoiced-same-hours-twice-freelance?s=github) – You think you billed the same hours twice. A freelancer's story from a pedestrian crossing, and how a calmer Monday feels when your hours and invoices line up.
 
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://blixwerkstudio.com/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
+
+- [Job Offer Due Tomorrow, Can't Recall Other Interviews?](https://blixwerkstudio.com/guides/job-offer-deadline-tomorrow-cant-remember-other-interviews?s=github) – The offer expires tomorrow at noon and the other interviews have blurred into one. A Saturday-morning story about getting your own notes back.
 
 - [Job Search Spreadsheet a Mess? The Coach Window Seat](https://blixwerkstudio.com/guides/job-search-spreadsheet-mess-missed-follow-up-email?s=github) – You meant to follow up last Thursday. Now the spreadsheet is a maze and the reply window may have closed. A quiet story about a calmer job search.
 
