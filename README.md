@@ -1658,6 +1658,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cómo decirle a los padres que subo el precio de las clases](https://blixwerkstudio.com/guides/como-decirle-a-los-padres-que-subo-el-precio-de-las-clases-particulare?s=github) – Llevas tres años cobrando lo mismo y la madre de Pablo te saluda en la panadería. Una historia sobre subir el precio de las clases sin que se te encoja el estómago.
 
+- [Cómo rechazar un proyecto freelance sin quedar mal](https://blixwerkstudio.com/guides/como-rechazar-un-proyecto-freelance-sin-quedar-mal?s=github) – Lunes, 9:10, un cortado y una oferta que no puedes aceptar. Una historia sobre cómo decir que no a un proyecto freelance sin quedar mal.
+
 - [Undercut on Handmade Prices? The Kiln Shop Car Park](https://blixwerkstudio.com/guides/competitors-undercutting-my-handmade-prices-what-do-i-do?s=github) – Someone is selling a lookalike mug for half your price. Before you slash yours, a quiet story about knowing your real numbers first.
 
 - [Cuento el inventario a mano y nunca me cuadra (lunes)](https://blixwerkstudio.com/guides/contar-inventario-a-mano-nunca-cuadra?s=github) – Lunes, 8:15, persiana a medias y una libreta llena de tachones. Contar el inventario de tu tienda a mano y que nunca cuadre tiene una salida más tranquila.
@@ -1755,6 +1757,8 @@ Included (16 products, 175 USD if bought separately):
 - [Customer Saw Another's Data in Your API? Oat Milk Queue](https://blixwerkstudio.com/guides/customer-saw-another-customers-data-api?s=github) – A customer saw someone else's data through your API. How did you miss it? A calm story about the message, the fix and what changes after.
 
 - [Final Bill Higher Than Your Quote? The Paint Tin Lid](https://blixwerkstudio.com/guides/customer-says-final-bill-higher-than-quote-what-do-i-do?s=github) – The customer holds your invoice and says it's higher than the quote. A painter's quiet moment in a finished hallway, and a calmer way to price jobs.
+
+- [Materials Markup Too High? The Call Over a Cold Flask](https://blixwerkstudio.com/guides/customer-says-materials-markup-too-high-how-to-justify-it?s=github) – The customer says your materials markup is too high and your tea goes cold. A quiet story about answering calmly, and knowing your real margin.
 
 - [Customer Sent a Security Questionnaire? The Cake Counter](https://blixwerkstudio.com/guides/customer-sent-security-questionnaire-api-dont-know-answers?s=github) – A customer's security questionnaire about your API lands while you wait for a cake. Half the questions make you freeze. Here's how that moment can feel calmer.
 
@@ -2362,6 +2366,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
 
+- [Stundennachweis verlangt, nichts notiert? Der Waldweg](https://blixwerkstudio.com/guides/kunde-will-stundennachweis-nichts-aufgeschrieben?s=github) – Der Kunde will einen Stundennachweis, und du hast nichts aufgeschrieben. Eine Geschichte von einem Spaziergang, einem Anruf und einem ruhigeren Anfang.
+
 - [Kunde schreibt wütend wegen Rechnung? Die Post-Schlange](https://blixwerkstudio.com/guides/kunde-wuetende-mail-rechnung-ruhig-antworten?s=github) – Wütende Mail zur Rechnung, und du stehst in der Post-Schlange? Eine Geschichte darüber, wie du ruhig antwortest, statt im Kopf zu streiten.
 
 - [Kunde zahlt erst, wenn sein Kunde zahlt? Das Laufband](https://blixwerkstudio.com/guides/kunde-zahlt-erst-wenn-sein-kunde-zahlt-freelancer?s=github) – „Wir zahlen, sobald unser Kunde zahlt.“ Ein Anruf auf dem Laufband, ein flaues Gefühl im Bauch und die Frage, wie du ruhig bleibst.
@@ -2813,6 +2819,8 @@ Included (16 products, 175 USD if bought separately):
 - [Out of Content Ideas Every Week? The Florist's Till Roll](https://blixwerkstudio.com/guides/run-out-of-content-ideas-small-business-social-media?s=github) – Monday, shop quiet, phone in hand, and not one idea for this week's posts. A calm story about running out of content ideas, and what changes it.
 
 - [Running Out of Stock Without Noticing? The Hill Climb](https://blixwerkstudio.com/guides/running-out-of-stock-without-noticing-small-business?s=github) – Halfway up a Sunday hill, your phone buzzes: another sold-out apology to write. A calm story about never being surprised by an empty shelf again.
+
+- [Client Wants a Rush Translation Today? What to Charge](https://blixwerkstudio.com/guides/rush-translation-same-day-what-to-charge?s=github) – A same-day translation request lands while you're at the regatta clubhouse, and you freeze on the price. A calm story about charging for rush work.
 
 - [Busy Salon, Not Sure It Pays? The Baby Shower Question](https://blixwerkstudio.com/guides/salon-busy-all-week-but-not-profitable?s=github) – Your diary is full, your feet ache, and someone asks if business is booming. You smile, but you honestly don't know. A quiet story for solo stylists.
 
