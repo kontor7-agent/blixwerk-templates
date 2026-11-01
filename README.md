@@ -1458,6 +1458,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Keeps Promising to Pay? The Library Printer Queue](https://blixwerkstudio.com/guides/client-keeps-promising-to-pay-freelancer?s=github) – "Payment goes out Friday." Three Fridays later, nothing. A quiet story for freelancers whose client keeps promising to pay and never does.
 
+- [Client Pushing Back on Your Price? The Ticket Inspector](https://blixwerkstudio.com/guides/client-keeps-pushing-back-on-my-price-reply?s=github) – Third email about your price, and you're on a train with a draft you can't send. A calm story about replying without caving or snapping.
+
 - [Client Missed the Payment Run? The Hallway Paint Roller](https://blixwerkstudio.com/guides/client-missed-payment-run-invoice-unpaid?s=github) – Your client missed the payment run and the invoice is still open. A story about the knot in your stomach, and a calmer way to follow up.
 
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://blixwerkstudio.com/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
@@ -1776,6 +1778,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Freelance Receipts a Mess in December? The Advent Door](https://blixwerkstudio.com/guides/december-freelance-receipts-a-mess-where-to-start?s=github) – It's December, your receipts are in a carrier bag, and you don't know where to start. A quiet Monday-morning story about a calmer way into year-end.
 
+- [Freelance Receipts Unsorted in December? The Costume Queue](https://blixwerkstudio.com/guides/december-freelance-receipts-not-sorted-for-tax?s=github) – It's December and you haven't touched your freelance receipts. A quiet story from a school hall queue about how the knot loosens when there's one place.
+
 - [Dejar mi trabajo para ser freelance: ¿cuánto cobrar?](https://blixwerkstudio.com/guides/dejar-mi-trabajo-para-ser-freelance-cuanto-cobrar?s=github) – En la cocina de la oficina, con la carta de renuncia a medias, una pregunta sin respuesta: ¿cuánto cobrar como freelance?
 
 - [Desktop Full of Screenshots? The Kitchen TV Mirror](https://blixwerkstudio.com/guides/desktop-full-of-screenshots-cant-find-anything?s=github) – Your desktop is a wall of screenshots and random files, and the family TV just mirrored it. A calm story about finding things again.
@@ -1827,6 +1831,8 @@ Included (16 products, 175 USD if bought separately):
 - [Empecé sin presupuesto firmado: «no es lo acordado»](https://blixwerkstudio.com/guides/empece-sin-presupuesto-firmado-cliente-dice-no-es-lo-acordado?s=github) – Empezaste sin el presupuesto firmado y ahora el cliente dice que no era lo acordado. Una historia sobre un martes a las 11:05 y cómo volver a respirar.
 
 - [Entregué las fotos de la boda y no me pagan el resto](https://blixwerkstudio.com/guides/entregue-las-fotos-de-la-boda-y-el-cliente-no-paga-el-resto?s=github) – Entregaste la galería, los novios te dieron las gracias y el resto sigue sin llegar. Una historia sobre cobrar sin apuro y con la cabeza tranquila.
+
+- [Entrevista hace dos semanas: ¿les escribo otra vez?](https://blixwerkstudio.com/guides/entrevista-hace-dos-semanas-escribir-otra-vez-seguimiento?s=github) – Hace dos semanas de tu entrevista y el móvil sigue callado. ¿Escribes otra vez? Una historia sobre el seguimiento sin agobio y sin perder el hilo.
 
 - [Entrevista mañana y no sé a quién envié mi currículum](https://blixwerkstudio.com/guides/entrevista-manana-no-se-que-preparar-curriculum-enviado?s=github) – Te llaman a las 14:10 para una entrevista mañana y no recuerdas qué empresa era. Una historia sobre ordenar la búsqueda y llegar con calma.
 
@@ -1909,6 +1915,8 @@ Included (16 products, 175 USD if bought separately):
 - [Falsche Rechnung an Kunden geschickt? Bushaltestelle 7:55](https://blixwerkstudio.com/guides/falsche-rechnung-an-kunden-geschickt-was-tun?s=github) – Falscher Betrag, falsche Nummer, schon raus: Was tun, wenn die Rechnung beim Kunden liegt? Eine Geschichte über den Schreck und die Ruhe danach.
 
 - [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://blixwerkstudio.com/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
+
+- [Fehler beim Kunden gemacht? Die Tribüne, Mittwoch 16:30](https://blixwerkstudio.com/guides/fehler-im-kundenprojekt-kunden-sagen-ohne-verlieren?s=github) – Fehler im Kundenprojekt, und die Mail dazu bleibt leer. Eine Geschichte darüber, wie du es ehrlich sagst und den Kunden behältst.
 
 - [Festpreis genannt, Verlust gemacht? Die Kasse um 17:40](https://blixwerkstudio.com/guides/festpreis-genannt-verlust-freelance-projekt?s=github) – Du hast einen Festpreis genannt und merkst: Das Projekt kostet dich mehr, als es bringt. Eine Geschichte über den Moment an der Kasse und was danach ruhiger wird.
 
