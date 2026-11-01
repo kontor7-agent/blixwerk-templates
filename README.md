@@ -2482,6 +2482,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me quedo sin stock y no sé cuándo reponer: la llamada de las 9](https://blixwerkstudio.com/guides/me-quedo-sin-stock-no-se-cuando-reponer?s=github) – Son las nueve, el proveedor dice «tres semanas» y tu producto estrella ya casi no queda. Una historia sobre dejar de reponer a ciegas.
 
+- [Me rechazaron la factura por un dato mal y no cobro](https://blixwerkstudio.com/guides/me-rechazaron-la-factura-por-un-dato-mal-sin-cobrar?s=github) – Un correo de tres líneas, una factura rechazada por un dato y semanas sin cobrar. Una historia para quien trabaja por su cuenta y quiere cobrar con calma.
+
 - [Me retrasé con la entrega y no sé cómo avisar al cliente](https://blixwerkstudio.com/guides/me-retrase-con-la-entrega-como-avisar-al-cliente?s=github) – Es lunes, la entrega venció el viernes y no sabes cómo decírselo al cliente. Una historia sobre ese nudo en el estómago y cómo se afloja.
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
@@ -2529,6 +2531,8 @@ Included (16 products, 175 USD if bought separately):
 - [Nail Tech: How Much Do I Actually Make After Booth Rent?](https://blixwerkstudio.com/guides/nail-tech-how-much-do-i-actually-make-after-booth-rent?s=github) – The rental form asks for your monthly income and you freeze. A nail tech story about booth rent, products and finding the number you actually keep.
 
 - [Nebenberuflich selbstständig: Welche Rechnung ging raus?](https://blixwerkstudio.com/guides/nebenberuflich-selbststaendig-rechnungen-ueberblick-verloren?s=github) – 12:35 Uhr in der Kantine: Du weißt nicht mehr, welchen Kunden du schon berechnet hast. Eine Geschichte über Ruhe im Nebenjob.
+
+- [Negative Google Review? The Shutter Half Up on Monday](https://blixwerkstudio.com/guides/negative-google-review-small-business-reply-without-sounding-defensive?s=github) – One star at 7:45 on a Monday, coffee still hot. A story for small business owners who want to reply to a bad Google review without sounding defensive.
 
 - [Netter Kunde zahlt zu spät? Die Eisdiele, 15:20](https://blixwerkstudio.com/guides/netter-kunde-zahlt-zu-spaet-mahnen-unangenehm?s=github) – Die Rechnung ist 24 Tage überfällig, der Kunde ist nett, und du schreibst trotzdem nichts. Eine Geschichte über die Scheu vor der Erinnerung.
 
@@ -3222,6 +3226,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Worried About 2027 Freelance Income? The Lease Renewal](https://blixwerkstudio.com/guides/worried-about-freelance-income-next-year-plan-2027?s=github) – The lease renewal letter asks one simple question: can you commit to next year? A calm story for freelancers whose income is unpredictable.
 
+- [Worried About SQL Injection in Your API? Smoothie Bar](https://blixwerkstudio.com/guides/worried-api-vulnerable-sql-injection-cant-tell?s=github) – A client asks if your API is safe from SQL injection while you wait for a smoothie. You say yes, but you can't be sure. Here's a calmer way to know.
+
 - [SOPs Take Forever to Write? The Picnic Table Phone Call](https://blixwerkstudio.com/guides/writing-standard-operating-procedures-small-business?s=github) – Your standard operating procedures stay half-written and your week off isn't one. A short story about the document you keep meaning to finish.
 
 - [Wütende Kunden-Mail beantworten – ohne Roboter-Ton](https://blixwerkstudio.com/guides/wuetende-kunden-mail-beantworten-ohne-defensiv?s=github) – Donnerstag, 12:50, Mail vom Kunden: „Das ist inakzeptabel.“ Dein Puls steigt. Eine Geschichte über Antworten, die ruhig klingen und trotzdem nach dir.
@@ -3251,6 +3257,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zu viele Excel-Listen und Zettel? Der Balkon, 12:45 Uhr](https://blixwerkstudio.com/guides/zu-viele-excel-listen-und-zettel-selbststaendig?s=github) – Haftnotizen am Monitor, drei Excel-Dateien, ein Kopf voller Zahlen: eine Mittagspause auf dem Balkon und die Frage, ob es auch ruhiger geht.
 
 - [Zu viele Excel-Listen, nichts passt? Die Dönerschlange](https://blixwerkstudio.com/guides/zu-viele-excel-tabellen-kleiner-betrieb-nichts-passt?s=github) – Fünf Tabellen, fünf Wahrheiten, und keine passt zur anderen. Eine Geschichte für alle, die ihren kleinen Betrieb in Excel jonglieren.
+
+- [Zu viele Kunden, Deadlines durcheinander? Montag, 8:40](https://blixwerkstudio.com/guides/zu-viele-kunden-gleichzeitig-deadlines-durcheinander-freiberufler?s=github) – Drei Kunden, drei Deadlines, ein Kopf. Eine Geschichte für Freiberufler, bei denen am Montagmorgen alles gleichzeitig dringend ist – und wie es ruhiger wird.
 
 - [Zweite Zahlungserinnerung ignoriert? Die Kaffeetafel](https://blixwerkstudio.com/guides/zweite-zahlungserinnerung-ignoriert-was-tun?s=github) – Die zweite Erinnerung blieb unbeantwortet, und du sitzt beim Kaffee mit dem Handy unterm Tisch. Eine Geschichte über Ruhe beim Nachhaken.
 
