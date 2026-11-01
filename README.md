@@ -1374,6 +1374,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cancelaron la traducción a medias y no quieren pagarme](https://blixwerkstudio.com/guides/cancelaron-traduccion-a-medias-no-quieren-pagarme?s=github) – El cliente canceló el encargo con la mitad entregada y el correo dice que no hay nada que pagar. Una traductora, un martes y cómo volver a respirar.
 
+- [Cancelled Lessons, Lost Make-Ups? The Lightbulb Aisle](https://blixwerkstudio.com/guides/cancelled-tutoring-lessons-make-up-lessons-owed?s=github) – You cancelled a week of tutoring and now can't remember which make-up lessons you owe. A quiet story from the hardware aisle, and a calmer way to keep track.
+
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://blixwerkstudio.com/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
 - [Can't Keep Track of Job Applications? The Parkrun Question](https://blixwerkstudio.com/guides/cant-keep-track-of-job-applications-who-got-back-to-me?s=github) – Someone asks how the job search is going and you can't say who replied. A calm story about losing track of applications, and the quiet way out.
@@ -2210,6 +2212,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://blixwerkstudio.com/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
 
+- [Jede Woche gepostet, nichts gelernt? Der Brennofen, 15:30](https://blixwerkstudio.com/guides/jede-woche-gepostet-nicht-wissen-was-funktioniert?s=github) – Monatelang jede Woche gepostet und keine Ahnung, was etwas gebracht hat? Eine Töpferin, ein piepender Brennofen und der Wunsch nach einem klaren Blick.
+
 - [Job Offer Due Tomorrow, Can't Recall Other Interviews?](https://blixwerkstudio.com/guides/job-offer-deadline-tomorrow-cant-remember-other-interviews?s=github) – The offer expires tomorrow at noon and the other interviews have blurred into one. A Saturday-morning story about getting your own notes back.
 
 - [Job Search Spreadsheet a Mess? The Coach Window Seat](https://blixwerkstudio.com/guides/job-search-spreadsheet-mess-missed-follow-up-email?s=github) – You meant to follow up last Thursday. Now the spreadsheet is a maze and the reply window may have closed. A quiet story about a calmer job search.
@@ -2592,6 +2596,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No sé qué clientes me dan más dinero y cuáles me hacen perder tiempo](https://blixwerkstudio.com/guides/no-se-que-clientes-me-dan-mas-dinero-freelance?s=github) – En el tren de vuelta de una reunión, Lucía se pregunta qué clientes le dan dinero y cuáles solo tiempo perdido. Una historia para freelances.
 
+- [No sé qué se vende más en mi tienda y qué me sobra](https://blixwerkstudio.com/guides/no-se-que-productos-se-venden-mas-en-mi-tienda?s=github) – El comercial espera con el catálogo y no sabes qué pedir ni qué te sobra. Una historia sobre dejar de adivinar y ver tu tienda con calma.
+
 - [No sé qué publicar en Instagram hoy y llevo días sin subir nada](https://blixwerkstudio.com/guides/no-se-que-publicar-en-instagram-hoy-negocio?s=github) – Fila del súper, el móvil en la mano y once días sin publicar. Una historia para quien no sabe qué subir hoy a Instagram y ya se siente en deuda.
 
 - [No sé quién me debe dinero de mis facturas: un martes en la furgoneta](https://blixwerkstudio.com/guides/no-se-quien-me-debe-dinero-facturas-autonomo?s=github) – Sentado en la furgoneta, con el móvil en la mano, no sabes qué clientes te deben aún. Una historia sobre autónomos, facturas y la calma de verlo claro.
@@ -2765,6 +2771,8 @@ Included (16 products, 175 USD if bought separately):
 - [Quoted a Job, Materials Cost More? The Deck Rail Call](https://blixwerkstudio.com/guides/quoted-job-materials-cost-more-how-to-stop?s=github) – You quoted from memory, then the timber invoice landed. A short story for tradespeople about materials, margin and quoting without the knot in your stomach.
 
 - [Quoted Too Cheap, Materials Eating Profit? The Pickup Line](https://blixwerkstudio.com/guides/quoted-too-cheap-materials-eating-profit?s=github) – You quoted a garden job from memory and the receipts in the cup holder say the materials ate your profit. A calm story about seeing it before it happens.
+
+- [Rainy Market Day, Barely Covered Pitch Fee? Any Profit?](https://blixwerkstudio.com/guides/rainy-market-day-barely-covered-pitch-fee-any-profit?s=github) – Rain all day, and the takings barely covered the pitch fee. Did you make any profit at the market? A quiet story about knowing instead of guessing.
 
 - [Raise Your Lesson Rate Without Dread: The Piano Stool at 3:40](https://blixwerkstudio.com/guides/raise-lesson-rate-private-tutor-price-increase-letter?s=github) – Your lesson rate hasn't moved in four years and the letter sits unwritten. A quiet story about finally saying the new price in your own calm voice.
 
