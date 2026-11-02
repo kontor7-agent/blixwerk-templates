@@ -1206,6 +1206,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Accountant Wants Your Receipts? The Passport Office Ticket](https://blixwerkstudio.com/guides/accountant-wants-my-receipts-no-idea-where-they-are?s=github) – Waiting in line, your accountant's email lands: 'Please send all receipts by Friday.' You have no idea where half of them are. A calmer way is possible.
 
+- [Accounts Payable Ignoring Your Invoice? The Hold Music](https://blixwerkstudio.com/guides/accounts-payable-not-answering-invoice-emails?s=github) – Three emails to accounts payable, no reply, and you're in a hospital corridor with your phone. A calm story about chasing money without feeling like you're begging.
+
 - [ADHD Brain Fog, Can't Plan Your Day? The Cold Kettle](https://blixwerkstudio.com/guides/adhd-brain-fog-cant-plan-my-day-overwhelmed?s=github) – It's 10:40, the kettle has gone cold twice and you can't pick a first task. A quiet story for freelancers with ADHD brain fog who feel overwhelmed.
 
 - [Overwhelmed by To-Do Lists? The Monday Call Question](https://blixwerkstudio.com/guides/simple-printable-planner-overwhelmed-to-do-list-freelancer?s=github) – Monday, 9:05, a client asks what your priorities are this week, and your head fills with twenty things. A quiet story about a simpler planner.
@@ -1307,6 +1309,8 @@ Included (16 products, 175 USD if bought separately):
 - [Backup Failed Silently? The Monday Call for March's Files](https://blixwerkstudio.com/guides/backup-job-silently-failed-noticed-when-needed-files?s=github) – The backup you trusted stopped months ago, and you find out on a client call. A calm story about silent failures and a backup that tells you it ran.
 
 - [Backup Drive Full? The Bakery Question at 6:30 am](https://blixwerkstudio.com/guides/backup-drive-full-log-files-never-rotated?s=github) – The owner asks, 'We're backed up, right?' and the drive says otherwise. A calm story about backups, old logs and finally trusting them.
+
+- [Backup Says Success, Folder Empty? The Spilled Latte](https://blixwerkstudio.com/guides/backup-says-success-but-folder-empty?s=github) – The scheduler said 'completed successfully'. The backup folder says nothing at all. A calm story about trusting your backup again, one logfile at a time.
 
 - [Backup Overwrites Yesterday's Copy? The Hotel Lobby Wi-Fi](https://blixwerkstudio.com/guides/backup-script-overwrites-yesterdays-backup?s=github) – You asked for last Tuesday's file and found only today's copy. A quiet story about a backup script that overwrites itself, and what calm looks like instead.
 
@@ -2422,6 +2426,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde will Rechnung in Raten zahlen? Die Apotheken-Schlange](https://blixwerkstudio.com/guides/kunde-will-rechnung-in-raten-zahlen-freiberufler?s=github) – Der Kunde fragt am Telefon, ob er die Rechnung in Raten zahlen kann. Du stehst in der Apotheke und sagst Ja, bevor du nachgedacht hast. Eine Geschichte.
 
+- [Kunde will Retainer: Wie viel verlangen? Umkleide, 12:10](https://blixwerkstudio.com/guides/kunde-will-retainer-wie-viel-verlangen-freelance?s=github) – Der Kunde will dich fest buchen, monatlich. Und du hast keine Zahl im Kopf. Eine Geschichte über den Moment, in dem du deinen Preis nennen willst.
+
 - [Kunde will ständig noch eine Änderung? Runde Nummer 7](https://blixwerkstudio.com/guides/kunde-will-staendig-aenderung-korrekturschleifen?s=github) – Montag, 7:12 Uhr, S-Bahn: „Noch eine kleine Änderung.“ Wenn Korrekturschleifen kein Ende nehmen und du nicht weißt, wie du es ruhig sagst.
 
 - [Kunde will ständig Gratis-Extras? Die Tiefgarage, 8:55](https://blixwerkstudio.com/guides/kunde-will-staendig-gratis-extras-nein-sagen-ohne-verlieren?s=github) – Noch eine „kleine Sache“, natürlich ohne Aufpreis. Wie Mareike in der Tiefgarage lernt, Nein zu sagen, ohne den Kunden zu verlieren.
@@ -2627,6 +2633,8 @@ Included (16 products, 175 USD if bought separately):
 - [No sé cuánto cobrar por servicio y temo perder dinero](https://blixwerkstudio.com/guides/no-se-cuanto-cobrar-por-cada-servicio-miedo-perder-dinero?s=github) – Lunes, 8:50, un mensaje: «¿cuánto cuestan las mechas?» Y tú sueltas un precio de memoria. Una historia sobre cobrar sin miedo a perder dinero.
 
 - [No sé cuánto gano de verdad en mi peluquería a fin de mes](https://blixwerkstudio.com/guides/no-se-cuanto-gano-de-verdad-en-mi-peluqueria-a-fin-de-mes?s=github) – Lunes a las 9:15, la caja de galletas, el datáfono y el alquiler del sillón. Una historia para quien trabaja mucho y no sabe qué le queda a fin de mes.
+
+- [No sé cuánto facturé este trimestre y toca el modelo 130](https://blixwerkstudio.com/guides/no-se-cuanto-he-facturado-este-trimestre-modelo-130?s=github) – Lunes por la mañana, el plazo del modelo 130 se acerca y no sabes cuánto facturaste. Una historia sobre pasar de los nervios a ver tus números.
 
 - [No sé cuánto he ganado este mes como autónomo: el día 30](https://blixwerkstudio.com/guides/no-se-cuanto-he-ganado-este-mes-como-autonomo?s=github) – Tu pareja pregunta cuánto has ganado este mes y tú no sabes qué contestar. Una historia sobre el agobio de no ver tus números y la calma de verlos.
 
