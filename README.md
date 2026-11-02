@@ -1892,6 +1892,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel Keeps Crashing on a Huge CSV? The Replacement Bus](https://blixwerkstudio.com/guides/excel-keeps-crashing-huge-csv-file?s=github) – The spinner, the 'Not Responding' bar, a call at 9:30. A calm story for anyone whose Excel keeps crashing when they open a huge CSV file.
 
+- [Excel-Lagerbestand falsch? Dienstag in der Werkstatt](https://blixwerkstudio.com/guides/excel-lagerbestand-formeln-kaputt-bestand-falsch?s=github) – Formeln in der Lagerliste kaputt, und du traust deinen Bestandszahlen nicht mehr? Eine Geschichte aus einer Fahrradwerkstatt und ein ruhigerer Montag.
+
 - [CSV Long IDs Turn to 4.9E+12 in Excel? The Station Bakery](https://blixwerkstudio.com/guides/excel-long-id-numbers-scientific-notation-csv-fix?s=github) – A 9:30 call, a CSV and order numbers that read 4.9E+12. A short story about long IDs, Excel, and getting your Monday morning back.
 
 - [Miles de filas desordenadas en Excel: ¿por dónde empiezo?](https://blixwerkstudio.com/guides/excel-miles-de-filas-desordenadas-por-donde-empezar?s=github) – Lunes por la mañana, el tren y un Excel de 14.000 filas que no sabes por dónde coger. Una historia sobre abrirlo sin que se te encoja el estómago.
@@ -2538,6 +2540,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mindestbestand vergessen? Der Anruf vom Fußballverein](https://blixwerkstudio.com/guides/mindestbestand-vergessen-zu-spaet-nachbestellt-kunde-wartet?s=github) – Freitag, 9:10 Uhr: Die Rohlinge sind aus, der Verein braucht die Trikots morgen. Eine Geschichte für alle, die den Mindestbestand mal wieder vergessen haben.
 
+- [Music Teacher Unsure What You Earn? The Letting Desk](https://blixwerkstudio.com/guides/music-teacher-no-idea-how-much-i-earn-per-month-from-lessons?s=github) – A letting agent asks what you earn a month from lessons, and you realise you don't know. A calm story for private music teachers.
+
 - [Parents Forget to Pay for Music Lessons? The Hallway Handover](https://blixwerkstudio.com/guides/music-teacher-parents-forget-to-pay-for-lessons?s=github) – The cello case is by the door, the envelope hasn't come, and you smile anyway. A gentle story for music teachers whose parents forget to pay.
 
 - [Music Students Cancel Late and Don't Pay? The Guitar Shop](https://blixwerkstudio.com/guides/music-teacher-students-cancel-last-minute-not-paying?s=github) – Your phone buzzes at the shop till: another late cancellation. And who still owes you for March? A music teacher's quiet moment of clarity.
@@ -2677,6 +2681,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Paid a Deposit, Can't Remember What's Still Owed? Photographer](https://blixwerkstudio.com/guides/photographer-client-paid-deposit-cant-remember-what-is-still-owed?s=github) – A client asks, 'What was left to pay again?' and you can't say. A photographer's Monday morning at the studio door, and the calmer way to start it.
 
 - [Lost Track of Shoots and Deposits? The Photographer's Tuesday Call](https://blixwerkstudio.com/guides/photographer-client-shoot-deposit-invoice-tracker-excel?s=github) – A client asks where the gallery is while you stand in a car park, unsure. A photographer's story about deposits, deadlines and one calm overview.
+
+- [Double Booked Two Photo Clients? The Chalkboard Menu](https://blixwerkstudio.com/guides/photographer-double-booked-two-clients-same-date?s=github) – Two clients, one Saturday, and you only noticed over a flat white. A calm story for photographers who double booked and want it never to happen again.
 
 - [Forgot the Balance After a Wedding Shoot? The Physio Corridor](https://blixwerkstudio.com/guides/photographer-forgot-balance-owed-after-wedding-shoot?s=github) – Three months after the wedding, a tagged photo reminds you: the final balance was never chased. A calm story for photographers, and what changes after.
 
@@ -3073,6 +3079,8 @@ Included (16 products, 175 USD if bought separately):
 - [Estoy enferma y no cobro: mi tarifa por hora freelance](https://blixwerkstudio.com/guides/tarifa-por-hora-freelance-vacaciones-enfermedad?s=github) – 38,4 de fiebre un martes y ni un euro entrando. Una historia sobre enfermar o irte de vacaciones siendo freelance y la tarifa por hora que lo olvida.
 
 - [Mi tarifa por hora no cubre mis gastos y trabajo de más](https://blixwerkstudio.com/guides/tarifa-por-hora-no-cubre-gastos-autonomo-trabajo-de-mas?s=github) – En la sala de espera del taller haces cuentas: tu tarifa por hora no cubre tus gastos y llevas meses trabajando de más. Una historia.
+
+- [Agencia nueva me pide mi tarifa por palabra: ¿qué digo?](https://blixwerkstudio.com/guides/tarifa-por-palabra-agencia-nueva?s=github) – Un correo de una agencia nueva, una pregunta corta: ¿tu tarifa por palabra? Un lunes por la mañana y la calma de saber qué responder.
 
 - [Mi tarifa real por hora freelance, menor de lo que creía](https://blixwerkstudio.com/guides/tarifa-real-por-hora-freelance-menor-de-lo-que-creia?s=github) – En la cola de la ITV hiciste la cuenta de tu tarifa real por hora freelance. Dolió, pero después llegó la calma. Una historia.
 
