@@ -1518,6 +1518,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Pushing Back on Your Invoice Amount? The Pharmacy Queue](https://blixwerkstudio.com/guides/client-pushing-back-on-invoice-amount-what-do-i-say?s=github) – The client wrote 'this seems higher than expected.' You're in a pharmacy queue with a phone in your hand. A calm story about finding the words.
 
+- [Client Won't Pay, 'Not Happy With the Work'? Frame Wall](https://blixwerkstudio.com/guides/client-refuses-to-pay-invoice-not-happy-with-work?s=github) – The email says they're not happy with the work, so they won't pay. A quiet story about answering calmly instead of panicking.
+
 - [Client Rejected My First Draft? The Chimney Sweep Wait](https://blixwerkstudio.com/guides/client-rejected-my-first-draft-how-to-respond-politely?s=github) – The client wrote 'not quite what we had in mind'. You have a reply half-typed and a chimney sweep at the door. A calm story about answering politely.
 
 - [Client Said My Freelance Rate Is Too High: The Pause on the Call](https://blixwerkstudio.com/guides/client-said-my-freelance-rate-is-too-high-what-do-i-say?s=github) – Thursday, 2:10 pm. The client says your rate is too high and the washing machine keeps spinning. What do you say? A short story about a calmer answer.
@@ -1653,6 +1655,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente paga tarde y no llego a la cuota de autónomos](https://blixwerkstudio.com/guides/cliente-paga-tarde-no-llego-cuota-autonomos?s=github) – El día 28, el móvil vibra con el aviso del banco y la factura de tu cliente sigue sin pagarse. Una historia sobre cobrar tarde y recuperar la calma.
 
 - [Me pagó menos de la factura y no sé cuánto me debe](https://blixwerkstudio.com/guides/cliente-pago-menos-de-la-factura-cuanto-me-debe?s=github) – Son las 9:15, miras el móvil en la cola de la panadería y el ingreso no coincide con la factura. ¿Falta dinero? Una historia para quien ha pasado por ahí.
+
+- [Mi cliente pagó mi factura dos veces y no sé qué hacer](https://blixwerkstudio.com/guides/cliente-pago-mi-factura-dos-veces-freelance?s=github) – Jueves, 10:15: dos ingresos iguales en tu cuenta. Una historia sobre el cliente que pagó dos veces tu factura y cómo recuperar la calma.
 
 - [Me pide los RAW y no sé cuánto cobrar como fotógrafa](https://blixwerkstudio.com/guides/cliente-pide-archivos-raw-sesion-cuanto-cobrar-fotografo-autonomo?s=github) – El cliente te pide los RAW de la sesión y se te queda la mente en blanco. Una historia sobre poner precio con calma, sin apuro.
 
@@ -2209,6 +2213,8 @@ Included (16 products, 175 USD if bought separately):
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://blixwerkstudio.com/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
 
 - [How Much Safety Stock Is Enough? The Recital Row](https://blixwerkstudio.com/guides/how-much-safety-stock-small-shop?s=github) – You sit in a folding chair at a recital, doing stock maths in your head. How much safety stock should a small shop keep? A calmer way to stop guessing.
+
+- [Supplier Minimum Order Too High? The Hallway Pallet](https://blixwerkstudio.com/guides/how-much-stock-to-order-supplier-minimum-order-quantity?s=github) – The supplier says minimum 300 units and you stand in the stockroom doorway, unsure. A calm story about ordering stock without guessing.
 
 - [How Much to Charge for a Job You Always Underestimate? The Fence Job](https://blixwerkstudio.com/guides/how-much-to-charge-for-a-job-i-always-underestimate?s=github) – You said "about a day" on the doorstep. By Wednesday it was three. A calm story about quoting jobs you always underestimate, and what changes.
 
@@ -3085,6 +3091,8 @@ Included (16 products, 175 USD if bought separately):
 - [Steuerfrist naht, Belege-Chaos? Die Mail am Montag um 8:05](https://blixwerkstudio.com/guides/steuerfrist-belege-chaos-freelancer-unterlagen-sortieren?s=github) – Montagmorgen, eine Mail vom Steuerberater, und deine Belege liegen überall verstreut. Eine Geschichte über das Chaos davor und die Ruhe danach.
 
 - [Steuernachzahlung selbstständig: Kein Geld zurückgelegt?](https://blixwerkstudio.com/guides/steuernachzahlung-selbststaendig-kein-geld-zurueckgelegt?s=github) – Der Brief liegt im Briefkasten, das Konto ist halbleer. Eine Geschichte für alle, die bei der Steuernachzahlung nichts zurückgelegt haben.
+
+- [Vorauszahlung fällig, nichts zurückgelegt? 13:30 Uhr](https://blixwerkstudio.com/guides/steuervorauszahlung-nichts-zurueckgelegt-freelancer?s=github) – Der Bescheid liegt neben dem Router, das Konto ist nicht leer, aber auch nicht deins. Eine Geschichte für Freelancer ohne Steuerpolster.
 
 - [Stock que no se vende y dinero parado: el martes de la gestoría](https://blixwerkstudio.com/guides/stock-acumulado-que-no-se-vende-dinero-parado-pequeno-negocio?s=github) – La gestora te pide el valor de tu almacén y no lo sabes. Una historia sobre stock acumulado, dinero parado y cómo respirar con más calma.
 
