@@ -1292,6 +1292,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ausgaben steigen, Stundensatz gleich? Drei Briefe im Flur](https://blixwerkstudio.com/guides/ausgaben-steigen-stundensatz-gleich-freelancer?s=github) – Miete, Krankenkasse, Software – alles wird teurer, nur dein Stundensatz nicht. Eine Geschichte vom Briefkasten und dem Moment danach.
 
+- [Auslagen vergessen abzurechnen? Mittwoch, 10:50 Uhr](https://blixwerkstudio.com/guides/auslagen-vergessen-abzurechnen-freelance?s=github) – Du hast Druckkosten vorgestreckt und nie berechnet. Jetzt sagt der Kunde im Videocall: „Das war's dann?“ Eine Geschichte über späte Auslagen.
+
 - [Auslandskunde zahlt nicht? Dienstag im Kühlregal](https://blixwerkstudio.com/guides/auslandskunde-zahlt-rechnung-nicht?s=github) – Die Rechnung an den Kunden im Ausland ist seit Wochen offen, und du weißt nicht, was du schreiben sollst. Eine Geschichte über den Moment davor.
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerkstudio.com/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
@@ -1713,6 +1715,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Full of Duplicates Every Week? The Friday 11:00 Call](https://blixwerkstudio.com/guides/csv-file-full-of-duplicates-inconsistent-formatting-every-week?s=github) – Same export, same duplicates, same odd formatting every week. A story about the Friday call where the numbers didn't match, and a calmer way to start the week.
 
 - [CSV File Keeps Breaking My Import? The Tide Table](https://blixwerkstudio.com/guides/csv-file-keeps-breaking-my-import?s=github) – The import rejects your CSV for the fourth time and the client launch is at noon. A calm story about breaking out of the fix-and-retry loop.
+
+- [CSV Header Repeated Mid-File? The Dance Studio Lobby](https://blixwerkstudio.com/guides/csv-header-row-repeated-in-middle-of-file-pandas?s=github) – The header row shows up again halfway down the CSV, and pandas turns every number into text. A Saturday-morning story about getting calm back.
 
 - [CSV Import Failed: Encoding Error, Deadline in an Hour](https://blixwerkstudio.com/guides/csv-import-failed-encoding-error-deadline-in-an-hour?s=github) – The import says 'encoding error' and the sale goes live in an hour. A calm story about weird characters, a ticking clock, and what changes afterwards.
 
@@ -3086,6 +3090,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Subir precios en mi peluquería: miedo a perder clientas](https://blixwerkstudio.com/guides/subir-precios-peluqueria-miedo-perder-clientas?s=github) – Lunes, 9:40: la lista de precios en el espejo y un nudo en el estómago. Una historia sobre subir precios sin perder clientas.
 
+- [Swagger Docs Exposed in Production? The Spare Key Label](https://blixwerkstudio.com/guides/swagger-docs-exposed-in-production?s=github) – Your Swagger page is public and a message just landed. A calm story about the knot in your stomach, and how to stop guessing while you stand in a queue.
+
 - [Tardé semanas en contestar a un cliente: me da vergüenza](https://blixwerkstudio.com/guides/tarde-semanas-en-contestar-a-un-cliente-me-da-verguenza?s=github) – Tres semanas sin contestar a un cliente y cada día cuesta más escribirle. Una historia sobre el lunes en que por fin abres ese correo.
 
 - [Tardo una hora en escribir un correo a un cliente: el lunes de las 9:40](https://blixwerkstudio.com/guides/tardo-una-hora-en-escribir-un-correo-a-un-cliente?s=github) – Son las 9:40, el café se enfría y el correo para tu cliente sigue en blanco. Una historia sobre bloquearse al escribir y cómo soltar ese nudo.
@@ -3199,6 +3205,8 @@ Included (16 products, 175 USD if bought separately):
 - [¿Cuánto stock me queda? Vendo por WhatsApp e Instagram](https://blixwerkstudio.com/guides/vendo-por-whatsapp-e-instagram-no-se-cuanto-stock-me-queda?s=github) – Una clienta te escribe por WhatsApp: «¿te queda la vela de cedro?» Y tú no lo sabes. Una historia sobre vender sin perder el hilo del stock.
 
 - [Vendo lo que hago a mano y no sé si pierdo dinero: la fila del correo](https://blixwerkstudio.com/guides/vendo-productos-hechos-a-mano-no-se-si-pierdo-dinero-con-mis-precios?s=github) – Tres paquetes, una fila en el correo y una duda: ¿gano algo con lo que vendo hecho a mano? Una historia sobre precios, comisiones y calma.
+
+- [Vendo ropa online con tallas y colores y no sé mi stock](https://blixwerkstudio.com/guides/vendo-ropa-online-tallas-colores-no-se-cuanto-stock-tengo?s=github) – Te preguntan por la M en verde y no sabes si queda. Una historia sobre vender ropa con tallas y colores y recuperar la calma con el stock.
 
 - [Weniger als Mindestlohn als Selbstständige? Die Frage beim Kuchen](https://blixwerkstudio.com/guides/verdiene-ich-als-selbststaendiger-weniger-als-mindestlohn?s=github) – Sonntag, Geburtstagskaffee, ein Satz vom Schwager – und plötzlich fragst du dich: Verdiene ich als Selbstständige weniger als Mindestlohn?
 
