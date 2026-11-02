@@ -1414,6 +1414,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot What You Invoiced This Quarter? The Harbour Bench](https://blixwerkstudio.com/guides/cant-remember-which-projects-invoiced-this-quarter?s=github) – Half a bag of chips, a phone at 9% and one question you can't answer: which projects did you already invoice this quarter? A calm story about knowing.
 
+- [Can't Tell Which Hours You Invoiced? The Beehive Veil](https://blixwerkstudio.com/guides/cant-tell-which-freelance-hours-invoiced?s=github) – A phone buzzes mid-beehive-inspection and you can't say which hours you already billed. A short story about getting that certainty back.
+
 - [Carta de Hacienda y sin justificantes de mis gastos](https://blixwerkstudio.com/guides/carta-de-hacienda-sin-justificantes-gastos-autonomo?s=github) – Abres el buzón y hay una carta de Hacienda. Tus justificantes de autónomo están «en algún sitio». Una historia para respirar y ordenar con calma.
 
 - [Cerré el proyecto a precio fijo: ¿gané dinero por hora?](https://blixwerkstudio.com/guides/cerre-proyecto-precio-fijo-gane-dinero-por-hora?s=github) – Entregaste a precio fijo y el cliente está feliz, pero no sabes cuántas horas te costó. Una historia sobre mirar los números sin miedo.
@@ -1499,6 +1501,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Pays 45 Days Late Every Month? The Shoe Shop Queue](https://blixwerkstudio.com/guides/client-pays-45-days-late-every-month?s=github) – The money lands on day 45, every month. A freelancer, a card reader in a shoe-shop queue, and a calmer way to deal with a client who's always late.
 
 - [Client Pays 60 Days Late on Net 30? The Fire Drill](https://blixwerkstudio.com/guides/client-pays-60-days-late-net-30-how-to-stop-it?s=github) – Net 30 turned into day 60 again. A freelancer at a fire drill, a quiet bank app, and a calmer way to chase money without begging.
+
+- [Client Promised to Pay, Now Won't Answer? Kilometre 30](https://blixwerkstudio.com/guides/client-promised-to-pay-invoice-now-not-answering-emails?s=github) – They swore the money was coming, then went quiet. A freelancer, a marathon crowd and a phone that stays silent: when chasing feels like begging.
 
 - [Client Promised to Pay Twice, Still Nothing? What to Say](https://blixwerkstudio.com/guides/client-promised-to-pay-twice-still-nothing-what-to-say?s=github) – They said Friday. Then 'next week, for sure.' Still nothing. A quiet story about the third message and how to send it without feeling like you're begging.
 
@@ -1927,6 +1931,8 @@ Included (16 products, 175 USD if bought separately):
 - [Facturé y no me han pagado, y toca el IVA del trimestre](https://blixwerkstudio.com/guides/facturar-cliente-no-ha-pagado-iva-trimestre?s=github) – Factura enviada, dinero sin llegar y el trimestre cierra. Una historia ilustrativa sobre vivir esa semana con calma y saber qué te deben.
 
 - [Facturas pendientes: no sé cuáles están vencidas (sala de espera)](https://blixwerkstudio.com/guides/facturas-pendientes-no-se-cuales-estan-vencidas-autonomo?s=github) – Estás en la sala de espera del dentista y quieres saber qué facturas están vencidas. Una historia para autónomos que lo buscan en tres sitios a la vez.
+
+- [Facturo más que antes y a fin de mes no me sobra nada](https://blixwerkstudio.com/guides/facturo-mas-pero-a-fin-de-mes-no-me-sobra-nada-autonomo?s=github) – Este año facturas más y, aun así, el día 30 la cuenta está igual de justa. Una historia para autónomos que se preguntan adónde se va el dinero.
 
 - [Falling Behind in Your Freelance Business? The Puncture](https://blixwerkstudio.com/guides/falling-behind-freelance-business-where-to-start?s=github) – Feel like you're falling behind in your freelance business and can't tell where to start? A story about a flat tyre, a long to-do list and one small relief.
 
@@ -2735,6 +2741,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi primera factura como freelance: vergüenza y no saber cuánto cobrar](https://blixwerkstudio.com/guides/primera-factura-freelance-no-se-cuanto-cobrar?s=github) – Un cursor sobre «Enviar», una factura vacía y ninguna idea de cuánto cobrar. Una historia para tu primera factura como freelance.
 
 - [Primera factura freelance: no sé qué poner (plantilla gratis)](https://blixwerkstudio.com/guides/primera-factura-freelance-no-se-que-poner-plantilla-gratis?s=github) – El cliente dice «mándame la factura» y tú miras un documento en blanco sin saber qué poner. Una historia sobre ese miedo y una plantilla gratis.
+
+- [Privat und beruflich gemischt? Laptop im Elektromarkt](https://blixwerkstudio.com/guides/privat-beruflich-gemischt-selbststaendig-was-absetzen?s=github) – Samstag im Elektromarkt: neuer Laptop, Kassenbon in der Hand und keine Ahnung, was privat war und was beruflich. Eine Geschichte über Ruhe bei Belegen.
 
 - [Can't Track Which Lessons Are Paid? The Study Room Clock](https://blixwerkstudio.com/guides/private-tutor-cant-track-which-lessons-are-paid?s=github) – A student asks, 'Did I pay for March?' and you don't know. A quiet story for private tutors who lose track of which lessons are paid for.
 
