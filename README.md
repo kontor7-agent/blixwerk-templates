@@ -3126,6 +3126,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Subí mi API a producción y no sé si es segura: la cola](https://blixwerkstudio.com/guides/subi-mi-api-a-produccion-no-se-si-es-segura?s=github) – Sábado por la mañana, la API ya en producción y una duda que no te deja disfrutar el pan. Una historia para quien lanzó y no sabe si es segura.
 
+- [Subí mi clave de API a GitHub por error: la cola del pan](https://blixwerkstudio.com/guides/subi-mi-clave-de-api-a-github-por-error?s=github) – Un correo de GitHub en la cola de la panadería: tu clave de API estaba en el repositorio. Una historia sobre el pánico y sobre dejar de improvisar.
+
 - [Subir precios en mi peluquería: miedo a perder clientas](https://blixwerkstudio.com/guides/subir-precios-peluqueria-miedo-perder-clientas?s=github) – Lunes, 9:40: la lista de precios en el espejo y un nudo en el estómago. Una historia sobre subir precios sin perder clientas.
 
 - [Swagger Docs Exposed in Production? The Spare Key Label](https://blixwerkstudio.com/guides/swagger-docs-exposed-in-production?s=github) – Your Swagger page is public and a message just landed. A calm story about the knot in your stomach, and how to stop guessing while you stand in a queue.
