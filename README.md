@@ -1430,6 +1430,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Agreed to Pay but Keeps Making Excuses? Freelancer](https://blixwerkstudio.com/guides/client-agreed-to-pay-but-keeps-making-excuses-freelancer?s=github) – They said yes, they'll pay. Then came the excuses. A quiet story about a Thursday pickup line, and how chasing money can feel calmer.
 
+- [Client Agreed to Pay, Stopped Replying? The Scoreboard](https://blixwerkstudio.com/guides/client-agreed-to-pay-invoice-stopped-replying?s=github) – They said yes, the money was coming. Then silence. A story about a Saturday spent refreshing your inbox, and what calmer follow-up feels like.
+
 - [Client Wants Unlimited Revisions? The Tennis Club Bench](https://blixwerkstudio.com/guides/client-asked-for-unlimited-revisions-how-to-say-no?s=github) – A client wrote 'unlimited revisions are fine, right?' while you stood at a vending machine. A story about finding calm words for a clear, kind no.
 
 - [Client Asked to Cut Your Price? The Stairwell Landing](https://blixwerkstudio.com/guides/client-asked-me-to-cut-my-price-after-quoting-how-to-say-no?s=github) – You quoted, they said yes, then came the email asking for less. A quiet story about saying no to a price cut without losing the client or your calm.
@@ -1768,6 +1770,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Customer Ordered Something Sold Out? The Theatre Interval](https://blixwerkstudio.com/guides/customer-ordered-something-sold-out-again?s=github) – The phone buzzes in the interval queue: an order for a jar you sold out of last week. A short story about stock that stops surprising you.
 
+- [Thought It Was in Stock, It Wasn't? The Treatment Table](https://blixwerkstudio.com/guides/customer-ordered-thought-in-stock-but-ran-out?s=github) – Face down on a physio table, your phone lights up: six jars ordered, and you're not sure you have six. A calm story about stock that stops surprising you.
+
 - [Customer Says Your Quote Is Too Expensive? Hallway Tea](https://blixwerkstudio.com/guides/customer-said-my-quote-is-too-expensive-can-i-lower-it?s=github) – The customer says your quote is too expensive and you can't tell if you can go lower. A tradesperson's Thursday morning, and a calmer way to know your floor.
 
 - [Customer Saw Another's Data in Your API? Oat Milk Queue](https://blixwerkstudio.com/guides/customer-saw-another-customers-data-api?s=github) – A customer saw someone else's data through your API. How did you miss it? A calm story about the message, the fix and what changes after.
@@ -1993,6 +1997,8 @@ Included (16 products, 175 USD if bought separately):
 - [Fotoshooting nicht abgerechnet? Der Download-Hinweis um 12:40](https://blixwerkstudio.com/guides/fotograf-rechnung-vergessen-nach-shooting?s=github) – Die Galerie ist längst geliefert, die Rechnung nie geschrieben. Eine Fotografin, ein Bahnhofscafé und der Moment, in dem sie es merkt.
 
 - [Soy fotógrafo autónomo y olvidé cobrar el resto de la sesión](https://blixwerkstudio.com/guides/fotografo-autonomo-olvido-cobrar-resto-sesiones-pagos-cliente?s=github) – La galería ya está entregada, el cliente da las gracias y tú no recuerdas si pagó el resto. Una mañana de lunes, y cómo se siente tener los pagos claros.
+
+- [Fotos de tickets en el móvil: ¿cuáles son del negocio?](https://blixwerkstudio.com/guides/fotos-de-tickets-en-el-movil-cuales-son-del-negocio?s=github) – Tu galería guarda cientos de fotos de tickets y no sabes cuáles son del negocio. Una mañana en la furgoneta y una forma más tranquila de empezar.
 
 - [Mi cliente quiere más fotos editadas y no sé cuánto cobrar](https://blixwerkstudio.com/guides/fotos-editadas-extra-despues-de-entregar-cuanto-cobrar?s=github) – Entregaste la sesión y llega el mensaje: «¿me editas unas fotos más?». Una escena en la cola de la panadería y cómo se vive con más calma.
 
@@ -3205,6 +3211,8 @@ Included (16 products, 175 USD if bought separately):
 - [VLOOKUP Not Working? The Hidden Space in Row 212](https://blixwerkstudio.com/guides/vlookup-not-working-hidden-spaces?s=github) – Two names that look identical, and VLOOKUP says #N/A. A story about hidden spaces in exported data, a client waiting on the line, and a calmer way to clean it.
 
 - [Volví del mercadillo con cajas sin vender: ¿gané algo?](https://blixwerkstudio.com/guides/volvi-del-mercadillo-con-cajas-sin-vender-gane-algo?s=github) – Domingo, seis de la tarde, el pasillo lleno de cajas y un sobre con billetes. ¿Ganaste algo en el mercadillo? Una historia sobre cómo dejar de adivinarlo.
+
+- [Welche Lebenslauf-Version hab ich geschickt? Rolltreppe](https://blixwerkstudio.com/guides/vorstellungsgespraech-anruf-welcher-lebenslauf-version-geschickt?s=github) – Der Anruf kommt auf der Rolltreppe: Einladung zum Gespräch, doch welchen Lebenslauf hast du geschickt? Eine Geschichte über Ruhe im Bewerbungschaos.
 
 - [Vorstellungsgespräch morgen – was stand in der Bewerbung?](https://blixwerkstudio.com/guides/vorstellungsgespraech-morgen-bewerbung-vergessen?s=github) – Morgen Vorstellungsgespräch, und du weißt nicht mehr, was du geschrieben hast? Eine kleine Geschichte über den Moment an der Supermarktkasse.
 
