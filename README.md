@@ -1212,6 +1212,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Overwhelmed by To-Do Lists? The Monday Call Question](https://blixwerkstudio.com/guides/simple-printable-planner-overwhelmed-to-do-list-freelancer?s=github) – Monday, 9:05, a client asks what your priorities are this week, and your head fills with twenty things. A quiet story about a simpler planner.
 
+- [ADHD Task Paralysis, Can't Start? The Third Lap](https://blixwerkstudio.com/guides/adhd-task-paralysis-cant-start-working?s=github) – Ten past ten, laptop open, and you still can't begin. A quiet story about ADHD task paralysis and the small page that made starting feel possible.
+
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://blixwerkstudio.com/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
 
 - [Afraid to Tell Clients Your Freelance Rate? The Lift to Floor 4](https://blixwerkstudio.com/guides/afraid-to-tell-clients-my-freelance-rate-too-high?s=github) – You typed the number, deleted it, typed a smaller one. A quiet story about the fear of saying your freelance rate out loud, and what calms it.
@@ -1966,6 +1968,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Festpreis genannt, Verlust gemacht? Die Kasse um 17:40](https://blixwerkstudio.com/guides/festpreis-genannt-verlust-freelance-projekt?s=github) – Du hast einen Festpreis genannt und merkst: Das Projekt kostet dich mehr, als es bringt. Eine Geschichte über den Moment an der Kasse und was danach ruhiger wird.
 
+- [Festpreis nennen ohne Stundenahnung? Der Leergutautomat](https://blixwerkstudio.com/guides/festpreis-nennen-stunden-unbekannt?s=github) – Der Kunde will bis Mittag einen Festpreis, und du hast keine Ahnung, wie viele Stunden das wird. Eine Geschichte über das Bauchgefühl und die Ruhe danach.
+
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://blixwerkstudio.com/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
 
 - [First Craft Fair Stall: How Much Stock, What Float?](https://blixwerkstudio.com/guides/first-craft-fair-stall-how-much-stock-to-bring-float?s=github) – Your first craft fair is on Saturday and the van is half packed. How much stock to bring, how big a float, and how to stop panicking at the kitchen table.
@@ -2267,6 +2271,8 @@ Included (16 products, 175 USD if bought separately):
 - [Jede Woche gepostet, nichts gelernt? Der Brennofen, 15:30](https://blixwerkstudio.com/guides/jede-woche-gepostet-nicht-wissen-was-funktioniert?s=github) – Monatelang jede Woche gepostet und keine Ahnung, was etwas gebracht hat? Eine Töpferin, ein piepender Brennofen und der Wunsch nach einem klaren Blick.
 
 - [Job Offer Due Tomorrow, Can't Recall Other Interviews?](https://blixwerkstudio.com/guides/job-offer-deadline-tomorrow-cant-remember-other-interviews?s=github) – The offer expires tomorrow at noon and the other interviews have blurred into one. A Saturday-morning story about getting your own notes back.
+
+- [Job Search Burnout, Getting Nowhere? The Windowsill Basil](https://blixwerkstudio.com/guides/job-search-burnout-getting-nowhere?s=github) – Wednesday, 11:15, and the only thing you've done is water the basil. A quiet story for anyone whose job search feels like running on the spot.
 
 - [Job Search Spreadsheet a Mess? The Coach Window Seat](https://blixwerkstudio.com/guides/job-search-spreadsheet-mess-missed-follow-up-email?s=github) – You meant to follow up last Thursday. Now the spreadsheet is a maze and the reply window may have closed. A quiet story about a calmer job search.
 
