@@ -1638,6 +1638,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente paga a 90 días y no llego a fin de mes: el bus del 28](https://blixwerkstudio.com/guides/cliente-paga-a-90-dias-no-llego-a-fin-de-mes-autonomo?s=github) – El día 28, en el autobús, abres la app del banco: la factura a 90 días no llega y el alquiler sí. Una historia para autónomos que cobran tarde.
 
+- [Me paga cuando él cobre y yo no llego a fin de mes](https://blixwerkstudio.com/guides/cliente-paga-cuando-cobre-no-llego-a-fin-de-mes?s=github) – Tu cliente te dice que te paga cuando cobre él. Faltan nueve días para fin de mes y el alquiler no espera. Una historia para respirar un poco.
+
 - [Cliente que paga meses tarde: ¿sigo trabajando con él?](https://blixwerkstudio.com/guides/cliente-paga-facturas-meses-tarde-seguir-trabajando?s=github) – Te pide un proyecto nuevo y aún te debe tres facturas. Una llamada de lunes, una duda honesta y una forma más tranquila de decidir.
 
 - [Mi cliente paga tarde y no llego a la cuota de autónomos](https://blixwerkstudio.com/guides/cliente-paga-tarde-no-llego-cuota-autonomos?s=github) – El día 28, el móvil vibra con el aviso del banco y la factura de tu cliente sigue sin pagarse. Una historia sobre cobrar tarde y recuperar la calma.
@@ -1723,6 +1725,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
 
 - [CSV Junk Header Rows Breaking Import? The Blood Test Queue](https://blixwerkstudio.com/guides/csv-junk-header-rows-total-line-breaking-import?s=github) – The export has report titles on top and a total line at the bottom, and your import keeps failing. A quiet story about a morning like that, and the way out.
+
+- [CSV Line Breaks Splitting Rows? The Loading Bay Thursday](https://blixwerkstudio.com/guides/csv-line-breaks-inside-cells-splitting-rows?s=github) – Half-rows, a stray line of text in column A, and a courier waiting at the door. A small story about CSV line breaks inside cells, and the calm after.
 
 - [CSV Messy Dates and Duplicates, Due Today? The 9:05 Text](https://blixwerkstudio.com/guides/csv-messy-dates-duplicates-deadline-today?s=github) – A CSV full of mixed dates and duplicates, and the client wants it by five. A short story about the knot in your stomach, and what a calmer Thursday feels like.
 
@@ -1975,6 +1979,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot to Send an Invoice as a Freelancer? The Waiting Room](https://blixwerkstudio.com/guides/forgot-invoice-freelancer-lost-overview?s=github) – Thursday, 10:20, a waiting room, and a sudden thought: did you ever send that invoice? A calm story about losing track and getting the overview back.
 
 - [Forgot Invoices as a Freelancer? The Monday You Lost Track](https://blixwerkstudio.com/guides/forgot-invoices-freelancer-lost-overview?s=github) – The supermarket queue, the empty notification, and the quiet thought: did I ever send that invoice? A story for freelancers who lost the overview.
+
+- [Forgot to Keep a Mileage Log? The Odometer in the Lay-by](https://blixwerkstudio.com/guides/forgot-mileage-log-freelancer-what-to-do?s=github) – It's November and you never kept a mileage log. A short story about the odometer, the calendar, and finding a calm way back into your year-end admin.
 
 - [Afraid You Forgot Something Before Deploying Your API? Friday, 4:50 pm](https://blixwerkstudio.com/guides/forgot-something-before-deploying-api-to-production?s=github) – The deploy button is ready, the weekend is waiting, and one quiet thought won't leave: what did I forget? A story about launching with a calmer head.
 
@@ -2567,6 +2573,8 @@ Included (16 products, 175 USD if bought separately):
 - [Nail Tech: How Much Do I Actually Make After Booth Rent?](https://blixwerkstudio.com/guides/nail-tech-how-much-do-i-actually-make-after-booth-rent?s=github) – The rental form asks for your monthly income and you freeze. A nail tech story about booth rent, products and finding the number you actually keep.
 
 - [Nebenberuflich selbstständig: Welche Rechnung ging raus?](https://blixwerkstudio.com/guides/nebenberuflich-selbststaendig-rechnungen-ueberblick-verloren?s=github) – 12:35 Uhr in der Kantine: Du weißt nicht mehr, welchen Kunden du schon berechnet hast. Eine Geschichte über Ruhe im Nebenjob.
+
+- [Nebenberuflich: Stundensatz nach Steuern? Mittagspause](https://blixwerkstudio.com/guides/nebenberuflich-selbststaendig-stundensatz-nach-steuern?s=github) – Du sitzt in der Mittagspause im Auto und weißt nicht, was eine Stunde nebenberuflich wirklich kosten muss. Eine Geschichte über Ruhe beim Preis.
 
 - [Negative Google Review? The Shutter Half Up on Monday](https://blixwerkstudio.com/guides/negative-google-review-small-business-reply-without-sounding-defensive?s=github) – One star at 7:45 on a Monday, coffee still hot. A story for small business owners who want to reply to a bad Google review without sounding defensive.
 
