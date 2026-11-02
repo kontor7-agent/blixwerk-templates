@@ -1256,6 +1256,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Angry Customer Email? How to Reply: The Bakery Counter](https://blixwerkstudio.com/guides/angry-customer-email-how-to-reply-small-business?s=github) – An angry customer email lands at 8:05 on a Monday and your stomach drops. A calm story about replying without panic, defensiveness or three lost hours.
 
+- [Angst vorm Monatsende als Freelancer? Der kalte Toast](https://blixwerkstudio.com/guides/angst-vorm-monatsende-freelancer-geld-reicht-nicht?s=github) – Der 27., 8:15 Uhr, die Banking-App noch ungeöffnet: Wenn du als Freelancer nie weißt, ob das Geld reicht. Eine Geschichte über leisere Monatsenden.
+
 - [Another Contractor Quoted Cheaper? The Bakery Van Text](https://blixwerkstudio.com/guides/another-contractor-quoted-cheaper-what-do-i-say?s=github) – The text arrives while you're buying lunch: 'Someone else quoted less.' A story about the quiet panic of a cheaper quote, and what steadies your voice.
 
 - [Another Year Gone, Freelance Going Nowhere? The Clock Shop](https://blixwerkstudio.com/guides/another-year-gone-freelance-business-went-nowhere?s=github) – December is close and the year feels wasted. A quiet scene in a clock shop about slow progress you can't see, and a calmer way to start 2027.
@@ -1900,6 +1902,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel cambió las fechas de mi CSV y no sé cuáles son las originales](https://blixwerkstudio.com/guides/excel-cambio-las-fechas-de-mi-csv-cuales-son-las-originales?s=github) – Abres el CSV, guardas, y las fechas ya no son las mismas. Una llamada con un cliente, una duda incómoda y la calma de saber qué cambió y qué no.
 
+- [Excel con correos mal escritos y duplicados: boletín hoy](https://blixwerkstudio.com/guides/excel-correos-mal-escritos-repetidos-boletin-hoy?s=github) – Son las 11:40, el boletín sale a las 14:00 y tu Excel está lleno de correos repetidos y mal escritos. Una historia para respirar.
+
 - [Excel Dates Mixed Formats, Can't Sort? The Print Shop](https://blixwerkstudio.com/guides/excel-date-column-mixed-formats-cant-sort?s=github) – The date column sorts into nonsense, the deadline is close, and you're standing at a print shop counter. A story for anyone fighting mixed dates in Excel.
 
 - [Mi Excel tiene duplicados y fechas mal escritas: el lunes del cierre](https://blixwerkstudio.com/guides/excel-datos-duplicados-fechas-mal-escritas?s=github) – Son las nueve de la mañana, el cliente espera tu lista y tu Excel tiene filas repetidas y fechas que no cuadran. Una historia sobre recuperar la calma.
@@ -2185,6 +2189,8 @@ Included (16 products, 175 USD if bought separately):
 - [Craft Stock and Orders in a Mess? The Courier Slot](https://blixwerkstudio.com/guides/craft-seller-stock-orders-margin-tracker-excel?s=github) – Monday, 7:50 am, the courier comes at nine and you can't tell which orders are late or what you still have in stock. A calm story for craft sellers.
 
 - [Handwerkermarkt in zwei Wochen: Wie viel Ware machen?](https://blixwerkstudio.com/guides/handwerkermarkt-in-zwei-wochen-wie-viel-ware-herstellen?s=github) – Der Markt ist in zwei Wochen, im Regal stehen Tassen und im Kopf Fragezeichen. Eine Geschichte über Bauchgefühl, Brennofen-Ladungen und mehr Ruhe.
+
+- [Handyman Hourly Rate Too High? The Village Hall Chairs](https://blixwerkstudio.com/guides/handyman-hourly-labour-rate-afraid-too-high?s=github) – Wednesday evening, a committee waiting, and the question every handyman dreads: what's your hourly rate? A short story about finding a number you can say calmly.
 
 - [Haven't Posted on LinkedIn in Weeks? The Pottery Stall Ask](https://blixwerkstudio.com/guides/havent-posted-on-linkedin-in-weeks-guilty?s=github) – Weeks since your last LinkedIn post, and the guilt arrives at the school pickup line. A quiet story about showing up again without the Sunday panic.
 
@@ -2981,6 +2987,8 @@ Included (16 products, 175 USD if bought separately):
 - [Self-Employed Hairdresser: What Did I Actually Earn This Week?](https://blixwerkstudio.com/guides/self-employed-hairdresser-dont-know-how-much-i-earn-each-week?s=github) – Tuesday lunch, a sandwich in the back room, and no idea what your week really brought in. A story for self-employed stylists who want to know.
 
 - [Self-Employed Hairdresser, No Idea What You Earn After Chair Rent?](https://blixwerkstudio.com/guides/self-employed-hairdresser-earnings-after-chair-rent?s=github) – The rent leaves your account on the 1st and you still can't say what's actually yours. A quiet story for chair-renting stylists.
+
+- [Hairdresser Forgot to Charge for an Extra? The Toner Pot](https://blixwerkstudio.com/guides/self-employed-hairdresser-forgot-to-charge-client-extra-service?s=github) – You added a toner on Saturday and never rang it up. Monday morning, the numbers say so. A calm story for solo stylists who undercharge by accident.
 
 - [Self-Employed Hairdresser: Making Money After Rent?](https://blixwerkstudio.com/guides/self-employed-hairdresser-making-money-after-rent?s=github) – Busy chair, full diary, and still no idea if you're making money after rent? A quiet story from the back step of a one-chair salon, between two colours.
 
