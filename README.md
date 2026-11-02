@@ -1264,6 +1264,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [API Key Visible in Frontend Code? The Tasting Table Text](https://blixwerkstudio.com/guides/api-key-visible-in-frontend-code-am-i-in-trouble?s=github) – A message from a client's nephew, a key in the browser, and a knot in your stomach. A calm story for anyone asking whether an exposed API key is trouble.
 
+- [Worried About API Mass Assignment? The Badge Desk Pen](https://blixwerkstudio.com/guides/api-mass-assignment-users-change-fields-they-shouldnt?s=github) – Users could change fields they shouldn't in your API? A calm story about mass assignment worry, a conference badge desk and the relief of a clear review.
+
 - [API Returning Stack Traces in Production? The Kiosk Queue](https://blixwerkstudio.com/guides/api-returning-stack-trace-in-production-error-response?s=github) – A screenshot of your API's error page lands in a client's message at 8:50 on a Monday. Is the stack trace showing too much? A calm story and a way forward.
 
 - [API Returns Too Much Data? The Window Envelope Call](https://blixwerkstudio.com/guides/api-returns-too-much-data-in-responses?s=github) – A screen-share, a network tab, and one JSON field nobody meant to send. A calm story for developers who worry their API says more than it should.
@@ -2512,6 +2514,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Takings Don't Match Unsold Stock? The Church Hall Key](https://blixwerkstudio.com/guides/market-stall-takings-dont-match-unsold-stock?s=github) – Four crates left, a cash box that feels light, and a caretaker jangling keys. A market-stall story about the end-of-day sums that never quite add up.
 
+- [Massage Therapist Pricing Confused? The Gift Voucher Ask](https://blixwerkstudio.com/guides/massage-therapist-pricing-which-service-actually-makes-money?s=github) – A client asks which massage is best value, and you can't answer. A story about not knowing which of your services actually earns, and the calm after.
+
 - [Material ausgegangen, Bestellungen offen? Mittwoch, 15:10](https://blixwerkstudio.com/guides/material-ausgegangen-mitten-in-den-bestellungen?s=github) – Elf Bestellungen, fünf Dochte im Karton: Eine Kerzengießerin merkt mitten im Auftrag, dass das Material fehlt. Eine beispielhafte Geschichte.
 
 - [Subió el material y ya di el presupuesto: ¿qué hago?](https://blixwerkstudio.com/guides/material-subio-de-precio-presupuesto-ya-enviado?s=github) – El material subió de precio y el presupuesto ya está en manos del cliente. Una historia desde el mostrador del almacén y de cómo recuperar la calma.
@@ -2567,6 +2571,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
 - [Miedo a gastarme el IVA y el IRPF del trimestre](https://blixwerkstudio.com/guides/miedo-gastarme-iva-irpf-trimestral-autonomo?s=github) – Es mediados de octubre, el trimestre se acerca y no sabes cuánto apartar. Una historia sobre el miedo a gastarte un dinero que no es del todo tuyo.
+
+- [Miedo a que un usuario vea los datos de otro en mi API](https://blixwerkstudio.com/guides/miedo-usuario-vea-datos-de-otro-api-produccion?s=github) – Faltan tres días para el lanzamiento y una duda te ronda: ¿y si un usuario ve los datos de otro? Una historia para respirar antes de salir.
 
 - [Mind Racing at Night? Can't Remember Tomorrow? The Fridge](https://blixwerkstudio.com/guides/mind-racing-at-night-cant-remember-tomorrows-tasks-adhd?s=github) – 3:20 am, tomorrow's tasks looping in your head, scared you'll forget one. A short story about getting it out of your head and onto one calm page.
 
@@ -3259,6 +3265,8 @@ Included (16 products, 175 USD if bought separately):
 - [Voy a dos mercadillos y no sé cuál me compensa: el bocata](https://blixwerkstudio.com/guides/voy-a-dos-mercadillos-no-se-cual-me-compensa?s=github) – Sábado en la plaza, domingo en la feria: dos puestos, un bocadillo y la pregunta de cuál te compensa de verdad.
 
 - [Don't Know What to Do First Each Morning? The Bin Lorry](https://blixwerkstudio.com/guides/wake-up-not-knowing-what-to-do-first-overwhelmed-every-morning?s=github) – 6:50 am, eyes open, and everything wants you at once. A calm story about mornings that start with a pile instead of a first step.
+
+- [Ware im Lager fehlt? Der Freitag, an dem der Honig fehlte](https://blixwerkstudio.com/guides/ware-im-lager-fehlt-schwund-zaehlfehler-kleines-unternehmen?s=github) – Im Regal stehen 14 Gläser, laut Liste sollten es 26 sein. Schwund oder Zählfehler? Eine Geschichte für kleine Betriebe, die dem Lager nicht mehr trauen.
 
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://blixwerkstudio.com/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
 
