@@ -1290,6 +1290,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Auftrag zu billig angenommen? Die Schlange beim Bäcker](https://blixwerkstudio.com/guides/auftrag-zu-billig-angenommen-bereut?s=github) – Du hast einen Auftrag zu billig angenommen und bereust es? Eine Geschichte über Freitag, 12:10 Uhr, ein Brötchen und den Moment, in dem sich etwas klärt.
 
+- [Ausgaben steigen, Stundensatz gleich? Drei Briefe im Flur](https://blixwerkstudio.com/guides/ausgaben-steigen-stundensatz-gleich-freelancer?s=github) – Miete, Krankenkasse, Software – alles wird teurer, nur dein Stundensatz nicht. Eine Geschichte vom Briefkasten und dem Moment danach.
+
 - [Auslandskunde zahlt nicht? Dienstag im Kühlregal](https://blixwerkstudio.com/guides/auslandskunde-zahlt-rechnung-nicht?s=github) – Die Rechnung an den Kunden im Ausland ist seit Wochen offen, und du weißt nicht, was du schreiben sollst. Eine Geschichte über den Moment davor.
 
 - [Schon wieder ausverkauft? Wenn die Excel-Liste nicht mehr mitkommt](https://blixwerkstudio.com/guides/ausverkauft-bestand-excel-chaos-kleines-unternehmen?s=github) – Die Kundin steht im Laden, und die Beutel sind alle. Eine Geschichte über Bestand, Excel-Chaos und das ruhige Gefühl, wenn nichts mehr überrascht.
@@ -1619,6 +1621,8 @@ Included (16 products, 175 USD if bought separately):
 - [El cliente no manda la información y no puedo arrancar](https://blixwerkstudio.com/guides/cliente-no-manda-informacion-proyecto-no-arranca?s=github) – Tres semanas esperando logos, textos y accesos. Una historia sobre el cliente que lo promete todo y no manda nada, y el proyecto que no arranca.
 
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://blixwerkstudio.com/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
+
+- [Cliente no paga y me da miedo el burofax: qué hago antes](https://blixwerkstudio.com/guides/cliente-no-paga-miedo-burofax-que-hago-antes?s=github) – Estás en la ferretería con una factura sin pagar y la palabra burofax dándote vueltas. Una historia sobre lo que cabe hacer antes de dar ese paso.
 
 - [Cliente nuevo y no sé qué preguntarle antes de empezar](https://blixwerkstudio.com/guides/cliente-nuevo-no-se-que-preguntar-antes-de-empezar-proyecto?s=github) – Cinco minutos para la llamada con tu cliente nuevo y la libreta en blanco. Una historia sobre empezar un proyecto sin miedo a olvidar lo importante.
 
@@ -2646,6 +2650,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [read_csv Error Tokenizing Data? The Trampoline Bench](https://blixwerkstudio.com/guides/pandas-read-csv-error-tokenizing-data?s=github) – Saturday, a trampoline park bench, and a client CSV that pandas refuses to read again. A story about messy files and getting your weekend back.
 
+- [Passwords and Tokens in Your API Logs? The Ski Boot Queue](https://blixwerkstudio.com/guides/passwords-and-tokens-in-api-logs-what-else-am-i-missing?s=github) – You found a token in your API logs while standing in a ski-boot queue, and now you wonder what else you missed. A calm story about that feeling.
+
 - [Chasing Late Payment Feels Like Begging? The Gate at 7:40](https://blixwerkstudio.com/guides/how-to-chase-late-payment-without-feeling-pushy?s=github) – You're standing at the school gate, thumb over 'send', and the reminder still isn't written. A quiet story about chasing money without feeling like you're begging.
 
 - [PayPal se come mi tarifa freelance: ¿qué cobro de verdad?](https://blixwerkstudio.com/guides/paypal-comisiones-freelance-que-cobrar?s=github) – Facturas 450 € y te llegan 412. Una mañana en la panadería, una tarifa que no cuadra y una forma más tranquila de ponerle precio a tu trabajo.
@@ -2787,6 +2793,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ran Out of Your Best Seller Again? The Video Call at 11](https://blixwerkstudio.com/guides/ran-out-of-best-selling-product-customers-asked?s=github) – You find out your best seller is gone when a customer asks. A quiet story about stock surprises, and what a calm Monday looks like without them.
 
 - [Ran Out of Change at Your Market Stall? The Bakery Dash](https://blixwerkstudio.com/guides/ran-out-of-change-at-my-market-stall?s=github) – A queue at your stall, a 50 note, and a cash box with no change. A calm story for makers who want market days to stop feeling like guesswork.
+
+- [Ran Out of Materials Mid-Order? The Empty Thread Spool](https://blixwerkstudio.com/guides/ran-out-of-materials-halfway-through-handmade-order?s=github) – Halfway through 40 hand-bound notebooks, the thread runs out. A calm story for makers who found out too late, and what a quiet Monday looks like instead.
 
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
 
