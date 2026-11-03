@@ -1328,6 +1328,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Backup Stopped Weeks Ago? The Laptop Repair Counter](https://blixwerkstudio.com/guides/backup-stopped-running-weeks-ago?s=github) – The repair technician asks when your last backup ran. You check. It was weeks ago. A calm story about noticing late, and what changes afterwards.
 
+- [Belege-Chaos als Freelancer: Wo fange ich nur an?](https://blixwerkstudio.com/guides/belege-chaos-freelancer-wo-anfangen?s=github) – Ein Karton voller Belege, ein Steuerberater-Termin im Kalender und die Frage: Wo fange ich an? Eine Geschichte für alle, die jedes Jahr im Januar schwitzen.
+
 - [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://blixwerkstudio.com/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
 
 - [Steuerberater Appointment Next Week? The Folder Called 'Misc'](https://blixwerkstudio.com/guides/steuerberater-termin-belege-uebersicht-excel-vorlage?s=github) – The tax advisor's email says 'please send your documents.' You open a folder called 'Misc'. A calm story about receipts, overview and a year-end that feels light.
@@ -2538,6 +2540,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Subió el material y ya di el presupuesto: ¿qué hago?](https://blixwerkstudio.com/guides/material-subio-de-precio-presupuesto-ya-enviado?s=github) – El material subió de precio y el presupuesto ya está en manos del cliente. Una historia desde el mostrador del almacén y de cómo recuperar la calma.
 
+- [Me da ansiedad abrir la cuenta del banco: soy autónoma](https://blixwerkstudio.com/guides/me-da-ansiedad-abrir-la-cuenta-del-banco-autonomo?s=github) – Lunes, 8:40, el pulgar sobre la app del banco y un nudo en el estómago. Una historia para autónomos que evitan mirar su cuenta.
+
 - [Me da miedo reclamar una factura a un cliente que paga tarde](https://blixwerkstudio.com/guides/me-da-miedo-reclamar-una-factura-a-un-cliente-que-siempre-paga-tarde?s=github) – Llevas cuatro borradores de correo sin enviar. Una historia sobre el miedo a reclamar una factura y lo que cambia cuando ves tus cobros con claridad.
 
 - [Me da vergüenza decirle mi precio a un cliente nuevo: el café](https://blixwerkstudio.com/guides/me-da-verguenza-decirle-mi-precio-a-un-cliente-nuevo-freelance?s=github) – Estás en un café con un cliente nuevo y te pregunta cuánto cobras. Una historia para quien siente que el precio se le atasca en la garganta.
@@ -2631,6 +2635,8 @@ Included (16 products, 175 USD if bought separately):
 - [New Freelance Client, No Process? The Porridge Monday](https://blixwerkstudio.com/guides/new-freelance-client-no-process-messy-start?s=github) – A new client says 'let's start Monday' and your process is scattered emails and guesswork. A short story about a calmer first week.
 
 - [New Year, No Freelance Plan? The Availability Question](https://blixwerkstudio.com/guides/new-year-no-freelance-plan?s=github) – A client asks when you're free in January and your mind goes blank. A calm story for freelancers heading into a new year with no plan.
+
+- [No Clients Booked for January? The Clementine Crate](https://blixwerkstudio.com/guides/no-clients-booked-january-freelance-worried?s=github) – Calendar empty after New Year and the worry is loud? A quiet Saturday market scene about turning January dread into a plan you can see.
 
 - [No desconecto siendo autónoma y me siento culpable](https://blixwerkstudio.com/guides/no-consigo-desconectar-autonomo-culpable-descansar?s=github) – Sábado, cumpleaños de tu sobrina y el móvil vibra bajo la mesa. Descansar te da culpa. Una historia sobre cerrar el portátil sin sentirte mal.
 
@@ -2869,6 +2875,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ran Out of Materials Mid-Order? The Empty Thread Spool](https://blixwerkstudio.com/guides/ran-out-of-materials-halfway-through-handmade-order?s=github) – Halfway through 40 hand-bound notebooks, the thread runs out. A calm story for makers who found out too late, and what a quiet Monday looks like instead.
 
 - [Ran Out of Stock Again? The Supplier Call That Said Three Weeks](https://blixwerkstudio.com/guides/ran-out-of-stock-again-when-to-reorder-small-business?s=github) – The supplier says three weeks and your shelf has four jars left. A story about running out of stock again and finally knowing when to reorder.
+
+- [Ran Out of Stock at Christmas? The Courier at the Door](https://blixwerkstudio.com/guides/ran-out-of-stock-during-christmas-rush-small-business?s=github) – The courier is at the door, the box is half empty, and the supplier is closed until January. A Christmas-rush story for small shops that ran out of stock.
 
 - [Scared of Ransomware, No Automatic Backup? The Tax Week Hum](https://blixwerkstudio.com/guides/ransomware-small-business-server-no-automatic-backup?s=github) – The server hums under the desk, tax week is close, and you can't remember when anything was last copied. A calm story about getting that knot to loosen.
 
