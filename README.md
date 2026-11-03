@@ -1502,6 +1502,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Pushing Back on Your Price? The Ticket Inspector](https://blixwerkstudio.com/guides/client-keeps-pushing-back-on-my-price-reply?s=github) – Third email about your price, and you're on a train with a draft you can't send. A calm story about replying without caving or snapping.
 
+- [Client Micromanaging You? The Trailhead Car Park, 8:15](https://blixwerkstudio.com/guides/client-micromanaging-me-freelance-how-to-set-boundaries-politely?s=github) – Your client wants an update every two hours, even on your day off. A quiet story about setting boundaries politely, without losing the client or your calm.
+
 - [Client Missed the Payment Run? The Hallway Paint Roller](https://blixwerkstudio.com/guides/client-missed-payment-run-invoice-unpaid?s=github) – Your client missed the payment run and the invoice is still open. A story about the knot in your stomach, and a calmer way to follow up.
 
 - [Client No-Shows Costing Me Money at My Hair Salon: The 10:15 Gap](https://blixwerkstudio.com/guides/client-no-shows-costing-me-money-hair-salon?s=github) – The 10:15 slot sits empty again. You tidy the station and wonder what no-shows really cost you. A calm story for solo stylists.
@@ -1771,6 +1773,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Messy Dates and Duplicates, Due Today? The 9:05 Text](https://blixwerkstudio.com/guides/csv-messy-dates-duplicates-deadline-today?s=github) – A CSV full of mixed dates and duplicates, and the client wants it by five. A short story about the knot in your stomach, and what a calmer Thursday feels like.
 
 - [CSV Mixed Dates and Duplicates, No Time? The Badge Table](https://blixwerkstudio.com/guides/csv-mixed-date-formats-duplicates-out-of-time?s=github) – Three date formats, doubled names, and a coach leaving at ten. A short story about a messy CSV and what a calmer morning could feel like.
+
+- [CSV Names ALL CAPS and lowercase Mixed? The Lanyard Box](https://blixwerkstudio.com/guides/csv-names-inconsistent-capitalization-uppercase-lowercase?s=github) – Half the names in the export shout, half whisper. A calm story about the badge printer, the registration table, and a Monday where names just look right.
 
 - [CSV Opens in Excel All in One Column? The Kitchen Table](https://blixwerkstudio.com/guides/csv-opens-in-excel-all-in-one-column?s=github) – The export lands in Excel as one long column and the clock is ticking. A quiet story about messy CSVs, and what a calmer routine feels like.
 
@@ -3373,6 +3377,8 @@ Included (16 products, 175 USD if bought separately):
 - [Don't Know What to Do First Each Morning? The Bin Lorry](https://blixwerkstudio.com/guides/wake-up-not-knowing-what-to-do-first-overwhelmed-every-morning?s=github) – 6:50 am, eyes open, and everything wants you at once. A calm story about mornings that start with a pile instead of a first step.
 
 - [Ware im Lager fehlt? Der Freitag, an dem der Honig fehlte](https://blixwerkstudio.com/guides/ware-im-lager-fehlt-schwund-zaehlfehler-kleines-unternehmen?s=github) – Im Regal stehen 14 Gläser, laut Liste sollten es 26 sein. Schwund oder Zählfehler? Eine Geschichte für kleine Betriebe, die dem Lager nicht mehr trauen.
+
+- [Ware im Lager verschwunden? Montag, 7:15 im Keller](https://blixwerkstudio.com/guides/ware-verschwindet-im-lager-schwund-kleiner-shop?s=github) – Zwölf Kartons gezählt, achtzehn notiert. Wohin verschwindet die Ware im Lager deines kleinen Shops? Eine Geschichte über Schwund und neue Ruhe.
 
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://blixwerkstudio.com/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
 
