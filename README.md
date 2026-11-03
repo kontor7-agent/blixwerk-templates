@@ -2118,6 +2118,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Welche Rechnungen hab ich geschickt? Der Anruf um 10:05](https://blixwerkstudio.com/guides/freelance-rechnungen-geschickt-wer-hat-bezahlt?s=github) – Du weißt nicht mehr, welche Rechnung raus ist und wer gezahlt hat? Eine Lektorin, ein Anruf aus der Buchhaltung – und ein ruhigerer Dienstag.
 
+- [Freelance-Stundensatz zu niedrig? Die Werkstatt, 9:30 Uhr](https://blixwerkstudio.com/guides/freelance-stundensatz-zu-niedrig-steuern-krankenkasse-flaute?s=github) – Der Kostenvoranschlag liegt auf dem Tresen, und dein Stundensatz deckt Steuern, Krankenkasse und flaue Monate nicht? Eine Geschichte über Ruhe.
+
 - [Translator: Am I Earning Enough Per Hour? The Alumni Lunch](https://blixwerkstudio.com/guides/freelance-translator-earning-enough-per-hour?s=github) – A classmate asks what you earn per hour, and you realise you don't know. A quiet story for freelance translators who suspect the answer is less than it looks.
 
 - [Receipts Everywhere at Year-End? The Boxing Day Car Park](https://blixwerkstudio.com/guides/freelance-year-end-paperwork-overwhelm-where-are-my-receipts?s=github) – It's the holidays, but your laptop is open and you can't find a single receipt. A short story about year-end freelance paperwork and the calm after.
@@ -2213,6 +2215,8 @@ Included (16 products, 175 USD if bought separately):
 - [GraphQL Introspection On in Production? The Tyre Pump](https://blixwerkstudio.com/guides/graphql-introspection-enabled-in-production?s=github) – A message at the petrol station: your GraphQL schema is open to anyone. Now you wonder what else you left on. A story about calm after the launch.
 
 - [Größten Kunden verloren? Der Videocall, Donnerstag 14:30](https://blixwerkstudio.com/guides/groessten-kunden-verloren-freelance-panik-was-jetzt?s=github) – Dein größter Kunde sagt im Videocall ab, und dein Kopf rechnet sofort das Schlimmste. Eine Geschichte über Panik, Überblick und den nächsten ruhigen Schritt.
+
+- [Mis facturas en Word y no sé cuáles me han pagado](https://blixwerkstudio.com/guides/hago-mis-facturas-en-word-y-no-se-cuales-me-han-pagado?s=github) – Una llamada, una carpeta de facturas en Word y la duda: ¿esta me la pagaron? Una historia para autónomos que quieren verlo todo claro.
 
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
 
@@ -2604,6 +2608,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mensajes de clientes sin contestar y no tengo tiempo](https://blixwerkstudio.com/guides/mensajes-de-clientes-sin-contestar-no-tengo-tiempo?s=github) – Doce mensajes sin contestar y un bocadillo a medias en la furgoneta. Una historia para quien no tiene tiempo ni de responder a sus clientes.
 
+- [Same Company, Four Spellings in Your CSV? The 10 am Call](https://blixwerkstudio.com/guides/merge-company-names-csv-export-spelled-different-ways?s=github) – One client, four spellings in your CSV export, and a call in ten minutes. A calm story about company names that won't merge, and what it costs you.
+
 - [Merging Dozens of CSV Files Every Month? The Dentist Queue](https://blixwerkstudio.com/guides/merge-csv-files-different-headers-every-month?s=github) – Forty CSV files, forty different headers, and a deadline on Friday. A calm story about the monthly merge that eats your week, and what changes when it stops.
 
 - [Mes flojo de ingresos y sin colchón: el paseo de las 8:10](https://blixwerkstudio.com/guides/mes-flojo-ingresos-autonomo-sin-colchon-ahorro?s=github) – Octubre fue flojo y no tienes colchón de ahorro. Una historia sobre ese nudo en el estómago y cómo se siente ver el año entero con calma.
@@ -2767,6 +2773,8 @@ Included (16 products, 175 USD if bought separately):
 - [PayPal se come mi tarifa freelance: ¿qué cobro de verdad?](https://blixwerkstudio.com/guides/paypal-comisiones-freelance-que-cobrar?s=github) – Facturas 450 € y te llegan 412. Una mañana en la panadería, una tarifa que no cuadra y una forma más tranquila de ponerle precio a tu trabajo.
 
 - [Pedí tarde al proveedor y me quedé sin stock en campaña](https://blixwerkstudio.com/guides/pedi-tarde-al-proveedor-sin-existencias-campana?s=github) – Lanzaste la campaña, los pedidos entran y el proveedor tarda tres semanas. Una historia sobre quedarte sin existencias y volver a respirar.
+
+- [Soy peluquera autónoma y no sé cuánto sueldo me pago](https://blixwerkstudio.com/guides/peluquera-autonoma-cuanto-sueldo-puedo-pagarme?s=github) – Entre un tinte y otro miras la app del banco y no sabes qué parte es tuya. Una historia de peluquera autónoma y de un fin de mes más tranquilo.
 
 - [Pen Test Next Week, Unsure Your REST API Is Ready?](https://blixwerkstudio.com/guides/pen-test-next-week-rest-api-not-ready?s=github) – The pen test is booked for next Tuesday and your API feels half-checked. A calm story about the Thursday stand-up, the quiet dread, and the relief after.
 
@@ -3146,6 +3154,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Steuerberater wartet auf deine Unterlagen? Der Anruf in der Bäckerei](https://blixwerkstudio.com/guides/steuerberater-wartet-unterlagen-durcheinander-selbststaendig?s=github) – Dienstag, 8:20 Uhr, Bäckerei-Schlange: Die Kanzlei fragt nach deinen Unterlagen, und bei dir liegt alles durcheinander. Eine Geschichte über Ruhe im Kopf.
 
+- [Steuerberater will Unterlagen? Regentag an der Nordsee](https://blixwerkstudio.com/guides/steuerberater-will-unterlagen-nichts-sortiert-freelancer?s=github) – Dritte Mail vom Steuerberater, nichts sortiert – im Urlaub, bei Regen. Eine Geschichte über Belegchaos und den Moment, in dem es leichter wird.
+
 - [Steuererklärung aufgeschoben? Der Fensterputz-Samstag](https://blixwerkstudio.com/guides/steuererklaerung-selbststaendig-aufgeschoben?s=github) – Samstag, 10:40 Uhr: Du putzt lieber Fenster, als die Steuererklärung anzufassen. Eine Geschichte über Aufschieben und die Ruhe danach.
 
 - [Steuerfrist naht, Belege-Chaos? Die Mail am Montag um 8:05](https://blixwerkstudio.com/guides/steuerfrist-belege-chaos-freelancer-unterlagen-sortieren?s=github) – Montagmorgen, eine Mail vom Steuerberater, und deine Belege liegen überall verstreut. Eine Geschichte über das Chaos davor und die Ruhe danach.
@@ -3247,6 +3257,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tres meses sin llevar las cuentas de freelance: pánico](https://blixwerkstudio.com/guides/tres-meses-sin-llevar-las-cuentas-freelance?s=github) – Tres meses de facturas y recibos sin apuntar, y un mensaje de la gestoría en la cola de la panadería. Una historia para respirar hondo.
 
 - [Salary to Hourly Rate as a Freelancer? The Farewell Cake](https://blixwerkstudio.com/guides/turn-salary-into-freelance-hourly-rate?s=github) – Your last week at the office, and someone asks what you'll charge. A calm story for anyone turning an old salary into a freelance rate and scared to get it wrong.
+
+- [Tutoring Income Drops Every Summer? The Sun Cream Shelf](https://blixwerkstudio.com/guides/tutoring-income-drops-every-summer-holidays?s=github) – Every July the lessons thin out and the bank balance goes quiet. A tutor, a chemist's shelf and the relief of seeing the summer coming before it arrives.
 
 - [Tutoring Parents Always Pay Late? The Phone Repair Kiosk](https://blixwerkstudio.com/guides/tutoring-parents-pay-late-hate-asking-for-money?s=github) – Your phone is in for repair, a parent's payment is three weeks late, and asking feels awful. A tutor's quiet story about hating to chase money.
 
