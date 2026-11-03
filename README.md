@@ -1270,6 +1270,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [API Key Visible in Frontend Code? The Tasting Table Text](https://blixwerkstudio.com/guides/api-key-visible-in-frontend-code-am-i-in-trouble?s=github) – A message from a client's nephew, a key in the browser, and a knot in your stomach. A calm story for anyone asking whether an exposed API key is trouble.
 
+- [Can Users See Each Other's Records? IDOR and Locker 14](https://blixwerkstudio.com/guides/api-lets-users-see-other-users-records-idor?s=github) – Your API checks that someone is logged in, but does it check whose record they open? A quiet story about that doubt, and how to put it down.
+
 - [Worried About API Mass Assignment? The Badge Desk Pen](https://blixwerkstudio.com/guides/api-mass-assignment-users-change-fields-they-shouldnt?s=github) – Users could change fields they shouldn't in your API? A calm story about mass assignment worry, a conference badge desk and the relief of a clear review.
 
 - [API Returning Stack Traces in Production? The Kiosk Queue](https://blixwerkstudio.com/guides/api-returning-stack-trace-in-production-error-response?s=github) – A screenshot of your API's error page lands in a client's message at 8:50 on a Monday. Is the stack trace showing too much? A calm story and a way forward.
@@ -2368,6 +2370,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde fragt nach deinem Preis und du erstarrst? Die Kaffeeschlange](https://blixwerkstudio.com/guides/kunde-fragt-preis-erstarrt-wie-viel-verlangen-freelance?s=github) – Er fragt beiläufig, was du so nimmst, und dein Kopf ist leer. Eine Geschichte über den Moment danach und darüber, wie du deinen Preis ruhig nennen kannst.
 
+- [Kunde fragt täglich nach Updates? Der Haferbrei um 9:07](https://blixwerkstudio.com/guides/kunde-fragt-taeglich-nach-updates-grenzen-setzen-freelance?s=github) – Jeden Morgen dieselbe Mail: „Gibt’s schon was Neues?“ Eine Geschichte über Grenzen als Freelancerin und wie sich ein ruhiger Montag anfühlt.
+
 - [Kunde meldet sich nicht nach der Rechnung? Der Waschsalon](https://blixwerkstudio.com/guides/kunde-ghostet-nach-rechnung-was-schreiben?s=github) – Die Fotos waren begeistert angenommen, die Rechnung ist raus, dann Funkstille. Eine Geschichte über das Schweigen danach und den ersten ruhigen Satz.
 
 - [Kunde gibt kein Feedback, Projekt hängt? Der Kiosk, 8:25](https://blixwerkstudio.com/guides/kunde-gibt-kein-feedback-projekt-haengt-fest-freiberufler?s=github) – Seit drei Wochen kein Wort vom Kunden, und dein Projekt steht still. Eine Geschichte über Schweigen, Nachfassen und die Ruhe danach.
@@ -2609,6 +2613,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mensajes de clientes sin contestar y no tengo tiempo](https://blixwerkstudio.com/guides/mensajes-de-clientes-sin-contestar-no-tengo-tiempo?s=github) – Doce mensajes sin contestar y un bocadillo a medias en la furgoneta. Una historia para quien no tiene tiempo ni de responder a sus clientes.
 
 - [Same Company, Four Spellings in Your CSV? The 10 am Call](https://blixwerkstudio.com/guides/merge-company-names-csv-export-spelled-different-ways?s=github) – One client, four spellings in your CSV export, and a call in ten minutes. A calm story about company names that won't merge, and what it costs you.
+
+- [CSV Column Names Don't Match? The Fair Booth](https://blixwerkstudio.com/guides/merge-csv-files-different-column-names?s=github) – Two exports, same data, different column names, and a buyer waiting at your stand. A calm story about merging CSV files without the afternoon of copy-paste.
 
 - [Merging Dozens of CSV Files Every Month? The Dentist Queue](https://blixwerkstudio.com/guides/merge-csv-files-different-headers-every-month?s=github) – Forty CSV files, forty different headers, and a deadline on Friday. A calm story about the monthly merge that eats your week, and what changes when it stops.
 
