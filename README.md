@@ -1720,6 +1720,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Llevo años cobrando de menos y me da miedo subir mis tarifas](https://blixwerkstudio.com/guides/creo-que-llevo-anos-cobrando-poco-miedo-a-subir-tarifas?s=github) – Una mañana de domingo en el mercado, una cifra en la libreta y la sospecha de que llevas años cobrando de menos. Y el miedo a decirlo en voz alta.
 
+- [Cron Backup Stopped After Server Update? The Bouncy Castle](https://blixwerkstudio.com/guides/cron-backup-job-stopped-after-server-update?s=github) – Your cron backup job quietly stopped after a server update, and you only find out on a Saturday. A short story about noticing sooner and feeling calm again.
+
 - [Mi CSV se abre con caracteres raros en Excel y lo entrego hoy](https://blixwerkstudio.com/guides/csv-caracteres-raros-excel-entregar-hoy?s=github) – Son las 11:40, el archivo se abre lleno de Ã© y �, y la entrega es a las dos. Una historia sobre el CSV que no se deja leer y la calma después.
 
 - [The Export That Ate Your Evening: Cleaning Messy CSV and Excel Files](https://blixwerkstudio.com/guides/how-to-clean-messy-csv-excel-exports?s=github) – It's 6:40 pm, the export is open, and the dates are a mess again. A calm story about messy CSV and Excel exports, and what a quiet Monday looks like.
@@ -2278,6 +2280,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Invoiced the Same Hours Twice? The Red Light at 8:42](https://blixwerkstudio.com/guides/invoiced-same-hours-twice-freelance?s=github) – You think you billed the same hours twice. A freelancer's story from a pedestrian crossing, and how a calmer Monday feels when your hours and invoices line up.
 
+- [Is My Webhook Endpoint Secure? The Propped Side Door](https://blixwerkstudio.com/guides/is-my-webhook-endpoint-secure-anyone-can-call-it?s=github) – A brick holds the hall's side door open, and you realise your webhook URL works the same way. A calm story about not knowing who can knock.
+
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://blixwerkstudio.com/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
 
 - [Jede Woche gepostet, nichts gelernt? Der Brennofen, 15:30](https://blixwerkstudio.com/guides/jede-woche-gepostet-nicht-wissen-was-funktioniert?s=github) – Monatelang jede Woche gepostet und keine Ahnung, was etwas gebracht hat? Eine Töpferin, ein piepender Brennofen und der Wunsch nach einem klaren Blick.
@@ -2289,6 +2293,8 @@ Included (16 products, 175 USD if bought separately):
 - [Job Search Spreadsheet a Mess? The Coach Window Seat](https://blixwerkstudio.com/guides/job-search-spreadsheet-mess-missed-follow-up-email?s=github) – You meant to follow up last Thursday. Now the spreadsheet is a maze and the reply window may have closed. A quiet story about a calmer job search.
 
 - [Lost Track of Job Applications? The Bookshop Call](https://blixwerkstudio.com/guides/lost-track-of-job-applications-tracker?s=github) – A recruiter calls and you can't remember which role she means. A calm story about job applications, follow-ups and interview prep that stops living in your head.
+
+- [Jobzusage, andere Antworten offen? Die Fahrradwerkstatt](https://blixwerkstudio.com/guides/jobzusage-andere-bewerbungen-offen-fristen-im-blick?s=github) – Eine Zusage mit Frist, drei Firmen schweigen noch. Eine kleine Geschichte darüber, wie du den Überblick behältst und rechtzeitig antworten kannst.
 
 - [Asked to Sign Off API Security? The Empty Release Ticket](https://blixwerkstudio.com/guides/junior-developer-asked-to-sign-off-api-security?s=github) – Your lead is off tomorrow and the ticket says 'security sign-off: you'. A calm story for the junior developer afraid of missing something.
 
@@ -2683,6 +2689,8 @@ Included (16 products, 175 USD if bought separately):
 - [Black Friday: no sé cuánto pedir y temo quedarme sin stock](https://blixwerkstudio.com/guides/no-se-cuanto-pedir-black-friday-miedo-quedarme-sin-stock?s=github) – Black Friday a un mes, no sabes cuánto pedir y temes quedarte sin stock. Una historia de taller, café frío y un jueves que cambia.
 
 - [No sé cuánto tengo que facturar al mes para vivir como autónomo](https://blixwerkstudio.com/guides/no-se-cuanto-tengo-que-facturar-al-mes-para-vivir-como-autonomo?s=github) – Sentada en la sala de espera del dentista, abres la calculadora y te das cuenta: no sabes qué cifra necesitas facturar cada mes. Una historia sobre ponerle número.
+
+- [No sé qué cliente tarda más en pagarme y me agobia](https://blixwerkstudio.com/guides/no-se-que-cliente-tarda-mas-en-pagarme?s=github) – Una amiga te pregunta qué cliente paga peor y no sabes qué contestar. Una historia sobre ver por fin quién tarda, cuánto y desde cuándo.
 
 - [No sé qué clientes me dan más dinero y cuáles me hacen perder tiempo](https://blixwerkstudio.com/guides/no-se-que-clientes-me-dan-mas-dinero-freelance?s=github) – En el tren de vuelta de una reunión, Lucía se pregunta qué clientes le dan dinero y cuáles solo tiempo perdido. Una historia para freelances.
 
