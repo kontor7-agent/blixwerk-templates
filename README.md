@@ -1462,9 +1462,13 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Wants an Hours Breakdown? The Glasshouse Bench](https://blixwerkstudio.com/guides/client-asks-hours-breakdown-cant-prove-what-i-worked-on?s=github) – Your client asks for a breakdown of your hours and you can't prove what you did. A quiet story about answering calmly, without scrolling through old emails.
 
+- [Contact Left, Invoice Unpaid? Who to Chase: The Swing Set](https://blixwerkstudio.com/guides/client-contact-left-invoice-unpaid-who-to-chase?s=github) – Your client contact left and the invoice is still unpaid. A quiet story about who to chase next, and how to do it without feeling like begging.
+
 - [Client Deducted Bank Fees From Payment? The Leek Bunch](https://blixwerkstudio.com/guides/client-deducted-bank-fees-from-invoice-payment?s=github) – The payment arrived, but a few euros short. The client says bank fees are your problem. A Saturday market story about asking calmly for the difference.
 
 - [Client Emails at Midnight? The Canal Towpath at 7:05](https://blixwerkstudio.com/guides/client-emailing-at-midnight-freelance-set-expectations?s=github) – A client who emails at midnight and expects an answer by morning. A freelancer's walk along the canal, and what changed once expectations were set early.
+
+- [Client Feedback by Email, WhatsApp, Phone? The Corridor](https://blixwerkstudio.com/guides/client-feedback-email-whatsapp-phone-cant-keep-track?s=github) – Feedback in an email, a voice note and a phone call, and you can't tell which version is current? A story about getting calm back at the start of a project.
 
 - [Client Ghosted Me After the Proposal: What Do I Do? The Tuesday Queue](https://blixwerkstudio.com/guides/client-ghosted-me-after-proposal-what-do-i-do?s=github) – You sent the proposal ten days ago and heard nothing. In the supermarket queue you check your phone again. A calm story about the silence, and what eases it.
 
@@ -1672,6 +1676,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ya entregué y el cliente pide descuento: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-pide-descuento-despues-de-entregar-el-proyecto?s=github) – Entregaste el proyecto y ahora el cliente pide descuento. Una escena de parque, un móvil que vibra y una forma más tranquila de responder.
 
+- [Me piden el desglose del presupuesto y no sé justificarlo](https://blixwerkstudio.com/guides/cliente-pide-desglose-presupuesto-justificar-mi-precio?s=github) – Tu cliente pide el desglose y te quedas mudo en la furgoneta. Una historia sobre justificar tu precio sin sudar ni disculparte.
+
 - [Me pide que le devuelva el dinero de la sesión de fotos](https://blixwerkstudio.com/guides/cliente-pide-devolver-dinero-sesion-de-fotos?s=github) – Entregaste las fotos y llega un mensaje: «¿nos devuelves el dinero?». Una historia sobre el apuro, la duda y la calma de tener tus sesiones a la vista.
 
 - [Mi cliente me pide factura con IRPF e IVA y me bloqueo](https://blixwerkstudio.com/guides/cliente-pide-factura-con-irpf-e-iva-no-se-como-ponerlo?s=github) – El cliente pide factura con IRPF e IVA y te quedas en blanco en plena llamada. Una historia sobre pasar del bloqueo a la calma, sin fórmulas.
@@ -1711,6 +1717,8 @@ Included (16 products, 175 USD if bought separately):
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerkstudio.com/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
 - [Mi copia de seguridad dejó de funcionar y no me di cuenta](https://blixwerkstudio.com/guides/copia-de-seguridad-automatica-dejo-de-funcionar?s=github) – Un martes a las 11:00 un cliente pide un archivo de hace semanas y descubres que tu copia automática llevaba tiempo parada. Una historia que reconocerás.
+
+- [Correos de ChatGPT robóticos: mi cliente lo notó](https://blixwerkstudio.com/guides/correos-chatgpt-suenan-roboticos-clientes-autonomo?s=github) – Pegaste el correo de ChatGPT y tu cliente contestó raro. Una historia sobre recuperar tu voz sin pasar la tarde reescribiendo cada mensaje.
 
 - [Correos del negocio sin fin: ¿qué delego a la IA?](https://blixwerkstudio.com/guides/correos-del-negocio-que-delegar-a-la-ia?s=github) – Miércoles, 11:15, la bandeja llena de correos del negocio. Una historia sobre qué delegar a la IA y qué seguir haciendo tú, con calma.
 
@@ -2290,6 +2298,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Sold Out After They Ordered? The Long Weekend You Spent Apologising](https://blixwerkstudio.com/guides/item-sold-out-after-customer-ordered-small-shop?s=github) – A long weekend away, a buzzing phone, and an order for something you no longer have. A small-shop story about knowing your stock before customers do.
 
+- [Keine Aufträge im Januar? Der Plätzchenteller im Cowork](https://blixwerkstudio.com/guides/januar-keine-auftraege-freelancer?s=github) – Dezember, ein leerer Kalender für Januar und ein Plätzchenteller. Eine Geschichte für Freelancer ohne Aufträge – und wie Ruhe in die Planung kommt.
+
 - [Jede Woche gepostet, nichts gelernt? Der Brennofen, 15:30](https://blixwerkstudio.com/guides/jede-woche-gepostet-nicht-wissen-was-funktioniert?s=github) – Monatelang jede Woche gepostet und keine Ahnung, was etwas gebracht hat? Eine Töpferin, ein piepender Brennofen und der Wunsch nach einem klaren Blick.
 
 - [Job Offer Due Tomorrow, Can't Recall Other Interviews?](https://blixwerkstudio.com/guides/job-offer-deadline-tomorrow-cant-remember-other-interviews?s=github) – The offer expires tomorrow at noon and the other interviews have blurred into one. A Saturday-morning story about getting your own notes back.
@@ -2534,6 +2544,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Semanas sin publicar en LinkedIn: ¿perderé clientes?](https://blixwerkstudio.com/guides/llevo-semanas-sin-publicar-en-linkedin-ansiedad-perder-clientes?s=github) – Seis semanas sin publicar en LinkedIn y la ansiedad de que se olviden de ti. Una historia sobre volver a aparecer sin el pánico del domingo.
 
+- [Lost a Business Receipt as a Freelancer? The Blank Slip](https://blixwerkstudio.com/guides/lost-a-business-receipt-what-do-i-do-freelancer?s=github) – The receipt for your new monitor is a blank strip of paper. A quiet story about lost business receipts, and what a calm year-end feels like instead.
+
 - [Post-Editing Pay Too Low? The Parents' Evening Corridor](https://blixwerkstudio.com/guides/machine-translation-post-editing-pay-too-low-per-hour-translator?s=github) – The agency calls it light post-editing. Your afternoon says otherwise. A quiet story about finding your real hourly pay as a translator.
 
 - [Made a Mistake on a Client Project? The Car Park Ticket](https://blixwerkstudio.com/guides/made-a-mistake-on-client-project-how-to-apologize-email-freelancer?s=github) – You spot your own mistake in a client's files while the car park barrier is stuck. The apology email you can't start, and what it quietly costs you.
@@ -2597,6 +2609,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mes flojo de ingresos y sin colchón: el paseo de las 8:10](https://blixwerkstudio.com/guides/mes-flojo-ingresos-autonomo-sin-colchon-ahorro?s=github) – Octubre fue flojo y no tienes colchón de ahorro. Una historia sobre ese nudo en el estómago y cómo se siente ver el año entero con calma.
 
 - [Messy CSV Exports Every Week? The Cabin Draining Board](https://blixwerkstudio.com/guides/messy-csv-exports-every-week-fixing-by-hand?s=github) – Half-term in a rented cabin, laptop on the draining board, and the same messy CSV to fix by hand again. A story for anyone who loses hours to exports.
+
+- [Messy Excel, 40 Columns, Needed Today? The Foil Timer](https://blixwerkstudio.com/guides/messy-excel-file-40-columns-needs-cleaning-today?s=github) – A client sends a 40-column Excel mess at 10 am and wants it today. A quiet story about the afternoon that doesn't have to disappear into one file.
 
 - [Mezclo gastos personales y del negocio: ¿y ahora qué?](https://blixwerkstudio.com/guides/mezclo-gastos-personales-y-del-negocio-autonomo?s=github) – Estás en la gasolinera con un ticket en la mano y no sabes si es del negocio o de casa. Una historia para autónomos con los gastos revueltos.
 
