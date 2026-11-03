@@ -1236,6 +1236,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Facturas, stock y clientes en excels sueltos: un lunes distinto](https://blixwerkstudio.com/guides/agobiado-administracion-negocio-pequeno-excels-sueltos?s=github) – Siete archivos abiertos, una llamada de un cliente y ninguna respuesta rápida. Una historia sobre ordenar facturas, stock y clientes sin sentirte perdido.
 
+- [AI Client Emails Sound Robotic? The Greeting Card Aisle](https://blixwerkstudio.com/guides/ai-client-emails-sound-robotic-make-them-sound-like-me?s=github) – Your AI-written client email sounds like a stranger wrote it, and your client noticed. A quiet story about getting your own voice back in your emails.
+
 - [Alquilo una silla en una peluquería: ¿me sale a cuenta?](https://blixwerkstudio.com/guides/alquilo-una-silla-en-una-peluqueria-me-sale-a-cuenta?s=github) – La dueña te sube el alquiler de la silla y no sabes si te sale a cuenta. Una historia sobre mirar tus números con calma, sin hojas sueltas.
 
 - [Lost Track as a Freelancer: Which Hours Did You Bill Already?](https://blixwerkstudio.com/guides/als-freiberufler-ueberblick-verloren-welche-stunden-abgerechnet?s=github) – The client asks about last month's hours and you can't say which ones you've invoiced. A calm story about getting that overview back.
@@ -1904,6 +1906,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Everything in Your Head, Can't Delegate? The Pool Lounger](https://blixwerkstudio.com/guides/everything-in-my-head-small-business-cant-delegate?s=github) – Day two of a week off and you're still the only one who knows how everything works. A short story about getting it out of your head and letting go.
 
+- [Ex-Employee Still Has Your API Keys? The Returned Laptop](https://blixwerkstudio.com/guides/ex-employee-still-has-api-keys-what-to-check?s=github) – A laptop comes back in a padded envelope and one question stays: who still holds the keys? A calm story for small teams after someone leaves.
+
 - [Excel me borró los ceros de los códigos y ya lo envié al cliente](https://blixwerkstudio.com/guides/excel-borra-ceros-codigos-csv-ya-enviado-cliente?s=github) – Abres el CSV, los códigos pierden el cero inicial y el archivo ya está en la bandeja del cliente. Una mañana de martes que muchos autónomos reconocen.
 
 - [Excel cambió los decimales de mi CSV y no cuadra el total](https://blixwerkstudio.com/guides/excel-cambia-decimales-csv-totales-no-cuadran?s=github) – Excel cambió los decimales de tu CSV y los totales no cuadran, y el cliente espera el informe. Una historia sobre recuperar la calma un lunes.
@@ -1965,6 +1969,8 @@ Included (16 products, 175 USD if bought separately):
 - [Guilty About Raising Your Freelance Rate? The Client Call Pause](https://blixwerkstudio.com/guides/feel-guilty-raising-freelance-rate-what-to-charge?s=github) – Your cursor hovers over the new number. Guilty about raising your freelance rate? A quiet story about finding what to charge, and saying it calmly.
 
 - [Fehler beim Kunden gemacht? Die Tribüne, Mittwoch 16:30](https://blixwerkstudio.com/guides/fehler-im-kundenprojekt-kunden-sagen-ohne-verlieren?s=github) – Fehler im Kundenprojekt, und die Mail dazu bleibt leer. Eine Geschichte darüber, wie du es ehrlich sagst und den Kunden behältst.
+
+- [Festes Gehalt als Freelancer? Die Wohnungsbesichtigung](https://blixwerkstudio.com/guides/festes-gehalt-als-freelancer-schwankendes-einkommen?s=github) – Mal 4.200 €, mal 900 €: Wie zahlst du dir als Freelancer ein festes Gehalt? Eine Geschichte über einen Satz bei der Besichtigung und ruhigere Monate.
 
 - [Festpreis genannt, Verlust gemacht? Die Kasse um 17:40](https://blixwerkstudio.com/guides/festpreis-genannt-verlust-freelance-projekt?s=github) – Du hast einen Festpreis genannt und merkst: Das Projekt kostet dich mehr, als es bringt. Eine Geschichte über den Moment an der Kasse und was danach ruhiger wird.
 
@@ -2685,6 +2691,8 @@ Included (16 products, 175 USD if bought separately):
 - [Nombres en mayúsculas y minúsculas en Excel: entrego hoy](https://blixwerkstudio.com/guides/nombres-mayusculas-minusculas-mezclados-excel-entrego-hoy?s=github) – Las acreditaciones se imprimen a las dos y la lista mezcla MAYÚSCULAS y minúsculas. Una historia para quien entrega hoy.
 
 - [Nur die Hälfte abrechenbar: Reicht dein Stundensatz?](https://blixwerkstudio.com/guides/nur-haelfte-stunden-abrechenbar-stundensatz-reicht-nicht?s=github) – Zehn Minuten zu früh vor dem Kundentermin fällt dir auf: Nur die Hälfte deiner Stunden landet auf der Rechnung. Reicht dein Stundensatz dann überhaupt?
+
+- [Olvidé el desplazamiento en el presupuesto: un lunes](https://blixwerkstudio.com/guides/olvide-desplazamiento-mano-de-obra-presupuesto-perdi-dinero?s=github) – Hiciste el presupuesto de memoria en la obra y al cuadrar faltaban el desplazamiento y la mano de obra. Una historia para autónomos de oficios.
 
 - [Cuentas en libretas y papeles: cómo ordenarlas en Excel](https://blixwerkstudio.com/guides/ordenar-cuentas-negocio-excel-libretas-papeles?s=github) – Libretas, tickets y notas pegadas en la pared. Una tapicera, una llamada de un cliente y la sensación de que ordenar las cuentas sí es posible.
 
