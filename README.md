@@ -1574,6 +1574,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Says You Never Billed Them? The Parking Meter](https://blixwerkstudio.com/guides/client-says-you-never-billed-last-month-cant-prove-hours?s=github) – A client says you never billed last month, and you can't prove which hours you worked. A short story about that call, and the calmer Monday after it.
 
+- [Project Details Arrive in Pieces? The Flat-Pack Shelf](https://blixwerkstudio.com/guides/client-sends-project-details-in-pieces?s=github) – You started the work, then the client sent another 'one more thing'. A calm story about project details arriving in pieces, and a quieter way to begin.
+
 - [Client Sent No Brief but Wants It Tomorrow? Farm Shop Box](https://blixwerkstudio.com/guides/client-sent-no-brief-expects-results-tomorrow-freelance?s=github) – No brief, no files, and a client who wants results tomorrow. A freelancer's Thursday at a farm shop, and a calmer way to begin next time.
 
 - [Client Sent a Rude Email? The Tailor's Pins and a Pause](https://blixwerkstudio.com/guides/client-sent-rude-email-how-to-respond?s=github) – The email was short, cold and unfair, and you read it standing on a tailor's footstool. A calm story about answering a rude client without losing your head.
@@ -1952,6 +1954,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Miles de filas desordenadas en Excel: ¿por dónde empiezo?](https://blixwerkstudio.com/guides/excel-miles-de-filas-desordenadas-por-donde-empezar?s=github) – Lunes por la mañana, el tren y un Excel de 14.000 filas que no sabes por dónde coger. Una historia sobre abrirlo sin que se te encoja el estómago.
 
+- [Excel no suma porque los números son texto: entrego hoy](https://blixwerkstudio.com/guides/excel-no-suma-numeros-como-texto-entrego-hoy?s=github) – La suma da 0, la entrega es a las 12 y los números son texto. Una mañana de martes, y cómo se siente cuando el Excel por fin cuadra.
+
 - [Excel Numbers Stored as Text Again? The 10 am Report Call](https://blixwerkstudio.com/guides/excel-numbers-stored-as-text-weekly-report?s=github) – Your weekly report shows a total of zero because the numbers are text. A short story about a Thursday client call, and a calmer way to start the week.
 
 - [Excel cambió mis números a 1,2E+15 y ya lo mandé](https://blixwerkstudio.com/guides/excel-numeros-largos-notacion-cientifica-ya-lo-mande?s=github) – Tu clienta te llama por el archivo: los números largos se ven como 1,23E+15 y ya lo enviaste. Una historia para respirar y volver a confiar en tus datos.
@@ -2270,6 +2274,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Need More Time on a Client Project? The Bank Holiday Kitchen Table](https://blixwerkstudio.com/guides/how-to-tell-client-you-need-more-time-on-project?s=github) – The deadline is Friday and the work won't be ready. You're at your parents' kitchen table, rewriting one sentence to a client. A calmer way through.
 
+- [Don't Know How to Use ChatGPT in Business? Tyre Stack](https://blixwerkstudio.com/guides/how-to-use-chatgpt-for-small-business-daily-tasks?s=github) – You opened ChatGPT between two customers and closed it again. A small-business story about the blank box and the quiet relief of a starting line.
+
 - [Invoiced the Same Project Twice? The Vending Machine Wait](https://blixwerkstudio.com/guides/i-think-i-invoiced-the-same-project-twice-how-to-check?s=github) – Your client asks about two invoices for one project, and you're stuck in a hospital corridor. A calm story about checking, and about knowing.
 
 - [La inflación se come mi tarifa freelance: ¿cuánto cobro?](https://blixwerkstudio.com/guides/inflacion-se-come-mi-tarifa-freelance-cuanto-cobrar-pesos?s=github) – El súper subió otra vez y tu tarifa sigue igual. Una historia sobre la inflación, los pesos y cómo volver a cobrar con la cabeza tranquila.
@@ -2497,6 +2503,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde will ständig Gratis-Extras? Die Tiefgarage, 8:55](https://blixwerkstudio.com/guides/kunde-will-staendig-gratis-extras-nein-sagen-ohne-verlieren?s=github) – Noch eine „kleine Sache“, natürlich ohne Aufpreis. Wie Mareike in der Tiefgarage lernt, Nein zu sagen, ohne den Kunden zu verlieren.
 
 - [Kunde will ständig kostenlos mehr? Wie sage ich Nein – Mittwoch, 9:15](https://blixwerkstudio.com/guides/kunde-will-staendig-kostenlos-mehr-arbeit-wie-sage-ich-nein?s=github) – „Nur noch eine Kleinigkeit, das geht doch schnell?“ Eine Geschichte über Kunden, die immer mehr wollen, und darüber, wie ein ruhiges Nein klingen kann.
+
+- [Kunde will ständig „kurze Calls“? Mittagspause, 12:05](https://blixwerkstudio.com/guides/kunde-will-staendig-kurze-calls-freelance-unbezahlt?s=github) – „Hast du kurz fünf Minuten?“ – und wieder ist eine halbe Stunde unbezahlt weg. Eine Geschichte über kurze Calls, Grenzen und die richtigen Worte.
 
 - [Stundennachweis verlangt, nichts notiert? Der Waldweg](https://blixwerkstudio.com/guides/kunde-will-stundennachweis-nichts-aufgeschrieben?s=github) – Der Kunde will einen Stundennachweis, und du hast nichts aufgeschrieben. Eine Geschichte von einem Spaziergang, einem Anruf und einem ruhigeren Anfang.
 
