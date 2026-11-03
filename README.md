@@ -1266,6 +1266,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Another Year Gone, Freelance Going Nowhere? The Clock Shop](https://blixwerkstudio.com/guides/another-year-gone-freelance-business-went-nowhere?s=github) – December is close and the year feels wasted. A quiet scene in a clock shop about slow progress you can't see, and a calmer way to start 2027.
 
+- [API Authentication Secure Enough? The Soundcheck](https://blixwerkstudio.com/guides/api-authentication-secure-enough-before-launch?s=github) – Launch is Friday and you can't tell if your API authentication is secure enough. A soundcheck in a village hall shows a calmer way to walk into launch day.
+
 - [API Key Visible in Frontend Code? The Tasting Table Text](https://blixwerkstudio.com/guides/api-key-visible-in-frontend-code-am-i-in-trouble?s=github) – A message from a client's nephew, a key in the browser, and a knot in your stomach. A calm story for anyone asking whether an exposed API key is trouble.
 
 - [Worried About API Mass Assignment? The Badge Desk Pen](https://blixwerkstudio.com/guides/api-mass-assignment-users-change-fields-they-shouldnt?s=github) – Users could change fields they shouldn't in your API? A calm story about mass assignment worry, a conference badge desk and the relief of a clear review.
@@ -2130,6 +2132,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot to Write an Invoice as a Freelancer? The Bike Shop Message](https://blixwerkstudio.com/guides/freelancer-forgot-to-write-invoice-lost-overview?s=github) – A friendly email from a client, a bike on the repair stand, and one question: did I ever send that invoice? A story for freelancers who lost track.
 
+- [Kleinunternehmer Invoice Correct? The Question on Line 2](https://blixwerkstudio.com/guides/freelancer-germany-kleinunternehmer-invoices-correct?s=github) – Her client's accountant asks about one invoice and her stomach drops. A calm story for freelancers in Germany unsure their invoices are right.
+
 - [Can't Keep Up With Invoices and Time Tracking? The Train Platform](https://blixwerkstudio.com/guides/freelancer-invoice-and-time-tracking-chaos?s=github) – On a cold platform, a freelancer realises she can't say which hours are billed. A calm story about invoice and time tracking chaos, and the way out.
 
 - [Invoice Chaos as a Freelancer: What Did I Bill, What's Still Open?](https://blixwerkstudio.com/guides/freelancer-invoice-chaos-cant-keep-track-of-billed-and-open?s=github) – Your client asks, 'Did you send the March invoice?' and you honestly don't know. A story about invoice chaos and finally seeing what's billed and open.
@@ -2548,6 +2552,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me devolvieron varios pedidos y mi inventario no cuadra](https://blixwerkstudio.com/guides/me-devolvieron-pedidos-inventario-excel-no-cuadra?s=github) – Tres devoluciones en una mañana y el Excel dice otra cosa. Una historia sobre stock que no cuadra y cómo volver a ver tu inventario con calma.
 
+- [Me di de alta como autónomo: ¿y ahora cómo cobro?](https://blixwerkstudio.com/guides/me-di-de-alta-como-autonomo-no-se-por-donde-empezar-cobros-facturas?s=github) – Te diste de alta como autónomo y el primer cliente pide factura. Una historia sobre empezar con los cobros sin agobio, desde la primera semana.
+
 - [Me equivoqué con un cliente y no sé cómo pedir disculpas](https://blixwerkstudio.com/guides/me-equivoque-con-un-cliente-como-pedir-disculpas-por-correo?s=github) – Lunes, 8:10, el tren y un error con la fecha que ya salió a 800 personas. La historia de Carla y del correo de disculpas que no sabía cómo empezar.
 
 - [Me ingresan dinero y no sé a qué factura corresponde](https://blixwerkstudio.com/guides/me-ingresan-dinero-no-se-a-que-factura-corresponde-autonomo?s=github) – Un ingreso sin concepto, tres facturas abiertas y un martes en el tranvía. Una historia para autónomos que quieren saber qué les han pagado.
@@ -2893,6 +2899,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnung monatelang nicht geschrieben? Der Satz im Videocall](https://blixwerkstudio.com/guides/rechnung-monatelang-nicht-geschrieben-nachtraeglich-schicken?s=github) – Im Kundengespräch fällt dir ein: Die Rechnung vom Frühjahr ist nie rausgegangen. Eine Geschichte über Peinlichkeit, Ruhe und den Weg zurück.
 
 - [Rechnung nachfassen: Wie oft ist zu oft? Mittagspause](https://blixwerkstudio.com/guides/rechnung-nachfassen-wie-oft-unhoeflich?s=github) – Vierte Mail oder lieber warten? Ein Landschaftsgärtner, eine Thermoskanne und die Frage, ab wann Nachhaken bei einer offenen Rechnung unhöflich wird.
+
+- [Rechnung nachhaken, ohne zu nerven? Der Zahnarztstuhl](https://blixwerkstudio.com/guides/rechnung-nachhaken-ohne-zu-nerven?s=github) – Du liegst mit offenem Mund auf dem Zahnarztstuhl und formulierst im Kopf die Mahnmail. Warum Nachhaken sich wie Betteln anfühlt und wie es leichter wird.
 
 - [Rechnung an netten Kunden mahnen? Die Teeküche im Cowork](https://blixwerkstudio.com/guides/rechnung-nettem-kunden-mahnen-unangenehm?s=github) – Der Kunde ist nett, die Rechnung seit drei Wochen offen. Warum Nachhaken sich wie Betteln anfühlt – und wie es ruhiger werden kann.
 
