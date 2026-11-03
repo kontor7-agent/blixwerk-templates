@@ -1462,6 +1462,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Wants an Hours Breakdown? The Glasshouse Bench](https://blixwerkstudio.com/guides/client-asks-hours-breakdown-cant-prove-what-i-worked-on?s=github) – Your client asks for a breakdown of your hours and you can't prove what you did. A quiet story about answering calmly, without scrolling through old emails.
 
+- [Client Deducted Bank Fees From Payment? The Leek Bunch](https://blixwerkstudio.com/guides/client-deducted-bank-fees-from-invoice-payment?s=github) – The payment arrived, but a few euros short. The client says bank fees are your problem. A Saturday market story about asking calmly for the difference.
+
 - [Client Emails at Midnight? The Canal Towpath at 7:05](https://blixwerkstudio.com/guides/client-emailing-at-midnight-freelance-set-expectations?s=github) – A client who emails at midnight and expects an answer by morning. A freelancer's walk along the canal, and what changed once expectations were set early.
 
 - [Client Ghosted Me After the Proposal: What Do I Do? The Tuesday Queue](https://blixwerkstudio.com/guides/client-ghosted-me-after-proposal-what-do-i-do?s=github) – You sent the proposal ten days ago and heard nothing. In the supermarket queue you check your phone again. A calm story about the silence, and what eases it.
@@ -2200,6 +2202,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Got a Callback, Can't Remember the Job? The Pay Machine](https://blixwerkstudio.com/guides/got-a-callback-cant-remember-what-i-applied-for?s=github) – A company calls back and you can't remember what you applied for. A short story about that cold moment, and how a calmer job search feels.
 
+- [GraphQL Introspection On in Production? The Tyre Pump](https://blixwerkstudio.com/guides/graphql-introspection-enabled-in-production?s=github) – A message at the petrol station: your GraphQL schema is open to anyone. Now you wonder what else you left on. A story about calm after the launch.
+
 - [Größten Kunden verloren? Der Videocall, Donnerstag 14:30](https://blixwerkstudio.com/guides/groessten-kunden-verloren-freelance-panik-was-jetzt?s=github) – Dein größter Kunde sagt im Videocall ab, und dein Kopf rechnet sofort das Schlimmste. Eine Geschichte über Panik, Überblick und den nächsten ruhigen Schritt.
 
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
@@ -2268,6 +2272,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Interviewed Last Week, No Reply? The Launderette Table](https://blixwerkstudio.com/guides/interviewed-last-week-no-reply-how-to-follow-up?s=github) – Interviewed a week ago and the inbox is silent? A story about the waiting, the follow-up you keep rewriting, and getting your calm back.
 
+- [Inventario de fin de año: mi tienda es un caos, ¿y ahora?](https://blixwerkstudio.com/guides/inventario-fin-de-ano-tienda-caos-por-donde-empezar?s=github) – Persiana a medias, cajas por el suelo y una libreta que no cuadra: una historia para quien no sabe por dónde empezar el inventario de fin de año.
+
 - [El inventario no cuadra con las ventas: ¿me falta género?](https://blixwerkstudio.com/guides/inventario-no-cuadra-con-ventas-falta-mercancia-tienda?s=github) – Nueve cuadernos en el estante, catorce en la pantalla. Una historia sobre el inventario que no cuadra con las ventas y la calma que vuelve.
 
 - [Inventur, Zahlen stimmen nie? Der 2. Januar, 8:10 Uhr](https://blixwerkstudio.com/guides/inventur-kleines-geschaeft-zahlen-stimmen-nie?s=github) – Zwei Zahlen, ein Regal: Jonas zählt Schläuche und Ketten, und nichts passt zur Liste. Eine Geschichte über Inventur im kleinen Geschäft.
@@ -2331,6 +2337,8 @@ Included (16 products, 175 USD if bought separately):
 - [What Does Each Service Earn? The Nail Tech at the Wholesaler Till](https://blixwerkstudio.com/guides/what-does-each-service-earn-nail-tech-stylist-price-list?s=github) – The card machine shows 187 euros for gel, foils and tips, and you can't say which service paid for it. A story for solo stylists, nail techs and barbers.
 
 - [Krank als Freelancer, kein Einkommen? Mittwoch, 10:40](https://blixwerkstudio.com/guides/krank-als-freelancer-kein-einkommen-genug-verlangt?s=github) – Drei Wochen krank, null Einnahmen – und die leise Frage: Habe ich genug verlangt, um das aufzufangen? Eine Geschichte für Freiberufler.
+
+- [Kunde ändert Briefing ständig? Physio-Flur, 17:12](https://blixwerkstudio.com/guides/kunde-aendert-briefing-staendig-hoeflich-antworten?s=github) – Zum fünften Mal ein neues Briefing, und du willst nicht unhöflich klingen. Eine Geschichte über den Moment, in dem der Antwortsatz plötzlich leichtfällt.
 
 - [Kunde ändert ständig den Umfang? Regentag an der Ostsee](https://blixwerkstudio.com/guides/kunde-aendert-staendig-umfang-nein-sagen-ohne-unhoeflich?s=github) – Der Kunde will „nur kurz“ noch etwas ändern – mitten im Urlaub. Eine Geschichte darüber, wie Nein sagen ohne unhöflich zu klingen leichter wird.
 
