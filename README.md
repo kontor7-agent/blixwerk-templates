@@ -1366,6 +1366,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Bombed an Interview, Can't Recall What You Said?](https://blixwerkstudio.com/guides/bombed-interview-cant-remember-what-i-said-prepare-better?s=github) – You walked out of the interview and the answers blurred. Here is a calm story about what to do with that sinking feeling, and how to prepare next time.
 
+- [Bonos de sesiones: no sé cuántas le quedan a cada clienta](https://blixwerkstudio.com/guides/bonos-de-sesiones-no-se-cuantas-le-quedan-a-cada-clienta?s=github) – Vendiste un bono de cinco sesiones y, con la clienta en la silla, no sabes cuántas le quedan. Una mañana de martes en un estudio pequeño.
+
 - [Boss Asked If Our API Is Secure? The Dishwasher Silence](https://blixwerkstudio.com/guides/boss-asked-if-our-api-is-secure?s=github) – Your boss asks if the API is secure while you stand by the dishwasher, and all you have is 'I think so.' A calm story about a better answer.
 
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://blixwerkstudio.com/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
@@ -1391,6 +1393,8 @@ Included (16 products, 175 USD if bought separately):
 - [BUSCARV no encuentra datos que sí existen: entrego hoy](https://blixwerkstudio.com/guides/buscarv-no-encuentra-datos-que-existen-entrego-hoy?s=github) – Ves el dato en las dos hojas y BUSCARV dice #N/D. Una mañana de entrega, una videollamada y por qué no hace falta pelearse con el Excel.
 
 - [Buy Planners, Never Stick With Them? The ADHD Drawer](https://blixwerkstudio.com/guides/buy-planners-never-stick-with-them-adhd?s=github) – Four planners, all abandoned by February. A quiet story for freelancers with busy brains who keep starting over, and what a lighter page can change.
+
+- [C Drive Almost Full? The Red Bar at Mum's Kitchen Table](https://blixwerkstudio.com/guides/c-drive-almost-full-downloads-folder-old-installers-zip-files?s=github) – The red bar on your C drive, thousands of old installers and zips in Downloads, and a deadline. A calm story about getting your space back.
 
 - [No Planner Fits Your Freelance Year? The Stationery Aisle](https://blixwerkstudio.com/guides/printable-freelancer-planner-2027?s=github) – Three diaries in your hands, none made for freelancers. A short story about finding one calm place for your year, your clients and your invoices.
 
@@ -2394,6 +2398,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde ignoriert deine Mahn-Mails? Die Mülltonne, 7:15](https://blixwerkstudio.com/guides/kunde-ignoriert-ueberfaellige-rechnung-mails-was-schreiben?s=github) – Drei Mails, keine Antwort, und die Rechnung ist längst überfällig. Eine kleine Geschichte darüber, was du sagen kannst, ohne dich zu verbiegen.
 
+- [Kunde ignoriert Zahlungserinnerung? Das Bordbistro](https://blixwerkstudio.com/guides/kunde-ignoriert-zahlungserinnerung-was-jetzt?s=github) – Zweite Erinnerung raus, Antwort bleibt aus. Eine Untertitlerin im Zug, ein Kaffee und die Frage: Und jetzt? Eine Geschichte für alle, die ungern nachhaken.
+
 - [Kunde insolvent, Rechnung offen? Der Zahnarzt-Parkplatz](https://blixwerkstudio.com/guides/kunde-insolvent-rechnung-offen-was-tun-selbststaendig?s=github) – Die Mail vom Insolvenzverwalter kommt, als du im Auto auf den Zahnarzttermin wartest. Eine Geschichte über offene Rechnungen und wie du früher Ruhe hast.
 
 - [Kunde kürzt einfach deine Rechnung? Was tun, wenn die Tankstelle wartet](https://blixwerkstudio.com/guides/kunde-kuerzt-rechnung-was-tun?s=github) – Auf dem Konto fehlen 380 Euro, im Verwendungszweck steht nur „gekürzt“. Eine Geschichte für alle, die nicht wissen, was sie jetzt sagen sollen.
@@ -2561,6 +2567,8 @@ Included (16 products, 175 USD if bought separately):
 - [Semanas sin publicar en LinkedIn: ¿perderé clientes?](https://blixwerkstudio.com/guides/llevo-semanas-sin-publicar-en-linkedin-ansiedad-perder-clientes?s=github) – Seis semanas sin publicar en LinkedIn y la ansiedad de que se olviden de ti. Una historia sobre volver a aparecer sin el pánico del domingo.
 
 - [Lost a Business Receipt as a Freelancer? The Blank Slip](https://blixwerkstudio.com/guides/lost-a-business-receipt-what-do-i-do-freelancer?s=github) – The receipt for your new monitor is a blank strip of paper. A quiet story about lost business receipts, and what a calm year-end feels like instead.
+
+- [Lost Receipts, Self-Employed? The Phone Booth Question](https://blixwerkstudio.com/guides/lost-receipts-self-employed-prove-business-expenses-accountant?s=github) – Your accountant asks for proof of an expense and you can't find it. A calm story about lost receipts, and what a quieter year-end can feel like.
 
 - [Post-Editing Pay Too Low? The Parents' Evening Corridor](https://blixwerkstudio.com/guides/machine-translation-post-editing-pay-too-low-per-hour-translator?s=github) – The agency calls it light post-editing. Your afternoon says otherwise. A quiet story about finding your real hourly pay as a translator.
 
@@ -2797,6 +2805,8 @@ Included (16 products, 175 USD if bought separately):
 - [Per-Word Rate to Hourly Pay? The Saturday Rush Job Call](https://blixwerkstudio.com/guides/per-word-rate-to-hourly-pay-translator?s=github) – The agency wants it by Monday, at a 'special rate'. You can't tell what that means per hour, or who still owes you. A translator's quiet Saturday.
 
 - [Perdí a mi mayor cliente: casi todo mi ingreso era él](https://blixwerkstudio.com/guides/perdi-a-mi-mayor-cliente-autonomo-ingresos?s=github) – Una llamada de dos minutos y el cliente que pagaba casi todo se fue. Cómo se vuelve a respirar cuando ves tus cuentas con claridad.
+
+- [Peticiones raras en los logs de mi API: ¿me atacan?](https://blixwerkstudio.com/guides/peticiones-raras-logs-api-me-atacan?s=github) – Ves rutas raras en los logs de tu API y se te encoge el estómago. Una historia sobre el miedo a que te ataquen y la calma de tener un método.
 
 - [Phone Numbers Messy in Your CSV? The Market Stall Texts](https://blixwerkstudio.com/guides/phone-numbers-names-inconsistent-csv-fix?s=github) – Phone numbers in six formats, names in three cases, and a Saturday reminder to send. A calm story about messy CSV contact lists and getting hours back.
 
