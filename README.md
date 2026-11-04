@@ -1406,6 +1406,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cancelled Lessons, Lost Make-Ups? The Lightbulb Aisle](https://blixwerkstudio.com/guides/cancelled-tutoring-lessons-make-up-lessons-owed?s=github) – You cancelled a week of tutoring and now can't remember which make-up lessons you owe. A quiet story from the hardware aisle, and a calmer way to keep track.
 
+- [Can't Find Anything in Documents? The Lunchbox Monday](https://blixwerkstudio.com/guides/cant-find-anything-documents-folder-pc?s=github) – 8:10 on a Monday, a client wants a file from two years ago, and your Documents folder won't give it up. A short story about finding things again.
+
 - [Can't Find a File in Downloads? The Screen-Share Silence](https://blixwerkstudio.com/guides/cant-find-important-file-messy-downloads-folder-windows?s=github) – Your client says 'just share your screen.' Your Downloads folder says otherwise. A calm story about finding files again on Windows.
 
 - [Can't Keep Track of Job Applications? The Parkrun Question](https://blixwerkstudio.com/guides/cant-keep-track-of-job-applications-who-got-back-to-me?s=github) – Someone asks how the job search is going and you can't say who replied. A calm story about losing track of applications, and the quiet way out.
@@ -1743,6 +1745,8 @@ Included (16 products, 175 USD if bought separately):
 - [Creo que estoy cobrando muy poco como freelance: la llamada de las 10](https://blixwerkstudio.com/guides/creo-que-estoy-cobrando-muy-poco-como-freelance?s=github) – Un cliente dice «vale» demasiado rápido y algo se te encoge. Una historia sobre cobrar poco como freelance y sobre cómo puede sentirse otra versión.
 
 - [Llevo años cobrando de menos y me da miedo subir mis tarifas](https://blixwerkstudio.com/guides/creo-que-llevo-anos-cobrando-poco-miedo-a-subir-tarifas?s=github) – Una mañana de domingo en el mercado, una cifra en la libreta y la sospecha de que llevas años cobrando de menos. Y el miedo a decirlo en voz alta.
+
+- [CRM Export Full of Duplicate Contacts? The Lobby at 8:40](https://blixwerkstudio.com/guides/crm-export-duplicate-contacts-import-today?s=github) – CRM export full of duplicate contacts and the import is due today? A story about the morning panic, and the calm Monday that can follow.
 
 - [Cron Backup Stopped After Server Update? The Bouncy Castle](https://blixwerkstudio.com/guides/cron-backup-job-stopped-after-server-update?s=github) – Your cron backup job quietly stopped after a server update, and you only find out on a Saturday. A short story about noticing sooner and feeling calm again.
 
@@ -2396,6 +2400,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde gibt kein Feedback, Projekt hängt? Der Kiosk, 8:25](https://blixwerkstudio.com/guides/kunde-gibt-kein-feedback-projekt-haengt-fest-freiberufler?s=github) – Seit drei Wochen kein Wort vom Kunden, und dein Projekt steht still. Eine Geschichte über Schweigen, Nachfassen und die Ruhe danach.
 
+- [Zahlung da, aber für welche Rechnung? Die Edeka-Schlange](https://blixwerkstudio.com/guides/kunde-hat-bezahlt-welche-rechnung?s=github) – Das Geld ist da, doch der Verwendungszweck sagt nur „Danke“. Eine Geschichte über den Moment, in dem du nicht weißt, welche Rechnung bezahlt wurde.
+
 - [Kunde nimmt deinen Preis sofort an – war ich zu billig?](https://blixwerkstudio.com/guides/kunde-hat-meinen-preis-sofort-akzeptiert-war-ich-zu-billig?s=github) – Eine Mail, ein Wort: „Passt.“ Und plötzlich zweifelst du. Eine Geschichte für alle, deren Preis zu schnell akzeptiert wurde und die sich fragen: zu billig?
 
 - [Kunde hat nur die Hälfte bezahlt? Der Stau auf der A7](https://blixwerkstudio.com/guides/kunde-hat-nur-die-haelfte-der-rechnung-bezahlt?s=github) – Die Banking-App zeigt 1.190 € statt 2.380 €. Eine Geschichte über halb bezahlte Rechnungen, ein flaues Gefühl im Stau und wie wieder Ruhe einkehrt.
@@ -2657,6 +2663,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi carpeta de descargas es un desastre: el archivo que no aparecía](https://blixwerkstudio.com/guides/mi-carpeta-de-descargas-es-un-desastre-y-no-encuentro-nada?s=github) – Compartes pantalla en una videollamada y tu carpeta de descargas queda a la vista. Una historia sobre archivos perdidos y cómo volver a la calma.
 
 - [Mi cliente no tiene dinero ahora y me pide esperar](https://blixwerkstudio.com/guides/mi-cliente-dice-que-no-tiene-dinero-y-me-pide-esperar-factura?s=github) – Tu cliente dice que ahora no tiene dinero y te pide esperar. Una historia sobre cómo responder con calma, sin sentirte mala persona.
+
+- [Mi cliente pregunta si mi API es segura: ¿qué reviso?](https://blixwerkstudio.com/guides/mi-cliente-pregunta-si-mi-api-es-segura?s=github) – Tu cliente pregunta en plena videollamada si tu API es segura y te quedas en blanco. Una historia sobre llegar a la entrega con calma.
 
 - [Mi cliente siempre paga tarde y me da apuro insistir](https://blixwerkstudio.com/guides/mi-cliente-siempre-paga-tarde-me-siento-mal-insistiendo?s=github) – Es lunes, la cafetera borbotea y vuelves a redactar el mismo correo al cliente que siempre paga tarde. Una historia para quien odia insistir cada mes.
 
