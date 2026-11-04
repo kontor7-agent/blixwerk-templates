@@ -1370,6 +1370,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Billed the Same Week Twice? The Cheese Counter Ticket](https://blixwerkstudio.com/guides/billed-same-week-twice-which-hours-invoiced?s=github) – You think you billed the same week twice and can't tell which hours are invoiced. A quiet story about a Saturday queue, two PDFs, and getting calm back.
 
+- [Black Friday in 3 Wochen und kein Content geplant?](https://blixwerkstudio.com/guides/black-friday-in-3-wochen-kein-content-geplant?s=github) – Das Plakat im Drogeriemarkt sagt Black Friday, dein Kopf sagt: leer. Eine Geschichte über Content-Planung ohne Sonntagspanik für kleine Betriebe.
+
 - [Black Friday naht, Lager fast leer? Die Postschlange](https://blixwerkstudio.com/guides/black-friday-lager-fast-leer-bestand-im-blick?s=github) – Donnerstag, 10:15 Uhr, Postfiliale: Dein Handy erinnert an Black Friday, und im Regal fehlt schon Ware. Eine Geschichte über Ruhe im Lager.
 
 - [Bombed an Interview, Can't Recall What You Said?](https://blixwerkstudio.com/guides/bombed-interview-cant-remember-what-i-said-prepare-better?s=github) – You walked out of the interview and the answers blurred. Here is a calm story about what to do with that sinking feeling, and how to prepare next time.
@@ -2312,6 +2314,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Polite No to Extra Client Work? The Self-Checkout Beep](https://blixwerkstudio.com/guides/how-to-politely-say-no-to-extra-work-from-client?s=github) – A client message arrives while you scan the milk: just one small extra thing. A story about finding a calm, polite way to say no to extra work.
 
+- [How to Quote a Job You've Never Done? The Wall Estimate](https://blixwerkstudio.com/guides/how-to-quote-a-job-youve-never-done-before?s=github) – Standing in a customer's garden, asked to price a job you've never done. The guess in your head, the fear of losing money, and a calmer way to say a number.
+
 - [Client Wants a Rush Job for Free? The Food Truck Friday](https://blixwerkstudio.com/guides/how-to-say-no-to-client-rush-job-for-free?s=github) – The message says 'just a quick favour, by Monday.' You're in a queue with your phone in your hand, and the word no feels impossible. A calmer way through.
 
 - [Need More Time on a Client Project? The Bank Holiday Kitchen Table](https://blixwerkstudio.com/guides/how-to-tell-client-you-need-more-time-on-project?s=github) – The deadline is Friday and the work won't be ready. You're at your parents' kitchen table, rewriting one sentence to a client. A calmer way through.
@@ -2703,6 +2707,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi pareja pregunta cuánto gano al mes y no sé qué decir](https://blixwerkstudio.com/guides/mi-pareja-me-pregunta-cuanto-gano-al-mes-autonomo?s=github) – Sábado, camino de IKEA, y una pregunta sencilla: «¿cuánto ganas al mes?». Una historia para autónomos que no saben qué contestar.
 
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
+
+- [Sin límite de uso en mi API: miedo a que la tumben](https://blixwerkstudio.com/guides/miedo-api-sin-limite-de-uso-peticiones?s=github) – Estás en la playa, de vacaciones a medias, y solo piensas en tu API sin límite de uso. Una historia sobre dejar de imaginar lo peor y volver a respirar.
 
 - [Miedo a gastarme el IVA y el IRPF del trimestre](https://blixwerkstudio.com/guides/miedo-gastarme-iva-irpf-trimestral-autonomo?s=github) – Es mediados de octubre, el trimestre se acerca y no sabes cuánto apartar. Una historia sobre el miedo a gastarte un dinero que no es del todo tuyo.
 
@@ -3237,6 +3243,8 @@ Included (16 products, 175 USD if bought separately):
 - [Soy autónomo y no controlo mi dinero ni mi tiempo](https://blixwerkstudio.com/guides/soy-autonomo-no-controlo-mi-dinero-ni-mi-tiempo?s=github) – Miércoles, 14:10, menú del día y una pregunta que no te dejas hacer: ¿dónde se fue el mes? Una historia para quien trabaja por su cuenta y va a ciegas.
 
 - [Fixing a Messy CSV Again? The Sunday Roast Interruption](https://blixwerkstudio.com/guides/spent-all-evening-fixing-messy-csv-file?s=github) – Another evening gone to a messy CSV file? A Sunday-lunch scene about getting those hours back, and what a calmer Monday could feel like.
+
+- [Full Name in One Column? The Print Counter Moment](https://blixwerkstudio.com/guides/split-first-and-last-name-messy-csv?s=github) – 400 names in one column, a printer waiting and a welcome letter that says 'Dear Berg, Anna van der'. A calm story about splitting messy names in a CSV.
 
 - [Staff Keep Asking the Same Questions? The Third Roundabout](https://blixwerkstudio.com/guides/staff-keep-asking-same-questions-small-business-owner?s=github) – Your phone buzzes at the roundabout: the same question again. A small business owner's story about answers that live only in your head.
 
