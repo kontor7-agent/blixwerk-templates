@@ -1306,6 +1306,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Auftrag zu billig angenommen? Die Schlange beim Bäcker](https://blixwerkstudio.com/guides/auftrag-zu-billig-angenommen-bereut?s=github) – Du hast einen Auftrag zu billig angenommen und bereust es? Eine Geschichte über Freitag, 12:10 Uhr, ein Brötchen und den Moment, in dem sich etwas klärt.
 
+- [Ausfallgebühr im Salon: Ohne Peinlichkeit sagen](https://blixwerkstudio.com/guides/ausfallgebuehr-salon-kundin-ohne-unangenehm?s=github) – Die Kundin sagt 20 Minuten vorher ab, und du tippst eine Nachricht, die du wieder löschst. Eine Geschichte über Ausfallgebühr ohne schlechtes Gewissen.
+
 - [Ausgaben steigen, Stundensatz gleich? Drei Briefe im Flur](https://blixwerkstudio.com/guides/ausgaben-steigen-stundensatz-gleich-freelancer?s=github) – Miete, Krankenkasse, Software – alles wird teurer, nur dein Stundensatz nicht. Eine Geschichte vom Briefkasten und dem Moment danach.
 
 - [Auslagen vergessen abzurechnen? Mittwoch, 10:50 Uhr](https://blixwerkstudio.com/guides/auslagen-vergessen-abzurechnen-freelance?s=github) – Du hast Druckkosten vorgestreckt und nie berechnet. Jetzt sagt der Kunde im Videocall: „Das war's dann?“ Eine Geschichte über späte Auslagen.
@@ -1808,6 +1810,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
 
+- [Cuánto cobrar por hora como programador freelance](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-programador-freelance?s=github) – Videollamada a las 11:00 y te preguntan tu tarifa. Una historia sobre cuánto cobrar por hora como programador freelance sin quedarte corto.
+
 - [Cuánto cobrar por un tinte si gasto mucho producto](https://blixwerkstudio.com/guides/cuanto-cobrar-por-un-tinte-peluqueria-gasto-mucho-producto?s=github) – Mezclaste el doble de color y la clienta pregunta el precio. Una historia para peluqueras que no saben si ganan con cada tinte.
 
 - [Stock de seguridad: siempre pido de más o de menos](https://blixwerkstudio.com/guides/cuanto-stock-de-seguridad-tener-en-mi-tienda?s=github) – Tres cajas de más en el trastero y el bestseller agotado. Una historia sobre pedir al proveedor sin adivinar y cuánto stock de seguridad tener.
@@ -1937,6 +1941,8 @@ Included (16 products, 175 USD if bought separately):
 - [Escritorio y descargas llenos: no encuentro nada en el PC](https://blixwerkstudio.com/guides/escritorio-y-descargas-llenos-no-encuentro-nada-en-el-ordenador?s=github) – Compartes pantalla en una videollamada y tu escritorio lo dice todo. Una historia sobre archivos por todas partes y cómo se siente por fin encontrarlos.
 
 - [Etsy: Bestseller ausverkauft und du merkst es zu spät?](https://blixwerkstudio.com/guides/etsy-bestseller-ausverkauft-nicht-gemerkt?s=github) – Auf dem Spielplatz brummt das Handy: drei Bestellungen für den Bestseller, den es gar nicht mehr gibt. Eine Etsy-Geschichte über Ruhe im Lager.
+
+- [Etsy Shipping Ate Your Profit? The Post Office Scale](https://blixwerkstudio.com/guides/etsy-shipping-costs-ate-profit-which-orders-lost-money?s=github) – The clerk says the parcel price and your stomach drops. Which Etsy orders actually lost money to shipping? A calm story about finally seeing it.
 
 - [Busy Etsy Shop, No Money Left After Fees? The Toast](https://blixwerkstudio.com/guides/etsy-shop-busy-no-money-left-after-fees?s=github) – Orders keep coming, but the account stays thin. A story about a birthday toast, one honest question and the calm of seeing profit per product.
 
@@ -3437,6 +3443,8 @@ Included (16 products, 175 USD if bought separately):
 - [Was soll ich posten? Montag, 8:40 an der Drogeriekasse](https://blixwerkstudio.com/guides/was-soll-ich-posten-social-media-woche-kleines-unternehmen?s=github) – Du stehst an der Kasse, das Handy leer, und weißt wieder nicht, was du diese Woche posten sollst. Eine Geschichte über Social Media ohne Sonntagspanik.
 
 - [Wedding Photographer: Client Hasn't Paid the Balance?](https://blixwerkstudio.com/guides/wedding-photographer-client-hasnt-paid-remaining-balance?s=github) – The gallery is delivered, the couple is thrilled, and the remaining balance is still open. A calm story for wedding photographers who hate chasing money.
+
+- [Wedding Inquiries Slipping Through? The Crew Meal Table](https://blixwerkstudio.com/guides/wedding-photographer-inquiries-slipping-through-cracks?s=github) – Between the toasts you scroll your phone and find an inquiry you never answered. A calm story for wedding photographers who can't tell who they replied to.
 
 - [Weihnachtsgeschäft: Lager reicht nicht, zu spät bestellt?](https://blixwerkstudio.com/guides/weihnachtsgeschaeft-lager-reicht-nicht-zu-spaet-nachbestellt?s=github) – Samstag, 6:40 Uhr, Garage: Du zählst Kartons und ahnst, dass es nicht reicht. Eine Geschichte über späte Nachbestellung im Weihnachtsgeschäft.
 
