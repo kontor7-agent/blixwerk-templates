@@ -1374,6 +1374,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Black Friday naht, Lager fast leer? Die Postschlange](https://blixwerkstudio.com/guides/black-friday-lager-fast-leer-bestand-im-blick?s=github) – Donnerstag, 10:15 Uhr, Postfiliale: Dein Handy erinnert an Black Friday, und im Regal fehlt schon Ware. Eine Geschichte über Ruhe im Lager.
 
+- [Black Friday Posts Not Planned? The Parcel Tape Moment](https://blixwerkstudio.com/guides/black-friday-social-media-posts-not-planned?s=github) – Black Friday is weeks away and you have no posts planned. A small shop owner, a roll of parcel tape and the quiet relief of seeing the whole month at once.
+
 - [Bombed an Interview, Can't Recall What You Said?](https://blixwerkstudio.com/guides/bombed-interview-cant-remember-what-i-said-prepare-better?s=github) – You walked out of the interview and the answers blurred. Here is a calm story about what to do with that sinking feeling, and how to prepare next time.
 
 - [Bonos de sesiones: no sé cuántas le quedan a cada clienta](https://blixwerkstudio.com/guides/bonos-de-sesiones-no-se-cuantas-le-quedan-a-cada-clienta?s=github) – Vendiste un bono de cinco sesiones y, con la clienta en la silla, no sabes cuántas le quedan. Una mañana de martes en un estudio pequeño.
@@ -2606,6 +2608,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Tutor Students Pay Late, Cancel Late? The Car Outside Number 14](https://blixwerkstudio.com/guides/private-tutor-lesson-log-invoice-tracker-late-payments-cancellations?s=github) – Your 4 pm student cancels by text while you sit outside in the rain. Who is behind, what it costs, and when to raise your rate – a tutor's story.
 
+- [Letzte Mahnung an den Kunden? Der Hundespaziergang, 6:45](https://blixwerkstudio.com/guides/letzte-mahnung-freelancer-kunde-vor-inkasso?s=github) – Du willst dem Kunden die letzte Mahnung schicken und fühlst dich mies dabei. Eine Geschichte über Ruhe, klare Worte und den nächsten Schritt.
+
 - [Lieferant erhöht Preise: Verdienst du noch? Samstag, 6:50](https://blixwerkstudio.com/guides/lieferant-erhoeht-preise-verdiene-ich-noch-etwas?s=github) – Der Lieferant hat die Preise erhöht, und du weißt nicht, ob sich dein Sortiment noch lohnt. Eine Geschichte vom Samstagmorgen am Marktstand.
 
 - [Lieferant liefert zu spät, Ware ist aus? Der Anruf um 11:20 Uhr](https://blixwerkstudio.com/guides/lieferant-liefert-zu-spaet-ware-ist-aus?s=github) – Der Lieferant meldet sich: drei Wochen Verzug. Im Shop steht noch „2 verfügbar“. Eine Geschichte über leere Regale und die Ruhe, die danach möglich ist.
@@ -3092,6 +3096,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Out of Content Ideas Every Week? The Florist's Till Roll](https://blixwerkstudio.com/guides/run-out-of-content-ideas-small-business-social-media?s=github) – Monday, shop quiet, phone in hand, and not one idea for this week's posts. A calm story about running out of content ideas, and what changes it.
 
+- [Run Out of Stock Before Black Friday? The Swim Bench](https://blixwerkstudio.com/guides/run-out-of-stock-before-black-friday-small-shop?s=github) – Black Friday is weeks away and you can't say how many of your best seller are left. A calm story about a small shop owner and the stock count in her head.
+
 - [Running Out of Stock Without Noticing? The Hill Climb](https://blixwerkstudio.com/guides/running-out-of-stock-without-noticing-small-business?s=github) – Halfway up a Sunday hill, your phone buzzes: another sold-out apology to write. A calm story about never being surprised by an empty shelf again.
 
 - [Client Wants a Rush Translation Today? What to Charge](https://blixwerkstudio.com/guides/rush-translation-same-day-what-to-charge?s=github) – A same-day translation request lands while you're at the regatta clubhouse, and you freeze on the price. A calm story about charging for rush work.
@@ -3125,6 +3131,8 @@ Included (16 products, 175 USD if bought separately):
 - [Scope Creep: Client Keeps Adding Work? The Campsite Bank Holiday](https://blixwerkstudio.com/guides/scope-creep-client-keeps-adding-work-how-to-push-back?s=github) – One bar of signal on a bank holiday, and the client wants 'just one more thing'. A calm story about scope creep and finding your words to push back.
 
 - [Se acaba 2026 y no tengo plan para 2027 como autónomo: la llamada](https://blixwerkstudio.com/guides/se-acaba-2026-sin-plan-2027-autonomo?s=github) – Un cliente pregunta por enero y tú no sabes qué responder. Una historia sobre llegar a fin de año sin plan y cómo se siente por fin ver el año que viene.
+
+- [Se me acaba la tarifa plana: ¿cuánto cobro por hora?](https://blixwerkstudio.com/guides/se-acaba-tarifa-plana-autonomos-cuanto-cobrar-por-hora?s=github) – Un correo de la gestoría, una llamada con un cliente y una pregunta sin respuesta: cuánto cobrar por hora cuando se acaba la tarifa plana de autónomos.
 
 - [Se me acabó el trabajo freelance este mes: pánico](https://blixwerkstudio.com/guides/se-acabo-el-trabajo-freelance-este-mes-que-hago?s=github) – Miércoles, 11:00, bandeja de entrada vacía y el mes por la mitad. Una historia para freelances y autónomos cuando el trabajo se seca de golpe.
 
