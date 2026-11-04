@@ -2246,6 +2246,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Größten Kunden verloren? Der Videocall, Donnerstag 14:30](https://blixwerkstudio.com/guides/groessten-kunden-verloren-freelance-panik-was-jetzt?s=github) – Dein größter Kunde sagt im Videocall ab, und dein Kopf rechnet sofort das Schlimmste. Eine Geschichte über Panik, Überblick und den nächsten ruhigen Schritt.
 
+- [Größter Kunde zahlt jeden Monat zu spät? Beim Schuster](https://blixwerkstudio.com/guides/groesster-kunde-zahlt-zu-spaet-angst-ansprechen?s=github) – Größter Kunde zahlt jeden Monat zu spät und du traust dich nicht, es anzusprechen? Eine Geschichte über Angst, Ruhe und einen ruhigeren Montag.
+
 - [Mis facturas en Word y no sé cuáles me han pagado](https://blixwerkstudio.com/guides/hago-mis-facturas-en-word-y-no-se-cuales-me-han-pagado?s=github) – Una llamada, una carpeta de facturas en Word y la duda: ¿esta me la pagaron? Una historia para autónomos que quieren verlo todo claro.
 
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
@@ -3042,6 +3044,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Renombrar cientos de archivos a mano en Windows: un lunes](https://blixwerkstudio.com/guides/renombrar-cientos-de-archivos-windows?s=github) – Son las 9:40, tienes 340 archivos con nombres imposibles y una entrega a las 11. Una historia sobre renombrar en Windows sin perder la mañana.
 
+- [Rent Due Next Week, Client Unpaid? The Standing Order](https://blixwerkstudio.com/guides/rent-due-next-week-client-hasnt-paid-invoice?s=github) – Rent is due next week and the client still hasn't paid. A quiet story about the knot in your stomach, and what chasing money can feel like when it's calm.
+
 - [Repetitive Data Chores Eating Your Week? The Cold Monday Coffee](https://blixwerkstudio.com/guides/repetitive-data-and-file-chores-at-work?s=github) – Monday, 8:40 am, coffee going cold while you rename files and fix the same export again. A story for anyone tired of repetitive data and file chores.
 
 - [Retoure gebucht, Bestand falsch? Der Karton im Flur](https://blixwerkstudio.com/guides/retoure-gebucht-bestand-stimmt-nicht-online-shop?s=github) – Die Retoure ist im Shop gebucht, aber der Bestand stimmt nicht mehr. Eine Mittagspause auf der Parkbank und der Gedanke: Das muss ruhiger gehen.
@@ -3101,6 +3105,8 @@ Included (16 products, 175 USD if bought separately):
 - [Se me olvidó facturar a un cliente y ya pasó un mes: la llamada](https://blixwerkstudio.com/guides/se-me-olvido-facturar-a-un-cliente-y-ya-paso-un-mes?s=github) – Una llamada de martes, una pregunta sencilla y un mes de trabajo sin facturar. Para quien se olvidó de cobrar y no sabe cómo decirlo.
 
 - [Se me pasó el vencimiento de una factura: la lavandería](https://blixwerkstudio.com/guides/se-me-paso-la-fecha-de-vencimiento-de-una-factura?s=github) – Miras la app del banco mientras gira la secadora y lo ves: una factura venció hace tres semanas. Nadie te avisó, y tú tampoco te diste cuenta.
+
+- [API Vulnerability Report Emailed to You? The Cake Stall](https://blixwerkstudio.com/guides/security-researcher-emailed-api-vulnerability-what-do-i-do?s=github) – A stranger's email says your API has a hole, and you're holding a cake knife at the school fair. What to feel, and how to get calm again.
 
 - [Selbstständig überfordert: Rechnungen, Stunden und Lager überall](https://blixwerkstudio.com/guides/selbstaendig-ueberfordert-rechnungen-stunden-lager-chaos?s=github) – Im Zug zum Steuerberater, fünf Orte für drei Themen: Rechnungen, Stunden, Lager. Eine Geschichte für alle, die das Gefühl kennen, nichts im Griff zu haben.
 
@@ -3203,6 +3209,8 @@ Included (16 products, 175 USD if bought separately):
 - [Sold Loads on Etsy, No Money Left? The Dinner Bill](https://blixwerkstudio.com/guides/sold-a-lot-on-etsy-no-money-left-after-fees-and-materials?s=github) – Your Etsy shop had its best month ever, so why is the account empty? A birthday dinner, a split bill and a quieter way to see what you really keep.
 
 - [Sold Out by Noon at the Craft Fair? The Empty Crate](https://blixwerkstudio.com/guides/sold-out-at-craft-fair-by-noon-not-enough-stock?s=github) – It's 12:10, your table is bare and people keep asking. A gentle story for makers who sold out at the craft fair and wish they'd brought more.
+
+- [Solo puedo facturar 25 horas: ¿cuánto cobrar por hora?](https://blixwerkstudio.com/guides/solo-puedo-facturar-25-horas-semana-cuanto-cobrar-por-hora-autonomo?s=github) – Martes, 11:15, videollamada: «¿Cuál es tu tarifa por hora?». Solo facturas 25 horas a la semana y la cifra que dices no sale de ningún sitio.
 
 - [Soy autónomo y no controlo mi dinero ni mi tiempo](https://blixwerkstudio.com/guides/soy-autonomo-no-controlo-mi-dinero-ni-mi-tiempo?s=github) – Miércoles, 14:10, menú del día y una pregunta que no te dejas hacer: ¿dónde se fue el mes? Una historia para quien trabaja por su cuenta y va a ciegas.
 
