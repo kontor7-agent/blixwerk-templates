@@ -1326,6 +1326,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Backup Says Success, Folder Empty? The Spilled Latte](https://blixwerkstudio.com/guides/backup-says-success-but-folder-empty?s=github) – The scheduler said 'completed successfully'. The backup folder says nothing at all. A calm story about trusting your backup again, one logfile at a time.
 
+- [Backup Script Deleted Your Files? The Wedding Fair Stall](https://blixwerkstudio.com/guides/backup-script-deleted-my-files-instead-of-copying?s=github) – You ran the backup script and the folder went quiet. Files gone, not copied. A calm story about the morning after, and how a dry run changes it.
+
 - [Backup Overwrites Yesterday's Copy? The Hotel Lobby Wi-Fi](https://blixwerkstudio.com/guides/backup-script-overwrites-yesterdays-backup?s=github) – You asked for last Tuesday's file and found only today's copy. A quiet story about a backup script that overwrites itself, and what calm looks like instead.
 
 - [Backup Ran, Files Are Empty? The Humming Freezer](https://blixwerkstudio.com/guides/backup-script-ran-but-backup-files-are-empty?s=github) – The script said it finished. The folder says 0 KB. A calm story about the green tick that lied, and what a backup you can actually trust feels like.
@@ -1705,6 +1707,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente quiere ampliar el proyecto sin pagar más](https://blixwerkstudio.com/guides/cliente-quiere-ampliar-el-proyecto-sin-pagar-mas?s=github) – Sábado, la cola de la panadería y un mensaje: «ya que estás, ¿me haces también…?». Cuando el cliente amplía el proyecto y no sabes cómo decírselo.
 
 - [Mi cliente quiere una iguala y no sé cuánto cobrarle](https://blixwerkstudio.com/guides/cliente-quiere-iguala-mensual-cuanto-cobrar?s=github) – Martes, 12:00, videollamada: «¿Cuánto sería una iguala mensual?» Y tú, en blanco. Una historia sobre cómo responder con calma.
+
+- [El cliente quiere las fotos antes de pagar: me da miedo](https://blixwerkstudio.com/guides/cliente-quiere-las-fotos-antes-de-pagar-miedo-entregarlas?s=github) – En la cola de la panadería te llega: «¿me mandas ya las fotos?». Y el resto de la sesión sigue sin pagar. Una historia para fotógrafos autónomos.
 
 - [Cliente tóxico y autónomo: cómo dejarlo sin quedar mal (un lunes)](https://blixwerkstudio.com/guides/cliente-toxico-autonomo-como-dejar-de-trabajar-con-el-sin-quedar-mal?s=github) – Lunes, 9:10, otro mensaje de ese cliente. Una historia sobre cómo despedirte de un cliente tóxico sin quedar mal y recuperar la calma.
 
@@ -2992,6 +2996,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Rechnung nachhaken, ohne zu nerven? Der Zahnarztstuhl](https://blixwerkstudio.com/guides/rechnung-nachhaken-ohne-zu-nerven?s=github) – Du liegst mit offenem Mund auf dem Zahnarztstuhl und formulierst im Kopf die Mahnmail. Warum Nachhaken sich wie Betteln anfühlt und wie es leichter wird.
 
+- [Wie oft Rechnung nachhaken? Der Proberaum, 15:20 Uhr](https://blixwerkstudio.com/guides/rechnung-nachhaken-wie-oft-ist-zu-oft?s=github) – Zweimal gemailt, einmal angerufen, und jetzt? Eine Geschichte über das mulmige Gefühl beim Nachhaken und darüber, wie es leichter werden kann.
+
 - [Rechnung an netten Kunden mahnen? Die Teeküche im Cowork](https://blixwerkstudio.com/guides/rechnung-nettem-kunden-mahnen-unangenehm?s=github) – Der Kunde ist nett, die Rechnung seit drei Wochen offen. Warum Nachhaken sich wie Betteln anfühlt – und wie es ruhiger werden kann.
 
 - [Rechnung offen, Kundin nett: Nachhaken ohne Peinlichkeit](https://blixwerkstudio.com/guides/rechnung-offen-netter-kunde-nachhaken-peinlich?s=github) – Du magst die Kundin, die Rechnung ist 38 Tage offen, und beim Sektempfang lächelt ihr euch zu. Eine Geschichte übers Nachhaken ohne Bauchweh.
@@ -3345,6 +3351,8 @@ Included (16 products, 175 USD if bought separately):
 - [I Underpriced a Job and I'm Losing Money: What Do I Do?](https://blixwerkstudio.com/guides/underpriced-a-job-losing-money-what-do-i-do?s=github) – Halfway through the job, you realise the price was too low. A calm story about the sinking feeling, what to do next, and quoting without guessing.
 
 - [Underquoted a Job and Lost Money? The Tiles on Thursday Morning](https://blixwerkstudio.com/guides/underquoted-a-job-and-lost-money-contractor?s=github) – You quoted the bathroom job in ten minutes on the doorstep. By Thursday, the tiles told you the truth. A story for contractors who underquoted.
+
+- [Unemployed for Months and Feeling Like a Failure? Lane 3](https://blixwerkstudio.com/guides/unemployed-for-months-job-search-feeling-like-a-failure?s=github) – Seven months out of work, and a stranger's 'Day off?' stings. A quiet story about job-search shame and how it can feel less like failing.
 
 - [UnicodeDecodeError al leer un CSV en Python y entrego hoy](https://blixwerkstudio.com/guides/unicodedecodeerror-leer-csv-python-entrego-hoy?s=github) – El CSV no se lee, la pantalla en rojo y el cliente espera a las 12. Una historia para quien tiene que entregar hoy y no sabe por dónde empezar.
 
