@@ -1482,6 +1482,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Wants an Hours Breakdown? The Glasshouse Bench](https://blixwerkstudio.com/guides/client-asks-hours-breakdown-cant-prove-what-i-worked-on?s=github) – Your client asks for a breakdown of your hours and you can't prove what you did. A quiet story about answering calmly, without scrolling through old emails.
 
+- [Client Can't Pay the Invoice at Once? The Sandcastle Call](https://blixwerkstudio.com/guides/client-cant-pay-invoice-all-at-once-payment-plan?s=github) – Your client asks to pay in instalments while you're on a beach day that isn't a holiday. A calm story about answering without guilt or begging.
+
 - [Contact Left, Invoice Unpaid? Who to Chase: The Swing Set](https://blixwerkstudio.com/guides/client-contact-left-invoice-unpaid-who-to-chase?s=github) – Your client contact left and the invoice is still unpaid. A quiet story about who to chase next, and how to do it without feeling like begging.
 
 - [Client Deducted Bank Fees From Payment? The Leek Bunch](https://blixwerkstudio.com/guides/client-deducted-bank-fees-from-invoice-payment?s=github) – The payment arrived, but a few euros short. The client says bank fees are your problem. A Saturday market story about asking calmly for the difference.
@@ -2045,6 +2047,8 @@ Included (16 products, 175 USD if bought separately):
 - [Guessing Your Freelance Hourly Rate? The Required Field](https://blixwerkstudio.com/guides/first-year-freelancing-what-hourly-rate-should-i-charge?s=github) – A required field, a blinking cursor, and a number you're making up. A first-year freelancer's story about guessing your hourly rate.
 
 - [First Year Self-Employed, What Paperwork Do I Keep?](https://blixwerkstudio.com/guides/first-year-self-employed-paperwork-to-keep-for-taxes?s=github) – Eight months freelancing, a carrier bag of paper and one question you're afraid to ask: what do I actually keep? A calm story about the first year.
+
+- [Fixed Price, Unclear Scope? The Kitchen Doorframe Pause](https://blixwerkstudio.com/guides/fixed-price-unclear-job-scope-quote?s=github) – They want one fixed number, but nobody knows what's behind the wall. A calm story about quoting on site without the knot in your stomach.
 
 - [Overdue Invoice Follow-Up Without Sounding Desperate](https://blixwerkstudio.com/guides/follow-up-overdue-invoice-without-sounding-rude?s=github) – You're in the cheese queue, the invoice is 19 days late, and every email draft sounds either grovelling or furious. There's a calmer way to follow up.
 
@@ -2672,6 +2676,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
 
+- [Me salté un número de factura y no sé cuáles emití](https://blixwerkstudio.com/guides/me-salte-un-numero-de-factura-autonomo?s=github) – Miércoles, 11:10, en el andén: tu gestor pide las facturas del trimestre y falta el número 15. Una historia para autónomos con la numeración hecha un lío.
+
 - [Me siento un fracaso como autónomo y los demás van mejor](https://blixwerkstudio.com/guides/me-siento-un-fracaso-como-autonomo?s=github) – Lunes, 8:10, el metro y un feed lleno de éxitos ajenos. Una historia para quien se siente un fracaso como autónomo y cree que los demás van mejor.
 
 - [Me sube la cuota de autónomos: ¿cuánto subo mi tarifa?](https://blixwerkstudio.com/guides/me-sube-la-cuota-de-autonomos-cuanto-subir-mi-tarifa-por-hora?s=github) – Te llega el aviso de que la cuota sube y tu cabeza va a mil: ¿cuánto subo mi tarifa por hora? Una mañana de martes, una historia y un respiro.
@@ -3041,6 +3047,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnung vergessen, Monate später? Der Fahrstuhl im dritten Stock](https://blixwerkstudio.com/guides/rechnung-vergessen-monatelang-peinlich?s=github) – Du hast vergessen, eine Rechnung zu schicken, und der Kunde fragt freundlich nach. Eine Geschichte über Peinlichkeit und über die Ruhe danach.
 
 - [Rechnung vergessen zu schreiben? Monate später, und es ist peinlich](https://blixwerkstudio.com/guides/rechnung-vergessen-zu-schreiben-monate-spaeter-freiberufler?s=github) – Im Zug zum Steuerberater fällt dir ein: Die Rechnung für das Projekt im Frühjahr hast du nie geschrieben. Eine Geschichte über Scham und den Weg raus.
+
+- [Rechnung abgelehnt, Zahlung verzögert? Die Packstation](https://blixwerkstudio.com/guides/rechnung-vom-kunden-abgelehnt-zahlung-verzoegert?s=github) – Die Buchhaltung des Kunden lehnt deine Rechnung ab, und das Geld verschiebt sich schon wieder. Eine Geschichte über Ärger, Ruhe und ein klareres Bild.
 
 - [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://blixwerkstudio.com/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
 
