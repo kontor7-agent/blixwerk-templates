@@ -1522,6 +1522,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Pushing Back on Your Price? The Ticket Inspector](https://blixwerkstudio.com/guides/client-keeps-pushing-back-on-my-price-reply?s=github) – Third email about your price, and you're on a train with a draft you can't send. A calm story about replying without caving or snapping.
 
+- [Client Feedback After Project Closed? The Cafeteria Table](https://blixwerkstudio.com/guides/client-keeps-sending-feedback-after-project-closed?s=github) – The project is closed and paid, but the 'one small thing' emails keep coming. A quiet story about replying kindly without working for free.
+
 - [Client Micromanaging You? The Trailhead Car Park, 8:15](https://blixwerkstudio.com/guides/client-micromanaging-me-freelance-how-to-set-boundaries-politely?s=github) – Your client wants an update every two hours, even on your day off. A quiet story about setting boundaries politely, without losing the client or your calm.
 
 - [Client Missed the Payment Run? The Hallway Paint Roller](https://blixwerkstudio.com/guides/client-missed-payment-run-invoice-unpaid?s=github) – Your client missed the payment run and the invoice is still open. A story about the knot in your stomach, and a calmer way to follow up.
@@ -1819,6 +1821,8 @@ Included (16 products, 175 USD if bought separately):
 - [Cuánto cobrar por hora como programador freelance](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-programador-freelance?s=github) – Videollamada a las 11:00 y te preguntan tu tarifa. Una historia sobre cuánto cobrar por hora como programador freelance sin quedarte corto.
 
 - [Cuánto cobrar por un tinte si gasto mucho producto](https://blixwerkstudio.com/guides/cuanto-cobrar-por-un-tinte-peluqueria-gasto-mucho-producto?s=github) – Mezclaste el doble de color y la clienta pregunta el precio. Una historia para peluqueras que no saben si ganan con cada tinte.
+
+- [Cuánto cobrar por sesión de fotos de familia: el miedo](https://blixwerkstudio.com/guides/cuanto-cobrar-sesion-fotos-familia-miedo-quedarme-corto?s=github) – Un mensaje de WhatsApp a la puerta del cole y un precio que no sale. Una historia sobre cobrar una sesión de familia sin quedarte corto.
 
 - [Stock de seguridad: siempre pido de más o de menos](https://blixwerkstudio.com/guides/cuanto-stock-de-seguridad-tener-en-mi-tienda?s=github) – Tres cajas de más en el trastero y el bestseller agotado. Una historia sobre pedir al proveedor sin adivinar y cuánto stock de seguridad tener.
 
@@ -2826,6 +2830,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Nombres en mayúsculas y minúsculas en Excel: entrego hoy](https://blixwerkstudio.com/guides/nombres-mayusculas-minusculas-mezclados-excel-entrego-hoy?s=github) – Las acreditaciones se imprimen a las dos y la lista mezcla MAYÚSCULAS y minúsculas. Una historia para quien entrega hoy.
 
+- [npm Audit Shows Vulnerabilities? The Weekly Fire Alarm](https://blixwerkstudio.com/guides/npm-audit-vulnerabilities-which-ones-matter-api?s=github) – npm audit shows a wall of red on your API and the weekly alarm test starts beeping. A calm story about telling real risk from noise.
+
 - [Nur die Hälfte abrechenbar: Reicht dein Stundensatz?](https://blixwerkstudio.com/guides/nur-haelfte-stunden-abrechenbar-stundensatz-reicht-nicht?s=github) – Zehn Minuten zu früh vor dem Kundentermin fällt dir auf: Nur die Hälfte deiner Stunden landet auf der Rechnung. Reicht dein Stundensatz dann überhaupt?
 
 - [Olvidé el desplazamiento en el presupuesto: un lunes](https://blixwerkstudio.com/guides/olvide-desplazamiento-mano-de-obra-presupuesto-perdi-dinero?s=github) – Hiciste el presupuesto de memoria en la obra y al cuadrar faltaban el desplazamiento y la mano de obra. Una historia para autónomos de oficios.
@@ -3413,6 +3419,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tengo 50 archivos CSV y debo unirlos en uno hoy](https://blixwerkstudio.com/guides/unir-50-archivos-csv-en-uno-solo-hoy?s=github) – Cincuenta CSV en la carpeta, una llamada a las 12:00 y el reloj en marcha. Una historia para quien necesita unirlos en un solo archivo hoy.
 
 - [Unir varios Excel con columnas distintas y que salga desordenado](https://blixwerkstudio.com/guides/unir-varios-excel-columnas-distintas-desordenado?s=github) – Tres Excel, tres formas de llamar a las mismas columnas y una llamada a las once. Una historia para quien pega datos a mano y nunca cuadra.
+
+- [Unverkaufte Ware im Lager? Geld steckt in Kartons](https://blixwerkstudio.com/guides/unverkaufte-ware-lager-geld-gebunden?s=github) – Samstag, 6:40 Uhr, Weihnachtsmarkt-Aufbau: Die Kartons vom letzten Jahr stehen noch da. Eine Geschichte über gebundenes Geld und ein ruhigeres Lager.
 
 - [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://blixwerkstudio.com/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
 
