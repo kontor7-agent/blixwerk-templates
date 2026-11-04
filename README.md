@@ -2064,6 +2064,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Fotos geliefert, Restzahlung offen? Die Raststätte, 13:15](https://blixwerkstudio.com/guides/foto-restzahlung-offen-kunde-hat-alle-bilder?s=github) – Alle Fotos sind raus, der Restbetrag fehlt noch. Eine Fotografin an der Raststätte und die Ruhe, die kommt, wenn du siehst, was offen ist.
 
+- [Galerien im Rückstand? Der Kuchenbasar, Freitag 15:40](https://blixwerkstudio.com/guides/fotograf-bearbeitungsrueckstand-kunden-warten-auf-galerie?s=github) – Kunden fragen nach ihren Fotos, und du steckst im Bearbeitungsrückstand. Eine Geschichte über Galerie-Fristen, schlechtes Gewissen und wieder Überblick.
+
 - [Fotograf: Stunden in der Bearbeitung – verdienst du überhaupt was?](https://blixwerkstudio.com/guides/fotograf-bildbearbeitung-dauert-ewig-verdiene-ich-ueberhaupt-was?s=github) – Das Brautpaar fragt nach den Bildern, du sitzt seit Tagen in der Bearbeitung und weißt nicht, ob sich der Auftrag lohnt. Eine Geschichte.
 
 - [Zwei Kunden am selben Tag gebucht? Der Anruf um 8:15](https://blixwerkstudio.com/guides/fotograf-doppelt-gebucht-zwei-kunden-am-selben-tag?s=github) – Als Fotografin doppelt gebucht: zwei Kunden, ein Samstag, ein Kalender, dem du nicht mehr traust. Eine Geschichte über den Moment danach und was ihn ruhiger macht.
@@ -2570,6 +2572,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Laid Off, Applying Everywhere? The Neighbour's Question](https://blixwerkstudio.com/guides/laid-off-applying-everywhere-keep-track-of-applications?s=github) – Laid off and sending applications everywhere? A quiet story about the phone call you can't place, and how to keep track of every application calmly.
 
+- [Laptop Stolen, No Backup of Your Work? The Front Desk](https://blixwerkstudio.com/guides/laptop-stolen-no-backup-of-my-work?s=github) – Your laptop is gone and the last backup is a memory. A calm story about the police front desk, the lost files, and the quiet Monday that could follow.
+
 - [Tutor Students Pay Late, Cancel Late? The Car Outside Number 14](https://blixwerkstudio.com/guides/private-tutor-lesson-log-invoice-tracker-late-payments-cancellations?s=github) – Your 4 pm student cancels by text while you sit outside in the rain. Who is behind, what it costs, and when to raise your rate – a tutor's story.
 
 - [Lieferant erhöht Preise: Verdienst du noch? Samstag, 6:50](https://blixwerkstudio.com/guides/lieferant-erhoeht-preise-verdiene-ich-noch-etwas?s=github) – Der Lieferant hat die Preise erhöht, und du weißt nicht, ob sich dein Sortiment noch lohnt. Eine Geschichte vom Samstagmorgen am Marktstand.
@@ -2579,6 +2583,8 @@ Included (16 products, 175 USD if bought separately):
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://blixwerkstudio.com/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
 
 - [Limpio los mismos 20 Excel cada mes y ya no puedo más](https://blixwerkstudio.com/guides/limpiar-los-mismos-archivos-excel-cada-mes?s=github) – El día 1 abres los mismos 20 archivos de Excel y empiezas a limpiar. Una historia para quien siente que el mes se le va en eso.
+
+- [Easy Apply, Can't Recall Which Jobs? The Optician's Chair](https://blixwerkstudio.com/guides/linkedin-easy-apply-cant-remember-which-jobs?s=github) – A recruiter calls while you wait at the optician's and you can't place the job. A story for anyone who clicked Easy Apply too many times to remember.
 
 - [Meses buscando trabajo y nadie llama: me siento perdido](https://blixwerkstudio.com/guides/llevo-meses-buscando-trabajo-no-me-llaman-perdido?s=github) – Mandas currículums y solo recibes silencio. Una mañana en la lavandería, demasiadas pestañas abiertas y la sensación de que puede haber otra forma.
 
@@ -2639,6 +2645,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me retrasé con la entrega y no sé cómo avisar al cliente](https://blixwerkstudio.com/guides/me-retrase-con-la-entrega-como-avisar-al-cliente?s=github) – Es lunes, la entrega venció el viernes y no sabes cómo decírselo al cliente. Una historia sobre ese nudo en el estómago y cómo se afloja.
 
 - [Me salió caro el trabajo y perdí dinero en el presupuesto](https://blixwerkstudio.com/guides/me-salio-caro-el-trabajo-y-perdi-dinero-en-el-presupuesto?s=github) – Presupuestaste en la obra, de cabeza, y al terminar las cuentas no salen. Una historia sobre perder dinero en un presupuesto y volver a respirar.
+
+- [Me siento un fracaso como autónomo y los demás van mejor](https://blixwerkstudio.com/guides/me-siento-un-fracaso-como-autonomo?s=github) – Lunes, 8:10, el metro y un feed lleno de éxitos ajenos. Una historia para quien se siente un fracaso como autónomo y cree que los demás van mejor.
 
 - [Me sube la cuota de autónomos: ¿cuánto subo mi tarifa?](https://blixwerkstudio.com/guides/me-sube-la-cuota-de-autonomos-cuanto-subir-mi-tarifa-por-hora?s=github) – Te llega el aviso de que la cuota sube y tu cabeza va a mil: ¿cuánto subo mi tarifa por hora? Una mañana de martes, una historia y un respiro.
 
