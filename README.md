@@ -1874,6 +1874,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Dejar mi trabajo para ser freelance: ¿cuánto cobrar?](https://blixwerkstudio.com/guides/dejar-mi-trabajo-para-ser-freelance-cuanto-cobrar?s=github) – En la cocina de la oficina, con la carta de renuncia a medias, una pregunta sin respuesta: ¿cuánto cobrar como freelance?
 
+- [Send Photos Before Final Payment? The Plant Queue](https://blixwerkstudio.com/guides/deliver-photos-before-final-payment?s=github) – Your thumb hovers over Send, the gallery is ready, the balance isn't paid. A quiet story for photographers who hate that moment, and the calmer Monday after.
+
 - [Desktop Full of Screenshots? The Kitchen TV Mirror](https://blixwerkstudio.com/guides/desktop-full-of-screenshots-cant-find-anything?s=github) – Your desktop is a wall of screenshots and random files, and the family TV just mirrored it. A calm story about finding things again.
 
 - [Después de impuestos y cuota me queda poco: ¿cobro bien?](https://blixwerkstudio.com/guides/despues-de-impuestos-y-cuota-de-autonomo-me-queda-poco-cobro-bien?s=github) – Sales de la gestoría con el resumen en la mano y una duda: si me queda tan poco, ¿cobro bien? Una historia para autónomos y freelancers.
@@ -1915,6 +1917,8 @@ Included (16 products, 175 USD if bought separately):
 - [Duplicate Files Everywhere on Your PC? The Car Park, 8:50](https://blixwerkstudio.com/guides/duplicate-files-random-names-pc-cant-find-anything?s=github) – Ten minutes early for a client meeting, and the file you need could be any of six copies with random names. A calm story about a PC you can trust again.
 
 - [Eilauftrag: Wie viel Aufschlag, ohne schlechtes Gewissen?](https://blixwerkstudio.com/guides/eilauftrag-aufschlag-freelance-schlechtes-gewissen?s=github) – Der Kunde braucht es bis morgen, und du tippst „wie immer“ in die Antwort. Eine Geschichte über Eilaufträge, Aufschlag und das schlechte Gewissen.
+
+- [Eine Woche frei, Kunden weg? Der Satz am Callende](https://blixwerkstudio.com/guides/eine-woche-frei-als-freelancer-kunden-verlieren?s=github) – Donnerstag, 16:58 Uhr, der Call ist fast vorbei, und du sagst nicht, dass du nächste Woche frei hast. Eine Geschichte über Mut, Urlaub und ruhige Mails.
 
 - [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://blixwerkstudio.com/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
 
@@ -2832,7 +2836,11 @@ Included (16 products, 175 USD if bought separately):
 
 - [Pandas Won't Convert CSV Prices? The Rental Flat Balcony](https://blixwerkstudio.com/guides/pandas-csv-prices-mixed-currency-formats-cant-convert?s=github) – €1.299,00, $1,299.00, 'approx 1299 EUR' and pandas says no. A holiday that isn't one, and the calm of a price column that finally behaves.
 
+- [DtypeWarning Mixed Types in pandas CSV? The Chess Clock](https://blixwerkstudio.com/guides/pandas-dtypewarning-mixed-types-csv-import?s=github) – The same yellow DtypeWarning on every CSV import, in a school hall on a Saturday. A story for anyone tired of mixed-type columns and re-running scripts.
+
 - [read_csv Error Tokenizing Data? The Trampoline Bench](https://blixwerkstudio.com/guides/pandas-read-csv-error-tokenizing-data?s=github) – Saturday, a trampoline park bench, and a client CSV that pandas refuses to read again. A story about messy files and getting your weekend back.
+
+- [Me da pánico llamar a un cliente para cobrar una factura](https://blixwerkstudio.com/guides/panico-llamar-cliente-cobrar-factura?s=github) – El pulgar sobre el botón de llamar, el corazón a mil y una factura de hace 40 días. Una historia para quien cobra con un nudo en el estómago.
 
 - [Passwords and Tokens in Your API Logs? The Ski Boot Queue](https://blixwerkstudio.com/guides/passwords-and-tokens-in-api-logs-what-else-am-i-missing?s=github) – You found a token in your API logs while standing in a ski-boot queue, and now you wonder what else you missed. A calm story about that feeling.
 
