@@ -1258,6 +1258,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Am I Undercharging as a Freelancer? The Sunday Walk That Hurt](https://blixwerkstudio.com/guides/am-i-undercharging-as-a-freelancer-burnout?s=github) – Fully booked, still tired, still short on money. A quiet story about the moment you wonder if your rate is the real reason you're burning out.
 
+- [Un amigo me debe una factura y no sé cómo reclamarle](https://blixwerkstudio.com/guides/amigo-me-debe-factura-como-reclamar?s=github) – Le hiciste el trabajo a un amigo y la factura sigue sin pagar. Una historia sobre reclamar con calma, sin perder la amistad ni el buen humor.
+
 - [Angry Customer Email? How to Reply: The Bakery Counter](https://blixwerkstudio.com/guides/angry-customer-email-how-to-reply-small-business?s=github) – An angry customer email lands at 8:05 on a Monday and your stomach drops. A calm story about replying without panic, defensiveness or three lost hours.
 
 - [Angst vorm Monatsende als Freelancer? Der kalte Toast](https://blixwerkstudio.com/guides/angst-vorm-monatsende-freelancer-geld-reicht-nicht?s=github) – Der 27., 8:15 Uhr, die Banking-App noch ungeöffnet: Wenn du als Freelancer nie weißt, ob das Geld reicht. Eine Geschichte über leisere Monatsenden.
@@ -1499,6 +1501,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Ignoring Your Payment Reminder? The Laundromat Wednesday](https://blixwerkstudio.com/guides/client-ignoring-payment-reminder-freelancer-what-to-do?s=github) – Third reminder, still silence. Wednesday, 11:20, a laundromat bench, and the quiet worry of a freelancer whose client won't answer. A story about calmer follow-ups.
 
 - [Client Keeps Asking for Extra Work for Free? What Do I Say?](https://blixwerkstudio.com/guides/client-keeps-asking-for-extra-work-for-free-freelancer-what-do-i-say?s=github) – A client slips in 'one more small thing' again. A story about the pause before you answer, and finding words that are kind, clear and still yours.
+
+- [Client Wants Status Updates Daily? The Planetarium Seat](https://blixwerkstudio.com/guides/client-keeps-asking-for-project-status-updates?s=github) – The lights go down, your phone lights up: 'Any update?' A quiet story for freelancers who feel micromanaged and just want a calm rhythm with clients.
 
 - [Client Keeps Changing the Scope? The Car Wash and the Blank Email](https://blixwerkstudio.com/guides/client-keeps-changing-project-scope-how-to-say-no?s=github) – The client changed the brief again and your reply box is empty. A short story about finding calm words to say no without losing the client.
 
@@ -2271,6 +2275,8 @@ Included (16 products, 175 USD if bought separately):
 - [Hice el presupuesto sin margen y la obra me da pérdidas](https://blixwerkstudio.com/guides/hice-presupuesto-sin-margen-pierdo-dinero-obra-autonomo?s=github) – Presupuestaste la obra sin contar el margen y lo ves en la cola de la ferretería. Una historia para autónomos que quieren cobrar lo que trabajan.
 
 - [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
+
+- [Hochzeitsfotografin: Preise zu niedrig? Der Parkplatz](https://blixwerkstudio.com/guides/hochzeitsfotografin-preise-zu-niedrig-verdiene-ich-ueberhaupt-was?s=github) – Samstag, 11:50 Uhr, Standesamt-Parkplatz: Du rechnest im Kopf nach, was dieser Hochzeitstag dir wirklich bringt. Eine Geschichte über klare Zahlen.
 
 - [Hours on Emails and Product Descriptions? The Kiln Timer](https://blixwerkstudio.com/guides/hours-writing-emails-product-descriptions-small-business?s=github) – Monday, 9:10, a kiln timer ticking and a blank product page. If writing emails and descriptions eats your week, this story might feel familiar.
 
@@ -3077,6 +3083,8 @@ Included (16 products, 175 USD if bought separately):
 - [Can't Say No to a Client's Extra Work? The Lifting Bridge](https://blixwerkstudio.com/guides/say-no-to-client-extra-work-politely?s=github) – The bridge goes up, your phone buzzes: 'one small extra thing?' A story about saying no to extra client work without sounding rude.
 
 - [Scared Your Freelance Income Will Drop? Planning 2027](https://blixwerkstudio.com/guides/scared-freelance-income-will-drop-next-year-plan-2027?s=github) – The Tuesday supermarket queue, a half-empty calendar and one quiet fear: will 2027 be a thin year? A calm story about planning ahead without panic.
+
+- [Scared to Raise Salon Prices? The Laminated Price Card](https://blixwerkstudio.com/guides/scared-to-raise-salon-prices-regulars-will-leave?s=github) – Your regulars have sat in your chair for years, and raising prices feels like betrayal. A quiet story about a laminated card and a calmer way in.
 
 - [Scared to Send a Final Notice? The Kite Hill Sunday](https://blixwerkstudio.com/guides/scared-to-send-final-notice-unpaid-invoice-freelancer-guilty?s=github) – Draft open, thumb hovering, stomach in a knot. A story for freelancers who feel guilty about sending a final notice for an unpaid invoice.
 
