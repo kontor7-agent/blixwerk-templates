@@ -1318,6 +1318,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Third Reminder for an Unpaid Invoice? The Dentist Forms](https://blixwerkstudio.com/guides/awkward-sending-third-reminder-unpaid-invoice-what-to-write?s=github) – Cursor blinking in a third reminder, you feel awkward and don't know what to write. A quiet story about chasing an unpaid invoice without the dread.
 
+- [Backup Folder Keeps Growing, Drive Almost Full? The Ferry Deck](https://blixwerkstudio.com/guides/backup-folder-keeps-growing-drive-almost-full?s=github) – The backup drive is 94% full and nobody ever deleted the old copies. A calm story about a Monday when the folder finally looked after itself.
+
 - [Backup Failed Silently? The Monday Call for March's Files](https://blixwerkstudio.com/guides/backup-job-silently-failed-noticed-when-needed-files?s=github) – The backup you trusted stopped months ago, and you find out on a client call. A calm story about silent failures and a backup that tells you it ran.
 
 - [Backup Drive Full? The Bakery Question at 6:30 am](https://blixwerkstudio.com/guides/backup-drive-full-log-files-never-rotated?s=github) – The owner asks, 'We're backed up, right?' and the drive says otherwise. A calm story about backups, old logs and finally trusting them.
@@ -1449,6 +1451,8 @@ Included (16 products, 175 USD if bought separately):
 - [ChatGPT Too Generic for Your Business? The Coffee Queue](https://blixwerkstudio.com/guides/chatgpt-generic-answers-small-business-what-to-ask?s=github) – ChatGPT keeps giving you bland answers for your small business? A quiet story about the moment the question, not the tool, turned out to be the problem.
 
 - [ChatGPT Mahnung freundlich formulieren? Wartenummer 47 im Bürgeramt](https://blixwerkstudio.com/guides/chatgpt-mahnung-an-kunden-freundlich-formulieren?s=github) – Du hast ChatGPT gefragt, aber die Mahnung klingt wie ein Amtsbrief. Eine Geschichte über Wartenummer 47 und den Satz, der endlich nach dir klingt.
+
+- [Alumno nuevo pide clase de prueba gratis: ¿la cobro?](https://blixwerkstudio.com/guides/clase-de-prueba-gratis-clases-particulares-cobrar?s=github) – Sábado en la cola de la panadería, un mensaje: «¿la primera clase es gratis?». Las dudas de una profe particular, sin recetas y sin culpa.
 
 - [Doy clases particulares, pagan tarde y cancelan: ¿cómo llevo las cuentas?](https://blixwerkstudio.com/guides/clases-particulares-alumnos-pagan-tarde-cancelan-llevar-cuentas?s=github) – Son las 16:10, esperas en la parada y llega otro «perdona, hoy no puedo». Una historia para quien da clases y ya no sabe quién le debe qué.
 
@@ -2048,6 +2052,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forgot to Invoice Hours Last Month? The Donation Chair](https://blixwerkstudio.com/guides/forgot-to-invoice-hours-last-month?s=github) – You're lying back with a paper cup of juice when you realise a week of last month's hours never made it onto an invoice. A quiet story about that moment.
 
+- [Forgot to Log Your Time All Week? The Tram on Friday](https://blixwerkstudio.com/guides/forgot-to-log-time-all-week-freelancer-cant-invoice?s=github) – It's Friday, the invoice is due, and your timesheet is empty. A calm story about reconstructing a week you never logged, and not having to next time.
+
 - [Forgot to Invoice a Client as a Freelancer? The Wedding Fair Stand](https://blixwerkstudio.com/guides/forgot-to-send-invoice-to-client-freelancer-what-to-do?s=github) – Standing at a trade fair, you suddenly realise a client was never invoiced. What to do next, and how a calm weekly routine keeps it from happening again.
 
 - [Forgot to Write an Invoice? The Freelancer's Tuesday at the Bank](https://blixwerkstudio.com/guides/forgot-to-write-invoice-freelancer-lost-overview?s=github) – You stand in a queue and suddenly wonder: did I ever bill that job? A quiet story about losing the overview as a freelancer, and getting it back.
@@ -2535,6 +2541,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde zahlt trotz Mahnung nicht? Das Wartezimmer, 8:15](https://blixwerkstudio.com/guides/kunde-zahlt-trotz-mahnung-nicht-inkasso?s=github) – Dritte Mahnung raus, Funkstille. Inkasso ja oder nein? Eine Lektorin im Physio-Wartezimmer und die Ruhe, die kommt, wenn du den nächsten Schritt kennst.
 
 - [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://blixwerkstudio.com/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
+
+- [Kunde zieht Skonto ab, nicht vereinbart? Rot an der Ampel](https://blixwerkstudio.com/guides/kunde-zieht-skonto-ab-nicht-vereinbart?s=github) – Der Zahlungseingang ist 2 % zu klein, und du weißt nicht mehr, was auf der Rechnung stand. Eine Geschichte über Skonto, Ruhe und den Blick aufs Konto.
 
 - [Zufriedener Kunde: Empfehlung fragen? Der Launch-Call](https://blixwerkstudio.com/guides/kunde-zufrieden-nach-empfehlung-fragen-freelance?s=github) – Der Kunde ist begeistert, du lächelst – und fragst trotzdem nicht nach einer Empfehlung. Eine Geschichte über den Satz, der dir im Hals stecken bleibt.
 
