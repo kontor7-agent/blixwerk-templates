@@ -1322,6 +1322,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Third Reminder for an Unpaid Invoice? The Dentist Forms](https://blixwerkstudio.com/guides/awkward-sending-third-reminder-unpaid-invoice-what-to-write?s=github) – Cursor blinking in a third reminder, you feel awkward and don't know what to write. A quiet story about chasing an unpaid invoice without the dread.
 
+- [Ayudante con comisión en mi peluquería: ¿me compensa?](https://blixwerkstudio.com/guides/ayudante-comision-peluqueria-me-compensa?s=github) – Sábado, hora del bocata: Marta mira lo que cobra su ayudante y no sabe si le compensa. Una historia para peluqueras y barberos que trabajan casi solos.
+
 - [Backup Folder Keeps Growing, Drive Almost Full? The Ferry Deck](https://blixwerkstudio.com/guides/backup-folder-keeps-growing-drive-almost-full?s=github) – The backup drive is 94% full and nobody ever deleted the old copies. A calm story about a Monday when the folder finally looked after itself.
 
 - [Backup Failed Silently? The Monday Call for March's Files](https://blixwerkstudio.com/guides/backup-job-silently-failed-noticed-when-needed-files?s=github) – The backup you trusted stopped months ago, and you find out on a client call. A calm story about silent failures and a backup that tells you it ran.
@@ -1451,6 +1453,8 @@ Included (16 products, 175 USD if bought separately):
 - [Forgot Which Lessons You Taught? The Barbecue Question](https://blixwerkstudio.com/guides/cant-remember-which-lessons-i-taught-and-who-paid?s=github) – Your sister asks how the month went and you can't say which lessons you taught or who paid. A quiet story for private tutors and teachers.
 
 - [Forgot What You Invoiced This Quarter? The Harbour Bench](https://blixwerkstudio.com/guides/cant-remember-which-projects-invoiced-this-quarter?s=github) – Half a bag of chips, a phone at 9% and one question you can't answer: which projects did you already invoice this quarter? A calm story about knowing.
+
+- [Which Resume Version Did You Send? The Olive Stall Call](https://blixwerkstudio.com/guides/cant-remember-which-resume-version-i-sent-to-which-company?s=github) – The recruiter says 'I loved the version you sent' and you can't remember which one that was. A short story about resume versions and calm.
 
 - [Can't Tell Which Hours You Invoiced? The Beehive Veil](https://blixwerkstudio.com/guides/cant-tell-which-freelance-hours-invoiced?s=github) – A phone buzzes mid-beehive-inspection and you can't say which hours you already billed. A short story about getting that certainty back.
 
@@ -2257,6 +2261,8 @@ Included (16 products, 175 USD if bought separately):
 - [Steuerfrist naht, Belege überall? Der Parkplatz um 9:48](https://blixwerkstudio.com/guides/freiberufler-steuerfrist-belege-chaos-parkplatz?s=github) – Zehn Minuten vor dem Termin sitzt du im Auto, neben dir ein Karton voller Belege. Eine Geschichte für alle, die jedes Jahr kurz vor der Frist suchen.
 
 - [Friend Hasn't Paid Your Invoice? The Opening-Day Latte](https://blixwerkstudio.com/guides/friend-hired-me-hasnt-paid-invoice-how-to-ask?s=github) – Your friend hired you, loves the work, and still hasn't paid. A quiet story about asking for your money without losing the friendship.
+
+- [Bar und Trinkgeld im Salon: Was bleibt am Monatsende?](https://blixwerkstudio.com/guides/friseurin-bar-trinkgeld-was-verdiene-ich-wirklich?s=github) – Montag, 8:20 Uhr, der Salon ist noch leer – und du weißt nicht, was du letzten Monat verdient hast. Bar, Karte, Trinkgeld: eine Geschichte über Klarheit.
 
 - [Stuhlmiete, Friseurin: Wie viel für Steuern zurücklegen?](https://blixwerkstudio.com/guides/friseurin-stuhlmiete-steuern-zurcklegen?s=github) – Stuhlmieterin im Salon und keine Ahnung, was fürs Finanzamt zur Seite gehört? Eine Geschichte über Trinkgeld, Kartenzahlung und ruhige Zahlen.
 
@@ -3147,6 +3153,8 @@ Included (16 products, 175 USD if bought separately):
 - [Can't Say No to a Client's Extra Work? The Lifting Bridge](https://blixwerkstudio.com/guides/say-no-to-client-extra-work-politely?s=github) – The bridge goes up, your phone buzzes: 'one small extra thing?' A story about saying no to extra client work without sounding rude.
 
 - [Scared Your Freelance Income Will Drop? Planning 2027](https://blixwerkstudio.com/guides/scared-freelance-income-will-drop-next-year-plan-2027?s=github) – The Tuesday supermarket queue, a half-empty calendar and one quiet fear: will 2027 be a thin year? A calm story about planning ahead without panic.
+
+- [Scared to Ask a Client for a Deposit? The Revolving Door](https://blixwerkstudio.com/guides/scared-to-ask-freelance-client-for-upfront-deposit?s=github) – You're about to start a project with nothing agreed on money. The deposit question sits in your throat. A calm story about asking without the knot.
 
 - [Scared to Raise Salon Prices? The Laminated Price Card](https://blixwerkstudio.com/guides/scared-to-raise-salon-prices-regulars-will-leave?s=github) – Your regulars have sat in your chair for years, and raising prices feels like betrayal. A quiet story about a laminated card and a calmer way in.
 
