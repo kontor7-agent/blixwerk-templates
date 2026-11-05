@@ -2638,6 +2638,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Lieferant erhöht Preise: Verdienst du noch? Samstag, 6:50](https://blixwerkstudio.com/guides/lieferant-erhoeht-preise-verdiene-ich-noch-etwas?s=github) – Der Lieferant hat die Preise erhöht, und du weißt nicht, ob sich dein Sortiment noch lohnt. Eine Geschichte vom Samstagmorgen am Marktstand.
 
+- [Falsche Menge geliefert? Lieferschein, Donnerstag 10:25](https://blixwerkstudio.com/guides/lieferant-falsche-menge-geliefert-lagerbestand-stimmt-nicht?s=github) – Der Lieferant schickt 180 statt 240 Gläser, und die Excel-Liste stimmt nicht mehr. Eine Geschichte über Wareneingang und den Moment danach.
+
 - [Lieferant liefert zu spät, Ware ist aus? Der Anruf um 11:20 Uhr](https://blixwerkstudio.com/guides/lieferant-liefert-zu-spaet-ware-ist-aus?s=github) – Der Lieferant meldet sich: drei Wochen Verzug. Im Shop steht noch „2 verfügbar“. Eine Geschichte über leere Regale und die Ruhe, die danach möglich ist.
 
 - [Limpio los mismos Excel a mano cada semana: ¿se puede automatizar?](https://blixwerkstudio.com/guides/limpiar-excel-a-mano-cada-semana-automatizar?s=github) – Cada jueves, la misma hora limpiando el mismo Excel antes de entregar. Una historia sobre dejar de repetirlo a mano y recuperar tu mañana.
@@ -2651,6 +2653,8 @@ Included (16 products, 175 USD if bought separately):
 - [Meses buscando trabajo y nadie llama: me siento perdido](https://blixwerkstudio.com/guides/llevo-meses-buscando-trabajo-no-me-llaman-perdido?s=github) – Mandas currículums y solo recibes silencio. Una mañana en la lavandería, demasiadas pestañas abiertas y la sensación de que puede haber otra forma.
 
 - [Semanas sin publicar en LinkedIn: ¿perderé clientes?](https://blixwerkstudio.com/guides/llevo-semanas-sin-publicar-en-linkedin-ansiedad-perder-clientes?s=github) – Seis semanas sin publicar en LinkedIn y la ansiedad de que se olviden de ti. Una historia sobre volver a aparecer sin el pánico del domingo.
+
+- [Login Reveals Which Emails Exist? The Screen-Share Pause](https://blixwerkstudio.com/guides/login-endpoint-reveals-registered-emails-security-problem?s=github) – A client types a made-up email into your login page and reads the error aloud. Is that a security problem? A calm story about that pause on a Tuesday call.
 
 - [Lost a Business Receipt as a Freelancer? The Blank Slip](https://blixwerkstudio.com/guides/lost-a-business-receipt-what-do-i-do-freelancer?s=github) – The receipt for your new monitor is a blank strip of paper. A quiet story about lost business receipts, and what a calm year-end feels like instead.
 
@@ -2867,6 +2871,8 @@ Included (16 products, 175 USD if bought separately):
 - [Old API Endpoints Nobody Remembers? The Loft Full of Cables](https://blixwerkstudio.com/guides/old-api-endpoints-still-running-nobody-remembers?s=github) – A Saturday loft clear-out, a box of unlabelled cables, and the old API routes still running that nobody can explain. A calm way out of the 2 a.m. doubt.
 
 - [Olvidé el desplazamiento en el presupuesto: un lunes](https://blixwerkstudio.com/guides/olvide-desplazamiento-mano-de-obra-presupuesto-perdi-dinero?s=github) – Hiciste el presupuesto de memoria en la obra y al cuadrar faltaban el desplazamiento y la mano de obra. Una historia para autónomos de oficios.
+
+- [Olvidé el IVA en el presupuesto y no quiere pagarlo](https://blixwerkstudio.com/guides/olvide-iva-presupuesto-cliente-no-quiere-pagarlo?s=github) – Terminaste la reforma, mandas la factura y llega el mensaje: «eso no estaba en el presupuesto». Una historia para quien olvidó el IVA al presupuestar.
 
 - [Cuentas en libretas y papeles: cómo ordenarlas en Excel](https://blixwerkstudio.com/guides/ordenar-cuentas-negocio-excel-libretas-papeles?s=github) – Libretas, tickets y notas pegadas en la pared. Una tapicera, una llamada de un cliente y la sensación de que ordenar las cuentas sí es posible.
 
@@ -3157,6 +3163,8 @@ Included (16 products, 175 USD if bought separately):
 - [Salon voll, aber verdienst du was? Vor dem Steuerberater](https://blixwerkstudio.com/guides/salon-voll-aber-verdienst-du-was?s=github) – Der Kalender ist voll, das Konto sagt etwas anderes. Eine Geschichte für Friseurinnen, Nagelstudios und Barber vor dem Steuerberater-Termin.
 
 - [Same Customer Spelled 5 Ways in Excel? The Fair Stand](https://blixwerkstudio.com/guides/same-customer-spelled-five-ways-in-excel?s=github) – Hartmann, Hartman, HARTMANN GmbH: your export counts one client five times. A quiet story about the moment a trade-fair question exposed it.
+
+- [Same Customer Twice in Your CSV? The Two Name Badges](https://blixwerkstudio.com/guides/same-customer-twice-in-csv-different-email-capitalization?s=github) – Anna Weber is in your export twice, one email in capitals. Thirty badges are printing. A quiet story about duplicates that hide in plain sight.
 
 - [Can't Say No to a Client's Extra Work? The Lifting Bridge](https://blixwerkstudio.com/guides/say-no-to-client-extra-work-politely?s=github) – The bridge goes up, your phone buzzes: 'one small extra thing?' A story about saying no to extra client work without sounding rude.
 
