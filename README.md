@@ -1368,6 +1368,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Bewerbungen im Überblick behalten? Der Anruf an der Ampel](https://blixwerkstudio.com/guides/bewerbungen-ueberblick-behalten-excel?s=github) – Du hast dich so oft beworben, dass du nicht mehr weißt, wo. Eine Geschichte über einen Anruf an der Ampel und wie wieder Ruhe in dein Bewerben kommt.
 
+- [Bewirtungsbeleg falsch ausgefüllt? Der Zettel im Mantel](https://blixwerkstudio.com/guides/bewirtungsbeleg-falsch-ausgefuellt-betriebsausgabe-weg?s=github) – Donnerstag, 16:40, Straßenbahn zum Steuerberater: Auf dem Bewirtungsbeleg fehlt etwas. Eine Geschichte über Belege, Nerven und ein ruhigeres Jahresende.
+
 - [Beworben, keine Antwort? Wann nachhaken? Gepäckband 4](https://blixwerkstudio.com/guides/beworben-keine-antwort-wann-nachfragen?s=github) – Vor drei Wochen beworben, seitdem Stille. Eine Geschichte vom Gepäckband über das Warten und den Moment, in dem das Nachhaken ruhig wird.
 
 - [Billed the Wrong Hours? The Meatball Queue Panic](https://blixwerkstudio.com/guides/billed-client-wrong-hours-panic?s=github) – The client emails: 'Are these hours right?' and your stomach drops. A calm story about checking, correcting and never guessing at your hours again.
@@ -1950,6 +1952,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Empecé sin presupuesto firmado: «no es lo acordado»](https://blixwerkstudio.com/guides/empece-sin-presupuesto-firmado-cliente-dice-no-es-lo-acordado?s=github) – Empezaste sin el presupuesto firmado y ahora el cliente dice que no era lo acordado. Una historia sobre un martes a las 11:05 y cómo volver a respirar.
 
+- [Traducción diminuta que no compensa: ¿tarifa mínima?](https://blixwerkstudio.com/guides/encargo-traduccion-pequeno-no-compensa-tarifa-minima-traductor-autonom?s=github) – Te piden 140 palabras «para hoy» y sabes que no compensan. Una historia sobre la tarifa mínima del traductor autónomo y cómo decirla con calma.
+
 - [Entregué las fotos de la boda y no me pagan el resto](https://blixwerkstudio.com/guides/entregue-las-fotos-de-la-boda-y-el-cliente-no-paga-el-resto?s=github) – Entregaste la galería, los novios te dieron las gracias y el resto sigue sin llegar. Una historia sobre cobrar sin apuro y con la cabeza tranquila.
 
 - [Entrevista hace dos semanas: ¿les escribo otra vez?](https://blixwerkstudio.com/guides/entrevista-hace-dos-semanas-escribir-otra-vez-seguimiento?s=github) – Hace dos semanas de tu entrevista y el móvil sigue callado. ¿Escribes otra vez? Una historia sobre el seguimiento sin agobio y sin perder el hilo.
@@ -2367,6 +2371,8 @@ Included (16 products, 175 USD if bought separately):
 - [Interview Tomorrow, No Questions to Ask? The Risotto Pan](https://blixwerkstudio.com/guides/interview-tomorrow-no-questions-to-ask?s=github) – Interview tomorrow and your mind goes blank when you think of questions to ask them? A quiet story about the stirring pan, the empty note, and a calmer way.
 
 - [Interviewed Last Week, No Reply? The Launderette Table](https://blixwerkstudio.com/guides/interviewed-last-week-no-reply-how-to-follow-up?s=github) – Interviewed a week ago and the inbox is silent? A story about the waiting, the follow-up you keep rewriting, and getting your calm back.
+
+- [Invalid Emails in CSV Before CRM Import? Swim Lesson Wait](https://blixwerkstudio.com/guides/invalid-emails-mixed-case-csv-crm-import?s=github) – Forty minutes in a car park, 612 contacts, and a CRM that rejects half of them. A calm story about invalid emails and mixed case in a CSV import.
 
 - [Inventario de fin de año: mi tienda es un caos, ¿y ahora?](https://blixwerkstudio.com/guides/inventario-fin-de-ano-tienda-caos-por-donde-empezar?s=github) – Persiana a medias, cajas por el suelo y una libreta que no cuadra: una historia para quien no sabe por dónde empezar el inventario de fin de año.
 
@@ -2867,6 +2873,8 @@ Included (16 products, 175 USD if bought separately):
 - [npm Audit Shows Vulnerabilities? The Weekly Fire Alarm](https://blixwerkstudio.com/guides/npm-audit-vulnerabilities-which-ones-matter-api?s=github) – npm audit shows a wall of red on your API and the weekly alarm test starts beeping. A calm story about telling real risk from noise.
 
 - [Nur die Hälfte abrechenbar: Reicht dein Stundensatz?](https://blixwerkstudio.com/guides/nur-haelfte-stunden-abrechenbar-stundensatz-reicht-nicht?s=github) – Zehn Minuten zu früh vor dem Kundentermin fällt dir auf: Nur die Hälfte deiner Stunden landet auf der Rechnung. Reicht dein Stundensatz dann überhaupt?
+
+- [OAuth Scopes Too Broad? The Consent Screen on the Call](https://blixwerkstudio.com/guides/oauth-scopes-too-broad-api?s=github) – A client reads your OAuth consent screen out loud on a call. If your API scopes feel too broad, here's a story about the calm that follows.
 
 - [Old API Endpoints Nobody Remembers? The Loft Full of Cables](https://blixwerkstudio.com/guides/old-api-endpoints-still-running-nobody-remembers?s=github) – A Saturday loft clear-out, a box of unlabelled cables, and the old API routes still running that nobody can explain. A calm way out of the 2 a.m. doubt.
 
