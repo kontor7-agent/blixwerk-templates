@@ -1876,6 +1876,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Customers Order Things You No Longer Have? The Parcel Locker Queue](https://blixwerkstudio.com/guides/customers-keep-ordering-items-out-of-stock?s=github) – Wednesday, 8:10 am, parcel queue: another order for a tin you sold out of. A calm story about stock surprises, and what it feels like when they stop.
 
+- [Dead Stock Eating Your Cash? The Sale Table Outside](https://blixwerkstudio.com/guides/dead-stock-tying-up-cash-small-shop?s=github) – The same dusty boxes on the sale table for the third summer, while the bank balance sinks. A small-shop story about stock that sleeps and cash you can't reach.
+
 - [Deadline verpasst? Wie sage ich es dem Kunden – Dienstag, 14:05](https://blixwerkstudio.com/guides/deadline-verpassen-kunden-sagen?s=github) – Die Abgabe am Freitag wackelt und du weißt nicht, wie du es dem Kunden sagst. Eine kleine Geschichte vom Parkplatz vor der Zahnarztpraxis.
 
 - [Freelance Receipts a Mess in December? The Advent Door](https://blixwerkstudio.com/guides/december-freelance-receipts-a-mess-where-to-start?s=github) – It's December, your receipts are in a carrier bag, and you don't know where to start. A quiet Monday-morning story about a calmer way into year-end.
@@ -2043,6 +2045,8 @@ Included (16 products, 175 USD if bought separately):
 - [Festpreis nennen ohne Stundenahnung? Der Leergutautomat](https://blixwerkstudio.com/guides/festpreis-nennen-stunden-unbekannt?s=github) – Der Kunde will bis Mittag einen Festpreis, und du hast keine Ahnung, wie viele Stunden das wird. Eine Geschichte über das Bauchgefühl und die Ruhe danach.
 
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://blixwerkstudio.com/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
+
+- [File Upload Endpoint Open to Abuse? The Parcel Hatch](https://blixwerkstudio.com/guides/file-upload-endpoint-abuse-api-worry?s=github) – The upload button works. Then you wonder what happens when someone sends something you never expected. A calm story about the doubt after 'it works'.
 
 - [First Craft Fair Stall: How Much Stock, What Float?](https://blixwerkstudio.com/guides/first-craft-fair-stall-how-much-stock-to-bring-float?s=github) – Your first craft fair is on Saturday and the van is half packed. How much stock to bring, how big a float, and how to stop panicking at the kitchen table.
 
@@ -2466,6 +2470,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde sagt „zu teuer“? Als Freiberufler im Videocall](https://blixwerkstudio.com/guides/kunde-sagt-ich-bin-zu-teuer-freiberufler?s=github) – Dienstag, 10:20 Uhr: Der Kunde sagt „zu teuer“, und du hörst dich schon Rabatt anbieten. Eine Geschichte über den Moment, der auch ruhig ausgehen kann.
 
+- [Kunde sagt, Rechnung nie erhalten? Dienstag, 9:12 Uhr](https://blixwerkstudio.com/guides/kunde-sagt-rechnung-nie-erhalten-zweimal-geschickt?s=github) – Du hast die Rechnung zweimal geschickt, der Kunde hat nie etwas bekommen. Eine Geschichte über Ruhe, wenn der nächste Schritt feststeht.
+
 - [Kunde: „Scheck ist unterwegs“? Der Briefkasten, 11:40](https://blixwerkstudio.com/guides/kunde-sagt-scheck-ist-unterwegs-nichts-angekommen-freelancer?s=github) – Der Kunde sagt, der Scheck sei unterwegs. Du gehst zum dritten Mal zum Briefkasten. Eine Geschichte über Warten – und wie es ruhiger wird.
 
 - [Kunde: „Zahlung ist raus“ – aber kein Geld? Der Imbiss](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-ist-raus-aber-kein-geld-da?s=github) – „Die Überweisung ist raus“, sagt der Kunde, aber auf dem Konto ist nichts. Eine Mittagspause im Transporter und die Ruhe, die danach möglich ist.
@@ -2750,6 +2756,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Negative Google Review? The Shutter Half Up on Monday](https://blixwerkstudio.com/guides/negative-google-review-small-business-reply-without-sounding-defensive?s=github) – One star at 7:45 on a Monday, coffee still hot. A story for small business owners who want to reply to a bad Google review without sounding defensive.
 
+- [Mi negocio crece y ya no cabe el stock en una libreta](https://blixwerkstudio.com/guides/negocio-crece-stock-libreta?s=github) – En la cola de Correos, un cliente pregunta si te queda stock y la libreta está en casa. Una historia para cuando el negocio crece.
+
 - [Netter Kunde zahlt zu spät? Die Eisdiele, 15:20](https://blixwerkstudio.com/guides/netter-kunde-zahlt-zu-spaet-mahnen-unangenehm?s=github) – Die Rechnung ist 24 Tage überfällig, der Kunde ist nett, und du schreibst trotzdem nichts. Eine Geschichte über die Scheu vor der Erinnerung.
 
 - [Neukunde Vorkasse verlangen? Die Mail am Freitagmittag](https://blixwerkstudio.com/guides/neukunde-vorkasse-verlangen-traue-mich-nicht?s=github) – Neuer Kunde, großer Auftrag, und du traust dich nicht, Vorkasse zu verlangen? Eine Geschichte über den einen Satz, der Ruhe bringt.
@@ -2970,6 +2978,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://blixwerkstudio.com/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
 
+- [Llegó menos mercancía de la pedida y mi stock no cuadra](https://blixwerkstudio.com/guides/proveedor-mando-menos-mercancia-stock-no-cuadra?s=github) – Abres la caja y faltan unidades. El proveedor mandó menos de lo que pediste y tu stock ya no cuadra. Una mañana de martes y cómo se calma.
+
 - [Mi proveedor tarda semanas: ¿cuándo pido el género?](https://blixwerkstudio.com/guides/proveedor-tarda-semanas-me-quedo-sin-genero-cuando-pedir?s=github) – Tu proveedor tarda tres semanas y tu producto estrella ya se agotó. Una historia sobre pedir a tiempo sin adivinar, desde la cola de la panadería.
 
 - [Mi proyecto se alargó y cobré lo mismo como autónomo](https://blixwerkstudio.com/guides/proyecto-se-alargo-cobre-lo-mismo-autonomo?s=github) – En la cola del pan llega el mensaje: «¿Cerramos ya?». El proyecto duró el triple y la factura es la misma. Una historia sobre verlo a tiempo.
@@ -2979,6 +2989,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi script de Python falla con un CSV roto y entrego hoy](https://blixwerkstudio.com/guides/python-script-falla-csv-error-codificacion-entrego-hoy?s=github) – Son las 11:20, tu script de Python se cae con un CSV lleno de caracteres raros y la entrega es hoy. Una historia sobre volver a respirar.
 
 - [Quittung verloren – Betriebsausgabe weg? Der Parkautomat](https://blixwerkstudio.com/guides/quittung-verloren-betriebsausgabe-was-tun-selbststaendig?s=github) – Der Parkautomat spuckt kein Ticket aus, die Quittung ist weg. Eine Geschichte über verlorene Belege und die Ruhe, die entsteht, wenn alles einen Platz hat.
+
+- [Quote Didn't Cover Materials? The Last Paving Slab](https://blixwerkstudio.com/guides/quote-didnt-cover-materials-finished-job?s=github) – The patio is done and the customer is smiling. Then you add up the receipts. A quiet story for tradespeople whose quote didn't cover the materials.
 
 - [Quoted on the Doorstep, Lost Money by Friday: Quotes for Tradespeople](https://blixwerkstudio.com/guides/excel-quote-template-for-tradespeople-price-jobs-on-site?s=github) – You said a number in the customer's kitchen and regretted it in the van. A calm look at pricing jobs on site and finally seeing what you really earned.
 
@@ -3112,6 +3124,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Salon Client No-Show Again? Booth Rent Stress on a Quiet Friday](https://blixwerkstudio.com/guides/salon-client-no-show-again-booth-rent-stress?s=github) – The 2 pm chair stays empty, the booth rent is still due. A calm story for solo stylists and nail techs who lose money to no-shows and wonder what it adds up to.
 
+- [Clients Skip Appointments, Is Your Salon Making Money?](https://blixwerkstudio.com/guides/salon-clients-skip-appointments-making-money?s=github) – Third no-show this week, a full-looking diary and a rent bill due. A quiet story about finally knowing whether your chair earns what you think it does.
+
 - [Salon immer voll, aber was verdienst du wirklich? 8:40 am Automat](https://blixwerkstudio.com/guides/salon-immer-voll-aber-wie-viel-verdiene-ich-eigentlich?s=github) – Du arbeitest die ganze Woche am Stuhl und weißt trotzdem nicht, was bei dir ankommt. Eine Geschichte vom Einzahlautomat und von ruhigeren Montagen.
 
 - [Salon Books a Mess? The Tuesday Your Accountant Asked](https://blixwerkstudio.com/guides/salon-owner-books-a-mess-what-do-i-actually-earn?s=github) – Cash in a tin, card payments in an app, and a question you can't answer: what did the chair actually earn? A quiet story for solo salon owners.
@@ -3167,6 +3181,8 @@ Included (16 products, 175 USD if bought separately):
 - [Belege überall, Steuerfrist naht? Wo fange ich an?](https://blixwerkstudio.com/guides/selbststaendig-belege-ueberall-steuerfrist-wo-anfangen?s=github) – Donnerstag, 17:40, Supermarktkasse: Der Bon in deiner Hand, der Schuhkarton zu Hause, die Frist im Kopf. Eine Geschichte über den ersten kleinen Schritt.
 
 - [Selbstständig und alles chaotisch? Der Elternabend, 19:40](https://blixwerkstudio.com/guides/selbststaendig-chaos-rechnungen-preise-planung-system?s=github) – Rechnungen, Preise, Planung: alles im Kopf und auf Zetteln? Eine Geschichte über das Freelancer-Chaos und darüber, wie ein ruhiger Montag aussieht.
+
+- [Jahresende selbstständig: Nichts sortiert? Montag, 8:30](https://blixwerkstudio.com/guides/selbststaendig-jahresende-was-erledigen-nichts-sortiert?s=github) – Das Jahr ist fast vorbei, du bist selbstständig und nichts ist sortiert? Eine Geschichte über einen Montagmorgen und die Ruhe danach.
 
 - [Selbstständig Jahresplanung 2027: Wo soll ich nur anfangen?](https://blixwerkstudio.com/guides/selbststaendig-jahresplanung-2027-wo-anfangen?s=github) – Am Stehtisch fragt jemand nach deinem 2027 und du sagst „läuft“. Eine Geschichte über den Moment, in dem aus Planlosigkeit ein erster ruhiger Schritt wird.
 
