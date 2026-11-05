@@ -1642,6 +1642,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Clienta pide descuento en la peluquería: ¿puedo bajar?](https://blixwerkstudio.com/guides/clienta-pide-descuento-peluqueria-puedo-bajar-precio?s=github) – Sábado, secador en mano, una clienta pide descuento y no sabes cuánto te queda por ese servicio. Una historia para peluqueras y barberos.
 
+- [Clienta pregunta por su pedido y no sé en qué punto está](https://blixwerkstudio.com/guides/clienta-pregunta-por-su-pedido-personalizado-no-se-en-que-punto-esta?s=github) – Miércoles, cola de Correos, un mensaje de una clienta y ninguna respuesta clara. Una historia sobre pedidos a medida y la calma de saber en qué punto están.
+
 - [Bizum y efectivo en mi peluquería: no apunto nada](https://blixwerkstudio.com/guides/clientas-pagan-bizum-efectivo-no-apunto-nada-peluqueria?s=github) – Martes, 9:10, antes de abrir: el móvil lleno de Bizums, el cajón con billetes y ninguna cuenta clara. Una historia para peluqueras que trabajan solas.
 
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://blixwerkstudio.com/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
@@ -2228,6 +2230,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kleinunternehmer Invoice Correct? The Question on Line 2](https://blixwerkstudio.com/guides/freelancer-germany-kleinunternehmer-invoices-correct?s=github) – Her client's accountant asks about one invoice and her stomach drops. A calm story for freelancers in Germany unsure their invoices are right.
 
+- [Not Sure What Home Office Costs You Can Claim? The Lamp](https://blixwerkstudio.com/guides/freelancer-home-office-expenses-what-can-i-claim-receipts?s=github) – A desk lamp, a router bill, a chair: unsure what counts as a business cost? A calm story about sorting your home office receipts before January.
+
 - [Can't Keep Up With Invoices and Time Tracking? The Train Platform](https://blixwerkstudio.com/guides/freelancer-invoice-and-time-tracking-chaos?s=github) – On a cold platform, a freelancer realises she can't say which hours are billed. A calm story about invoice and time tracking chaos, and the way out.
 
 - [Invoice Chaos as a Freelancer: What Did I Bill, What's Still Open?](https://blixwerkstudio.com/guides/freelancer-invoice-chaos-cant-keep-track-of-billed-and-open?s=github) – Your client asks, 'Did you send the March invoice?' and you honestly don't know. A story about invoice chaos and finally seeing what's billed and open.
@@ -2739,6 +2743,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me sube la cuota de autónomos: ¿cuánto subo mi tarifa?](https://blixwerkstudio.com/guides/me-sube-la-cuota-de-autonomos-cuanto-subir-mi-tarifa-por-hora?s=github) – Te llega el aviso de que la cuota sube y tu cabeza va a mil: ¿cuánto subo mi tarifa por hora? Una mañana de martes, una historia y un respiro.
 
 - [Me voy de vacaciones y no cobro: ¿cuánto cobrar por hora?](https://blixwerkstudio.com/guides/me-voy-de-vacaciones-y-no-cobro-cuanto-cobrar-por-hora-autonomo?s=github) – En la puerta de embarque, Dani calcula lo que cuesta cada día libre. Una historia sobre cuánto cobrar por hora como autónomo para poder descansar.
+
+- [Mehr Admin als Kundenarbeit? Donnerstag, 15:15 Uhr](https://blixwerkstudio.com/guides/mehr-admin-als-kundenarbeit-freelancer?s=github) – Du arbeitest den ganzen Tag, aber kaum für Kunden: Rechnungen, Belege, Listen. Eine Geschichte über den Moment, in dem Admin wieder klein wird.
 
 - [Mensajes de clientes sin contestar y no tengo tiempo](https://blixwerkstudio.com/guides/mensajes-de-clientes-sin-contestar-no-tengo-tiempo?s=github) – Doce mensajes sin contestar y un bocadillo a medias en la furgoneta. Una historia para quien no tiene tiempo ni de responder a sus clientes.
 
@@ -3315,6 +3321,8 @@ Included (16 products, 175 USD if bought separately):
 - [Drowning in Writing Tasks Every Week? The Car Park Hour](https://blixwerkstudio.com/guides/small-business-owner-repetitive-writing-tasks?s=github) – Forty minutes in a car park, a laptop on the steering wheel and the same emails to write again. A story for small business owners tired of weekly writing.
 
 - [Shop Keeps Overselling Stock? The Wedding Pew Buzz](https://blixwerkstudio.com/guides/small-shop-keeps-overselling-items-not-in-stock?s=github) – Your phone buzzes mid-vows: another order for something you no longer have. A calm story for small shop owners tired of overselling and apologising.
+
+- [Small Invoice Unpaid, Worth Chasing? The Bottle Return](https://blixwerkstudio.com/guides/small-unpaid-invoice-worth-chasing?s=github) – The invoice is only 140 €. Is it worth chasing a client for it, or is it petty? A quiet story from a supermarket bottle-return queue.
 
 - [Social Media Burnout? Der Transporter um 12:10 Uhr](https://blixwerkstudio.com/guides/social-media-burnout-keine-zeit-posts-planen?s=github) – Mittagspause im Transporter, Instagram offen, kein Gedanke im Kopf. Wenn Social Media dich auslaugt und die Zeit zum Planen fehlt. Eine Geschichte.
 
