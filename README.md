@@ -1214,6 +1214,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [ADHD Task Paralysis, Can't Start? The Third Lap](https://blixwerkstudio.com/guides/adhd-task-paralysis-cant-start-working?s=github) – Ten past ten, laptop open, and you still can't begin. A quiet story about ADHD task paralysis and the small page that made starting feel possible.
 
+- [Afraid to Chase an Unpaid Invoice Again? The Window Seat](https://blixwerkstudio.com/guides/afraid-client-will-leave-if-i-chase-unpaid-invoice-again?s=github) – Scared that one more reminder will cost you the client? A quiet story about a draft you can't send, and what changes when chasing stops feeling like begging.
+
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://blixwerkstudio.com/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
 
 - [Afraid to Tell Clients Your Freelance Rate? The Lift to Floor 4](https://blixwerkstudio.com/guides/afraid-to-tell-clients-my-freelance-rate-too-high?s=github) – You typed the number, deleted it, typed a smaller one. A quiet story about the fear of saying your freelance rate out loud, and what calms it.
@@ -1343,6 +1345,8 @@ Included (16 products, 175 USD if bought separately):
 - [Backup Stopped Weeks Ago? The Laptop Repair Counter](https://blixwerkstudio.com/guides/backup-stopped-running-weeks-ago?s=github) – The repair technician asks when your last backup ran. You check. It was weeks ago. A calm story about noticing late, and what changes afterwards.
 
 - [Belege-Chaos als Freelancer: Wo fange ich nur an?](https://blixwerkstudio.com/guides/belege-chaos-freelancer-wo-anfangen?s=github) – Ein Karton voller Belege, ein Steuerberater-Termin im Kalender und die Frage: Wo fange ich an? Eine Geschichte für alle, die jedes Jahr im Januar schwitzen.
+
+- [Belege-Chaos im November? Laub, Regen und ein Kalender](https://blixwerkstudio.com/guides/belege-chaos-november-freelancer-jahresende?s=github) – Es ist November, deine Belege liegen überall. Eine Geschichte über Laub, einen Kalender und die Ruhe, die vor dem 31. Dezember möglich ist.
 
 - [Belege-Chaos vor der Steuerfrist? Das Handschuhfach im Transporter](https://blixwerkstudio.com/guides/belege-chaos-steuerfrist-selbststaendig-handschuhfach?s=github) – Der Termin beim Steuerberater rückt näher, und die Belege liegen verstreut im Auto. Eine Geschichte über das Chaos und die Ruhe danach.
 
@@ -1693,6 +1697,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi cliente no me paga la factura y ya no sé qué hacer](https://blixwerkstudio.com/guides/cliente-no-me-paga-la-factura?s=github) – Miras el móvil en la cola del súper esperando una transferencia que no llega. Una historia sobre cobrar sin sentirte pesada y recuperar la calma.
 
 - [Cliente no paga y me da miedo el burofax: qué hago antes](https://blixwerkstudio.com/guides/cliente-no-paga-miedo-burofax-que-hago-antes?s=github) – Estás en la ferretería con una factura sin pagar y la palabra burofax dándote vueltas. Una historia sobre lo que cabe hacer antes de dar ese paso.
+
+- [Mi cliente nuevo no paga la primera factura: ¿estafa?](https://blixwerkstudio.com/guides/cliente-nuevo-no-paga-primera-factura-miedo-estafa?s=github) – Lunes, 9:10, el banco sin ingreso y un cliente nuevo que ya no contesta igual. La duda de si es una estafa pesa. Y hay otra forma de vivir el cobro.
 
 - [Cliente nuevo y no sé qué preguntarle antes de empezar](https://blixwerkstudio.com/guides/cliente-nuevo-no-se-que-preguntar-antes-de-empezar-proyecto?s=github) – Cinco minutos para la llamada con tu cliente nuevo y la libreta en blanco. Una historia sobre empezar un proyecto sin miedo a olvidar lo importante.
 
@@ -2649,6 +2655,8 @@ Included (16 products, 175 USD if bought separately):
 - [Lost a Business Receipt as a Freelancer? The Blank Slip](https://blixwerkstudio.com/guides/lost-a-business-receipt-what-do-i-do-freelancer?s=github) – The receipt for your new monitor is a blank strip of paper. A quiet story about lost business receipts, and what a calm year-end feels like instead.
 
 - [Lost Receipts, Self-Employed? The Phone Booth Question](https://blixwerkstudio.com/guides/lost-receipts-self-employed-prove-business-expenses-accountant?s=github) – Your accountant asks for proof of an expense and you can't find it. A calm story about lost receipts, and what a quieter year-end can feel like.
+
+- [Orders in Instagram DMs and Etsy, Lost Track? The Tape Gun](https://blixwerkstudio.com/guides/lost-track-of-orders-instagram-dms-etsy?s=github) – Half the orders sit in Instagram DMs, half in Etsy, and you can't say who ordered what. A calm story about the Saturday you finally saw it all in one place.
 
 - [Post-Editing Pay Too Low? The Parents' Evening Corridor](https://blixwerkstudio.com/guides/machine-translation-post-editing-pay-too-low-per-hour-translator?s=github) – The agency calls it light post-editing. Your afternoon says otherwise. A quiet story about finding your real hourly pay as a translator.
 
