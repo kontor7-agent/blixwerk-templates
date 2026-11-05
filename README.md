@@ -1272,6 +1272,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [API Authentication Secure Enough? The Soundcheck](https://blixwerkstudio.com/guides/api-authentication-secure-enough-before-launch?s=github) – Launch is Friday and you can't tell if your API authentication is secure enough. A soundcheck in a village hall shows a calmer way to walk into launch day.
 
+- [API Broken Access Control? The Umbrella Basket](https://blixwerkstudio.com/guides/api-broken-access-control-worried-nobody-checked?s=github) – Rain, a café basket full of umbrellas, and one quiet worry: nobody ever checked who can open what in your API. A calm story for a Thursday.
+
 - [API Key Visible in Frontend Code? The Tasting Table Text](https://blixwerkstudio.com/guides/api-key-visible-in-frontend-code-am-i-in-trouble?s=github) – A message from a client's nephew, a key in the browser, and a knot in your stomach. A calm story for anyone asking whether an exposed API key is trouble.
 
 - [Can Users See Each Other's Records? IDOR and Locker 14](https://blixwerkstudio.com/guides/api-lets-users-see-other-users-records-idor?s=github) – Your API checks that someone is logged in, but does it check whose record they open? A quiet story about that doubt, and how to put it down.
@@ -1511,6 +1513,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Ignoring Your Invoice Email? Ticket Number 247](https://blixwerkstudio.com/guides/client-ignoring-follow-up-email-unpaid-invoice?s=github) – Your follow-up email sits unanswered and the invoice is weeks late. A quiet story about what to do next, without begging or panicking.
 
 - [Client Ignoring Your Follow-Up Email? What to Say Next](https://blixwerkstudio.com/guides/client-ignoring-follow-up-email-what-to-say-next?s=github) – Three follow-ups, no reply, and your thumb hovering over send on a Saturday. A short story for freelancers who don't know what to write next.
+
+- [Client Ignoring Your Invoice? The Resentment Jar](https://blixwerkstudio.com/guides/client-ignoring-my-invoice-resentment?s=github) – Your invoice is 41 days overdue and the client just posted about their new office. When chasing money turns into quiet resentment, there is a calmer way.
 
 - [Client Ignoring Overdue Reminders? The Ice Rink Bench](https://blixwerkstudio.com/guides/client-ignoring-overdue-invoice-reminders-what-else-can-i-do?s=github) – Three reminders sent, three times silence. On a cold rink bench, a freelancer finds a calmer way to chase an overdue invoice. A short story.
 
@@ -2762,6 +2766,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi contacto se fue de la empresa y nadie sabe mi factura](https://blixwerkstudio.com/guides/mi-contacto-se-fue-de-la-empresa-factura-pendiente?s=github) – Tu contacto dejó la empresa y tu factura sigue sin pagar. Una historia sobre qué pasa cuando nadie responde, y cómo volver a respirar con calma.
 
+- [Mi empleado no apunta las ventas y el stock no cuadra](https://blixwerkstudio.com/guides/mi-empleado-no-apunta-las-ventas-stock-no-cuadra?s=github) – Sábado por la mañana, una libreta con tachones y un estante que no coincide. Una historia para quien tiene empleado y un stock que nunca cuadra.
+
 - [Mi pareja pregunta cuánto gano al mes y no sé qué decir](https://blixwerkstudio.com/guides/mi-pareja-me-pregunta-cuanto-gano-al-mes-autonomo?s=github) – Sábado, camino de IKEA, y una pregunta sencilla: «¿cuánto ganas al mes?». Una historia para autónomos que no saben qué contestar.
 
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
@@ -3103,6 +3109,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnung an netten Kunden mahnen? Die Teeküche im Cowork](https://blixwerkstudio.com/guides/rechnung-nettem-kunden-mahnen-unangenehm?s=github) – Der Kunde ist nett, die Rechnung seit drei Wochen offen. Warum Nachhaken sich wie Betteln anfühlt – und wie es ruhiger werden kann.
 
 - [Rechnung offen, Kundin nett: Nachhaken ohne Peinlichkeit](https://blixwerkstudio.com/guides/rechnung-offen-netter-kunde-nachhaken-peinlich?s=github) – Du magst die Kundin, die Rechnung ist 38 Tage offen, und beim Sektempfang lächelt ihr euch zu. Eine Geschichte übers Nachhaken ohne Bauchweh.
+
+- [Rechnung ohne Kleinunternehmer-Hinweis? Sonntagskaffee](https://blixwerkstudio.com/guides/rechnung-ohne-kleinunternehmer-hinweis-verschickt-was-jetzt?s=github) – Rechnung verschickt, und der Hinweis fehlt? Sonntag, Kuchen, ein Blick aufs Handy. Eine Geschichte über Ruhe, wenn die Rechnungen an einem Ort liegen.
 
 - [Rechnung schreiben dauert ewig? Der Anruf um 11:35 Uhr](https://blixwerkstudio.com/guides/rechnung-schreiben-dauert-ewig-freiberufler?s=github) – Die Kundin fragt nach der Rechnung, und du suchst noch die letzte Nummer. Eine Geschichte für Freiberufler, bei denen jede Rechnung ewig dauert.
 
