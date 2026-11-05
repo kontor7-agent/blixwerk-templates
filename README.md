@@ -2328,6 +2328,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Is My Freelance Day Rate Too Low? The Soft-Play Birthday Party](https://blixwerkstudio.com/guides/how-do-i-know-if-my-freelance-day-rate-is-too-low?s=github) – A birthday party, a stranger's casual question, and the number you said too fast. A quiet story about how you know your day rate is too low.
 
+- [How Many Old Backups Should I Keep? The Garden Café](https://blixwerkstudio.com/guides/how-many-old-backups-should-i-keep?s=github) – The drive is nearly full and every old backup feels like a safety net you're scared to cut. A quiet Wednesday-morning story about finally knowing what to keep.
+
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://blixwerkstudio.com/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
 
 - [How Much Safety Stock Is Enough? The Recital Row](https://blixwerkstudio.com/guides/how-much-safety-stock-small-shop?s=github) – You sit in a folding chair at a recital, doing stock maths in your head. How much safety stock should a small shop keep? A calmer way to stop guessing.
@@ -2381,6 +2383,8 @@ Included (16 products, 175 USD if bought separately):
 - [Inventur, Zahlen stimmen nie? Der 2. Januar, 8:10 Uhr](https://blixwerkstudio.com/guides/inventur-kleines-geschaeft-zahlen-stimmen-nie?s=github) – Zwei Zahlen, ein Regal: Jonas zählt Schläuche und Ketten, und nichts passt zur Liste. Eine Geschichte über Inventur im kleinen Geschäft.
 
 - [Invoice 90 Days Overdue, Client Silent? The Cake Knife](https://blixwerkstudio.com/guides/invoice-90-days-overdue-client-stopped-answering?s=github) – Your invoice is 90 days overdue and the client has stopped answering. A quiet story about a birthday party, a buzzing phone and a calmer way to chase.
+
+- [Invoice Approved, No Payment Date? The Crossword Clue](https://blixwerkstudio.com/guides/invoice-approved-no-payment-date?s=github) – Your client says the invoice is approved, but accounts won't name a payment date. A calm story about waiting without begging, and what changes when you have a plan.
 
 - [Invoice Rejected, No PO Number? The Village Shop Signal](https://blixwerkstudio.com/guides/invoice-rejected-missing-po-number-payment-delayed?s=github) – Your invoice bounced back for a missing PO number and payment slips again. A quiet story about chasing money without feeling like you're begging.
 
@@ -2451,6 +2455,8 @@ Included (16 products, 175 USD if bought separately):
 - [Rechnung nie bekommen? Wenn der Kunde das behauptet](https://blixwerkstudio.com/guides/kunde-behauptet-rechnung-nie-bekommen?s=github) – Der Kunde sagt, er habe deine Rechnung nie bekommen. Du stehst im Freibad, das Handy am Ohr, und weißt nicht mehr genau, wann du sie geschickt hast.
 
 - [Kunde beschwert sich: Wie antworte ich ruhig? Montag, 7:35 Uhr](https://blixwerkstudio.com/guides/kunde-beschwert-sich-ruhig-und-professionell-antworten?s=github) – Montagmorgen, Kaffee in der Hand, und im Postfach steht „Ich bin enttäuscht“. Eine Geschichte darüber, wie du auf Beschwerden ruhig antwortest.
+
+- [Kunde bestreitet Rechnung nach Lieferung? Das Hotelbuffet](https://blixwerkstudio.com/guides/kunde-bestreitet-rechnung-nach-lieferung?s=github) – Die Arbeit ist geliefert, dann schreibt der Kunde: „So war das nicht abgemacht.“ Eine Geschichte über Ruhe, wenn deine Rechnung bestritten wird.
 
 - [Kunde drückt den Preis per Mail? Der Fahrradladen](https://blixwerkstudio.com/guides/kunde-drueckt-staendig-den-preis-per-mail-was-antworte-ich?s=github) – Schon wieder die Mail: „Da geht doch sicher noch was beim Preis?“ Eine Geschichte über den Moment, in dem dir die Antwort endlich leichtfällt.
 
@@ -2653,6 +2659,8 @@ Included (16 products, 175 USD if bought separately):
 - [Limpio los mismos 20 Excel cada mes y ya no puedo más](https://blixwerkstudio.com/guides/limpiar-los-mismos-archivos-excel-cada-mes?s=github) – El día 1 abres los mismos 20 archivos de Excel y empiezas a limpiar. Una historia para quien siente que el mes se le va en eso.
 
 - [Easy Apply, Can't Recall Which Jobs? The Optician's Chair](https://blixwerkstudio.com/guides/linkedin-easy-apply-cant-remember-which-jobs?s=github) – A recruiter calls while you wait at the optician's and you can't place the job. A story for anyone who clicked Easy Apply too many times to remember.
+
+- [Mi lista de tareas es tan larga que me bloqueo: un lunes](https://blixwerkstudio.com/guides/lista-de-tareas-tan-larga-me-bloqueo-planner?s=github) – El café se enfría, la lista no para de crecer y no tocas nada. Una historia para quien se congela ante tanto pendiente y busca un planner en papel.
 
 - [Llevo las redes de tres clientes y se me mezclan todas](https://blixwerkstudio.com/guides/llevo-las-redes-de-tres-clientes-y-se-me-mezclan?s=github) – Casi publicas la oferta de un cliente en la cuenta de otro. Una mañana de lunes con tres marcas en el móvil y una forma más tranquila de verlo todo.
 
