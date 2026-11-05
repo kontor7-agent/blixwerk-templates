@@ -1594,6 +1594,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Payment 'On the Way' for a Month? The Sewing Repair Shop](https://blixwerkstudio.com/guides/client-says-payment-is-on-the-way-a-month-later-what-to-say?s=github) – Your client said the payment is on the way. That was four weeks ago. A calm story about what to say next, and how to stop dreading it.
 
+- [Client Says 'Processed', Money Never Came? The Stamp](https://blixwerkstudio.com/guides/client-says-payment-processed-money-never-arrives-freelancer?s=github) – The client swears the payment is processed. Your account says otherwise. A quiet story about a post office stamp and getting paid without begging.
+
 - [Client Says They Paid, But You Can't Find It? The Ferry Terminal](https://blixwerkstudio.com/guides/client-says-they-paid-but-i-cant-find-the-payment?s=github) – The client swears the money went out last week. Your bank shows nothing, and two invoices look alike. A calm story about untangling a payment mix-up.
 
 - [Client Says They'll Pay, Nothing Arrives? The Piano Tuner](https://blixwerkstudio.com/guides/client-says-they-will-pay-but-nothing-arrives?s=github) – The client swears the money is on its way. Day 38, nothing. A quiet story about the piano tuner, the unsent email, and chasing without begging.
@@ -3270,6 +3272,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Social Media kostet dich zu viel Zeit? Was soll ich bloß posten?](https://blixwerkstudio.com/guides/social-media-kostet-zu-viel-zeit-selbststaendig?s=github) – Samstagmorgen in der Bäckerschlange, 14 Minuten Instagram-Grübelei: Eine Geschichte für alle Selbstständigen, die nie wissen, was sie posten sollen.
 
+- [Social Media für mehrere Kunden – immer im Rückstand?](https://blixwerkstudio.com/guides/social-media-mehrere-kunden-immer-im-rueckstand?s=github) – Vier Kunden, vier Kanäle, und der Blumenladen wartet seit Freitag auf einen Post. Eine Geschichte für alle, die ständig hinterherposten.
+
 - [Immer vergessen, auf Social Media zu posten? Der Marktstand](https://blixwerkstudio.com/guides/social-media-posten-vergessen-kleines-unternehmen?s=github) – Samstag am Marktstand sagt jemand: „Ich dachte, es gibt euch nicht mehr.“ Eine Geschichte für alle, die das Posten ständig vergessen.
 
 - [Social Media jeden Sonntag Stress? Was soll ich diese Woche posten?](https://blixwerkstudio.com/guides/social-media-sonntag-stress-was-soll-ich-diese-woche-posten?s=github) – Sonntag, 16:40, Kaffeetafel bei deiner Mutter, und unter dem Tisch starrst du aufs leere Textfeld. Warum die Postfrage nicht jede Woche neu wehtun muss.
@@ -3283,6 +3287,8 @@ Included (16 products, 175 USD if bought separately):
 - [Sold Loads on Etsy, No Money Left? The Dinner Bill](https://blixwerkstudio.com/guides/sold-a-lot-on-etsy-no-money-left-after-fees-and-materials?s=github) – Your Etsy shop had its best month ever, so why is the account empty? A birthday dinner, a split bill and a quieter way to see what you really keep.
 
 - [Sold Out by Noon at the Craft Fair? The Empty Crate](https://blixwerkstudio.com/guides/sold-out-at-craft-fair-by-noon-not-enough-stock?s=github) – It's 12:10, your table is bare and people keep asking. A gentle story for makers who sold out at the craft fair and wish they'd brought more.
+
+- [Sold Out at the Craft Fair, Any Profit? The Bank Queue](https://blixwerkstudio.com/guides/sold-out-craft-fair-did-i-make-profit?s=github) – Your table was empty by two o'clock. So why can't you say whether the weekend paid? A Monday-morning story for makers at the bank's deposit machine.
 
 - [Solo puedo facturar 25 horas: ¿cuánto cobrar por hora?](https://blixwerkstudio.com/guides/solo-puedo-facturar-25-horas-semana-cuanto-cobrar-por-hora-autonomo?s=github) – Martes, 11:15, videollamada: «¿Cuál es tu tarifa por hora?». Solo facturas 25 horas a la semana y la cifra que dices no sale de ningún sitio.
 
@@ -3345,6 +3351,8 @@ Included (16 products, 175 USD if bought separately):
 - [Swagger Docs Exposed in Production? The Spare Key Label](https://blixwerkstudio.com/guides/swagger-docs-exposed-in-production?s=github) – Your Swagger page is public and a message just landed. A calm story about the knot in your stomach, and how to stop guessing while you stand in a queue.
 
 - [Tardé semanas en contestar a un cliente: me da vergüenza](https://blixwerkstudio.com/guides/tarde-semanas-en-contestar-a-un-cliente-me-da-verguenza?s=github) – Tres semanas sin contestar a un cliente y cada día cuesta más escribirle. Una historia sobre el lunes en que por fin abres ese correo.
+
+- [Descripciones de productos: tardo horas y me bloqueo](https://blixwerkstudio.com/guides/tardo-horas-escribiendo-descripciones-de-mis-productos-y-me-bloqueo?s=github) – Sábado por la mañana, el cursor parpadea sobre la ficha de una vela. Una historia para quien tarda horas con las descripciones de sus productos.
 
 - [Tardo una hora en escribir un correo a un cliente: el lunes de las 9:40](https://blixwerkstudio.com/guides/tardo-una-hora-en-escribir-un-correo-a-un-cliente?s=github) – Son las 9:40, el café se enfría y el correo para tu cliente sigue en blanco. Una historia sobre bloquearse al escribir y cómo soltar ese nudo.
 
