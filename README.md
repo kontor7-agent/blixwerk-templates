@@ -1262,6 +1262,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Un amigo me debe una factura y no sé cómo reclamarle](https://blixwerkstudio.com/guides/amigo-me-debe-factura-como-reclamar?s=github) – Le hiciste el trabajo a un amigo y la factura sigue sin pagar. Una historia sobre reclamar con calma, sin perder la amistad ni el buen humor.
 
+- [Angebot schreiben dauert ewig? Der Montag nach dem Anruf](https://blixwerkstudio.com/guides/angebot-schreiben-freiberufler-dauert-ewig?s=github) – Das Telefonat lief gut, doch das Angebot ist seit Stunden ein leeres Dokument. Eine Geschichte über den Satz, der nie kommen will.
+
 - [Angry Customer Email? How to Reply: The Bakery Counter](https://blixwerkstudio.com/guides/angry-customer-email-how-to-reply-small-business?s=github) – An angry customer email lands at 8:05 on a Monday and your stomach drops. A calm story about replying without panic, defensiveness or three lost hours.
 
 - [Angst vorm Monatsende als Freelancer? Der kalte Toast](https://blixwerkstudio.com/guides/angst-vorm-monatsende-freelancer-geld-reicht-nicht?s=github) – Der 27., 8:15 Uhr, die Banking-App noch ungeöffnet: Wenn du als Freelancer nie weißt, ob das Geld reicht. Eine Geschichte über leisere Monatsenden.
@@ -1766,6 +1768,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Undercut on Handmade Prices? The Kiln Shop Car Park](https://blixwerkstudio.com/guides/competitors-undercutting-my-handmade-prices-what-do-i-do?s=github) – Someone is selling a lookalike mug for half your price. Before you slash yours, a quiet story about knowing your real numbers first.
 
+- [Compro agenda cada enero y en febrero la dejo: TDAH](https://blixwerkstudio.com/guides/compro-agenda-cada-enero-abandono-febrero-tdah?s=github) – Siete agendas en el cajón y otra en la caja de la papelería. Una historia sobre TDAH, enero y por qué abandonar la agenda no es falta de voluntad.
+
 - [Cuento el inventario a mano y nunca me cuadra (lunes)](https://blixwerkstudio.com/guides/contar-inventario-a-mano-nunca-cuadra?s=github) – Lunes, 8:15, persiana a medias y una libreta llena de tachones. Contar el inventario de tu tienda a mano y que nunca cuadre tiene una salida más tranquila.
 
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerkstudio.com/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
@@ -1777,6 +1781,8 @@ Included (16 products, 175 USD if bought separately):
 - [Correos del negocio sin fin: ¿qué delego a la IA?](https://blixwerkstudio.com/guides/correos-del-negocio-que-delegar-a-la-ia?s=github) – Miércoles, 11:15, la bandeja llena de correos del negocio. Una historia sobre qué delegar a la IA y qué seguir haciendo tú, con calma.
 
 - [CORS Wildcard in Production? The Escape Room Countdown](https://blixwerkstudio.com/guides/cors-wildcard-open-endpoints-production-api?s=github) – A wildcard CORS header and a few open endpoints, two days before launch. A calm story about the doubt in the back of your head, and how it can ease.
+
+- [Country Names Spelled Differently in Excel? The Globe](https://blixwerkstudio.com/guides/country-names-spelled-differently-spreadsheet?s=github) – Germany, Deutschland, DE and 'germany ' in one column. A calm story about country names spelled differently in a spreadsheet, and the end of the dread.
 
 - [Craft Fair Customer Said Prices Too High? The Oak Board](https://blixwerkstudio.com/guides/craft-fair-customer-said-prices-too-high-underpricing-handmade?s=github) – A customer sighs at your price tag at the craft fair. Are you underpricing handmade work, or is the number fine? A quiet story about knowing.
 
@@ -3607,6 +3613,8 @@ Included (16 products, 175 USD if bought separately):
 - [Wochenlang nichts auf Instagram gepostet? Die Hundewiese, 16:30](https://blixwerkstudio.com/guides/wochenlang-nichts-auf-instagram-gepostet-schlechtes-gewissen-selbststa?s=github) – Seit Wochen kein Post, und dann fragt jemand beiläufig nach. Eine Geschichte über das schlechte Gewissen auf Instagram und wie es leiser werden kann.
 
 - [Worked More Hours Than You Invoiced? The Arrivals Hall](https://blixwerkstudio.com/guides/worked-more-hours-than-invoiced-freelance-quarter?s=github) – The quarter ends and your gut says you worked more than you billed. A quiet story from an airport arrivals hall about seeing your hours and invoices together.
+
+- [Worried About a Data Breach After Launch? The Bike Hut](https://blixwerkstudio.com/guides/worried-about-data-breach-after-api-launch?s=github) – Your API went live on Friday and now you're on a cycling weekend, checking your phone at every red light. A story about getting the quiet back.
 
 - [Worried About 2027 Freelance Income? The Lease Renewal](https://blixwerkstudio.com/guides/worried-about-freelance-income-next-year-plan-2027?s=github) – The lease renewal letter asks one simple question: can you commit to next year? A calm story for freelancers whose income is unpredictable.
 
