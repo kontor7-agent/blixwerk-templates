@@ -2282,6 +2282,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Hago todo yo solo en mi negocio y no llego a nada](https://blixwerkstudio.com/guides/hago-todo-yo-solo-en-mi-negocio-y-no-llego-a-nada?s=github) – Martes, 11:20: una clienta en el mostrador, el proveedor esperando y correos sin abrir. Una historia para quien lo hace todo solo en su negocio.
 
+- [Hair Colour Cost Not in Your Price? The Mixing Bowl](https://blixwerkstudio.com/guides/hair-colour-product-cost-not-in-my-price?s=github) – The tube is half gone and your price list never mentioned it. A calm story for stylists who wonder if every colour client quietly costs them money.
+
 - [Clients Cancel Last Minute at Your Salon? The 13:40 Text](https://blixwerkstudio.com/guides/hairdresser-clients-cancel-last-minute-losing-money?s=github) – A lunch break, a 'so sorry' text, and an empty chair. A calm story about last-minute cancellations and finally seeing what they cost you.
 
 - [Double Booked Clients, Tips and Cash Off? The Two Coats](https://blixwerkstudio.com/guides/hairdresser-double-booked-clients-tips-cash-dont-add-up?s=github) – Two clients at 11:00 and a cash jar that won't match the week. A story for solo stylists who want a calmer chair, calmer books and a calm Sunday.
@@ -2630,6 +2632,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Easy Apply, Can't Recall Which Jobs? The Optician's Chair](https://blixwerkstudio.com/guides/linkedin-easy-apply-cant-remember-which-jobs?s=github) – A recruiter calls while you wait at the optician's and you can't place the job. A story for anyone who clicked Easy Apply too many times to remember.
 
+- [Llevo las redes de tres clientes y se me mezclan todas](https://blixwerkstudio.com/guides/llevo-las-redes-de-tres-clientes-y-se-me-mezclan?s=github) – Casi publicas la oferta de un cliente en la cuenta de otro. Una mañana de lunes con tres marcas en el móvil y una forma más tranquila de verlo todo.
+
 - [Meses buscando trabajo y nadie llama: me siento perdido](https://blixwerkstudio.com/guides/llevo-meses-buscando-trabajo-no-me-llaman-perdido?s=github) – Mandas currículums y solo recibes silencio. Una mañana en la lavandería, demasiadas pestañas abiertas y la sensación de que puede haber otra forma.
 
 - [Semanas sin publicar en LinkedIn: ¿perderé clientes?](https://blixwerkstudio.com/guides/llevo-semanas-sin-publicar-en-linkedin-ansiedad-perder-clientes?s=github) – Seis semanas sin publicar en LinkedIn y la ansiedad de que se olviden de ti. Una historia sobre volver a aparecer sin el pánico del domingo.
@@ -2740,6 +2744,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mindestbestand vergessen? Der Anruf vom Fußballverein](https://blixwerkstudio.com/guides/mindestbestand-vergessen-zu-spaet-nachbestellt-kunde-wartet?s=github) – Freitag, 9:10 Uhr: Die Rohlinge sind aus, der Verein braucht die Trikots morgen. Eine Geschichte für alle, die den Mindestbestand mal wieder vergessen haben.
 
+- [Mini-Sessions als Fotografin: Lohnt sich das wirklich?](https://blixwerkstudio.com/guides/mini-sessions-fotograf-lohnt-sich-das?s=github) – Sechs Familien, ein Herbstnachmittag und die Frage im Kopf: Lohnen sich Mini-Sessions oder arbeitest du für nichts? Eine Geschichte.
+
 - [Music Teacher Unsure What You Earn? The Letting Desk](https://blixwerkstudio.com/guides/music-teacher-no-idea-how-much-i-earn-per-month-from-lessons?s=github) – A letting agent asks what you earn a month from lessons, and you realise you don't know. A calm story for private music teachers.
 
 - [Parents Forget to Pay for Music Lessons? The Hallway Handover](https://blixwerkstudio.com/guides/music-teacher-parents-forget-to-pay-for-lessons?s=github) – The cello case is by the door, the envelope hasn't come, and you smile anyway. A gentle story for music teachers whose parents forget to pay.
@@ -2841,6 +2847,8 @@ Included (16 products, 175 USD if bought separately):
 - [npm Audit Shows Vulnerabilities? The Weekly Fire Alarm](https://blixwerkstudio.com/guides/npm-audit-vulnerabilities-which-ones-matter-api?s=github) – npm audit shows a wall of red on your API and the weekly alarm test starts beeping. A calm story about telling real risk from noise.
 
 - [Nur die Hälfte abrechenbar: Reicht dein Stundensatz?](https://blixwerkstudio.com/guides/nur-haelfte-stunden-abrechenbar-stundensatz-reicht-nicht?s=github) – Zehn Minuten zu früh vor dem Kundentermin fällt dir auf: Nur die Hälfte deiner Stunden landet auf der Rechnung. Reicht dein Stundensatz dann überhaupt?
+
+- [Old API Endpoints Nobody Remembers? The Loft Full of Cables](https://blixwerkstudio.com/guides/old-api-endpoints-still-running-nobody-remembers?s=github) – A Saturday loft clear-out, a box of unlabelled cables, and the old API routes still running that nobody can explain. A calm way out of the 2 a.m. doubt.
 
 - [Olvidé el desplazamiento en el presupuesto: un lunes](https://blixwerkstudio.com/guides/olvide-desplazamiento-mano-de-obra-presupuesto-perdi-dinero?s=github) – Hiciste el presupuesto de memoria en la obra y al cuadrar faltaban el desplazamiento y la mano de obra. Una historia para autónomos de oficios.
 
