@@ -1758,6 +1758,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cliente pide trabajo urgente en fin de semana: ¿recargo?](https://blixwerkstudio.com/guides/cliente-trabajo-urgente-fin-de-semana-recargo-freelance?s=github) – Sábado por la mañana, en la cola del mercado, te llega un «¿puedes para el lunes?». Una historia sobre cobrar el recargo sin pedir perdón.
 
+- [Mi cliente ya no me necesita y no sé qué contestar](https://blixwerkstudio.com/guides/cliente-ya-no-necesita-mis-servicios-que-contestar?s=github) – El cliente te dice en una videollamada que lo dejáis aquí y te quedas sin palabras. Una historia sobre contestar con calma, sin rogar ni romper nada.
+
 - [Cobrar por proyecto o por hora: el café con Lucía](https://blixwerkstudio.com/guides/cobrar-por-proyecto-o-por-hora-freelance?s=github) – Te piden precio cerrado o por horas y te quedas en blanco. Una historia sobre cobrar por proyecto o por hora sin miedo a equivocarte.
 
 - [Cobrar en dólares y no saber qué tarifa por hora poner](https://blixwerkstudio.com/guides/cobro-en-dolares-clientes-estados-unidos-tarifa-por-hora?s=github) – Un cliente de Estados Unidos te pregunta tu tarifa por hora y te quedas en blanco. Una historia sobre cobrar en dólares con más calma.
@@ -2041,6 +2043,8 @@ Included (16 products, 175 USD if bought separately):
 - [Excel Numbers Stored as Text Again? The 10 am Report Call](https://blixwerkstudio.com/guides/excel-numbers-stored-as-text-weekly-report?s=github) – Your weekly report shows a total of zero because the numbers are text. A short story about a Thursday client call, and a calmer way to start the week.
 
 - [Excel cambió mis números a 1,2E+15 y ya lo mandé](https://blixwerkstudio.com/guides/excel-numeros-largos-notacion-cientifica-ya-lo-mande?s=github) – Tu clienta te llama por el archivo: los números largos se ven como 1,23E+15 y ya lo enviaste. Una historia para respirar y volver a confiar en tus datos.
+
+- [Excel Remove Duplicates Deleted Wrong Rows? Counter 31](https://blixwerkstudio.com/guides/excel-remove-duplicates-deleted-wrong-rows-saved-over-file?s=github) – You clicked Remove Duplicates, saved, and the wrong rows are gone. A calm story about that sinking moment, and a way to clean data without the dread.
 
 - [Excel Removed Leading Zeros From My CSV? The Courier Desk](https://blixwerkstudio.com/guides/excel-removed-leading-zeros-from-my-csv?s=github) – Postcode 01067 became 1067 and the courier queue is behind you. A short story about leading zeros, CSV files and getting a calm Tuesday back.
 
@@ -2502,6 +2506,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde hat nur die Hälfte bezahlt? Der Stau auf der A7](https://blixwerkstudio.com/guides/kunde-hat-nur-die-haelfte-der-rechnung-bezahlt?s=github) – Die Banking-App zeigt 1.190 € statt 2.380 €. Eine Geschichte über halb bezahlte Rechnungen, ein flaues Gefühl im Stau und wie wieder Ruhe einkehrt.
 
+- [Kunde zahlte weniger als berechnet? Der Beckenrand](https://blixwerkstudio.com/guides/kunde-hat-weniger-gezahlt-als-rechnung?s=github) – Samstag am Beckenrand siehst du den Kontoauszug: 240 € fehlen. Wie sprichst du das an, ohne dass es peinlich wird? Eine Geschichte über Ruhe statt Grübeln.
+
 - [Kunde ignoriert Mails zur offenen Rechnung? Gartencenter](https://blixwerkstudio.com/guides/kunde-ignoriert-mails-ueberfaellige-rechnung-was-tun?s=github) – Dritte Nachfrage, wieder keine Antwort. Eine Geschichte über das Schweigen nach der Rechnung und darüber, wie Nachhaken wieder ruhig werden kann.
 
 - [Kunde ignoriert Rechnung seit 45 Tagen? Der Empfang](https://blixwerkstudio.com/guides/kunde-ignoriert-rechnung-45-tage-beziehung-nicht-ruinieren?s=github) – 45 Tage offen, und du willst die gute Beziehung nicht ruinieren. Eine Geschichte vom Empfang, vom Besucherausweis und von leiseren Wegen, nachzufragen.
@@ -2921,6 +2927,8 @@ Included (16 products, 175 USD if bought separately):
 - [Olvidé el desplazamiento en el presupuesto: un lunes](https://blixwerkstudio.com/guides/olvide-desplazamiento-mano-de-obra-presupuesto-perdi-dinero?s=github) – Hiciste el presupuesto de memoria en la obra y al cuadrar faltaban el desplazamiento y la mano de obra. Una historia para autónomos de oficios.
 
 - [Olvidé el IVA en el presupuesto y no quiere pagarlo](https://blixwerkstudio.com/guides/olvide-iva-presupuesto-cliente-no-quiere-pagarlo?s=github) – Terminaste la reforma, mandas la factura y llega el mensaje: «eso no estaba en el presupuesto». Una historia para quien olvidó el IVA al presupuestar.
+
+- [OneDrive Sync Deleted Files, No Backup? The Seed Stall](https://blixwerkstudio.com/guides/onedrive-sync-deleted-my-files-no-other-backup?s=github) – OneDrive synced the deletion everywhere and your only copy is gone. A story about that cold drop, and the calm of a copy sync can't touch.
 
 - [Cuentas en libretas y papeles: cómo ordenarlas en Excel](https://blixwerkstudio.com/guides/ordenar-cuentas-negocio-excel-libretas-papeles?s=github) – Libretas, tickets y notas pegadas en la pared. Una tapicera, una llamada de un cliente y la sensación de que ordenar las cuentas sí es posible.
 
