@@ -1350,6 +1350,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Backup Stopped Weeks Ago? The Laptop Repair Counter](https://blixwerkstudio.com/guides/backup-stopped-running-weeks-ago?s=github) – The repair technician asks when your last backup ran. You check. It was weeks ago. A calm story about noticing late, and what changes afterwards.
 
+- [Bash Backup Script Failed Silently? The Clinic Corridor](https://blixwerkstudio.com/guides/bash-backup-script-fails-silently?s=github) – Your bash backup script ran every night, or so you thought. Then a client asked for old files while you sat in a clinic corridor. A calm story.
+
 - [Belege-Chaos als Freelancer: Wo fange ich nur an?](https://blixwerkstudio.com/guides/belege-chaos-freelancer-wo-anfangen?s=github) – Ein Karton voller Belege, ein Steuerberater-Termin im Kalender und die Frage: Wo fange ich an? Eine Geschichte für alle, die jedes Jahr im Januar schwitzen.
 
 - [Belege-Chaos im November? Laub, Regen und ein Kalender](https://blixwerkstudio.com/guides/belege-chaos-november-freelancer-jahresende?s=github) – Es ist November, deine Belege liegen überall. Eine Geschichte über Laub, einen Kalender und die Ruhe, die vor dem 31. Dezember möglich ist.
@@ -1977,6 +1979,8 @@ Included (16 products, 175 USD if bought separately):
 - [Empecé sin presupuesto firmado: «no es lo acordado»](https://blixwerkstudio.com/guides/empece-sin-presupuesto-firmado-cliente-dice-no-es-lo-acordado?s=github) – Empezaste sin el presupuesto firmado y ahora el cliente dice que no era lo acordado. Una historia sobre un martes a las 11:05 y cómo volver a respirar.
 
 - [Traducción diminuta que no compensa: ¿tarifa mínima?](https://blixwerkstudio.com/guides/encargo-traduccion-pequeno-no-compensa-tarifa-minima-traductor-autonom?s=github) – Te piden 140 palabras «para hoy» y sabes que no compensan. Una historia sobre la tarifa mínima del traductor autónomo y cómo decirla con calma.
+
+- [Endpoint de pruebas abierto en producción: me da pánico](https://blixwerkstudio.com/guides/endpoint-de-pruebas-abierto-en-produccion?s=github) – En plena comida de domingo recuerdas el endpoint de pruebas que dejaste abierto. Una historia sobre el pánico y cómo volver a respirar.
 
 - [Entregué las fotos de la boda y no me pagan el resto](https://blixwerkstudio.com/guides/entregue-las-fotos-de-la-boda-y-el-cliente-no-paga-el-resto?s=github) – Entregaste la galería, los novios te dieron las gracias y el resto sigue sin llegar. Una historia sobre cobrar sin apuro y con la cabeza tranquila.
 
@@ -2640,6 +2644,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde schreibt wütend wegen Rechnung? Die Post-Schlange](https://blixwerkstudio.com/guides/kunde-wuetende-mail-rechnung-ruhig-antworten?s=github) – Wütende Mail zur Rechnung, und du stehst in der Post-Schlange? Eine Geschichte darüber, wie du ruhig antwortest, statt im Kopf zu streiten.
 
+- [Kunde zahlt erst nächstes Jahr? Das Budget ist leer](https://blixwerkstudio.com/guides/kunde-zahlt-erst-naechstes-jahr-budget-aufgebraucht?s=github) – „Das Budget ist aufgebraucht, wir zahlen im neuen Jahr.“ Ein Donnerstag um 11 Uhr, ein Satz am Telefon – und wie du dabei ruhig bleibst.
+
 - [Kunde zahlt erst, wenn sein Kunde zahlt? Das Laufband](https://blixwerkstudio.com/guides/kunde-zahlt-erst-wenn-sein-kunde-zahlt-freelancer?s=github) – „Wir zahlen, sobald unser Kunde zahlt.“ Ein Anruf auf dem Laufband, ein flaues Gefühl im Bauch und die Frage, wie du ruhig bleibst.
 
 - [Kunde zahlt immer 60 Tage zu spät? Angst vorm Verlieren](https://blixwerkstudio.com/guides/kunde-zahlt-immer-60-tage-zu-spaet-angst-ihn-zu-verlieren?s=github) – Der Kunde ist nett, bringt Aufträge und zahlt trotzdem immer nach 60 Tagen. Eine Geschichte über die Angst, ihn zu verlieren, und was Ruhe bringt.
@@ -2819,6 +2825,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mindestbestand vergessen? Der Anruf vom Fußballverein](https://blixwerkstudio.com/guides/mindestbestand-vergessen-zu-spaet-nachbestellt-kunde-wartet?s=github) – Freitag, 9:10 Uhr: Die Rohlinge sind aus, der Verein braucht die Trikots morgen. Eine Geschichte für alle, die den Mindestbestand mal wieder vergessen haben.
 
 - [Mini-Sessions als Fotografin: Lohnt sich das wirklich?](https://blixwerkstudio.com/guides/mini-sessions-fotograf-lohnt-sich-das?s=github) – Sechs Familien, ein Herbstnachmittag und die Frage im Kopf: Lohnen sich Mini-Sessions oder arbeitest du für nichts? Eine Geschichte.
+
+- [Missed a Day in Your Planner? The Blank Tuesday Page](https://blixwerkstudio.com/guides/missed-a-day-in-my-planner-feel-like-failure?s=github) – Wednesday, 7:50 am. Yesterday's page is empty and you're already composing the quitting speech. A gentler way to read a gap in your planner.
 
 - [Music Teacher Unsure What You Earn? The Letting Desk](https://blixwerkstudio.com/guides/music-teacher-no-idea-how-much-i-earn-per-month-from-lessons?s=github) – A letting agent asks what you earn a month from lessons, and you realise you don't know. A calm story for private music teachers.
 
