@@ -1468,6 +1468,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Tell Which Hours You Invoiced? The Beehive Veil](https://blixwerkstudio.com/guides/cant-tell-which-freelance-hours-invoiced?s=github) – A phone buzzes mid-beehive-inspection and you can't say which hours you already billed. A short story about getting that certainty back.
 
+- [Capturas de pantalla por todo el escritorio: la llamada](https://blixwerkstudio.com/guides/capturas-de-pantalla-por-todo-el-escritorio-no-encuentro-la-que-necesi?s=github) – Compartes pantalla en plena llamada y el escritorio está cubierto de capturas. Una historia sobre encontrar lo que necesitas sin sudar.
+
 - [Carta de Hacienda y sin justificantes de mis gastos](https://blixwerkstudio.com/guides/carta-de-hacienda-sin-justificantes-gastos-autonomo?s=github) – Abres el buzón y hay una carta de Hacienda. Tus justificantes de autónomo están «en algún sitio». Una historia para respirar y ordenar con calma.
 
 - [Cerré el proyecto a precio fijo: ¿gané dinero por hora?](https://blixwerkstudio.com/guides/cerre-proyecto-precio-fijo-gane-dinero-por-hora?s=github) – Entregaste a precio fijo y el cliente está feliz, pero no sabes cuántas horas te costó. Una historia sobre mirar los números sin miedo.
@@ -2236,6 +2238,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kleinunternehmer Invoice Correct? The Question on Line 2](https://blixwerkstudio.com/guides/freelancer-germany-kleinunternehmer-invoices-correct?s=github) – Her client's accountant asks about one invoice and her stomach drops. A calm story for freelancers in Germany unsure their invoices are right.
 
+- [Freelancer Holiday Guilt? Telling Clients: The Auto-Reply](https://blixwerkstudio.com/guides/freelancer-holiday-guilt-tell-clients?s=github) – The flights are booked, the clients don't know yet. A calm story about telling clients you're away without the guilt, and the auto-reply you finally send.
+
 - [Not Sure What Home Office Costs You Can Claim? The Lamp](https://blixwerkstudio.com/guides/freelancer-home-office-expenses-what-can-i-claim-receipts?s=github) – A desk lamp, a router bill, a chair: unsure what counts as a business cost? A calm story about sorting your home office receipts before January.
 
 - [Can't Keep Up With Invoices and Time Tracking? The Train Platform](https://blixwerkstudio.com/guides/freelancer-invoice-and-time-tracking-chaos?s=github) – On a cold platform, a freelancer realises she can't say which hours are billed. A calm story about invoice and time tracking chaos, and the way out.
@@ -2265,6 +2269,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tax Return Week: Your Invoices and Hours Won't Add Up](https://blixwerkstudio.com/guides/freelancer-steuererklaerung-rechnungen-stunden-nicht-nachvollziehbar?s=github) – The tax adviser's email asks for your income and hours. Your invoices say one thing, your notes another. A calm look at how it feels when they match.
 
 - [Tax Return Panic as a Freelancer: Invoices and Hours Don't Add Up](https://blixwerkstudio.com/guides/freelancer-steuererklarung-panik-rechnungen-stunden-nicht-nachvollzieh?s=github) – The tax adviser's email says 'by Friday'. Your invoices and hours are scattered across three places. A calmer way to start the week.
+
+- [Voll gearbeitet, doch Steuern und Krankenkasse fehlen?](https://blixwerkstudio.com/guides/freelancer-steuern-krankenversicherung-nicht-gedeckt?s=github) – Einen ganzen Monat durchgearbeitet und trotzdem reicht es nicht für Steuern und Krankenkasse? Eine Geschichte über den Moment, in dem sich das ändert.
 
 - [Tax Return Chaos as a Freelancer: Invoices and Hours Gone Missing](https://blixwerkstudio.com/guides/freelancer-tax-return-chaos-invoices-hours-cant-find?s=github) – The accountant's office is waiting, and your invoices and hours are scattered everywhere. A quiet story about finding order before the tax return.
 
@@ -2827,6 +2833,8 @@ Included (16 products, 175 USD if bought separately):
 - [I Never Know When to Reorder Stock: The Bus Stop at 7:52](https://blixwerkstudio.com/guides/never-know-when-to-reorder-stock-small-shop?s=github) – You're at the bus stop when a customer asks if the grey is back in stock, and you honestly don't know. A story about reorder timing for small shops.
 
 - [Never Tested Your Backup Restore? The Spare Tyre](https://blixwerkstudio.com/guides/never-tested-backup-restore-what-if-it-doesnt-work?s=github) – The spare tyre was soft, and your backup restore has never been tried. A calm story about the quiet worry of not knowing whether it would work.
+
+- [New Client Asked What Happens Next? The Garden Shed Call](https://blixwerkstudio.com/guides/new-client-asked-what-happens-next-freelancer?s=github) – The new client says 'So, what happens next?' and your mind goes blank. A short story about freelancing with a calm answer ready before the call starts.
 
 - [New Freelance Client, No Idea How to Start? The Egg Queue](https://blixwerkstudio.com/guides/new-freelance-client-how-to-start-project?s=github) – The yes arrives while you queue for eggs. Now what? A calm story about starting a new freelance client project without winging it.
 
