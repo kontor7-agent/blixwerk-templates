@@ -1278,6 +1278,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [API Broken Access Control? The Umbrella Basket](https://blixwerkstudio.com/guides/api-broken-access-control-worried-nobody-checked?s=github) – Rain, a café basket full of umbrellas, and one quiet worry: nobody ever checked who can open what in your API. A calm story for a Thursday.
 
+- [Mi API devuelve demasiado en los errores y temo lanzarla](https://blixwerkstudio.com/guides/api-devuelve-demasiada-informacion-errores-miedo-lanzar?s=github) – Sábado en un apartamento de vacaciones que no lo es: un error de tu API enseña más de lo que debería y el lanzamiento es el lunes. Una historia ilustrativa.
+
 - [API Key Visible in Frontend Code? The Tasting Table Text](https://blixwerkstudio.com/guides/api-key-visible-in-frontend-code-am-i-in-trouble?s=github) – A message from a client's nephew, a key in the browser, and a knot in your stomach. A calm story for anyone asking whether an exposed API key is trouble.
 
 - [Can Users See Each Other's Records? IDOR and Locker 14](https://blixwerkstudio.com/guides/api-lets-users-see-other-users-records-idor?s=github) – Your API checks that someone is logged in, but does it check whose record they open? A quiet story about that doubt, and how to put it down.
@@ -2672,6 +2674,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Verzugszinsen verlangen? Kunde zahlt monatelang zu spät](https://blixwerkstudio.com/guides/kunde-zahlt-monatelang-zu-spaet-verzugszinsen-freiberufler?s=github) – Der Kunde zahlt seit Monaten nicht, die Bank wartet. Darf man Verzugszinsen verlangen – und wie sagst du es, ohne zu betteln? Eine Geschichte.
 
+- [Kunde zahlt nicht: Inkasso bei 240 €? Die Mittagspause](https://blixwerkstudio.com/guides/kunde-zahlt-nicht-inkasso-einschalten-kleine-rechnung?s=github) – 240 Euro offen, der Kunde schweigt. Soll jetzt das Inkasso ran? Eine Mittagspause auf dem Rohbau und die Ruhe danach.
+
 - [Kunde zahlt Rechnung nicht? Warum du dich nicht traust zu mahnen](https://blixwerkstudio.com/guides/kunde-zahlt-rechnung-nicht-traue-mich-nicht-zu-mahnen-freiberufler?s=github) – Montagmorgen in der Bäckerei-Schlange: Die Rechnung ist seit Wochen offen, und du traust dich nicht zu mahnen. Eine Geschichte für Freiberufler.
 
 - [Kunde zahlt trotz Mahnung nicht? Das Wartezimmer, 8:15](https://blixwerkstudio.com/guides/kunde-zahlt-trotz-mahnung-nicht-inkasso?s=github) – Dritte Mahnung raus, Funkstille. Inkasso ja oder nein? Eine Lektorin im Physio-Wartezimmer und die Ruhe, die kommt, wenn du den nächsten Schritt kennst.
@@ -2739,6 +2743,8 @@ Included (16 products, 175 USD if bought separately):
 - [Made a Mistake on a Client Project? The Car Park Ticket](https://blixwerkstudio.com/guides/made-a-mistake-on-client-project-how-to-apologize-email-freelancer?s=github) – You spot your own mistake in a client's files while the car park barrier is stuck. The apology email you can't start, and what it quietly costs you.
 
 - [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
+
+- [Mail Merge, State Names All Different? The Parcel Counter](https://blixwerkstudio.com/guides/mail-merge-state-names-typed-differently-spreadsheet?s=github) – Calif., CA, california: addresses typed every which way before your mail merge. A short story from the post office counter, and a calmer Monday.
 
 - [Una mala reseña en Google y no sé cómo responder](https://blixwerkstudio.com/guides/mala-resena-google-no-se-como-responder?s=github) – Una estrella en Google a las 8:15, con la cola de la panadería delante. Una historia sobre responder a una mala reseña sin quedar mal.
 
@@ -3421,6 +3427,8 @@ Included (16 products, 175 USD if bought separately):
 - [Full Name in One Column? The Print Counter Moment](https://blixwerkstudio.com/guides/split-first-and-last-name-messy-csv?s=github) – 400 names in one column, a printer waiting and a welcome letter that says 'Dear Berg, Anna van der'. A calm story about splitting messy names in a CSV.
 
 - [Staff Keep Asking the Same Questions? The Third Roundabout](https://blixwerkstudio.com/guides/staff-keep-asking-same-questions-small-business-owner?s=github) – Your phone buzzes at the roundabout: the same question again. A small business owner's story about answers that live only in your head.
+
+- [Staging API Open to the Internet? The Open Window](https://blixwerkstudio.com/guides/staging-api-open-to-internet-what-else-exposed?s=github) – Found your staging API open to the internet? A calm story about the morning after the discovery, and how to stop wondering what else was left open.
 
 - [Steuerberater wartet auf deine Unterlagen? Der Anruf in der Bäckerei](https://blixwerkstudio.com/guides/steuerberater-wartet-unterlagen-durcheinander-selbststaendig?s=github) – Dienstag, 8:20 Uhr, Bäckerei-Schlange: Die Kanzlei fragt nach deinen Unterlagen, und bei dir liegt alles durcheinander. Eine Geschichte über Ruhe im Kopf.
 
