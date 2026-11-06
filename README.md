@@ -2066,6 +2066,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel Removed Leading Zeros From My CSV? The Courier Desk](https://blixwerkstudio.com/guides/excel-removed-leading-zeros-from-my-csv?s=github) – Postcode 01067 became 1067 and the courier queue is behind you. A short story about leading zeros, CSV files and getting a calm Tuesday back.
 
+- [Saltos de línea en Excel rompen mi importación: es hoy](https://blixwerkstudio.com/guides/excel-saltos-de-linea-en-celdas-rompen-importacion?s=github) – Miércoles, 9:40: el cliente espera y la importación falla en la fila 214. Una historia sobre saltos de línea en celdas de Excel y cómo volver a respirar.
+
 - [Excel se cuelga al abrir un CSV enorme y lo entrego hoy](https://blixwerkstudio.com/guides/excel-se-cuelga-al-abrir-csv-enorme?s=github) – Son las 11:40, tienes una llamada a las 12 y Excel dice «No responde» con un CSV enorme. Una historia para quien entrega hoy y quiere respirar.
 
 - [Excel Shows Dates as 45231 After CSV Import? Breakfast Room](https://blixwerkstudio.com/guides/excel-shows-dates-as-45231-after-importing-csv?s=github) – 7:45 in a hotel breakfast room, the CSV opens and every date is a five-digit number. A calm story about the 45231 problem and the morning after.
@@ -3640,6 +3642,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ware im Lager verschwunden? Montag, 7:15 im Keller](https://blixwerkstudio.com/guides/ware-verschwindet-im-lager-schwund-kleiner-shop?s=github) – Zwölf Kartons gezählt, achtzehn notiert. Wohin verschwindet die Ware im Lager deines kleinen Shops? Eine Geschichte über Schwund und neue Ruhe.
 
+- [Wareneingang nicht eingebucht? Der Karton unterm Tresen](https://blixwerkstudio.com/guides/wareneingang-nicht-eingebucht-bestand-stimmt-nicht?s=github) – Die Ware ist da, im System steht sie nicht – und der Bestand stimmt nicht mehr. Eine Geschichte über Wareneingang, Ruhe und den Dienstag danach.
+
 - [Instagram: Was posten? Mittwoch, 10:15, Baumarkt-Parkplatz](https://blixwerkstudio.com/guides/was-auf-instagram-posten-selbststaendig-zeit-sparen?s=github) – Du sitzt im Transporter, der Cursor blinkt, und dir fällt nichts ein. Eine Geschichte über Instagram, das deine ganze Woche frisst, und was es leiser macht.
 
 - [Was kann ich absetzen? Privat und beruflich gemischt](https://blixwerkstudio.com/guides/was-kann-ich-absetzen-privat-und-beruflich-gemischt-freelancer?s=github) – Ein Bon, Druckerpapier und Shampoo: Was ist beruflich, was privat? Eine Geschichte für Selbstständige, die beim Absetzen unsicher sind.
@@ -3676,6 +3680,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Stunden im Monat abrechnen als Freiberufler? Die Kantine](https://blixwerkstudio.com/guides/wie-viele-stunden-im-monat-als-freiberufler-abrechnen?s=github) – Voller Kalender, wenig Geld: Eine Mittagspause in der Kundenkantine zeigt, warum abrechenbare Stunden anders zählen als Arbeitsstunden.
 
+- [File History Stopped Working? The Smoke Alarm Chirp](https://blixwerkstudio.com/guides/windows-file-history-stopped-working?s=github) – Windows File History stopped months ago and nothing told you. A quiet story about a Tuesday-morning restore, and a backup that tells you it ran.
+
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://blixwerkstudio.com/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
 
 - [Windows Server Logs Filling Up Again? The Sports Day Call](https://blixwerkstudio.com/guides/windows-server-logs-filling-disk-automate-cleanup?s=github) – Windows server logs filled the disk again, and the call came mid-egg-and-spoon race. A calm story about letting cleanup run itself, quietly, every week.
@@ -3689,6 +3695,8 @@ Included (16 products, 175 USD if bought separately):
 - [Worried About a Data Breach After Launch? The Bike Hut](https://blixwerkstudio.com/guides/worried-about-data-breach-after-api-launch?s=github) – Your API went live on Friday and now you're on a cycling weekend, checking your phone at every red light. A story about getting the quiet back.
 
 - [Worried About 2027 Freelance Income? The Lease Renewal](https://blixwerkstudio.com/guides/worried-about-freelance-income-next-year-plan-2027?s=github) – The lease renewal letter asks one simple question: can you commit to next year? A calm story for freelancers whose income is unpredictable.
+
+- [Worried About SSRF in Your API? The Dried-Out Marker](https://blixwerkstudio.com/guides/worried-about-ssrf-vulnerability-in-api?s=github) – Your API fetches a URL a user gives it, and a client just asked about SSRF. A calm story about going from a knot in your stomach to a clear answer.
 
 - [Worried About SQL Injection in Your API? Smoothie Bar](https://blixwerkstudio.com/guides/worried-api-vulnerable-sql-injection-cant-tell?s=github) – A client asks if your API is safe from SQL injection while you wait for a smoothie. You say yes, but you can't be sure. Here's a calmer way to know.
 
