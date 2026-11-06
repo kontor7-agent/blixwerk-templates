@@ -1218,6 +1218,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Afraid You Missed an API Security Hole? The Sunday Lunch Wobble](https://blixwerkstudio.com/guides/afraid-i-missed-a-security-hole-in-my-api-before-release?s=github) – Release on Monday, and over Sunday lunch one thought won't leave: what did I forget to check in my API? A story about getting the doubt to settle.
 
+- [Afraid to Ask Clients for Referrals? The Last Minute](https://blixwerkstudio.com/guides/afraid-to-ask-clients-for-referrals-freelance?s=github) – The project call went well. Your client says 'anything else?' and you say no. A quiet story about the referral ask you keep swallowing.
+
 - [Afraid to Tell Clients Your Freelance Rate? The Lift to Floor 4](https://blixwerkstudio.com/guides/afraid-to-tell-clients-my-freelance-rate-too-high?s=github) – You typed the number, deleted it, typed a smaller one. A quiet story about the fear of saying your freelance rate out loud, and what calms it.
 
 - [La agencia no me paga la factura y me da apuro reclamar](https://blixwerkstudio.com/guides/agencia-de-traduccion-no-me-paga-la-factura-me-da-apuro-reclamar?s=github) – Viernes, 14:10, el menú del día sin tocar y la app del banco abierta. La agencia de traducción sigue sin pagar y tú sigues sin saber cómo reclamar.
@@ -1635,6 +1637,8 @@ Included (16 products, 175 USD if bought separately):
 - [Client Wants 90 Day Payment Terms? The Bike Rack Call](https://blixwerkstudio.com/guides/client-wants-90-day-payment-terms-freelancer?s=github) – The client says their standard is 90 days and you freeze at the bike rack. A calm story for freelancers who worry about long payment terms and chasing money.
 
 - [Client Wants a Call Tomorrow, No Kickoff Questions Ready?](https://blixwerkstudio.com/guides/client-wants-a-call-tomorrow-no-kickoff-questions?s=github) – A new client wants a call tomorrow at ten and you have no questions ready. A calm story about walking into a kickoff call prepared.
+
+- [Monthly Retainer: How Much to Charge? The Pot on the Stove](https://blixwerkstudio.com/guides/client-wants-monthly-retainer-how-much-to-charge-freelance?s=github) – A client says 'let's make it monthly' and your mind goes blank on the number. A calm story about naming a retainer price without guessing.
 
 - [Client Wants More Revisions Than Agreed? The Pottery Class Pause](https://blixwerkstudio.com/guides/client-wants-more-revisions-than-agreed-how-to-say-no-politely?s=github) – Round four of 'just one small change' arrives mid-lunch. A quiet story about saying no to extra revisions politely, without losing the client or your calm.
 
@@ -3421,6 +3425,8 @@ Included (16 products, 175 USD if bought separately):
 - [Subir precios en mi peluquería: miedo a perder clientas](https://blixwerkstudio.com/guides/subir-precios-peluqueria-miedo-perder-clientas?s=github) – Lunes, 9:40: la lista de precios en el espejo y un nudo en el estómago. Una historia sobre subir precios sin perder clientas.
 
 - [Swagger Docs Exposed in Production? The Spare Key Label](https://blixwerkstudio.com/guides/swagger-docs-exposed-in-production?s=github) – Your Swagger page is public and a message just landed. A calm story about the knot in your stomach, and how to stop guessing while you stand in a queue.
+
+- [Tagessatz angeboten – zu niedrig? Die Hundeschule, 10:05](https://blixwerkstudio.com/guides/tagessatz-angebot-zu-niedrig-freelance?s=github) – Der Kunde bietet 480 € Tagessatz, und du weißt nicht, ob das reicht. Eine Geschichte über den Moment danach – und wie wieder Ruhe einkehrt.
 
 - [Tardé semanas en contestar a un cliente: me da vergüenza](https://blixwerkstudio.com/guides/tarde-semanas-en-contestar-a-un-cliente-me-da-verguenza?s=github) – Tres semanas sin contestar a un cliente y cada día cuesta más escribirle. Una historia sobre el lunes en que por fin abres ese correo.
 
