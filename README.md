@@ -2048,6 +2048,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Merged Cells and Blank Rows Before the Deadline? The 8:15 Train](https://blixwerkstudio.com/guides/excel-file-merged-cells-blank-rows-clean-up-before-deadline?s=github) – An Excel file full of merged cells and blank rows, a deadline at ten, and a train that won't wait. A calm story about getting messy data usable again.
 
+- [Mi Excel de inventario se rompe y no me fío de las cifras](https://blixwerkstudio.com/guides/excel-inventario-se-rompe-al-anadir-productos?s=github) – Lunes, 9:10, y el total del Excel no coincide con lo que ves en el estante. Una historia para quien ya no se fía de su inventario al añadir productos.
+
 - [Excel Keeps Crashing on a Huge CSV? The Replacement Bus](https://blixwerkstudio.com/guides/excel-keeps-crashing-huge-csv-file?s=github) – The spinner, the 'Not Responding' bar, a call at 9:30. A calm story for anyone whose Excel keeps crashing when they open a huge CSV file.
 
 - [Excel-Lagerbestand falsch? Dienstag in der Werkstatt](https://blixwerkstudio.com/guides/excel-lagerbestand-formeln-kaputt-bestand-falsch?s=github) – Formeln in der Lagerliste kaputt, und du traust deinen Bestandszahlen nicht mehr? Eine Geschichte aus einer Fahrradwerkstatt und ein ruhigerer Montag.
@@ -3192,6 +3194,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Meine Rechnung sieht unprofessionell aus: Der Montag um 9:40 Uhr](https://blixwerkstudio.com/guides/rechnung-sieht-unprofessionell-aus-freiberufler?s=github) – Die Buchhaltung des Kunden fragt nach der Rechnung, und dir wird heiß. Eine Geschichte für Freiberufler, die sich für ihre Rechnung schämen.
 
+- [Rechnung überfällig, Buchhaltung unbekannt? Die Hotline](https://blixwerkstudio.com/guides/rechnung-ueberfaellig-kein-ansprechpartner-buchhaltung?s=github) – Die Rechnung ist 40 Tage überfällig, und niemand sagt dir, wer in der Buchhaltung zuständig ist. Eine Geschichte über Wartemusik und den ruhigen Plan danach.
+
 - [Rechnung vergessen, Monate her? Die Schlange am Wochenmarkt](https://blixwerkstudio.com/guides/rechnung-vergessen-monate-her-peinlich?s=github) – Samstag, Wochenmarkt: Die Kundin fragt nach deiner Rechnung, die du im März vergessen hast. Eine Geschichte über Peinlichkeit und einen ruhigeren Weg.
 
 - [Rechnung vergessen, Monate her: Die Mail aus der Buchhaltung](https://blixwerkstudio.com/guides/rechnung-vergessen-monate-peinlich-buchhaltung-mail?s=github) – Montag, 9:12 Uhr: Eine Mail aus der Buchhaltung deines Kunden, und du ahnst, welche Rechnung fehlt. Eine Geschichte über Peinlichkeit und Ruhe.
@@ -3366,6 +3370,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Server Out of Disk Space Overnight? The Gondola Queue](https://blixwerkstudio.com/guides/server-out-of-disk-space-overnight-log-files?s=github) – Your server ran out of disk space overnight because of log files, and you're in a gondola queue with one bar of signal. A story about calm after the alert.
 
+- [Shared API Keys With a Contractor? The Padlock Aisle](https://blixwerkstudio.com/guides/shared-api-keys-with-contractor-worried-what-else-exposed?s=github) – You pasted the keys into a chat so the contractor could start. Now the contract has ended and you wonder what else is open. A calm story.
+
 - [Shipped the Wrong Item to an Etsy Customer? The Mirror](https://blixwerkstudio.com/guides/shipped-wrong-item-etsy-customer-orders-a-mess?s=github) – You sent a customer the wrong item because your orders live in five places. A calm story about the photo message, the sinking feeling and a quieter way.
 
 - [Shop Asked for Wholesale Prices? The Hilltop Signal Bar](https://blixwerkstudio.com/guides/shop-asked-for-wholesale-prices-handmade-profit?s=github) – A shop wants wholesale prices for your handmade work and you can't tell if you'd earn anything. A quiet story about finding out before you reply.
@@ -3503,6 +3509,8 @@ Included (16 products, 175 USD if bought separately):
 - [Need to Tell a Client Their Work Needs Revisions? The Lift Doors](https://blixwerkstudio.com/guides/tell-client-work-needs-revisions-without-upsetting-them?s=github) – You're holding a draft that isn't right and a client who loves it. The pause before you hit send, and how it can feel lighter.
 
 - [Tengo TDAH, trabajo por mi cuenta y me agobio cada día](https://blixwerkstudio.com/guides/tengo-tdah-trabajo-por-mi-cuenta-olvido-tareas-agobio?s=github) – En la cola del súper, el móvil vibra y recuerdas lo que olvidaste. Una historia para autónomos con TDAH que se agobian cada día y buscan algo de calma.
+
+- [Thank-You Email Sent, No Reply? The Engagement Dinner](https://blixwerkstudio.com/guides/thank-you-email-after-interview-no-reply?s=github) – You sent the thank-you email and heard nothing. At a family dinner someone asks who you wrote to, and you can't say. A story about getting calm again.
 
 - [Three Interviews, Mixing Up Companies? The Visitor Badge](https://blixwerkstudio.com/guides/three-interviews-mixing-up-companies?s=github) – Three interviews in one week and the companies blur together. A quiet story about the lobby moment you dread, and how it can feel instead.
 
