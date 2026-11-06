@@ -1764,6 +1764,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi cliente ya no me necesita y no sé qué contestar](https://blixwerkstudio.com/guides/cliente-ya-no-necesita-mis-servicios-que-contestar?s=github) – El cliente te dice en una videollamada que lo dejáis aquí y te quedas sin palabras. Una historia sobre contestar con calma, sin rogar ni romper nada.
 
+- [Clients Asking Where Their Photos Are? The Fruit Scale](https://blixwerkstudio.com/guides/clients-asking-where-their-photos-are?s=github) – Behind on editing and the messages keep coming: 'Any news on our photos?' A quiet story about gallery deadlines you can finally see.
+
 - [Cobrar por proyecto o por hora: el café con Lucía](https://blixwerkstudio.com/guides/cobrar-por-proyecto-o-por-hora-freelance?s=github) – Te piden precio cerrado o por horas y te quedas en blanco. Una historia sobre cobrar por proyecto o por hora sin miedo a equivocarte.
 
 - [Cobrar en dólares y no saber qué tarifa por hora poner](https://blixwerkstudio.com/guides/cobro-en-dolares-clientes-estados-unidos-tarifa-por-hora?s=github) – Un cliente de Estados Unidos te pregunta tu tarifa por hora y te quedas en blanco. Una historia sobre cobrar en dólares con más calma.
@@ -1859,6 +1861,8 @@ Included (16 products, 175 USD if bought separately):
 - [Cuánto cobrar por clase particular: el miedo a pedir poco](https://blixwerkstudio.com/guides/cuanto-cobrar-por-clase-particular-miedo-pedir-poco?s=github) – Te escriben «¿cuánto cobras?» en la cola de la panadería y te quedas en blanco. Una historia sobre ponerle precio a tus clases sin miedo.
 
 - [Cuánto cobrar por hora como diseñador gráfico: la bici](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-diseador-grafico-freelance?s=github) – Una pregunta del cliente mientras esperas la bici: ¿cuánto cobrar por hora como diseñador gráfico freelance sin quedarte corto?
+
+- [Freelance y trabajo fijo: no sé cuánto cobrar por hora](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-freelance-con-trabajo-fijo?s=github) – Tienes nómina y un cliente freelance que te pregunta tu tarifa. Una historia sobre un bocadillo en el coche y la calma de tener un número.
 
 - [Cuánto cobrar por hora para ganar 2000 € siendo autónomo](https://blixwerkstudio.com/guides/cuanto-cobrar-por-hora-ganar-2000-euros-al-mes-autonomo?s=github) – Domingo en familia, una pregunta sobre tu sueldo y una cifra que no te sale. Una historia sobre cobrar por hora sin adivinar y sin sentir vergüenza.
 
@@ -2451,6 +2455,8 @@ Included (16 products, 175 USD if bought separately):
 - [Job Search Spreadsheet a Mess? The Coach Window Seat](https://blixwerkstudio.com/guides/job-search-spreadsheet-mess-missed-follow-up-email?s=github) – You meant to follow up last Thursday. Now the spreadsheet is a maze and the reply window may have closed. A quiet story about a calmer job search.
 
 - [Lost Track of Job Applications? The Bookshop Call](https://blixwerkstudio.com/guides/lost-track-of-job-applications-tracker?s=github) – A recruiter calls and you can't remember which role she means. A calm story about job applications, follow-ups and interview prep that stops living in your head.
+
+- [Jobsuche-Burnout? Jeden Tag bewerben, keine Antwort](https://blixwerkstudio.com/guides/jobsuche-burnout-bewerben-keine-antwort?s=github) – Jeden Tag Bewerbungen, nie eine Antwort. Eine Joggingrunde am Neckar und der Moment, in dem die Jobsuche wieder Struktur bekommt.
 
 - [Jobzusage, andere Antworten offen? Die Fahrradwerkstatt](https://blixwerkstudio.com/guides/jobzusage-andere-bewerbungen-offen-fristen-im-blick?s=github) – Eine Zusage mit Frist, drei Firmen schweigen noch. Eine kleine Geschichte darüber, wie du den Überblick behältst und rechtzeitig antworten kannst.
 
@@ -3313,6 +3319,8 @@ Included (16 products, 175 USD if bought separately):
 - [Selbstständig überfordert mit Orga? Der Schuhkarton auf dem Tisch](https://blixwerkstudio.com/guides/selbststaendig-ueberfordert-orga-zettelwirtschaft?s=github) – Montagmorgen, Zettel überall, Steuerberater-Termin am Donnerstag. Eine Geschichte für alle, die selbstständig sind und in der Zettelwirtschaft versinken.
 
 - [Selbstständig überfordert: Zettel, Excel-Listen und ein Anruf](https://blixwerkstudio.com/guides/selbststaendig-ueberfordert-zettel-excel-listen-chaos?s=github) – Mittwoch, 10:15 Uhr: Der Kunde fragt nach, und du suchst in Zetteln und Excel-Listen. Eine Geschichte über Chaos und die Ruhe danach.
+
+- [Faded Thermal Receipts, Self-Employed? The Sun Visor](https://blixwerkstudio.com/guides/self-employed-faded-thermal-receipts-tax-time?s=github) – The receipt you held up to the light is blank. A quiet story about faded thermal paper, self-employed tax time, and getting your receipts back under control.
 
 - [Self-Employed Hairdresser: What Did I Actually Earn This Week?](https://blixwerkstudio.com/guides/self-employed-hairdresser-dont-know-how-much-i-earn-each-week?s=github) – Tuesday lunch, a sandwich in the back room, and no idea what your week really brought in. A story for self-employed stylists who want to know.
 
