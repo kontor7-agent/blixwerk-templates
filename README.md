@@ -1656,6 +1656,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Canceló la sesión de fotos a última hora y perdí el día](https://blixwerkstudio.com/guides/cliente-cancelo-sesion-de-fotos-ultima-hora-fotografo-autonomo?s=github) – Sábado, 7:40, el coche cargado y un mensaje: «hoy no podemos». Una historia para fotógrafos autónomos que pierden el día por una cancelación.
 
+- [Mi cliente de otro país no me paga: ¿cómo le reclamo?](https://blixwerkstudio.com/guides/cliente-de-otro-pais-no-me-paga-la-factura-como-reclamar?s=github) – Miércoles, 14:10, un banco de parque y una factura sin pagar de un cliente en el extranjero. Una historia sobre reclamar sin apuro y sin sentirte una pesada.
+
 - [Entregué el trabajo, el cliente desapareció y no me paga](https://blixwerkstudio.com/guides/cliente-desaparecio-despues-de-entregar-el-trabajo-no-paga?s=github) – Entregaste el trabajo, él dejó de contestar y la factura sigue ahí. Una historia sobre cobrar sin suplicar y recuperar la calma.
 
 - [El material no estaba en el presupuesto y lo pago yo](https://blixwerkstudio.com/guides/cliente-dice-presupuesto-no-incluia-material?s=github) – Dice que el material no estaba en el presupuesto y lo pagas tú de tu bolsillo. Una mañana en la ferretería y lo que cambia cuando ya no pasa.
