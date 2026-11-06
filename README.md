@@ -1830,6 +1830,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CSV Import Failed: Encoding Error, Deadline in an Hour](https://blixwerkstudio.com/guides/csv-import-failed-encoding-error-deadline-in-an-hour?s=github) – The import says 'encoding error' and the sale goes live in an hour. A calm story about weird characters, a ticking clock, and what changes afterwards.
 
+- [CSV Import Keeps Failing on One Bad Row? The Tea Urn](https://blixwerkstudio.com/guides/csv-import-keeps-failing-one-bad-row?s=github) – The import says 'error in file' and nothing else. Somewhere in 1,400 rows hides one bad line, and the doors open in ten minutes. A short story.
+
 - [CSV Column Names Change Every Export? The Park Bench](https://blixwerkstudio.com/guides/csv-inconsistent-column-names-blank-rows-every-export?s=github) – Every export brings new column names and blank rows. A lunch-break story about Priya, a sandwich, and the weekly file that never looks the same twice.
 
 - [CSV Junk Header Rows Breaking Import? The Blood Test Queue](https://blixwerkstudio.com/guides/csv-junk-header-rows-total-line-breaking-import?s=github) – The export has report titles on top and a total line at the bottom, and your import keeps failing. A quiet story about a morning like that, and the way out.
@@ -1971,6 +1973,8 @@ Included (16 products, 175 USD if bought separately):
 - [Eilauftrag: Wie viel Aufschlag, ohne schlechtes Gewissen?](https://blixwerkstudio.com/guides/eilauftrag-aufschlag-freelance-schlechtes-gewissen?s=github) – Der Kunde braucht es bis morgen, und du tippst „wie immer“ in die Antwort. Eine Geschichte über Eilaufträge, Aufschlag und das schlechte Gewissen.
 
 - [Eine Woche frei, Kunden weg? Der Satz am Callende](https://blixwerkstudio.com/guides/eine-woche-frei-als-freelancer-kunden-verlieren?s=github) – Donnerstag, 16:58 Uhr, der Call ist fast vorbei, und du sagst nicht, dass du nächste Woche frei hast. Eine Geschichte über Mut, Urlaub und ruhige Mails.
+
+- [Embarrassed by Your English in Client Emails? Platform 2](https://blixwerkstudio.com/guides/embarrassed-english-client-emails-not-first-language?s=github) – English isn't your first language and client emails make you cringe? A quiet story about the reply you rewrote on a cold platform, and what eased it.
 
 - [Embarrassed to Say Your Freelance Rate? The Garden Party Question](https://blixwerkstudio.com/guides/embarrassed-to-tell-clients-my-freelance-rate?s=github) – Someone asks what you charge, and your voice shrinks. A quiet story about saying your freelance rate without apologising, and what changes once you know it.
 
@@ -2511,6 +2515,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde nimmt deinen Preis sofort an – war ich zu billig?](https://blixwerkstudio.com/guides/kunde-hat-meinen-preis-sofort-akzeptiert-war-ich-zu-billig?s=github) – Eine Mail, ein Wort: „Passt.“ Und plötzlich zweifelst du. Eine Geschichte für alle, deren Preis zu schnell akzeptiert wurde und die sich fragen: zu billig?
 
 - [Kunde hat nur die Hälfte bezahlt? Der Stau auf der A7](https://blixwerkstudio.com/guides/kunde-hat-nur-die-haelfte-der-rechnung-bezahlt?s=github) – Die Banking-App zeigt 1.190 € statt 2.380 €. Eine Geschichte über halb bezahlte Rechnungen, ein flaues Gefühl im Stau und wie wieder Ruhe einkehrt.
+
+- [Kunde hat Rechnung doppelt bezahlt? Der Anruf um 15 Uhr](https://blixwerkstudio.com/guides/kunde-hat-rechnung-doppelt-bezahlt-freiberufler?s=github) – Doppelt bezahlt, und du merkst es erst im Videocall? Eine Geschichte über den Moment, in dem du endlich ruhig sagen kannst: Ich schaue kurz nach.
 
 - [Kunde zahlte weniger als berechnet? Der Beckenrand](https://blixwerkstudio.com/guides/kunde-hat-weniger-gezahlt-als-rechnung?s=github) – Samstag am Beckenrand siehst du den Kontoauszug: 240 € fehlen. Wie sprichst du das an, ohne dass es peinlich wird? Eine Geschichte über Ruhe statt Grübeln.
 
@@ -3593,6 +3599,8 @@ Included (16 products, 175 USD if bought separately):
 - [Verlange ich als Freelancer zu wenig? Ein Anruf, der hängen bleibt](https://blixwerkstudio.com/guides/verlange-ich-als-freelancer-zu-wenig?s=github) – Der Kunde sagt „Ach, so günstig?“ – und du lächelst, obwohl es in dir arbeitet. Eine kleine Geschichte über Preise, Bauchgefühl und ein ruhigeres Gefühl.
 
 - [VLOOKUP Not Working? The Hidden Space in Row 212](https://blixwerkstudio.com/guides/vlookup-not-working-hidden-spaces?s=github) – Two names that look identical, and VLOOKUP says #N/A. A story about hidden spaces in exported data, a client waiting on the line, and a calmer way to clean it.
+
+- [Volví de vacaciones y no sé qué clientes me deben dinero](https://blixwerkstudio.com/guides/volvi-de-vacaciones-no-se-que-clientes-me-deben-dinero-autonomo?s=github) – La maleta no sale y tu bandeja de entrada ya late. Volviste de vacaciones sin saber qué clientes te deben. Una historia para autónomos.
 
 - [Volví del mercadillo con cajas sin vender: ¿gané algo?](https://blixwerkstudio.com/guides/volvi-del-mercadillo-con-cajas-sin-vender-gane-algo?s=github) – Domingo, seis de la tarde, el pasillo lleno de cajas y un sobre con billetes. ¿Ganaste algo en el mercadillo? Una historia sobre cómo dejar de adivinarlo.
 
