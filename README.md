@@ -1420,6 +1420,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [BUSCARV no encuentra datos que sí existen: entrego hoy](https://blixwerkstudio.com/guides/buscarv-no-encuentra-datos-que-existen-entrego-hoy?s=github) – Ves el dato en las dos hojas y BUSCARV dice #N/D. Una mañana de entrega, una videollamada y por qué no hace falta pelearse con el Excel.
 
+- [Receipts Still a Mess in November? The Window Cleaner](https://blixwerkstudio.com/guides/business-receipts-still-a-mess-in-november?s=github) – It's November and your receipts are still in a shoebox, a phone gallery and three inboxes. A quiet Saturday story about the knock at the door.
+
 - [Buy Planners, Never Stick With Them? The ADHD Drawer](https://blixwerkstudio.com/guides/buy-planners-never-stick-with-them-adhd?s=github) – Four planners, all abandoned by February. A quiet story for freelancers with busy brains who keep starting over, and what a lighter page can change.
 
 - [C Drive Almost Full? The Red Bar at Mum's Kitchen Table](https://blixwerkstudio.com/guides/c-drive-almost-full-downloads-folder-old-installers-zip-files?s=github) – The red bar on your C drive, thousands of old installers and zips in Downloads, and a deadline. A calm story about getting your space back.
@@ -2372,6 +2374,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://blixwerkstudio.com/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
 
+- [No Idea How Much Freelance Work You Need? The Sat-Nav](https://blixwerkstudio.com/guides/how-much-freelance-work-do-i-need-next-year?s=github) – Saturday in a hired van, a sat-nav that knows its arrival time, and an income goal you can't say out loud. A story for freelancers planning next year.
+
 - [How Much Safety Stock Is Enough? The Recital Row](https://blixwerkstudio.com/guides/how-much-safety-stock-small-shop?s=github) – You sit in a folding chair at a recital, doing stock maths in your head. How much safety stock should a small shop keep? A calmer way to stop guessing.
 
 - [Supplier Minimum Order Too High? The Hallway Pallet](https://blixwerkstudio.com/guides/how-much-stock-to-order-supplier-minimum-order-quantity?s=github) – The supplier says minimum 300 units and you stand in the stockroom doorway, unsure. A calm story about ordering stock without guessing.
@@ -2848,6 +2852,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Nebenberuflich: Stundensatz nach Steuern? Mittagspause](https://blixwerkstudio.com/guides/nebenberuflich-selbststaendig-stundensatz-nach-steuern?s=github) – Du sitzt in der Mittagspause im Auto und weißt nicht, was eine Stunde nebenberuflich wirklich kosten muss. Eine Geschichte über Ruhe beim Preis.
 
+- [Nebenjob läuft, Chaos auch? Der Kopierraum, 12:50 Uhr](https://blixwerkstudio.com/guides/nebenjob-selbststaendig-rechnungen-stunden-lager-chaos?s=github) – Dein Nebenjob wächst, aber Rechnungen, Stunden und Lager liegen in drei Notizbüchern? Eine Geschichte über den Moment, in dem es leiser wird.
+
 - [Negative Google Review? The Shutter Half Up on Monday](https://blixwerkstudio.com/guides/negative-google-review-small-business-reply-without-sounding-defensive?s=github) – One star at 7:45 on a Monday, coffee still hot. A story for small business owners who want to reply to a bad Google review without sounding defensive.
 
 - [Mi negocio crece y ya no cabe el stock en una libreta](https://blixwerkstudio.com/guides/negocio-crece-stock-libreta?s=github) – En la cola de Correos, un cliente pregunta si te queda stock y la libreta está en casa. Una historia para cuando el negocio crece.
@@ -2945,6 +2951,8 @@ Included (16 products, 175 USD if bought separately):
 - [Olvidé el desplazamiento en el presupuesto: un lunes](https://blixwerkstudio.com/guides/olvide-desplazamiento-mano-de-obra-presupuesto-perdi-dinero?s=github) – Hiciste el presupuesto de memoria en la obra y al cuadrar faltaban el desplazamiento y la mano de obra. Una historia para autónomos de oficios.
 
 - [Olvidé el IVA en el presupuesto y no quiere pagarlo](https://blixwerkstudio.com/guides/olvide-iva-presupuesto-cliente-no-quiere-pagarlo?s=github) – Terminaste la reforma, mandas la factura y llega el mensaje: «eso no estaba en el presupuesto». Una historia para quien olvidó el IVA al presupuestar.
+
+- [Olvido citas y plazos y tengo la cabeza llena: un lunes](https://blixwerkstudio.com/guides/olvido-citas-y-plazos-cabeza-llena-autonomo?s=github) – Una llamada que se te pasó, tres post-its y la cabeza a reventar. Una historia sobre olvidar citas y plazos cuando trabajas por tu cuenta.
 
 - [OneDrive Sync Deleted Files, No Backup? The Seed Stall](https://blixwerkstudio.com/guides/onedrive-sync-deleted-my-files-no-other-backup?s=github) – OneDrive synced the deletion everywhere and your only copy is gone. A story about that cold drop, and the calm of a copy sync can't touch.
 
