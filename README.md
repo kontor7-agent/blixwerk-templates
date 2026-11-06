@@ -1770,6 +1770,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Creo que cobro poco a mis clientes y me da miedo subir tarifas](https://blixwerkstudio.com/guides/cobro-poco-a-mis-clientes-miedo-subir-tarifas?s=github) – Un jueves, junto a la máquina de café del coworking, una frase te hace dudar de lo que cobras. Una historia para quien teme subir sus tarifas.
 
+- [Las comas en mis celdas rompen el CSV: martes en el tren](https://blixwerkstudio.com/guides/comas-en-celdas-rompen-csv-columnas-descuadradas?s=github) – Las direcciones llevan comas y tu CSV se descuadra con el tren a veinte minutos de llegar. Una historia sobre dejar de arreglar celdas a mano.
+
 - [Committed an API Key to GitHub? What Else Did I Miss?](https://blixwerkstudio.com/guides/committed-api-key-to-github-what-else-did-i-miss?s=github) – You pushed an API key to GitHub and fixed it in minutes. The real question is what else you missed. A quiet story from under the salon foils.
 
 - [Cómo decirle a los padres que subo el precio de las clases](https://blixwerkstudio.com/guides/como-decirle-a-los-padres-que-subo-el-precio-de-las-clases-particulare?s=github) – Llevas tres años cobrando lo mismo y la madre de Pablo te saluda en la panadería. Una historia sobre subir el precio de las clases sin que se te encoja el estómago.
@@ -2518,6 +2520,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde ignoriert Zahlungserinnerung? Das Bordbistro](https://blixwerkstudio.com/guides/kunde-ignoriert-zahlungserinnerung-was-jetzt?s=github) – Zweite Erinnerung raus, Antwort bleibt aus. Eine Untertitlerin im Zug, ein Kaffee und die Frage: Und jetzt? Eine Geschichte für alle, die ungern nachhaken.
 
+- [Kunde ignoriert Erinnerungen? Das Treppenhaus, 13:50](https://blixwerkstudio.com/guides/kunde-ignoriert-zahlungserinnerung-was-schreiben?s=github) – Drei Erinnerungen, null Antwort, und in zehn Minuten sitzt du beim Steuerberater. Eine Geschichte über den nächsten Satz, wenn der Kunde schweigt.
+
 - [Kunde insolvent, Rechnung offen? Der Zahnarzt-Parkplatz](https://blixwerkstudio.com/guides/kunde-insolvent-rechnung-offen-was-tun-selbststaendig?s=github) – Die Mail vom Insolvenzverwalter kommt, als du im Auto auf den Zahnarzttermin wartest. Eine Geschichte über offene Rechnungen und wie du früher Ruhe hast.
 
 - [Kunde kürzt einfach deine Rechnung? Was tun, wenn die Tankstelle wartet](https://blixwerkstudio.com/guides/kunde-kuerzt-rechnung-was-tun?s=github) – Auf dem Konto fehlen 380 Euro, im Verwendungszweck steht nur „gekürzt“. Eine Geschichte für alle, die nicht wissen, was sie jetzt sagen sollen.
@@ -2980,6 +2984,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Phone Numbers Messy in Your CSV? The Market Stall Texts](https://blixwerkstudio.com/guides/phone-numbers-names-inconsistent-csv-fix?s=github) – Phone numbers in six formats, names in three cases, and a Saturday reminder to send. A calm story about messy CSV contact lists and getting hours back.
 
+- [Photo Client Keeps Rescheduling? The Sandwich in the Car](https://blixwerkstudio.com/guides/photo-client-keeps-rescheduling-shoot-track-bookings?s=github) – The third reschedule text lands mid-sandwich and your calendar no longer matches your memory. A photographer's story about calmer bookings.
+
 - [Photos Delivered, Payment Delayed? The Delivery Slot](https://blixwerkstudio.com/guides/photographer-client-delays-final-payment-after-delivery?s=github) – You delivered the edited photos two weeks ago. The final payment is still 'this week'. A quiet story about waiting, and the calmer way to know where you stand.
 
 - [Client Got All the Photos but Never Paid? The Bus Queue](https://blixwerkstudio.com/guides/photographer-client-got-all-photos-never-paid-balance?s=github) – The full gallery went out three weeks ago and the balance never came. A quiet story for photographers who feel awkward asking, and what calmer looks like.
@@ -3321,6 +3327,8 @@ Included (16 products, 175 USD if bought separately):
 - [Server Disk Full Again? Old Log Files and a 7:45 Client Call](https://blixwerkstudio.com/guides/server-disk-full-old-log-files?s=github) – The disk is full again, and the culprit is months of old log files. A calm story about the Monday it stopped happening, and what changed.
 
 - [Server Out of Disk Space Overnight? The Gondola Queue](https://blixwerkstudio.com/guides/server-out-of-disk-space-overnight-log-files?s=github) – Your server ran out of disk space overnight because of log files, and you're in a gondola queue with one bar of signal. A story about calm after the alert.
+
+- [Shipped the Wrong Item to an Etsy Customer? The Mirror](https://blixwerkstudio.com/guides/shipped-wrong-item-etsy-customer-orders-a-mess?s=github) – You sent a customer the wrong item because your orders live in five places. A calm story about the photo message, the sinking feeling and a quieter way.
 
 - [Shop Asked for Wholesale Prices? The Hilltop Signal Bar](https://blixwerkstudio.com/guides/shop-asked-for-wholesale-prices-handmade-profit?s=github) – A shop wants wholesale prices for your handmade work and you can't tell if you'd earn anything. A quiet story about finding out before you reply.
 
