@@ -1508,6 +1508,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Wants an Hours Breakdown? The Glasshouse Bench](https://blixwerkstudio.com/guides/client-asks-hours-breakdown-cant-prove-what-i-worked-on?s=github) – Your client asks for a breakdown of your hours and you can't prove what you did. A quiet story about answering calmly, without scrolling through old emails.
 
+- [Client's Budget Frozen, Invoice Unpaid? The Shoe Rack](https://blixwerkstudio.com/guides/client-budget-frozen-cant-pay-invoice?s=github) – The email says 'our budget is frozen.' Your invoice is 41 days old. A quiet Monday-morning story about answering without begging or vanishing.
+
 - [Client Can't Pay the Invoice at Once? The Sandcastle Call](https://blixwerkstudio.com/guides/client-cant-pay-invoice-all-at-once-payment-plan?s=github) – Your client asks to pay in instalments while you're on a beach day that isn't a holiday. A calm story about answering without guilt or begging.
 
 - [Contact Left, Invoice Unpaid? Who to Chase: The Swing Set](https://blixwerkstudio.com/guides/client-contact-left-invoice-unpaid-who-to-chase?s=github) – Your client contact left and the invoice is still unpaid. A quiet story about who to chase next, and how to do it without feeling like begging.
@@ -2758,6 +2760,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Orders in Instagram DMs and Etsy, Lost Track? The Tape Gun](https://blixwerkstudio.com/guides/lost-track-of-orders-instagram-dms-etsy?s=github) – Half the orders sit in Instagram DMs, half in Etsy, and you can't say who ordered what. A calm story about the Saturday you finally saw it all in one place.
 
+- [Lost Track of Recruiters and Contacts? The Bike Stand](https://blixwerkstudio.com/guides/lost-track-of-recruiters-and-networking-contacts-job-search?s=github) – A friend offers an intro and you can't remember who you've already thanked or asked. A calm story about losing track of contacts while job hunting.
+
 - [Post-Editing Pay Too Low? The Parents' Evening Corridor](https://blixwerkstudio.com/guides/machine-translation-post-editing-pay-too-low-per-hour-translator?s=github) – The agency calls it light post-editing. Your afternoon says otherwise. A quiet story about finding your real hourly pay as a translator.
 
 - [Made a Mistake on a Client Project? The Car Park Ticket](https://blixwerkstudio.com/guides/made-a-mistake-on-client-project-how-to-apologize-email-freelancer?s=github) – You spot your own mistake in a client's files while the car park barrier is stuck. The apology email you can't start, and what it quietly costs you.
@@ -2777,6 +2781,8 @@ Included (16 products, 175 USD if bought separately):
 - [Stall Cash Doesn't Match Sales? The Tailgate at 5:10](https://blixwerkstudio.com/guides/market-stall-cash-doesnt-match-sales?s=github) – The cash tin is short, the notebook says otherwise, and the car is half packed. A market maker's quiet moment at the tailgate, and a calmer way to end the day.
 
 - [Takings Don't Match Unsold Stock? The Church Hall Key](https://blixwerkstudio.com/guides/market-stall-takings-dont-match-unsold-stock?s=github) – Four crates left, a cash box that feels light, and a caretaker jangling keys. A market-stall story about the end-of-day sums that never quite add up.
+
+- [Tageseinnahmen nicht notiert? Die Geldkassette am Montag](https://blixwerkstudio.com/guides/marktstand-tageseinnahmen-nicht-aufgeschrieben-kassenbuch-chaos?s=github) – Der Marktstand lief gut, aber das Kassenbuch ist leer. Eine Geschichte über Zettel, Geldkassette und die Ruhe, wenn die Zahlen einfach da sind.
 
 - [Massage Therapist Pricing Confused? The Gift Voucher Ask](https://blixwerkstudio.com/guides/massage-therapist-pricing-which-service-actually-makes-money?s=github) – A client asks which massage is best value, and you can't answer. A story about not knowing which of your services actually earns, and the calm after.
 
@@ -2941,6 +2947,8 @@ Included (16 products, 175 USD if bought separately):
 - [No sé cuántas horas trabajé para cada cliente y olvidé facturas](https://blixwerkstudio.com/guides/no-se-cuantas-horas-he-trabajado-para-cada-cliente-facturas-olvidadas?s=github) – Un cliente te pregunta cuántas horas llevas y no lo sabes. Una historia sobre facturas olvidadas y la calma de volver a verlo todo claro.
 
 - [No sé cuánto cobrar por servicio y temo perder dinero](https://blixwerkstudio.com/guides/no-se-cuanto-cobrar-por-cada-servicio-miedo-perder-dinero?s=github) – Lunes, 8:50, un mensaje: «¿cuánto cuestan las mechas?» Y tú sueltas un precio de memoria. Una historia sobre cobrar sin miedo a perder dinero.
+
+- [No sé cuánto me va a entrar el mes que viene (autónomo)](https://blixwerkstudio.com/guides/no-se-cuanto-dinero-me-va-a-entrar-el-mes-que-viene-autonomo?s=github) – La recepcionista te pregunta si pagas en dos plazos y no sabes qué responder. Una historia sobre ver qué dinero entra el mes que viene.
 
 - [No sé cuánto gano de verdad en mi peluquería a fin de mes](https://blixwerkstudio.com/guides/no-se-cuanto-gano-de-verdad-en-mi-peluqueria-a-fin-de-mes?s=github) – Lunes a las 9:15, la caja de galletas, el datáfono y el alquiler del sillón. Una historia para quien trabaja mucho y no sabe qué le queda a fin de mes.
 
