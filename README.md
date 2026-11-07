@@ -1696,6 +1696,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me comparan con un freelance de Fiverr y no sé qué cobrar](https://blixwerkstudio.com/guides/cliente-me-compara-freelance-barato-fiverr-que-cobrar?s=github) – Un mensaje en la cola de la panadería: «En Fiverr lo hacen por 40 €». Una historia sobre qué cobrar cuando te comparan con lo barato.
 
+- [Me debe una factura y me pide más trabajo: ¿se lo hago?](https://blixwerkstudio.com/guides/cliente-me-debe-factura-y-me-pide-mas-trabajo?s=github) – Lunes, 8:40, andén del tren: te escribe el cliente que aún no te ha pagado y quiere otro encargo. Una historia para quien no sabe qué contestar.
+
 - [Me debe tres facturas y no sé por cuál reclamar primero](https://blixwerkstudio.com/guides/cliente-me-debe-tres-facturas-por-cual-reclamar?s=github) – Tres facturas pendientes, un solo cliente y un nudo en el estómago. Una historia para cuando no sabes por dónde empezar a reclamar.
 
 - [Le escribí por WhatsApp para cobrar y me dejó en visto](https://blixwerkstudio.com/guides/cliente-me-dejo-en-visto-whatsapp-cobrar-factura?s=github) – Dos checks azules y ninguna respuesta. Una historia para autónomos a quienes un cliente dejó en visto justo cuando pidieron que les pagara.
@@ -3440,6 +3442,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Fixing a Messy CSV Again? The Sunday Roast Interruption](https://blixwerkstudio.com/guides/spent-all-evening-fixing-messy-csv-file?s=github) – Another evening gone to a messy CSV file? A Sunday-lunch scene about getting those hours back, and what a calmer Monday could feel like.
 
+- [Addresses in One Excel Column? The Copy Shop Counter](https://blixwerkstudio.com/guides/split-address-column-excel-street-city-zip?s=github) – Street, zip and city all jammed in one Excel column, and the label run is due today. A short story about a copy shop counter and a calmer way.
+
 - [Full Name in One Column? The Print Counter Moment](https://blixwerkstudio.com/guides/split-first-and-last-name-messy-csv?s=github) – 400 names in one column, a printer waiting and a welcome letter that says 'Dear Berg, Anna van der'. A calm story about splitting messy names in a CSV.
 
 - [Staff Keep Asking the Same Questions? The Third Roundabout](https://blixwerkstudio.com/guides/staff-keep-asking-same-questions-small-business-owner?s=github) – Your phone buzzes at the roundabout: the same question again. A small business owner's story about answers that live only in your head.
@@ -3497,6 +3501,8 @@ Included (16 products, 175 USD if bought separately):
 - [Swagger Docs Exposed in Production? The Spare Key Label](https://blixwerkstudio.com/guides/swagger-docs-exposed-in-production?s=github) – Your Swagger page is public and a message just landed. A calm story about the knot in your stomach, and how to stop guessing while you stand in a queue.
 
 - [Tagessatz angeboten – zu niedrig? Die Hundeschule, 10:05](https://blixwerkstudio.com/guides/tagessatz-angebot-zu-niedrig-freelance?s=github) – Der Kunde bietet 480 € Tagessatz, und du weißt nicht, ob das reicht. Eine Geschichte über den Moment danach – und wie wieder Ruhe einkehrt.
+
+- [Tagessatz als Freelancer begründen? Die Frage im Meeting](https://blixwerkstudio.com/guides/tagessatz-freelancer-begruenden?s=github) – Dein Tagessatz fühlt sich wie geschätzt an, und im Meeting fragt jemand nach der Begründung. Eine Geschichte über ruhige Antworten.
 
 - [Tardé semanas en contestar a un cliente: me da vergüenza](https://blixwerkstudio.com/guides/tarde-semanas-en-contestar-a-un-cliente-me-da-verguenza?s=github) – Tres semanas sin contestar a un cliente y cada día cuesta más escribirle. Una historia sobre el lunes en que por fin abres ese correo.
 
@@ -3699,6 +3705,8 @@ Included (16 products, 175 USD if bought separately):
 - [File History Stopped Working? The Smoke Alarm Chirp](https://blixwerkstudio.com/guides/windows-file-history-stopped-working?s=github) – Windows File History stopped months ago and nothing told you. A quiet story about a Tuesday-morning restore, and a backup that tells you it ran.
 
 - [The Downloads Folder at 4:52 pm: Organize a Messy Folder on Windows](https://blixwerkstudio.com/guides/how-to-organize-messy-folders-automatically-windows?s=github) – A client is waiting, you're searching 2,000 files for one PDF. A story about messy folders on Windows, and what it feels like when they sort themselves.
+
+- [Windows Laptop Slow, Desktop Full of Files? The Fan Noise](https://blixwerkstudio.com/guides/windows-laptop-slow-desktop-full-of-files?s=github) – Ten minutes before a client call, your laptop roars and the desktop is buried in files. A calm story about the Monday it stops being like that.
 
 - [Windows Server Logs Filling Up Again? The Sports Day Call](https://blixwerkstudio.com/guides/windows-server-logs-filling-disk-automate-cleanup?s=github) – Windows server logs filled the disk again, and the call came mid-egg-and-spoon race. A calm story about letting cleanup run itself, quietly, every week.
 
