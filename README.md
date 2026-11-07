@@ -1550,6 +1550,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Wants Status Updates Daily? The Planetarium Seat](https://blixwerkstudio.com/guides/client-keeps-asking-for-project-status-updates?s=github) – The lights go down, your phone lights up: 'Any update?' A quiet story for freelancers who feel micromanaged and just want a calm rhythm with clients.
 
+- [Client Keeps Asking for Raw Files? The Chestnut Stand](https://blixwerkstudio.com/guides/client-keeps-asking-for-raw-files-photographer?s=github) – The third message asking for raw files lands while you queue for chestnuts. A calm story for photographers who lose track of what was agreed and paid.
+
 - [Client Keeps Changing the Scope? The Car Wash and the Blank Email](https://blixwerkstudio.com/guides/client-keeps-changing-project-scope-how-to-say-no?s=github) – The client changed the brief again and your reply box is empty. A short story about finding calm words to say no without losing the client.
 
 - [Client Ignoring Your Emails? The Recycling Centre Queue](https://blixwerkstudio.com/guides/client-keeps-ignoring-my-emails-what-to-write?s=github) – Third email sent, still silence. In a queue of cars full of glass, you realise the problem isn't the client. It's the blank page. A short story.
@@ -2398,6 +2400,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [No Day Off in Months? Freelancer Burnout and the Voucher](https://blixwerkstudio.com/guides/havent-taken-a-day-off-in-months-freelancer-burnout?s=github) – A balloon voucher expires in three weeks and you can't name one free day. A calm story for freelancers who haven't taken a day off in months.
 
+- [Herstellungskosten unbekannt? Die Tasse auf dem Markt](https://blixwerkstudio.com/guides/herstellungskosten-handgemachte-produkte-berechnen?s=github) – Eine Kundin fragt nach dem Preis, und du weißt nicht, was deine Tasse dich kostet. Eine Marktgeschichte für alle, die Selbstgemachtes verkaufen.
+
 - [Hice el presupuesto sin margen y la obra me da pérdidas](https://blixwerkstudio.com/guides/hice-presupuesto-sin-margen-pierdo-dinero-obra-autonomo?s=github) – Presupuestaste la obra sin contar el margen y lo ves en la cola de la ferretería. Una historia para autónomos que quieren cobrar lo que trabajan.
 
 - [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
@@ -3034,6 +3038,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Overbooked as a Freelancer? The Park Bench Reply You Couldn't Send](https://blixwerkstudio.com/guides/overbooked-freelancer-how-to-tell-client-cant-take-more-work?s=github) – Your phone buzzes with one more request while your calendar is already full. A calm story about saying 'I'm booked' without losing the client.
 
+- [Overseas Client Won't Pay Your Invoice? The Second Clock](https://blixwerkstudio.com/guides/overseas-client-wont-pay-invoice-what-can-i-do?s=github) – Your invoice is weeks overdue and the client is eight time zones away. A quiet story about chasing money across borders without begging.
+
 - [I Keep Overselling and Disappointing Customers: The Candle Fair](https://blixwerkstudio.com/guides/overselling-products-small-shop-disappointing-customers?s=github) – Sorry, that one's gone. You typed it again. A small-shop story about overselling, apologies, and the calm of knowing what's really on your shelf.
 
 - [Overstocked, Cash Tied Up in Stock? The Storage Unit](https://blixwerkstudio.com/guides/overstocked-cash-tied-up-in-stock-small-business?s=github) – Rent due Friday, the balance is low, and a storage unit is full of boxes you paid for months ago. A small-business story about cash sitting on shelves.
@@ -3127,6 +3133,8 @@ Included (16 products, 175 USD if bought separately):
 - [Aplazo enviar mis facturas porque odio el papeleo](https://blixwerkstudio.com/guides/posponer-enviar-facturas-odio-papeleo-freelance?s=github) – Llevas días con la factura a medias porque el papeleo te pesa. Una historia sobre por qué lo aplazas y cómo se siente cuando por fin deja de doler.
 
 - [Posting Inconsistently on Instagram? The Checkout Queue](https://blixwerkstudio.com/guides/posting-inconsistently-on-instagram-guilt?s=github) – Three weeks since your last post, and a friend asks if you're still open. A gentle story for anyone who posts in bursts and feels guilty about the gaps.
+
+- [Una tienda me pide precio al por mayor: ¿cuánto bajo?](https://blixwerkstudio.com/guides/precio-al-por-mayor-manualidades-cuanto-bajar?s=github) – Estás en la cola de Correos y una tienda te pide precio al por mayor de tus manualidades. ¿Cuánto puedes bajar sin perder? Una historia para respirar.
 
 - [Preise erhöhen bei Bestandskunden? Die Ladesäule, 15:40](https://blixwerkstudio.com/guides/preise-erhoehen-bestandskunden-freelance-angst?s=github) – Preise bei Stammkunden erhöhen, aber die Mail bleibt im Entwurf? Eine Geschichte von der Ladesäule und der Ruhe, die danach kam.
 
@@ -3369,6 +3377,8 @@ Included (16 products, 175 USD if bought separately):
 - [Se me olvidó facturar a un cliente y han pasado semanas](https://blixwerkstudio.com/guides/se-me-olvido-facturar-a-un-cliente-semanas?s=github) – Ves tus fotos en las redes de un cliente y te das cuenta: nunca le enviaste la factura. Una historia sobre el despiste y cómo se vuelve a respirar.
 
 - [Se me olvidó facturar a un cliente y ya pasó un mes: la llamada](https://blixwerkstudio.com/guides/se-me-olvido-facturar-a-un-cliente-y-ya-paso-un-mes?s=github) – Una llamada de martes, una pregunta sencilla y un mes de trabajo sin facturar. Para quien se olvidó de cobrar y no sabe cómo decirlo.
+
+- [Olvidé publicar el post de un cliente y me da vergüenza](https://blixwerkstudio.com/guides/se-me-olvido-publicar-el-post-de-un-cliente?s=github) – Jueves, 10:20, tu cliente pregunta por el post que nunca salió. Una historia sobre la vergüenza de olvidarlo y cómo se vuelve a respirar.
 
 - [Se me pasó el vencimiento de una factura: la lavandería](https://blixwerkstudio.com/guides/se-me-paso-la-fecha-de-vencimiento-de-una-factura?s=github) – Miras la app del banco mientras gira la secadora y lo ves: una factura venció hace tres semanas. Nadie te avisó, y tú tampoco te diste cuenta.
 
