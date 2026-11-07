@@ -1816,6 +1816,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Correos del negocio sin fin: ¿qué delego a la IA?](https://blixwerkstudio.com/guides/correos-del-negocio-que-delegar-a-la-ia?s=github) – Miércoles, 11:15, la bandeja llena de correos del negocio. Una historia sobre qué delegar a la IA y qué seguir haciendo tú, con calma.
 
+- [Puse CORS con asterisco en mi API y me da miedo: lunes](https://blixwerkstudio.com/guides/cors-con-asterisco-api-inseguro-miedo?s=github) – Pusiste CORS con asterisco para que funcionara y ahora te ronda la duda. Una historia para quien lanza su API pronto y no está del todo tranquilo.
+
 - [CORS Wildcard in Production? The Escape Room Countdown](https://blixwerkstudio.com/guides/cors-wildcard-open-endpoints-production-api?s=github) – A wildcard CORS header and a few open endpoints, two days before launch. A calm story about the doubt in the back of your head, and how it can ease.
 
 - [Country Names Spelled Differently in Excel? The Globe](https://blixwerkstudio.com/guides/country-names-spelled-differently-spreadsheet?s=github) – Germany, Deutschland, DE and 'germany ' in one column. A calm story about country names spelled differently in a spreadsheet, and the end of the dread.
@@ -2470,6 +2472,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://blixwerkstudio.com/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
 
+- [Invoice 2 Weeks Overdue, Client Quiet? The Sofa Window](https://blixwerkstudio.com/guides/invoice-two-weeks-overdue-client-quiet-what-to-say?s=github) – Your invoice is two weeks late and the client has gone quiet. A story about a delivery window, an unsent email, and a calmer way to ask.
+
 - [Invoiced the Same Hours Twice? The Red Light at 8:42](https://blixwerkstudio.com/guides/invoiced-same-hours-twice-freelance?s=github) – You think you billed the same hours twice. A freelancer's story from a pedestrian crossing, and how a calmer Monday feels when your hours and invoices line up.
 
 - [Is My Webhook Endpoint Secure? The Propped Side Door](https://blixwerkstudio.com/guides/is-my-webhook-endpoint-secure-anyone-can-call-it?s=github) – A brick holds the hall's side door open, and you realise your webhook URL works the same way. A calm story about not knowing who can knock.
@@ -3049,6 +3053,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me da pánico llamar a un cliente para cobrar una factura](https://blixwerkstudio.com/guides/panico-llamar-cliente-cobrar-factura?s=github) – El pulgar sobre el botón de llamar, el corazón a mil y una factura de hace 40 días. Una historia para quien cobra con un nudo en el estómago.
 
 - [Parent Says You Billed Too Many Lessons? The Pedalos](https://blixwerkstudio.com/guides/parent-says-taught-fewer-lessons-than-billed?s=github) – A parent writes: 'I count fewer lessons than you billed.' You can't prove either way. A quiet story for private tutors about a calmer record.
+
+- [Worried Your Password Reset Is Insecure? The Food Truck](https://blixwerkstudio.com/guides/password-reset-flow-insecure-before-launch?s=github) – Launch is Monday, you're in a lunch queue, and one worry won't go away: is your password reset flow safe? A calm story about checking before you ship.
 
 - [Passwords and Tokens in Your API Logs? The Ski Boot Queue](https://blixwerkstudio.com/guides/passwords-and-tokens-in-api-logs-what-else-am-i-missing?s=github) – You found a token in your API logs while standing in a ski-boot queue, and now you wonder what else you missed. A calm story about that feeling.
 
@@ -3713,6 +3719,8 @@ Included (16 products, 175 USD if bought separately):
 - [Voy a dos mercadillos y no sé cuál me compensa: el bocata](https://blixwerkstudio.com/guides/voy-a-dos-mercadillos-no-se-cual-me-compensa?s=github) – Sábado en la plaza, domingo en la feria: dos puestos, un bocadillo y la pregunta de cuál te compensa de verdad.
 
 - [Don't Know What to Do First Each Morning? The Bin Lorry](https://blixwerkstudio.com/guides/wake-up-not-knowing-what-to-do-first-overwhelmed-every-morning?s=github) – 6:50 am, eyes open, and everything wants you at once. A calm story about mornings that start with a pile instead of a first step.
+
+- [Ware abgelaufen im Lager? Die Chutneys im Hinterhof](https://blixwerkstudio.com/guides/ware-abgelaufen-lager-weggeworfen-mindesthaltbarkeit?s=github) – Ware abgelaufen, wieder Kartons in die Tonne? Eine Geschichte über Mindesthaltbarkeit im kleinen Geschäft und wie das Lager wieder ruhig wird.
 
 - [Ware im Lager fehlt? Der Freitag, an dem der Honig fehlte](https://blixwerkstudio.com/guides/ware-im-lager-fehlt-schwund-zaehlfehler-kleines-unternehmen?s=github) – Im Regal stehen 14 Gläser, laut Liste sollten es 26 sein. Schwund oder Zählfehler? Eine Geschichte für kleine Betriebe, die dem Lager nicht mehr trauen.
 
