@@ -2006,6 +2006,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Entrevista mañana y no sé a quién envié mi currículum](https://blixwerkstudio.com/guides/entrevista-manana-no-se-que-preparar-curriculum-enviado?s=github) – Te llaman a las 14:10 para una entrevista mañana y no recuerdas qué empresa era. Una historia sobre ordenar la búsqueda y llegar con calma.
 
+- [Mandé la factura al cliente equivocado: ¿y ahora qué?](https://blixwerkstudio.com/guides/enviar-factura-cliente-equivocado-freelance-que-hacer?s=github) – Enviaste una factura al cliente que no era y te late el pecho en plena cafetería. Una historia para respirar antes de escribir el correo.
+
 - [Envié el presupuesto y el cliente no responde: ¿le escribo otra vez?](https://blixwerkstudio.com/guides/envie-el-presupuesto-y-el-cliente-no-responde?s=github) – Nueve días sin respuesta a tu presupuesto y la duda en la sala de espera: ¿escribo otra vez o parezco pesado? Una historia para quien se reconoce.
 
 - [Envié la factura y me dejó en visto: ¿qué hago?](https://blixwerkstudio.com/guides/envie-la-factura-y-el-cliente-me-dejo-en-visto?s=github) – Mandaste la factura, salió el doble check azul y después, nada. Una historia sobre el silencio de un cliente y cómo recuperar la calma.
@@ -2523,6 +2525,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde bestreitet Rechnung nach Lieferung? Das Hotelbuffet](https://blixwerkstudio.com/guides/kunde-bestreitet-rechnung-nach-lieferung?s=github) – Die Arbeit ist geliefert, dann schreibt der Kunde: „So war das nicht abgemacht.“ Eine Geschichte über Ruhe, wenn deine Rechnung bestritten wird.
 
 - [Kunde drückt den Preis per Mail? Der Fahrradladen](https://blixwerkstudio.com/guides/kunde-drueckt-staendig-den-preis-per-mail-was-antworte-ich?s=github) – Schon wieder die Mail: „Da geht doch sicher noch was beim Preis?“ Eine Geschichte über den Moment, in dem dir die Antwort endlich leichtfällt.
+
+- [Kunde schickt Feedback nach der Deadline? Hofladen 16:10](https://blixwerkstudio.com/guides/kunde-feedback-nach-deadline-antworten-ohne-unhoeflich-zu-sein?s=github) – Das Feedback kommt nach der Frist, und du willst nicht unhöflich klingen. Eine Geschichte über ruhige Antworten und was danach leichter wird.
 
 - [Kunde fragt nach deinem Stundensatz? Der Moment nach dem Räuspern](https://blixwerkstudio.com/guides/kunde-fragt-nach-stundensatz-was-sagen?s=github) – Der Kunde fragt im Videocall nach deinem Stundensatz, und dir fällt nur eine Zahl ein, die du sofort bereust. Eine Geschichte über den Moment danach.
 
@@ -3444,6 +3448,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Solo puedo facturar 25 horas: ¿cuánto cobrar por hora?](https://blixwerkstudio.com/guides/solo-puedo-facturar-25-horas-semana-cuanto-cobrar-por-hora-autonomo?s=github) – Martes, 11:15, videollamada: «¿Cuál es tu tarifa por hora?». Solo facturas 25 horas a la semana y la cifra que dices no sale de ningún sitio.
 
+- [Sorted One Column in Excel, Rows Mixed Up? The Van Call](https://blixwerkstudio.com/guides/sorted-one-column-in-excel-rows-mixed-up?s=github) – You sorted one column in Excel and now names, phones and amounts belong to the wrong people. A story from a parked van, and what calm looks like after.
+
 - [Soy autónomo y no controlo mi dinero ni mi tiempo](https://blixwerkstudio.com/guides/soy-autonomo-no-controlo-mi-dinero-ni-mi-tiempo?s=github) – Miércoles, 14:10, menú del día y una pregunta que no te dejas hacer: ¿dónde se fue el mes? Una historia para quien trabaja por su cuenta y va a ciegas.
 
 - [Fixing a Messy CSV Again? The Sunday Roast Interruption](https://blixwerkstudio.com/guides/spent-all-evening-fixing-messy-csv-file?s=github) – Another evening gone to a messy CSV file? A Sunday-lunch scene about getting those hours back, and what a calmer Monday could feel like.
@@ -3477,6 +3483,8 @@ Included (16 products, 175 USD if bought separately):
 - [Keep Selling Items You Don't Have? The Cinema Foyer](https://blixwerkstudio.com/guides/stop-overselling-items-not-in-stock-small-shop?s=github) – The trailers are rolling when your phone buzzes: another order for the last skein, sold twice. A quiet story for shop owners who keep overselling.
 
 - [Should I Stop Working for a Client Who Hasn't Paid?](https://blixwerkstudio.com/guides/stop-working-for-client-who-hasnt-paid-invoice?s=github) – The client wants phase two on Monday, but the last invoice is still open. A quiet story about pausing without a fight, and sleeping better.
+
+- [Strange API Log Requests, Did Someone Get In? The Shuttle](https://blixwerkstudio.com/guides/strange-requests-api-logs-unknown-ips-did-someone-get-in?s=github) – Odd requests from unknown IPs in your API logs, and a conference shuttle bus you can't enjoy. A story about the calm of knowing what was actually checked.
 
 - [Students Paying Late for Lessons? The Staff Room Printer](https://blixwerkstudio.com/guides/students-paying-late-for-lessons-private-tutor-track?s=github) – Wednesday, 8:50, a printer jams and you can't say which students still owe you for lessons. A calm story for private tutors who chase payments from memory.
 
