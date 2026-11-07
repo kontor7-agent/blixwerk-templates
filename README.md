@@ -2464,6 +2464,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Invoice Approved, No Payment Date? The Crossword Clue](https://blixwerkstudio.com/guides/invoice-approved-no-payment-date?s=github) – Your client says the invoice is approved, but accounts won't name a payment date. A calm story about waiting without begging, and what changes when you have a plan.
 
+- [Invoice One Day Overdue: Too Soon to Chase? The Toaster](https://blixwerkstudio.com/guides/invoice-one-day-overdue-too-soon-to-chase?s=github) – Your invoice was due yesterday and nothing has arrived. Is it too soon to say something? A calm story about the day-one wobble, and the quiet after it.
+
 - [Invoice Rejected, No PO Number? The Village Shop Signal](https://blixwerkstudio.com/guides/invoice-rejected-missing-po-number-payment-delayed?s=github) – Your invoice bounced back for a missing PO number and payment slips again. A quiet story about chasing money without feeling like you're begging.
 
 - [Sent an Invoice Weeks Ago, Not Sure They Paid? One Bar of Signal](https://blixwerkstudio.com/guides/invoice-sent-weeks-ago-cant-remember-if-client-paid?s=github) – You're on a cottage porch with one bar of signal and can't remember if that invoice from weeks ago was ever paid. A calm story about not having to guess.
@@ -2788,6 +2790,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mail Merge, State Names All Different? The Parcel Counter](https://blixwerkstudio.com/guides/mail-merge-state-names-typed-differently-spreadsheet?s=github) – Calif., CA, california: addresses typed every which way before your mail merge. A short story from the post office counter, and a calmer Monday.
 
+- [Mailchimp Import Failed? The Van Outside the Job](https://blixwerkstudio.com/guides/mailchimp-import-failed-messy-subscriber-list-duplicates-bad-emails?s=github) – Mailchimp import failed on a list full of duplicates and bad emails, and the newsletter is due at noon. A calm story about a cleaner way.
+
 - [Una mala reseña en Google y no sé cómo responder](https://blixwerkstudio.com/guides/mala-resena-google-no-se-como-responder?s=github) – Una estrella en Google a las 8:15, con la cola de la panadería delante. Una historia sobre responder a una mala reseña sin quedar mal.
 
 - [Mandé el mismo correo dos veces por duplicados en Excel](https://blixwerkstudio.com/guides/mande-el-mismo-correo-dos-veces-duplicados-excel?s=github) – Dos correos idénticos a tus clientes y la vergüenza en la cola del súper. Una historia sobre duplicados en Excel y cómo volver a respirar.
@@ -3109,6 +3113,8 @@ Included (16 products, 175 USD if bought separately):
 - [Planner Too Many Boxes? Simple ADHD Page: The Dentist Chair](https://blixwerkstudio.com/guides/planner-too-many-boxes-simple-adhd-printable?s=github) – Every planner you buy has too many boxes. A story about a Thursday at the dentist, one page with three lines, and a week that finally feels light.
 
 - [How to Politely Ask a Client for Late Payment: The Tuesday Lift](https://blixwerkstudio.com/guides/polite-late-payment-email-to-client?s=github) – You've typed 'just a gentle reminder' four times and deleted it. A quiet story about asking for late payment without feeling like you're begging.
+
+- [Aplazo enviar mis facturas porque odio el papeleo](https://blixwerkstudio.com/guides/posponer-enviar-facturas-odio-papeleo-freelance?s=github) – Llevas días con la factura a medias porque el papeleo te pesa. Una historia sobre por qué lo aplazas y cómo se siente cuando por fin deja de doler.
 
 - [Posting Inconsistently on Instagram? The Checkout Queue](https://blixwerkstudio.com/guides/posting-inconsistently-on-instagram-guilt?s=github) – Three weeks since your last post, and a friend asks if you're still open. A gentle story for anyone who posts in bursts and feels guilty about the gaps.
 
@@ -3805,6 +3811,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zu viele Kunden, Deadlines durcheinander? Montag, 8:40](https://blixwerkstudio.com/guides/zu-viele-kunden-gleichzeitig-deadlines-durcheinander-freiberufler?s=github) – Drei Kunden, drei Deadlines, ein Kopf. Eine Geschichte für Freiberufler, bei denen am Montagmorgen alles gleichzeitig dringend ist – und wie es ruhiger wird.
 
 - [Zweite Zahlungserinnerung ignoriert? Die Kaffeetafel](https://blixwerkstudio.com/guides/zweite-zahlungserinnerung-ignoriert-was-tun?s=github) – Die zweite Erinnerung blieb unbeantwortet, und du sitzt beim Kaffee mit dem Handy unterm Tisch. Eine Geschichte über Ruhe beim Nachhaken.
+
+- [Zweite Zahlungserinnerung? Der Geldautomat, 12:40 Uhr](https://blixwerkstudio.com/guides/zweite-zahlungserinnerung-kunde-ignoriert-mails?s=github) – Der Kunde ignoriert deine Mails, und die zweite Zahlungserinnerung liegt als Entwurf da. Eine Geschichte über Mut, Ruhe und den Moment am Geldautomaten.
 
 - [Zweite Zahlungserinnerung schreiben? Die Malerleiter](https://blixwerkstudio.com/guides/zweite-zahlungserinnerung-netter-kunde?s=github) – Du magst den Kunden, die Rechnung ist trotzdem überfällig. Eine Geschichte über die zweite Zahlungserinnerung – und wie sie leichter wird.
 
