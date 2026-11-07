@@ -1760,6 +1760,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [El cliente quiere las fotos antes de pagar: me da miedo](https://blixwerkstudio.com/guides/cliente-quiere-las-fotos-antes-de-pagar-miedo-entregarlas?s=github) – En la cola de la panadería te llega: «¿me mandas ya las fotos?». Y el resto de la sesión sigue sin pagar. Una historia para fotógrafos autónomos.
 
+- [Mi cliente solo paga cuando insisto: cobrar sin pelearme](https://blixwerkstudio.com/guides/cliente-solo-paga-cuando-insisto-cobrar-sin-pelearme?s=github) – Estás en el parque, el móvil vibra y otra vez toca insistir. Una historia sobre cobrar sin pelearte y sin sentir que mendigas lo que ya ganaste.
+
 - [Cliente tóxico y autónomo: cómo dejarlo sin quedar mal (un lunes)](https://blixwerkstudio.com/guides/cliente-toxico-autonomo-como-dejar-de-trabajar-con-el-sin-quedar-mal?s=github) – Lunes, 9:10, otro mensaje de ese cliente. Una historia sobre cómo despedirte de un cliente tóxico sin quedar mal y recuperar la calma.
 
 - [Cliente pide trabajo urgente en fin de semana: ¿recargo?](https://blixwerkstudio.com/guides/cliente-trabajo-urgente-fin-de-semana-recargo-freelance?s=github) – Sábado por la mañana, en la cola del mercado, te llega un «¿puedes para el lunes?». Una historia sobre cobrar el recargo sin pedir perdón.
@@ -2304,6 +2306,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Voll gearbeitet, doch Steuern und Krankenkasse fehlen?](https://blixwerkstudio.com/guides/freelancer-steuern-krankenversicherung-nicht-gedeckt?s=github) – Einen ganzen Monat durchgearbeitet und trotzdem reicht es nicht für Steuern und Krankenkasse? Eine Geschichte über den Moment, in dem sich das ändert.
 
+- [Sunday Night Money Anxiety? The Unzipped Gym Bag](https://blixwerkstudio.com/guides/freelancer-sunday-night-money-anxiety?s=github) – Every Sunday evening the knot returns: who owes you, what's in the account, are you okay? A quiet story about ending freelancer money anxiety.
+
 - [Tax Return Chaos as a Freelancer: Invoices and Hours Gone Missing](https://blixwerkstudio.com/guides/freelancer-tax-return-chaos-invoices-hours-cant-find?s=github) – The accountant's office is waiting, and your invoices and hours are scattered everywhere. A quiet story about finding order before the tax return.
 
 - [Tax Return Panic: Can't Find Your Freelance Invoices and Hours](https://blixwerkstudio.com/guides/freelancer-tax-return-panic-cant-find-invoices-and-hours?s=github) – The tax adviser's email says 'by Friday', and your invoices and hours are scattered everywhere. A calm story about how that week can feel different.
@@ -2521,6 +2525,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde fragt nach deinem Preis und du erstarrst? Die Kaffeeschlange](https://blixwerkstudio.com/guides/kunde-fragt-preis-erstarrt-wie-viel-verlangen-freelance?s=github) – Er fragt beiläufig, was du so nimmst, und dein Kopf ist leer. Eine Geschichte über den Moment danach und darüber, wie du deinen Preis ruhig nennen kannst.
 
 - [Kunde fragt täglich nach Updates? Der Haferbrei um 9:07](https://blixwerkstudio.com/guides/kunde-fragt-taeglich-nach-updates-grenzen-setzen-freelance?s=github) – Jeden Morgen dieselbe Mail: „Gibt’s schon was Neues?“ Eine Geschichte über Grenzen als Freelancerin und wie sich ein ruhiger Montag anfühlt.
+
+- [Kunde ghostete monatelang, will wieder Arbeit? Biergarten](https://blixwerkstudio.com/guides/kunde-ghostet-monatelang-will-wieder-arbeit-was-sagen?s=github) – Monatelang Funkstille, dann: „Wir hätten da wieder was.“ Eine Geschichte vom Biergarten und davon, wie ruhig deine Antwort klingen kann.
 
 - [Kunde meldet sich nicht nach der Rechnung? Der Waschsalon](https://blixwerkstudio.com/guides/kunde-ghostet-nach-rechnung-was-schreiben?s=github) – Die Fotos waren begeistert angenommen, die Rechnung ist raus, dann Funkstille. Eine Geschichte über das Schweigen danach und den ersten ruhigen Satz.
 
@@ -2999,6 +3005,8 @@ Included (16 products, 175 USD if bought separately):
 - [read_csv Error Tokenizing Data? The Trampoline Bench](https://blixwerkstudio.com/guides/pandas-read-csv-error-tokenizing-data?s=github) – Saturday, a trampoline park bench, and a client CSV that pandas refuses to read again. A story about messy files and getting your weekend back.
 
 - [Me da pánico llamar a un cliente para cobrar una factura](https://blixwerkstudio.com/guides/panico-llamar-cliente-cobrar-factura?s=github) – El pulgar sobre el botón de llamar, el corazón a mil y una factura de hace 40 días. Una historia para quien cobra con un nudo en el estómago.
+
+- [Parent Says You Billed Too Many Lessons? The Pedalos](https://blixwerkstudio.com/guides/parent-says-taught-fewer-lessons-than-billed?s=github) – A parent writes: 'I count fewer lessons than you billed.' You can't prove either way. A quiet story for private tutors about a calmer record.
 
 - [Passwords and Tokens in Your API Logs? The Ski Boot Queue](https://blixwerkstudio.com/guides/passwords-and-tokens-in-api-logs-what-else-am-i-missing?s=github) – You found a token in your API logs while standing in a ski-boot queue, and now you wonder what else you missed. A calm story about that feeling.
 
