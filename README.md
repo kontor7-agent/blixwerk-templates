@@ -1256,6 +1256,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Out of Stock Too Late Again? The Café Lids at 7:20 am](https://blixwerkstudio.com/guides/always-find-out-too-late-product-out-of-stock?s=github) – Seven twenty, the queue is out the door, and the lids are gone. A short story for anyone who always finds out too late that something is out of stock.
 
+- [Always Reacting to Clients? The Garage Wall Calendar](https://blixwerkstudio.com/guides/always-reacting-to-clients-never-planning-freelance-year?s=github) – Your week belongs to whoever emailed last. A waiting-room wall calendar, a quiet question, and a calmer way to plan a freelance year of your own.
+
 - [Am I Charging Enough After Tax? The Honesty Box Apples](https://blixwerkstudio.com/guides/am-i-charging-enough-freelancer-after-tax-unpaid-hours?s=github) – You bill a full day but work a day and a half. A quiet roadside story about rates, tax and unpaid hours, and the calm of knowing your number.
 
 - [Am I Losing Money on My Handmade Products After Fees?](https://blixwerkstudio.com/guides/am-i-losing-money-on-my-handmade-products-after-fees?s=github) – Your bestseller sells every week, but after fees, postage and materials you can't say what's left. A quiet Sunday at the craft fair, and a calmer way to look.
@@ -1312,7 +1314,11 @@ Included (16 products, 175 USD if bought separately):
 
 - [Ask a Client for a Testimonial Without Feeling Awkward](https://blixwerkstudio.com/guides/ask-client-for-testimonial-without-feeling-awkward?s=github) – The project went well, the client said thanks, and the draft email still sits unsent. A calm story about asking for a testimonial without squirming.
 
+- [Ask a Supplier for Better Prices Without Sounding Rude?](https://blixwerkstudio.com/guides/ask-supplier-for-better-prices-without-sounding-rude?s=github) – The price list went up again and you're sitting in the car, drafting an email you keep deleting. A story about asking nicely, and still meaning it.
+
 - [Asked to Review API Security, Don't Know Where to Start?](https://blixwerkstudio.com/guides/asked-to-review-api-security-where-to-start?s=github) – A client asks you to review their API security by Friday and your mind goes blank. A quiet story about starting without the knot in your stomach.
+
+- [Aufträge im Sommer weggebrochen? Der leere Kalender 2027](https://blixwerkstudio.com/guides/auftraege-im-sommer-weggebrochen-kein-plan?s=github) – Der Sommer war still, die Aufträge blieben aus, und für die nächsten Monate gibt es keinen Plan. Eine Geschichte über den ersten ruhigen Überblick.
 
 - [Auftrag ablehnen ohne schlechtes Gewissen? Die Mail um 8:50 Uhr](https://blixwerkstudio.com/guides/auftrag-ablehnen-ohne-schlechtes-gewissen-freiberufler?s=github) – Die Anfrage klingt gut, der Preis nicht, die Woche ist voll. Eine Geschichte darüber, wie ein Nein sich anfühlen kann, ohne dass du dich dafür rechtfertigst.
 
@@ -3419,6 +3425,8 @@ Included (16 products, 175 USD if bought separately):
 - [Shop Asked for Wholesale Prices? The Hilltop Signal Bar](https://blixwerkstudio.com/guides/shop-asked-for-wholesale-prices-handmade-profit?s=github) – A shop wants wholesale prices for your handmade work and you can't tell if you'd earn anything. A quiet story about finding out before you reply.
 
 - [Charge a Late Fee to a Client? The Chairlift Question](https://blixwerkstudio.com/guides/should-i-charge-late-fee-client-pays-late-freelance?s=github) – Should you charge a late fee when a client pays late? A story about a chairlift, a three-week-old invoice and the awkward feeling of asking.
+
+- [Tardo más horas de las que presupuesto y trabajo gratis](https://blixwerkstudio.com/guides/siempre-tardo-mas-horas-de-las-que-presupuesto-autonomo?s=github) – Presupuestaste 20 horas y llevas 35. Una mañana de martes, una calculadora y la pregunta de cuánto has cobrado de verdad por tu trabajo.
 
 - [Signed Contract, No Idea What to Ask? The Lobby Coffee](https://blixwerkstudio.com/guides/signed-contract-first-client-meeting-what-to-ask?s=github) – The contract is signed, the first meeting is in ten minutes, and your mind is blank. A short story about walking in calm instead of winging it.
 
