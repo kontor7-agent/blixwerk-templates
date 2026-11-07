@@ -1490,6 +1490,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cerré el proyecto a precio fijo: ¿gané dinero por hora?](https://blixwerkstudio.com/guides/cerre-proyecto-precio-fijo-gane-dinero-por-hora?s=github) – Entregaste a precio fijo y el cliente está feliz, pero no sabes cuántas horas te costó. Una historia sobre mirar los números sin miedo.
 
+- [Hourly or Per Project as a Freelancer? The Taxi Meter](https://blixwerkstudio.com/guides/charge-hourly-or-per-project-freelancer?s=github) – Hourly or per project, and you're afraid either one loses you money. A taxi ride, a quote email and a calmer way to decide what to charge.
+
 - [Think You're Charging Too Little? The Coworking Kitchen Moment](https://blixwerkstudio.com/guides/charging-too-little-freelancer-work-out-real-rate?s=github) – Someone mentions their day rate over the coffee machine and your stomach drops. A quiet story about finally working out what your time is worth.
 
 - [ChatGPT Too Generic for Your Business? The Coffee Queue](https://blixwerkstudio.com/guides/chatgpt-generic-answers-small-business-what-to-ask?s=github) – ChatGPT keeps giving you bland answers for your small business? A quiet story about the moment the question, not the tool, turned out to be the problem.
@@ -2029,6 +2031,8 @@ Included (16 products, 175 USD if bought separately):
 - [Erster Freelance-Auftrag: Wie viel soll ich verlangen?](https://blixwerkstudio.com/guides/erster-freelance-auftrag-wie-viel-verlangen?s=github) – Das Handy klingelt im Fahrradkeller, die Frage nach dem Preis kommt sofort. Und du hast keine Ahnung, was du sagen sollst. Eine Geschichte über den ersten Preis.
 
 - [Erstes Jahr selbstständig: Welche Unterlagen brauche ich?](https://blixwerkstudio.com/guides/erstes-jahr-selbststaendig-steuererklaerung-welche-unterlagen?s=github) – Die Kanzlei ruft an und fragt nach „allen Unterlagen“. Du hast keine Ahnung, was das heißt. Eine Geschichte über das erste Jahr und den Überblick.
+
+- [Tengo que escribir a un cliente en inglés y me da miedo](https://blixwerkstudio.com/guides/escribir-a-un-cliente-en-ingles-miedo-quedar-mal?s=github) – Un correo en inglés, un cliente en Dublín y el cursor parpadeando. Una historia sobre cómo escribir con calma cuando temes quedar mal.
 
 - [Escritorio y descargas llenos: no encuentro nada en el PC](https://blixwerkstudio.com/guides/escritorio-y-descargas-llenos-no-encuentro-nada-en-el-ordenador?s=github) – Compartes pantalla en una videollamada y tu escritorio lo dice todo. Una historia sobre archivos por todas partes y cómo se siente por fin encontrarlos.
 
@@ -3418,6 +3422,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Selling on Etsy but Not Making Money? The Stall Form](https://blixwerkstudio.com/guides/selling-on-etsy-not-making-money?s=github) – Orders keep coming, the shop looks busy, yet your account says otherwise. A quiet story for makers who suspect they're not really earning on Etsy.
 
+- [Sent a Quote, Heard Nothing? The Checkout Belt Wait](https://blixwerkstudio.com/guides/sent-a-quote-no-reply-did-i-price-too-high?s=github) – You sent the quote on Tuesday. It's Friday and the phone is silent. A calm story about silence, price doubts and knowing your real margin.
+
 - [Invoice Sent Two Months Ago, No Reply? The Radiator Key](https://blixwerkstudio.com/guides/sent-invoice-two-months-ago-no-reply-what-now?s=github) – You sent the invoice two months ago and heard nothing. A quiet Monday story about the silence, and how to stop wondering who still owes you.
 
 - [Separar la dirección en Excel: 5000 filas y una llamada](https://blixwerkstudio.com/guides/separar-direccion-en-columnas-excel-5000-filas?s=github) – Tienes 5000 direcciones en una sola celda y el cliente espera a las 11. Una historia para quien no logra separarlas en columnas en Excel.
@@ -3745,6 +3751,8 @@ Included (16 products, 175 USD if bought separately):
 - [Weiterarbeiten, obwohl der Kunde nicht gezahlt hat?](https://blixwerkstudio.com/guides/weiterarbeiten-kunde-hat-letzte-rechnung-nicht-bezahlt?s=github) – Der Kunde will den nächsten Auftrag, die letzte Rechnung ist offen. Eine Geschichte über Weiterarbeiten, Grenzen und die Ruhe danach.
 
 - [Welche Kunden lohnen sich wirklich? Montag, 9:05 Uhr](https://blixwerkstudio.com/guides/welche-kunden-lohnen-sich-freelance?s=github) – Du weißt nicht, welche Kunden sich als Freelancer wirklich lohnen? Eine Geschichte über ein Bauchgefühl, das beim Steuerberater plötzlich Zahlen braucht.
+
+- [Welche Rechnungen sind bezahlt? Der Obststand, 11:25](https://blixwerkstudio.com/guides/welche-rechnungen-bezahlt-ueberblick-freelancer?s=github) – Du weißt nicht mehr, welche Kunden schon gezahlt haben? Eine Geschichte über einen Donnerstag am Wochenmarkt und die Ruhe, die danach möglich ist.
 
 - [Welche Rechnungen sind noch offen? Mahnen ist mir peinlich](https://blixwerkstudio.com/guides/welche-rechnungen-noch-offen-mahnen-peinlich?s=github) – Dienstagmorgen im Zug: Die Steuerberaterin will die offenen Posten, und du weißt es nicht. Eine Geschichte über Überblick und Mut zum Nachfragen.
 
