@@ -1296,6 +1296,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [The Night Before Launch: A REST API Security Checklist Story](https://blixwerkstudio.com/guides/rest-api-security-checklist-before-launch?s=github) – It's 11 p.m., launch is at nine, and one curl test makes your stomach drop. A calm story about reviewing your REST API before it goes live.
 
+- [Is Your API Open to CSRF or XSS? The Gala Snack Bar](https://blixwerkstudio.com/guides/api-vulnerable-to-csrf-or-xss-not-sure?s=github) – Standing in a snack bar queue, you realise you can't say whether your API is open to CSRF or XSS. A calm story about trading that doubt for a clear list.
+
 - [Applied to 100 Jobs, No Reply? The Pub Quiz Tiebreaker](https://blixwerkstudio.com/guides/applied-to-100-jobs-no-reply?s=github) – You've applied to around a hundred jobs and heard almost nothing. A pub quiz tiebreaker, a blank answer, and a calmer way to see where you actually stand.
 
 - [Applied to the Same Company Twice? The Pretzel Stand Call](https://blixwerkstudio.com/guides/applied-to-same-company-twice-by-accident?s=github) – The recruiter says she has two applications from you, three weeks apart. A small story about applying twice by accident and a calmer way to keep track.
@@ -2392,6 +2394,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Is My Freelance Day Rate Too Low? The Soft-Play Birthday Party](https://blixwerkstudio.com/guides/how-do-i-know-if-my-freelance-day-rate-is-too-low?s=github) – A birthday party, a stranger's casual question, and the number you said too fast. A quiet story about how you know your day rate is too low.
 
+- [How Long Keep Receipts Self-Employed? The Shredder Aisle](https://blixwerkstudio.com/guides/how-long-keep-receipts-self-employed?s=github) – Standing at the shredder with a box of old receipts, unsure what's safe to bin. A calm story about keeping the right ones, without the guesswork.
+
 - [How Many Old Backups Should I Keep? The Garden Café](https://blixwerkstudio.com/guides/how-many-old-backups-should-i-keep?s=github) – The drive is nearly full and every old backup feels like a safety net you're scared to cut. A quiet Wednesday-morning story about finally knowing what to keep.
 
 - [How Many Weeks Off Can I Afford as a Freelancer? The Ferry Queue](https://blixwerkstudio.com/guides/how-many-weeks-off-can-i-afford-as-a-freelancer?s=github) – Standing in the ferry queue, your partner asks how long you can really be away. You don't know. Here's the quiet way out of that silence.
@@ -2525,6 +2529,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde beschwert sich: Wie antworte ich ruhig? Montag, 7:35 Uhr](https://blixwerkstudio.com/guides/kunde-beschwert-sich-ruhig-und-professionell-antworten?s=github) – Montagmorgen, Kaffee in der Hand, und im Postfach steht „Ich bin enttäuscht“. Eine Geschichte darüber, wie du auf Beschwerden ruhig antwortest.
 
 - [Kunde bestreitet Rechnung nach Lieferung? Das Hotelbuffet](https://blixwerkstudio.com/guides/kunde-bestreitet-rechnung-nach-lieferung?s=github) – Die Arbeit ist geliefert, dann schreibt der Kunde: „So war das nicht abgemacht.“ Eine Geschichte über Ruhe, wenn deine Rechnung bestritten wird.
+
+- [Zahlungsziel verlängern? Was sage ich – Im Gewächshaus](https://blixwerkstudio.com/guides/kunde-bittet-um-zahlungsaufschub-was-sage-ich?s=github) – Schon wieder bittet ein Kunde, die Zahlung zu verschieben. Eine Gärtnerin, ein Anruf zwischen Tomatenpflanzen und die Ruhe, die danach möglich ist.
 
 - [Kunde drückt den Preis per Mail? Der Fahrradladen](https://blixwerkstudio.com/guides/kunde-drueckt-staendig-den-preis-per-mail-was-antworte-ich?s=github) – Schon wieder die Mail: „Da geht doch sicher noch was beim Preis?“ Eine Geschichte über den Moment, in dem dir die Antwort endlich leichtfällt.
 
@@ -2743,6 +2749,8 @@ Included (16 products, 175 USD if bought separately):
 - [Limpio los mismos 20 Excel cada mes y ya no puedo más](https://blixwerkstudio.com/guides/limpiar-los-mismos-archivos-excel-cada-mes?s=github) – El día 1 abres los mismos 20 archivos de Excel y empiezas a limpiar. Una historia para quien siente que el mes se le va en eso.
 
 - [Easy Apply, Can't Recall Which Jobs? The Optician's Chair](https://blixwerkstudio.com/guides/linkedin-easy-apply-cant-remember-which-jobs?s=github) – A recruiter calls while you wait at the optician's and you can't place the job. A story for anyone who clicked Easy Apply too many times to remember.
+
+- [Mi lista de tareas con TDAH no acaba y no arranco el día](https://blixwerkstudio.com/guides/lista-de-tareas-larga-no-puedo-empezar-el-dia-tdah?s=github) – Son las 8:50, tienes 47 tareas en el móvil y no puedes empezar ninguna. Una historia sobre cómo se siente cuando la lista por fin cabe en un día.
 
 - [Mi lista de tareas es tan larga que me bloqueo: un lunes](https://blixwerkstudio.com/guides/lista-de-tareas-tan-larga-me-bloqueo-planner?s=github) – El café se enfría, la lista no para de crecer y no tocas nada. Una historia para quien se congela ante tanto pendiente y busca un planner en papel.
 
