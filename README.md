@@ -2382,6 +2382,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Haven't Posted on LinkedIn in Weeks? The Pottery Stall Ask](https://blixwerkstudio.com/guides/havent-posted-on-linkedin-in-weeks-guilty?s=github) – Weeks since your last LinkedIn post, and the guilt arrives at the school pickup line. A quiet story about showing up again without the Sunday panic.
 
+- [Haven't Rotated API Keys in Years? The Question on Mute](https://blixwerkstudio.com/guides/havent-rotated-api-keys-in-years-security-problem?s=github) – A client asks when you last rotated your API keys and you go quiet. A calm story about the question, the shrug, and how it can feel afterwards.
+
 - [No Day Off in Months? Freelancer Burnout and the Voucher](https://blixwerkstudio.com/guides/havent-taken-a-day-off-in-months-freelancer-burnout?s=github) – A balloon voucher expires in three weeks and you can't name one free day. A calm story for freelancers who haven't taken a day off in months.
 
 - [Hice el presupuesto sin margen y la obra me da pérdidas](https://blixwerkstudio.com/guides/hice-presupuesto-sin-margen-pierdo-dinero-obra-autonomo?s=github) – Presupuestaste la obra sin contar el margen y lo ves en la cola de la ferretería. Una historia para autónomos que quieren cobrar lo que trabajan.
@@ -2577,6 +2579,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kunde ghostet nach Schlussrechnung? Die Stille um 9:30](https://blixwerkstudio.com/guides/kunde-meldet-sich-nicht-nach-schlussrechnung?s=github) – Projekt abgenommen, Schlussrechnung raus, dann Funkstille. Eine Geschichte über das Schweigen nach der Rechnung und darüber, wie es leiser werden kann.
 
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://blixwerkstudio.com/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
+
+- [Projekt pausiert, Kunde zahlt nicht? „Auf Eis gelegt“](https://blixwerkstudio.com/guides/kunde-projekt-pausiert-will-geleistete-arbeit-nicht-bezahlen?s=github) – Der Kunde legt das Projekt „auf Eis“ und will die bisherige Arbeit nicht bezahlen. Eine Geschichte über den Moment danach und wie er ruhiger wird.
 
 - [Kunde reagiert nicht auf Mails? Der Radweg um 12:30 Uhr](https://blixwerkstudio.com/guides/kunde-reagiert-nicht-auf-mails-was-schreiben?s=github) – Dritte Mail, keine Antwort, und du weißt nicht, was du noch schreiben sollst. Eine Geschichte über Funkstille und den Satz, der wieder leichtfällt.
 
@@ -3318,6 +3322,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Scheduled Backup Failed? The Folder With No Recent Files](https://blixwerkstudio.com/guides/scheduled-backup-failed-backup-folder-no-recent-files?s=github) – You open the backup folder to find a file for a client and the newest one is months old. A calm story about that drop in your stomach, and what comes after.
 
+- [Backup Only Runs When Logged In? The Cottage Kitchen](https://blixwerkstudio.com/guides/scheduled-backup-only-runs-when-logged-in-windows?s=github) – Your scheduled backup says it ran, but only on days you stayed logged in. A rainy-week story about trusting the quiet job behind your laptop lid.
+
 - [Schlechte Google-Bewertung vom Kunden? Was antworten?](https://blixwerkstudio.com/guides/schlechte-google-bewertung-von-kunde-was-antworten?s=github) – Zwei Sterne, drei Zeilen, und dein Puls steigt. Eine Geschichte über schlechte Google-Bewertungen und die Ruhe, die richtigen Worte zu finden.
 
 - [Schwierige Kunden-Mails: Vier Entwürfe am Spielfeldrand](https://blixwerkstudio.com/guides/schwierige-mails-an-kunden-freelance?s=github) – Vier Entwürfe im Postfach, keiner abgeschickt. Eine Geschichte über schwierige Mails an Kunden, die du ewig vor dir herschiebst – und wie es leichter wird.
@@ -3569,6 +3575,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tired of Manual Data Cleanup Every Week? The Airport Gate Fix](https://blixwerkstudio.com/guides/tired-of-manual-data-cleanup-file-chores-developer?s=github) – Waiting at the gate, you're renaming files and fixing a CSV by hand again. A story about weekly developer chores and what a quiet Monday can feel like.
 
 - [Todo el año apagando fuegos como autónomo: ¿avancé algo?](https://blixwerkstudio.com/guides/todo-el-ano-apagando-fuegos-autonomo-no-he-avanzado?s=github) – Es octubre y no sabes si avanzaste o solo sobreviviste. Una historia sobre dejar de apagar fuegos y mirar tu año como autónomo con calma.
+
+- [Todo está en mi cabeza y no puedo delegar: el dentista](https://blixwerkstudio.com/guides/todo-en-mi-cabeza-no-puedo-delegar-negocio?s=github) – Tu ayudante pregunta cómo se contesta a una clienta y solo tú lo sabes. Una historia sobre sacar el negocio de tu cabeza y respirar un poco.
 
 - [Said It's in Stock When It Isn't? The Rowing Machine](https://blixwerkstudio.com/guides/told-customer-item-in-stock-when-it-isnt?s=github) – You told a customer the item was in stock, and it wasn't. A short story about the knot that creates, and a calmer way to start the week.
 
