@@ -1658,6 +1658,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Clienta pregunta por su pedido y no sé en qué punto está](https://blixwerkstudio.com/guides/clienta-pregunta-por-su-pedido-personalizado-no-se-en-que-punto-esta?s=github) – Miércoles, cola de Correos, un mensaje de una clienta y ninguna respuesta clara. Una historia sobre pedidos a medida y la calma de saber en qué punto están.
 
+- [Clienta quiere que le devuelva el dinero del tinte: martes](https://blixwerkstudio.com/guides/clienta-quiere-devolucion-dinero-tinte-no-le-gusto?s=github) – Tu clienta mira el tinte en el espejo y dice «esto no es lo que quería». Te pide el dinero y no sabes qué contestar. Una historia para peluqueras.
+
 - [Bizum y efectivo en mi peluquería: no apunto nada](https://blixwerkstudio.com/guides/clientas-pagan-bizum-efectivo-no-apunto-nada-peluqueria?s=github) – Martes, 9:10, antes de abrir: el móvil lleno de Bizums, el cajón con billetes y ninguna cuenta clara. Una historia para peluqueras que trabajan solas.
 
 - [Clienta que no se presenta a la cita: lo que pierde tu peluquería](https://blixwerkstudio.com/guides/clientas-que-no-se-presentan-a-la-cita-peluqueria-pierdo-dinero?s=github) – Son las 11:20, el sillón sigue vacío y el móvil no suena. Una historia sobre las citas perdidas en la peluquería y cómo volver a ver tus números con calma.
@@ -2624,6 +2626,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Zahlung kommt, sagt der Kunde? Der Steuertermin](https://blixwerkstudio.com/guides/kunde-sagt-zahlung-kommt-nichts-passiert?s=github) – „Die Zahlung kommt diese Woche.“ Zum dritten Mal. Eine Geschichte über Lenas Steuertermin und die Ruhe, die entsteht, wenn du weißt, was als Nächstes dran ist.
 
+- [Kunde liefert keinen Content? Montag in der Fahrschule](https://blixwerkstudio.com/guides/kunde-schickt-keinen-content-social-media-rueckstand?s=github) – Der Kunde schickt nie Fotos, und deine Posts hinken wieder hinterher. Eine kleine Geschichte über einen Montag, Fahrschul-Kaffee und ruhigere Wochen.
+
 - [Kunde schickt Rechnung zurück? Die Umkleide, 7:10](https://blixwerkstudio.com/guides/kunde-schickt-rechnung-zurueck-angaben-fehlen-freiberufler?s=github) – Die Rechnung kommt zurück: „Angaben fehlen.“ Eine Freiberuflerin, ein Handy in der Umkleide und die Frage, wie das nächste Mal ruhiger läuft.
 
 - [Kunde schreibt abends und am Wochenende – was antworten?](https://blixwerkstudio.com/guides/kunde-schreibt-abends-und-am-wochenende-was-antworten?s=github) – Samstag, 17:40, Kletterhalle: Die Kundenmail piept, dein Kopf rechnet schon. Eine Geschichte über Antworten ohne Druck und ohne dich zu verbiegen.
@@ -2979,6 +2983,8 @@ Included (16 products, 175 USD if bought separately):
 - [Olvido citas y plazos y tengo la cabeza llena: un lunes](https://blixwerkstudio.com/guides/olvido-citas-y-plazos-cabeza-llena-autonomo?s=github) – Una llamada que se te pasó, tres post-its y la cabeza a reventar. Una historia sobre olvidar citas y plazos cuando trabajas por tu cuenta.
 
 - [OneDrive Sync Deleted Files, No Backup? The Seed Stall](https://blixwerkstudio.com/guides/onedrive-sync-deleted-my-files-no-other-backup?s=github) – OneDrive synced the deletion everywhere and your only copy is gone. A story about that cold drop, and the calm of a copy sync can't touch.
+
+- [Only Billing 20 Hours a Week? The Weekly Summary Ping](https://blixwerkstudio.com/guides/only-billing-20-hours-a-week-freelancer-where-does-time-go?s=github) – You work all week but invoice only 20 hours. A quiet Monday tram ride, one phone notification, and the question every freelancer eventually asks.
 
 - [Cuentas en libretas y papeles: cómo ordenarlas en Excel](https://blixwerkstudio.com/guides/ordenar-cuentas-negocio-excel-libretas-papeles?s=github) – Libretas, tickets y notas pegadas en la pared. Una tapicera, una llamada de un cliente y la sensación de que ordenar las cuentas sí es posible.
 
@@ -3497,6 +3503,8 @@ Included (16 products, 175 USD if bought separately):
 - [Subí mi clave de API a GitHub por error: la cola del pan](https://blixwerkstudio.com/guides/subi-mi-clave-de-api-a-github-por-error?s=github) – Un correo de GitHub en la cola de la panadería: tu clave de API estaba en el repositorio. Una historia sobre el pánico y sobre dejar de improvisar.
 
 - [Subir precios en mi peluquería: miedo a perder clientas](https://blixwerkstudio.com/guides/subir-precios-peluqueria-miedo-perder-clientas?s=github) – Lunes, 9:40: la lista de precios en el espejo y un nudo en el estómago. Una historia sobre subir precios sin perder clientas.
+
+- [Supplier Delivered Late Again? The Email at the Loading Door](https://blixwerkstudio.com/guides/supplier-delivered-late-again-email-wording?s=github) – The pallet is late for the third time and the customer is asking. How to write to your supplier firmly, without burning a relationship you still need.
 
 - [Swagger Docs Exposed in Production? The Spare Key Label](https://blixwerkstudio.com/guides/swagger-docs-exposed-in-production?s=github) – Your Swagger page is public and a message just landed. A calm story about the knot in your stomach, and how to stop guessing while you stand in a queue.
 
