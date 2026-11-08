@@ -2292,6 +2292,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Can't Word the Client Email? The Café Table and the Blinking Cursor](https://blixwerkstudio.com/guides/ai-prompts-for-freelancer-client-emails?s=github) – Wednesday, 2:15 pm: one email to a client, and you've been staring at it for forty minutes. A story for freelancers who dread the awkward messages.
 
+- [Cold Emails, No Replies? The Sent Folder on the Bench](https://blixwerkstudio.com/guides/freelancer-cold-email-no-replies?s=github) – Forty cold emails to potential clients, forty silences. A lunch-hour scene for freelancers who stare at the sent folder and wonder what's wrong with them.
+
 - [Double Billed a Client by Accident? The Monday Phone Call](https://blixwerkstudio.com/guides/freelancer-double-billed-client-by-accident-how-to-keep-track?s=github) – You sent the same invoice twice and the client noticed first. A quiet story about the sinking feeling, and what a calmer way to keep track feels like.
 
 - [Feeling Behind on Everything as a Freelancer? The School Gate, 3:15](https://blixwerkstudio.com/guides/freelancer-falling-behind-on-everything?s=github) – You stand at the school gate with forty unread emails and one thought: I'm falling behind on everything. A quiet story about getting the floor back.
@@ -2411,6 +2413,8 @@ Included (16 products, 175 USD if bought separately):
 - [Herstellungskosten unbekannt? Die Tasse auf dem Markt](https://blixwerkstudio.com/guides/herstellungskosten-handgemachte-produkte-berechnen?s=github) – Eine Kundin fragt nach dem Preis, und du weißt nicht, was deine Tasse dich kostet. Eine Marktgeschichte für alle, die Selbstgemachtes verkaufen.
 
 - [Hice el presupuesto sin margen y la obra me da pérdidas](https://blixwerkstudio.com/guides/hice-presupuesto-sin-margen-pierdo-dinero-obra-autonomo?s=github) – Presupuestaste la obra sin contar el margen y lo ves en la cola de la ferretería. Una historia para autónomos que quieren cobrar lo que trabajan.
+
+- [Hochzeit abgesagt: Anzahlung zurück? Die Reinigung](https://blixwerkstudio.com/guides/hochzeit-abgesagt-anzahlung-fotograf-zurueckzahlen?s=github) – Neun Tage vor der Hochzeit sagt das Paar ab. Was jetzt mit der Anzahlung? Eine Geschichte für Fotografen, die Ruhe statt Bauchschmerzen wollen.
 
 - [Brautpaar zahlt Anzahlung nicht? Der Samstag im August](https://blixwerkstudio.com/guides/hochzeitsfotograf-brautpaar-zahlt-anzahlung-nicht-termin-blockiert?s=github) – Der Termin ist reserviert, die Anzahlung fehlt, und eine zweite Anfrage wartet. Eine Geschichte für Hochzeitsfotografen, die nicht länger raten wollen.
 
@@ -3196,6 +3200,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Mi proyecto se alargó y cobré lo mismo como autónomo](https://blixwerkstudio.com/guides/proyecto-se-alargo-cobre-lo-mismo-autonomo?s=github) – En la cola del pan llega el mensaje: «¿Cerramos ya?». El proyecto duró el triple y la factura es la misma. Una historia sobre verlo a tiempo.
 
+- [Publico a rachas y desaparezco semanas de las redes](https://blixwerkstudio.com/guides/publico-en-redes-a-rachas-y-desaparezco-semanas?s=github) – Tres semanas subiéndolo todo y luego silencio. Una florista oye «¿seguís abiertas?» y descubre que publicar no tiene que ser un sprint.
+
 - [Cliente que siempre paga tarde: ¿puedo cobrar recargo?](https://blixwerkstudio.com/guides/puedo-cobrar-recargo-cliente-que-paga-tarde?s=github) – Tiendes la ropa, abres la app del banco y otra vez nada. ¿Puedes cobrar un recargo a ese cliente? Una historia sobre cobrar sin sentirte mal.
 
 - [Mi script de Python falla con un CSV roto y entrego hoy](https://blixwerkstudio.com/guides/python-script-falla-csv-error-codificacion-entrego-hoy?s=github) – Son las 11:20, tu script de Python se cae con un CSV lleno de caracteres raros y la entrega es hoy. Una historia sobre volver a respirar.
@@ -3465,6 +3471,8 @@ Included (16 products, 175 USD if bought separately):
 - [Shop Asked for Wholesale Prices? The Hilltop Signal Bar](https://blixwerkstudio.com/guides/shop-asked-for-wholesale-prices-handmade-profit?s=github) – A shop wants wholesale prices for your handmade work and you can't tell if you'd earn anything. A quiet story about finding out before you reply.
 
 - [Charge a Late Fee to a Client? The Chairlift Question](https://blixwerkstudio.com/guides/should-i-charge-late-fee-client-pays-late-freelance?s=github) – Should you charge a late fee when a client pays late? A story about a chairlift, a three-week-old invoice and the awkward feeling of asking.
+
+- [Sick as a Freelancer, No Income? The Thermometer Reading](https://blixwerkstudio.com/guides/sick-as-a-freelancer-no-income-worried-about-bills?s=github) – Fever on a Thursday morning, no sick pay, rent due on the 1st. A calm story for freelancers who worry about bills the moment they get ill.
 
 - [Tardo más horas de las que presupuesto y trabajo gratis](https://blixwerkstudio.com/guides/siempre-tardo-mas-horas-de-las-que-presupuesto-autonomo?s=github) – Presupuestaste 20 horas y llevas 35. Una mañana de martes, una calculadora y la pregunta de cuánto has cobrado de verdad por tu trabajo.
 
