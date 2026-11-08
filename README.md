@@ -2910,6 +2910,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Missed a Day in Your Planner? The Blank Tuesday Page](https://blixwerkstudio.com/guides/missed-a-day-in-my-planner-feel-like-failure?s=github) – Wednesday, 7:50 am. Yesterday's page is empty and you're already composing the quitting speech. A gentler way to read a gap in your planner.
 
+- [Missing Security Headers on Your API? The Tool Library](https://blixwerkstudio.com/guides/missing-security-headers-api-scan-where-to-start?s=github) – A scanner report lands with 'missing security headers' in red. Where do you start? A calm story about a Monday, a queue and a clearer next step.
+
 - [Music Teacher Unsure What You Earn? The Letting Desk](https://blixwerkstudio.com/guides/music-teacher-no-idea-how-much-i-earn-per-month-from-lessons?s=github) – A letting agent asks what you earn a month from lessons, and you realise you don't know. A calm story for private music teachers.
 
 - [Parents Forget to Pay for Music Lessons? The Hallway Handover](https://blixwerkstudio.com/guides/music-teacher-parents-forget-to-pay-for-lessons?s=github) – The cello case is by the door, the envelope hasn't come, and you smile anyway. A gentle story for music teachers whose parents forget to pay.
@@ -3477,6 +3479,8 @@ Included (16 products, 175 USD if bought separately):
 - [Overwhelmed by Emails and Admin? The Florist's 7:50 Van](https://blixwerkstudio.com/guides/small-business-owner-overwhelmed-by-emails-and-admin?s=github) – Forty unread emails before the shop even opens. A small business owner's morning in the van, and the quieter way the replies stop piling up.
 
 - [Drowning in Writing Tasks Every Week? The Car Park Hour](https://blixwerkstudio.com/guides/small-business-owner-repetitive-writing-tasks?s=github) – Forty minutes in a car park, a laptop on the steering wheel and the same emails to write again. A story for small business owners tired of weekly writing.
+
+- [Minimum Call-Out Charge Too Low? The Dripping Tap Fee](https://blixwerkstudio.com/guides/small-repair-job-quote-too-low-minimum-call-out-charge?s=github) – Forty minutes of driving, twenty minutes of work, a quote of 25. If small repair jobs leave you out of pocket, this story about a call-out charge is for you.
 
 - [Shop Keeps Overselling Stock? The Wedding Pew Buzz](https://blixwerkstudio.com/guides/small-shop-keeps-overselling-items-not-in-stock?s=github) – Your phone buzzes mid-vows: another order for something you no longer have. A calm story for small shop owners tired of overselling and apologising.
 
