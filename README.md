@@ -1652,6 +1652,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Says You Never Billed Them? The Parking Meter](https://blixwerkstudio.com/guides/client-says-you-never-billed-last-month-cant-prove-hours?s=github) – A client says you never billed last month, and you can't prove which hours you worked. A short story about that call, and the calmer Monday after it.
 
+- [Invoice Approval Passed to Someone Else Again? The Lift Lobby](https://blixwerkstudio.com/guides/client-sends-invoice-approval-to-different-person?s=github) – Your client keeps sending you to a different person to approve your invoice. A calm story about the loop, and how to stop chasing in circles.
+
 - [Project Details Arrive in Pieces? The Flat-Pack Shelf](https://blixwerkstudio.com/guides/client-sends-project-details-in-pieces?s=github) – You started the work, then the client sent another 'one more thing'. A calm story about project details arriving in pieces, and a quieter way to begin.
 
 - [Client Sent No Brief but Wants It Tomorrow? Farm Shop Box](https://blixwerkstudio.com/guides/client-sent-no-brief-expects-results-tomorrow-freelance?s=github) – No brief, no files, and a client who wants results tomorrow. A freelancer's Thursday at a farm shop, and a calmer way to begin next time.
@@ -2074,6 +2076,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Excel cambió las fechas de mi CSV y no sé cuáles son las originales](https://blixwerkstudio.com/guides/excel-cambio-las-fechas-de-mi-csv-cuales-son-las-originales?s=github) – Abres el CSV, guardas, y las fechas ya no son las mismas. Una llamada con un cliente, una duda incómoda y la calma de saber qué cambió y qué no.
 
+- [Ciudades escritas de mil formas en Excel: entrego hoy](https://blixwerkstudio.com/guides/excel-ciudades-escritas-distinto-tabla-dinamica?s=github) – La tabla dinámica parte Madrid en cinco filas y la entrega es a las 14:00. Una historia sobre ciudades mal escritas en Excel y cómo respirar.
+
 - [Excel con correos mal escritos y duplicados: boletín hoy](https://blixwerkstudio.com/guides/excel-correos-mal-escritos-repetidos-boletin-hoy?s=github) – Son las 11:40, el boletín sale a las 14:00 y tu Excel está lleno de correos repetidos y mal escritos. Una historia para respirar.
 
 - [Excel Dates Mixed Formats, Can't Sort? The Print Shop](https://blixwerkstudio.com/guides/excel-date-column-mixed-formats-cant-sort?s=github) – The date column sorts into nonsense, the deadline is close, and you're standing at a print shop counter. A story for anyone fighting mixed dates in Excel.
@@ -2265,6 +2269,8 @@ Included (16 products, 175 USD if bought separately):
 - [Preise erhöhen, Kunden weg? Samstag im Baumarkt](https://blixwerkstudio.com/guides/freelance-preise-erhoehen-angst-kunden-verlieren?s=github) – Die Nebenkostenabrechnung ist da, dein Stundensatz seit Jahren gleich. Warum die Angst vor der Preiserhöhung so laut ist – und wie sie leiser wird.
 
 - [Freelance principiante: cuánto cobrar por hora sin miedo](https://blixwerkstudio.com/guides/freelance-principiante-cuanto-cobrar-por-hora-miedo-pedir-de-mas?s=github) – Tu cliente pregunta cuánto cobras por hora y tú escribes, borras y vuelves a escribir. Una historia para quien empieza y teme pedir de más.
+
+- [Freelance Proposal Email Takes Hours? The Buffet Car](https://blixwerkstudio.com/guides/freelance-proposal-email-takes-hours-sounds-off?s=github) – The proposal email is due by noon and you've rewritten the first line six times. A calm story for freelancers whose client emails always sound slightly off.
 
 - [Rate Still Too Low After Tax and Holidays? The Kayak Hut](https://blixwerkstudio.com/guides/freelance-rate-too-low-after-tax-and-holidays?s=github) – Your rate looks fine on paper, then tax and holidays eat it. A quiet story from a kayak hut about finally seeing what your hour is really worth.
 
@@ -2767,6 +2773,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zufriedener Kunde: Empfehlung fragen? Der Launch-Call](https://blixwerkstudio.com/guides/kunde-zufrieden-nach-empfehlung-fragen-freelance?s=github) – Der Kunde ist begeistert, du lächelst – und fragst trotzdem nicht nach einer Empfehlung. Eine Geschichte über den Satz, der dir im Hals stecken bleibt.
 
 - [Kunde fügt ständig Extra-Arbeit hinzu? Was sagst du?](https://blixwerkstudio.com/guides/kunde-zusatzarbeit-nach-auftrag-was-sagen?s=github) – „Noch eine Kleinigkeit …“ – schon wieder. Montag, 8:40 Uhr, der Cursor blinkt. Eine Geschichte für alle, die Nein sagen wollen, ohne unhöflich zu klingen.
+
+- [Kunde zweifelt Stunden an? Der Handyladen, 15:40 Uhr](https://blixwerkstudio.com/guides/kunde-zweifelt-stunden-an-keine-nachweise?s=github) – Der Kunde fragt: „Wie kommen diese Stunden zustande?“ Und du hast nichts in der Hand. Eine Geschichte über Nachweise, Ruhe und den Satz, den du sagen willst.
 
 - [Kunde zweifelt deine Stunden an? Der Anruf im Regionalzug](https://blixwerkstudio.com/guides/kunde-zweifelt-stunden-rechnung-nachweisen?s=github) – Die Buchhaltung deines Kunden fragt: „Stimmen die 23 Stunden wirklich?“ Und du kannst es nicht belegen. Eine Geschichte über den Moment danach.
 
