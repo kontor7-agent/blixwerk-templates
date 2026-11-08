@@ -1362,6 +1362,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Backup Stopped Weeks Ago? The Laptop Repair Counter](https://blixwerkstudio.com/guides/backup-stopped-running-weeks-ago?s=github) – The repair technician asks when your last backup ran. You check. It was weeks ago. A calm story about noticing late, and what changes afterwards.
 
+- [Bank Statement CSV Messy Columns? The Twenty-Minute Wait](https://blixwerkstudio.com/guides/bank-statement-csv-messy-columns-wont-import-spreadsheet?s=github) – Your bank CSV has merged columns, odd dates and a stray header, and the school bell is in 20 minutes. A short story about getting that calm back.
+
 - [Bash Backup Script Failed Silently? The Clinic Corridor](https://blixwerkstudio.com/guides/bash-backup-script-fails-silently?s=github) – Your bash backup script ran every night, or so you thought. Then a client asked for old files while you sat in a clinic corridor. A calm story.
 
 - [Belege-Chaos als Freelancer: Wo fange ich nur an?](https://blixwerkstudio.com/guides/belege-chaos-freelancer-wo-anfangen?s=github) – Ein Karton voller Belege, ein Steuerberater-Termin im Kalender und die Frage: Wo fange ich an? Eine Geschichte für alle, die jedes Jahr im Januar schwitzen.
@@ -1679,6 +1681,8 @@ Included (16 products, 175 USD if bought separately):
 - [Renegotiating Price After the Project? The Tower Stairs](https://blixwerkstudio.com/guides/client-wants-to-renegotiate-price-after-project-finished?s=github) – The project is delivered, the invoice is out, and now the client wants a lower price. A calm story about what to say, and how not to fold on the stairs.
 
 - [Client Wants to Start Tomorrow, No Contract? Cable Car](https://blixwerkstudio.com/guides/client-wants-to-start-tomorrow-no-contract-kickoff-plan?s=github) – The client wants to start tomorrow. There's no contract and no kickoff plan, and you're in a cable car queue. A story about calm starts for freelancers.
+
+- [Clienta llega tarde y me descuadra la agenda del sábado](https://blixwerkstudio.com/guides/clienta-llega-tarde-descuadra-agenda-peluqueria?s=github) – Son las 10:40, la clienta de las 10:00 no llega y la agenda se cae como fichas de dominó. Una historia para peluqueras que trabajan solas.
 
 - [Clienta pide descuento en la peluquería: ¿puedo bajar?](https://blixwerkstudio.com/guides/clienta-pide-descuento-peluqueria-puedo-bajar-precio?s=github) – Sábado, secador en mano, una clienta pide descuento y no sabes cuánto te queda por ese servicio. Una historia para peluqueras y barberos.
 
@@ -2163,6 +2167,8 @@ Included (16 products, 175 USD if bought separately):
 - [Finance Team on Holiday, Invoice Unpaid? The Canal Lock](https://blixwerkstudio.com/guides/finance-team-on-holiday-invoice-unpaid?s=github) – The client says their finance team is on holiday and your invoice sits unpaid. A calm story about waiting without knowing the next step.
 
 - [First Craft Fair Stall: How Much Stock, What Float?](https://blixwerkstudio.com/guides/first-craft-fair-stall-how-much-stock-to-bring-float?s=github) – Your first craft fair is on Saturday and the van is half packed. How much stock to bring, how big a float, and how to stop panicking at the kitchen table.
+
+- [First Email to a New Client? The Over-Proved Sourdough](https://blixwerkstudio.com/guides/first-email-to-new-client-what-do-i-write?s=github) – You got the yes. Now the first email to a new client feels heavier than the work. A quiet Sunday story about writing it without rewriting it ten times.
 
 - [Sent Your First Freelance Invoice? The Gift-Wrap Counter](https://blixwerkstudio.com/guides/first-freelance-invoice-what-to-include?s=github) – You sent your first freelance invoice and now wonder what's missing. A lunchtime story about that wobble, and a calmer way to send the next one.
 
