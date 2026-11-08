@@ -2744,6 +2744,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde zahlt trotz Mahnung nicht? Das Wartezimmer, 8:15](https://blixwerkstudio.com/guides/kunde-zahlt-trotz-mahnung-nicht-inkasso?s=github) – Dritte Mahnung raus, Funkstille. Inkasso ja oder nein? Eine Lektorin im Physio-Wartezimmer und die Ruhe, die kommt, wenn du den nächsten Schritt kennst.
 
+- [Kunde zahlt wieder zu spät? Nett sein reicht nicht mehr](https://blixwerkstudio.com/guides/kunde-zahlt-wieder-zu-spaet-nicht-mehr-hoeflich?s=github) – Schienenersatzverkehr, Handy in der Hand, dieselbe freundliche Mail zum vierten Mal. Eine Geschichte für alle, die das Höflichsein leid sind.
+
 - [Kunde zahlt zu spät, die Miete ist fällig? Die Straßenbahn um 8:12](https://blixwerkstudio.com/guides/kunde-zahlt-zu-spaet-miete-faellig-freelancer?s=github) – Die Miete geht in drei Tagen raus, die Zahlung des Kunden fehlt noch. Eine Geschichte über Freelancer-Alltag und darüber, wie Ruhe in dein Geld kommt.
 
 - [Kunde zieht Skonto ab, nicht vereinbart? Rot an der Ampel](https://blixwerkstudio.com/guides/kunde-zieht-skonto-ab-nicht-vereinbart?s=github) – Der Zahlungseingang ist 2 % zu klein, und du weißt nicht mehr, was auf der Rechnung stand. Eine Geschichte über Skonto, Ruhe und den Blick aufs Konto.
@@ -2933,6 +2935,8 @@ Included (16 products, 175 USD if bought separately):
 - [Nach dem Final Interview ghosted? Die Stadtbibliothek](https://blixwerkstudio.com/guides/nach-vorstellungsgespraech-nichts-gehoert-nachfassen?s=github) – Zweites Gespräch gut gelaufen, seit zwölf Tagen Stille. Eine Geschichte über das Warten, das Nachfassen und die Ruhe, die ein Überblick bringt.
 
 - [Nail Tech: How Much Do I Actually Make After Booth Rent?](https://blixwerkstudio.com/guides/nail-tech-how-much-do-i-actually-make-after-booth-rent?s=github) – The rental form asks for your monthly income and you freeze. A nail tech story about booth rent, products and finding the number you actually keep.
+
+- [NAS Backup Failed After Password Change? The Muddy Call](https://blixwerkstudio.com/guides/nas-backup-stopped-after-password-change?s=github) – Your NAS backup quietly stopped after a password change, and you only found out when a client asked for last month's files. A calm story about noticing sooner.
 
 - [Nebenberuflich selbstständig: Welche Rechnung ging raus?](https://blixwerkstudio.com/guides/nebenberuflich-selbststaendig-rechnungen-ueberblick-verloren?s=github) – 12:35 Uhr in der Kantine: Du weißt nicht mehr, welchen Kunden du schon berechnet hast. Eine Geschichte über Ruhe im Nebenjob.
 
@@ -3388,6 +3392,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Cierra el trimestre y no encuentro las facturas de gastos](https://blixwerkstudio.com/guides/se-cierra-el-trimestre-no-encuentro-facturas-de-gastos?s=github) – Miércoles, la furgoneta, el trimestre a punto de cerrar y las facturas de gastos por todas partes. Una historia para quien busca un respiro.
 
+- [Se me estropea la mercancía y no sé cuánto dinero pierdo](https://blixwerkstudio.com/guides/se-estropea-mercancia-tienda-cuanto-dinero-pierdo?s=github) – Lunes, 8:15, y otra caja de fruta al cubo. Una tendera descubre que el problema no era la mala suerte, sino no ver qué se pierde.
+
 - [Se me acumulan las tareas y no sé por dónde empezar hoy](https://blixwerkstudio.com/guides/se-me-acumulan-las-tareas-no-se-por-donde-empezar-hoy?s=github) – Lunes, 9:05, veintitrés cosas pendientes y ninguna por la que empezar. Una historia sobre cómo un día puede volver a caber en una hoja.
 
 - [Se me borró la carpeta del trabajo: sin copia, un martes](https://blixwerkstudio.com/guides/se-me-borro-la-carpeta-del-trabajo-sin-copia-de-seguridad?s=github) – Martes, 9:10: la carpeta del cliente ya no está y no hay copia de seguridad. Una historia sobre ese vacío en el estómago y la calma que llega después.
@@ -3653,6 +3659,8 @@ Included (16 products, 175 USD if bought separately):
 - [Traductor freelance: me pagan por palabra, ¿y por hora?](https://blixwerkstudio.com/guides/traductor-freelance-pago-por-palabra-ganancia-por-hora?s=github) – Tu amiga te pregunta cuánto ganas por hora y no sabes qué responder. Una historia para traductores freelance que cobran por palabra.
 
 - [Traductora autónoma: ¿cuántas palabras al día necesito?](https://blixwerkstudio.com/guides/traductora-autonoma-cuantas-palabras-al-dia-fin-de-mes?s=github) – Marta, traductora autónoma, hace cuentas en la cola de la panadería: ¿cuántas palabras al día para llegar a fin de mes? Una historia para reconocerte.
+
+- [Agency Cut Your Per-Word Rate? The Meter Reader Visit](https://blixwerkstudio.com/guides/translation-agency-cut-my-per-word-rate-what-do-i-do?s=github) – The agency email says new rates from next month. You read it twice with a cold coffee. A calm story about what to do before you reply.
 
 - [Fuzzy Match Discount, Below Minimum Wage? Fabric Counter](https://blixwerkstudio.com/guides/translation-agency-discount-repetitions-fuzzy-matches-minimum-wage-hou?s=github) – The agency wants a discount for repetitions and fuzzy matches, and you wonder if you earn less than minimum wage per hour. A quiet story from a fabric counter.
 
