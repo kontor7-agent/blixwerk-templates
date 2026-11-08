@@ -2202,6 +2202,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Forget to Bill Retainer Hours? The Glass Meeting Room](https://blixwerkstudio.com/guides/forgot-to-bill-retainer-hours-freelancer?s=github) – Monday, 10:00, a quarterly review call, and a retainer you suspect you've been undercounting for months. A story for freelancers who lose hours quietly.
 
+- [Forgot to Charge for Screws on Your Quote? The Coffee Tin](https://blixwerkstudio.com/guides/forgot-to-charge-for-screws-small-materials-quote?s=github) – Screws, plugs, sealant, tape: none of it was on your quote. A quiet story about small materials, small leaks and a calmer way to price a job.
+
 - [Forgot to Invoice Hours Last Month? The Donation Chair](https://blixwerkstudio.com/guides/forgot-to-invoice-hours-last-month?s=github) – You're lying back with a paper cup of juice when you realise a week of last month's hours never made it onto an invoice. A quiet story about that moment.
 
 - [Forgot to Log Your Time All Week? The Tram on Friday](https://blixwerkstudio.com/guides/forgot-to-log-time-all-week-freelancer-cant-invoice?s=github) – It's Friday, the invoice is due, and your timesheet is empty. A calm story about reconstructing a week you never logged, and not having to next time.
@@ -2507,6 +2509,8 @@ Included (16 products, 175 USD if bought separately):
 - [Invoice 90 Days Overdue, Client Silent? The Cake Knife](https://blixwerkstudio.com/guides/invoice-90-days-overdue-client-stopped-answering?s=github) – Your invoice is 90 days overdue and the client has stopped answering. A quiet story about a birthday party, a buzzing phone and a calmer way to chase.
 
 - [Invoice Approved, No Payment Date? The Crossword Clue](https://blixwerkstudio.com/guides/invoice-approved-no-payment-date?s=github) – Your client says the invoice is approved, but accounts won't name a payment date. A calm story about waiting without begging, and what changes when you have a plan.
+
+- [Invoice Numbers Out of Order? I Used 47 Twice](https://blixwerkstudio.com/guides/invoice-numbers-out-of-order-used-one-twice?s=github) – A client's finance contact says two of your invoices share a number. Your stomach drops. A calm story about invoice numbers, and how to stop worrying.
 
 - [Invoice One Day Overdue: Too Soon to Chase? The Toaster](https://blixwerkstudio.com/guides/invoice-one-day-overdue-too-soon-to-chase?s=github) – Your invoice was due yesterday and nothing has arrived. Is it too soon to say something? A calm story about the day-one wobble, and the quiet after it.
 
@@ -2840,6 +2844,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Made a Mistake on a Client Project? The Car Park Ticket](https://blixwerkstudio.com/guides/made-a-mistake-on-client-project-how-to-apologize-email-freelancer?s=github) – You spot your own mistake in a client's files while the car park barrier is stuck. The apology email you can't start, and what it quietly costs you.
 
+- [Mahnbescheid beantragen? Montag, 7:50, Küchentisch](https://blixwerkstudio.com/guides/mahnbescheid-beantragen-lohnt-sich-das-freiberufler?s=github) – Lohnt sich ein Mahnbescheid als Freiberufler? Eine Lektorin, ein Montagmorgen und die Frage, warum es überhaupt so weit kommen musste.
+
 - [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
 
 - [Mail Merge, State Names All Different? The Parcel Counter](https://blixwerkstudio.com/guides/mail-merge-state-names-typed-differently-spreadsheet?s=github) – Calif., CA, california: addresses typed every which way before your mail merge. A short story from the post office counter, and a calmer Monday.
@@ -2939,6 +2945,8 @@ Included (16 products, 175 USD if bought separately):
 - [Sin límite de uso en mi API: miedo a que la tumben](https://blixwerkstudio.com/guides/miedo-api-sin-limite-de-uso-peticiones?s=github) – Estás en la playa, de vacaciones a medias, y solo piensas en tu API sin límite de uso. Una historia sobre dejar de imaginar lo peor y volver a respirar.
 
 - [Miedo a gastarme el IVA y el IRPF del trimestre](https://blixwerkstudio.com/guides/miedo-gastarme-iva-irpf-trimestral-autonomo?s=github) – Es mediados de octubre, el trimestre se acerca y no sabes cuánto apartar. Una historia sobre el miedo a gastarte un dinero que no es del todo tuyo.
+
+- [Inyección SQL en mi API: el miedo antes de lanzarla](https://blixwerkstudio.com/guides/miedo-inyeccion-sql-api-antes-de-lanzarla?s=github) – Vacaciones que no lo son: el portátil bajo la sombrilla, el lanzamiento el lunes y la duda de la inyección SQL en tu API. Cómo se calma.
 
 - [Miedo a que un usuario vea los datos de otro en mi API](https://blixwerkstudio.com/guides/miedo-usuario-vea-datos-de-otro-api-produccion?s=github) – Faltan tres días para el lanzamiento y una duda te ronda: ¿y si un usuario ve los datos de otro? Una historia para respirar antes de salir.
 
