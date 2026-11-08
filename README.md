@@ -1830,6 +1830,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CORS Wildcard in Production? The Escape Room Countdown](https://blixwerkstudio.com/guides/cors-wildcard-open-endpoints-production-api?s=github) – A wildcard CORS header and a few open endpoints, two days before launch. A calm story about the doubt in the back of your head, and how it can ease.
 
+- [Counting Stock by Hand All Weekend? The Clipboard at 3 pm](https://blixwerkstudio.com/guides/counting-stock-by-hand-takes-all-weekend-small-shop?s=github) – Saturday afternoon, a clipboard, a stockroom and a lake you're not at. A story for small shop owners who count stock by hand every weekend.
+
 - [Country Names Spelled Differently in Excel? The Globe](https://blixwerkstudio.com/guides/country-names-spelled-differently-spreadsheet?s=github) – Germany, Deutschland, DE and 'germany ' in one column. A calm story about country names spelled differently in a spreadsheet, and the end of the dread.
 
 - [Craft Fair Customer Said Prices Too High? The Oak Board](https://blixwerkstudio.com/guides/craft-fair-customer-said-prices-too-high-underpricing-handmade?s=github) – A customer sighs at your price tag at the craft fair. Are you underpricing handmade work, or is the number fine? A quiet story about knowing.
@@ -2724,6 +2726,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Stundennachweis verlangt, nichts notiert? Der Waldweg](https://blixwerkstudio.com/guides/kunde-will-stundennachweis-nichts-aufgeschrieben?s=github) – Der Kunde will einen Stundennachweis, und du hast nichts aufgeschrieben. Eine Geschichte von einem Spaziergang, einem Anruf und einem ruhigeren Anfang.
 
+- [Kunde will Stundenzettel, du hast nur Kalendernotizen?](https://blixwerkstudio.com/guides/kunde-will-stundenzettel-nur-kalendernotizen?s=github) – Montag, 8:20 Uhr: Der Kunde will einen Stundenzettel, und du hast nur Kalendernotizen. Eine Geschichte über den Moment, in dem es ruhiger wird.
+
 - [Kunde schreibt wütend wegen Rechnung? Die Post-Schlange](https://blixwerkstudio.com/guides/kunde-wuetende-mail-rechnung-ruhig-antworten?s=github) – Wütende Mail zur Rechnung, und du stehst in der Post-Schlange? Eine Geschichte darüber, wie du ruhig antwortest, statt im Kopf zu streiten.
 
 - [Kunde zahlt erst nächstes Jahr? Das Budget ist leer](https://blixwerkstudio.com/guides/kunde-zahlt-erst-naechstes-jahr-budget-aufgebraucht?s=github) – „Das Budget ist aufgebraucht, wir zahlen im neuen Jahr.“ Ein Donnerstag um 11 Uhr, ein Satz am Telefon – und wie du dabei ruhig bleibst.
@@ -3192,6 +3196,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Profit on Handmade Items After Etsy Fees? The Frame Shop](https://blixwerkstudio.com/guides/profit-on-handmade-items-after-etsy-fees?s=github) – The framer asked how your Etsy shop was going and you said 'good!' without knowing. A quiet story about handmade profit after fees, and what eases the doubt.
 
+- [Project Stuck Waiting on Client Approval? The Held Door](https://blixwerkstudio.com/guides/project-stuck-waiting-on-client-approval?s=github) – Three weeks since you sent the draft and the project is frozen. A quiet story about waiting on a slow client, and what a calmer start can change.
+
 - [Project Taking Longer Than Planned? The Playground Bench](https://blixwerkstudio.com/guides/project-taking-longer-than-planned-tell-client?s=github) – The edit is two weeks behind and the client thinks it's nearly done. A quiet story about finally finding the words to say it, calmly.
 
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://blixwerkstudio.com/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
@@ -3607,6 +3613,8 @@ Included (16 products, 175 USD if bought separately):
 - [Tagessatz als Freelancer begründen? Die Frage im Meeting](https://blixwerkstudio.com/guides/tagessatz-freelancer-begruenden?s=github) – Dein Tagessatz fühlt sich wie geschätzt an, und im Meeting fragt jemand nach der Begründung. Eine Geschichte über ruhige Antworten.
 
 - [Tardé semanas en contestar a un cliente: me da vergüenza](https://blixwerkstudio.com/guides/tarde-semanas-en-contestar-a-un-cliente-me-da-verguenza?s=github) – Tres semanas sin contestar a un cliente y cada día cuesta más escribirle. Una historia sobre el lunes en que por fin abres ese correo.
+
+- [Textos técnicos: tardo el doble y cobro igual, ¿compensa?](https://blixwerkstudio.com/guides/tardo-el-doble-en-traducir-textos-tecnicos-cobro-lo-mismo-por-palabra?s=github) – Abres el manual técnico y sabes que te llevará el doble, pero la tarifa por palabra es la misma. Una historia para traductoras que dudan si les compensa.
 
 - [Descripciones de productos: tardo horas y me bloqueo](https://blixwerkstudio.com/guides/tardo-horas-escribiendo-descripciones-de-mis-productos-y-me-bloqueo?s=github) – Sábado por la mañana, el cursor parpadea sobre la ficha de una vela. Una historia para quien tarda horas con las descripciones de sus productos.
 
