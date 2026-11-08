@@ -1882,6 +1882,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [CSV Names ALL CAPS and lowercase Mixed? The Lanyard Box](https://blixwerkstudio.com/guides/csv-names-inconsistent-capitalization-uppercase-lowercase?s=github) – Half the names in the export shout, half whisper. A calm story about the badge printer, the registration table, and a Monday where names just look right.
 
+- [CSV Brackets for Negatives Won't Sum? The Pickup Line](https://blixwerkstudio.com/guides/csv-negative-numbers-in-brackets-excel-wont-sum?s=github) – The accounting export shows refunds as (120.00) and Excel's total says zero. A quiet school pickup line, a stubborn column, and a calmer way to start the week.
+
 - [CSV Opens in Excel All in One Column? The Kitchen Table](https://blixwerkstudio.com/guides/csv-opens-in-excel-all-in-one-column?s=github) – The export lands in Excel as one long column and the clock is ticking. A quiet story about messy CSVs, and what a calmer routine feels like.
 
 - [CSV Prices With Symbols Won't Convert? The Hardware Till](https://blixwerkstudio.com/guides/csv-prices-currency-symbols-commas-wont-convert-to-numbers?s=github) – The sum says 0. Prices with € signs and commas sit in your CSV as text while a client waits on the phone. A calm story about getting that Monday back.
@@ -2690,6 +2692,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Kunde storniert kurzfristig – Freiberufler ohne Geld?](https://blixwerkstudio.com/guides/kunde-storniert-auftrag-kurzfristig-freiberufler-bezahlt?s=github) – Die Absage kommt zwei Tage vor Projektstart, und du hattest alles freigehalten. Eine Geschichte aus dem Wartebereich vom Autohaus, Mittwoch, 15:20 Uhr.
 
+- [Kunde verpasst Calls und Termine? Die Lobby, 10:07](https://blixwerkstudio.com/guides/kunde-verpasst-calls-und-termine-was-sagen?s=github) – Der Kunde ist wieder nicht im Call. Du wartest in der Lobby und suchst Worte. Eine Geschichte über ruhige Sätze statt Ärger.
+
 - [Zahlung versprochen, nichts da? Was sagst du? Baumarkt](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen-was-sagen-d6b3?s=github) – Der Kunde sagte „Überweisung geht raus“, doch das Konto bleibt leer. Eine Geschichte über den Moment, in dem dir die richtigen Worte fehlen.
 
 - [Kunde versprach Zahlung, nichts da? Die Fähre, 11:40](https://blixwerkstudio.com/guides/kunde-versprach-zahlung-nichts-angekommen-was-sagen?s=github) – Der Kunde sagte „geht raus“, auf dem Konto ist nichts. Was schreibst du jetzt? Eine Geschichte über den Moment auf der Fähre und die Ruhe danach.
@@ -3101,6 +3105,8 @@ Included (16 products, 175 USD if bought separately):
 - [PayPal se come mi tarifa freelance: ¿qué cobro de verdad?](https://blixwerkstudio.com/guides/paypal-comisiones-freelance-que-cobrar?s=github) – Facturas 450 € y te llegan 412. Una mañana en la panadería, una tarifa que no cuadra y una forma más tranquila de ponerle precio a tu trabajo.
 
 - [Pedí tarde al proveedor y me quedé sin stock en campaña](https://blixwerkstudio.com/guides/pedi-tarde-al-proveedor-sin-existencias-campana?s=github) – Lanzaste la campaña, los pedidos entran y el proveedor tarda tres semanas. Una historia sobre quedarte sin existencias y volver a respirar.
+
+- [Pedido personalizado a mano: ¿cuánto cobrar sin perder?](https://blixwerkstudio.com/guides/pedido-personalizado-hecho-a-mano-cuanto-cobrar?s=github) – Una clienta te pide 30 piezas a mano y te quedas en blanco con el precio. Una historia sobre cobrar un pedido personalizado sin perder.
 
 - [Soy peluquera autónoma y no sé cuánto sueldo me pago](https://blixwerkstudio.com/guides/peluquera-autonoma-cuanto-sueldo-puedo-pagarme?s=github) – Entre un tinte y otro miras la app del banco y no sabes qué parte es tuya. Una historia de peluquera autónoma y de un fin de mes más tranquilo.
 
@@ -3731,6 +3737,8 @@ Included (16 products, 175 USD if bought separately):
 - [Unverkaufte Ware im Lager? Geld steckt in Kartons](https://blixwerkstudio.com/guides/unverkaufte-ware-lager-geld-gebunden?s=github) – Samstag, 6:40 Uhr, Weihnachtsmarkt-Aufbau: Die Kartons vom letzten Jahr stehen noch da. Eine Geschichte über gebundenes Geld und ein ruhigeres Lager.
 
 - [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://blixwerkstudio.com/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
+
+- [ChatGPT Wrote Your API Code: Is It Secure? The Dual Brake](https://blixwerkstudio.com/guides/used-chatgpt-to-write-api-code-is-it-secure?s=github) – You shipped API code ChatGPT helped write, and a client just asked if it's secure. A quiet story about doubt, a second pair of eyes, and calm.
 
 - [Tres entrevistas esta semana y se me mezclan las empresas](https://blixwerkstudio.com/guides/varias-entrevistas-esta-semana-se-me-mezclan-las-empresas?s=github) – Suena el teléfono y dudas: ¿esta era la de la startup o la de la consultora? Una historia sobre ordenar varias entrevistas en una sola semana.
 
