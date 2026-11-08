@@ -1390,6 +1390,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Beworben, keine Antwort? Wann nachhaken? Gepäckband 4](https://blixwerkstudio.com/guides/beworben-keine-antwort-wann-nachfragen?s=github) – Vor drei Wochen beworben, seitdem Stille. Eine Geschichte vom Gepäckband über das Warten und den Moment, in dem das Nachhaken ruhig wird.
 
+- [Biggest Client Pays Late, Scared to Lose Them? Kickoff](https://blixwerkstudio.com/guides/biggest-client-pays-late-scared-to-lose-them?s=github) – Your biggest client pays late again and offers new work on the call. A story about chasing money calmly without fearing the relationship.
+
 - [Billed the Wrong Hours? The Meatball Queue Panic](https://blixwerkstudio.com/guides/billed-client-wrong-hours-panic?s=github) – The client emails: 'Are these hours right?' and your stomach drops. A calm story about checking, correcting and never guessing at your hours again.
 
 - [Billed a Client Twice by Mistake? The Pumpkin Patch Panic](https://blixwerkstudio.com/guides/billed-same-client-hours-twice-panic?s=github) – You think you billed the same client hours twice, and you're standing in a field with a paper cup. A story about the panic, and the calmer way after it.
@@ -1407,6 +1409,8 @@ Included (16 products, 175 USD if bought separately):
 - [Bonos de sesiones: no sé cuántas le quedan a cada clienta](https://blixwerkstudio.com/guides/bonos-de-sesiones-no-se-cuantas-le-quedan-a-cada-clienta?s=github) – Vendiste un bono de cinco sesiones y, con la clienta en la silla, no sabes cuántas le quedan. Una mañana de martes en un estudio pequeño.
 
 - [Boss Asked If Our API Is Secure? The Dishwasher Silence](https://blixwerkstudio.com/guides/boss-asked-if-our-api-is-secure?s=github) – Your boss asks if the API is secure while you stand by the dishwasher, and all you have is 'I think so.' A calm story about a better answer.
+
+- [Rechnung wartet auf noch ein Formular? Bibliothek, 14:20](https://blixwerkstudio.com/guides/buchhaltung-braucht-noch-ein-formular-rechnung-bezahlen?s=github) – Die Buchhaltung braucht angeblich noch ein Formular, bevor deine Rechnung bezahlt wird. Eine Geschichte über das dritte Mal und über ruhiges Nachhaken.
 
 - [Can't Find Your Old Data Scripts? The Canteen Queue Ping](https://blixwerkstudio.com/guides/cant-find-old-data-cleaning-script?s=github) – You know you wrote that cleanup script once. Somewhere. A story about the canteen queue, a visitor badge, and scripts you stop rewriting from scratch.
 
@@ -1525,6 +1529,8 @@ Included (16 products, 175 USD if bought separately):
 - [Contact Left, Invoice Unpaid? Who to Chase: The Swing Set](https://blixwerkstudio.com/guides/client-contact-left-invoice-unpaid-who-to-chase?s=github) – Your client contact left and the invoice is still unpaid. A quiet story about who to chase next, and how to do it without feeling like begging.
 
 - [Client Deducted Bank Fees From Payment? The Leek Bunch](https://blixwerkstudio.com/guides/client-deducted-bank-fees-from-invoice-payment?s=github) – The payment arrived, but a few euros short. The client says bank fees are your problem. A Saturday market story about asking calmly for the difference.
+
+- [Client Email Takes an Hour? The Microwave Beep at 12:40](https://blixwerkstudio.com/guides/client-email-takes-an-hour-sounds-wrong?s=github) – Soup in the microwave, a client email still unsent after an hour. For freelancers who rewrite every message until it sounds wrong. A short story.
 
 - [Client Emails at Midnight? The Canal Towpath at 7:05](https://blixwerkstudio.com/guides/client-emailing-at-midnight-freelance-set-expectations?s=github) – A client who emails at midnight and expects an answer by morning. A freelancer's walk along the canal, and what changed once expectations were set early.
 
@@ -2199,6 +2205,8 @@ Included (16 products, 175 USD if bought separately):
 - [Fotograf: Kunde zahlt Restbetrag nicht? Das Fotolabor](https://blixwerkstudio.com/guides/fotograf-kunde-zahlt-restbetrag-nicht?s=github) – Die Galerie ist geliefert, das Album gedruckt, aber der Restbetrag fehlt. Eine Szene im Fotolabor für alle, die ungern nachfragen.
 
 - [Fotoshooting nicht abgerechnet? Der Download-Hinweis um 12:40](https://blixwerkstudio.com/guides/fotograf-rechnung-vergessen-nach-shooting?s=github) – Die Galerie ist längst geliefert, die Rechnung nie geschrieben. Eine Fotografin, ein Bahnhofscafé und der Moment, in dem sie es merkt.
+
+- [Fotograf vergisst, wer auf Galerie wartet? Der Käsestand](https://blixwerkstudio.com/guides/fotograf-vergisst-wer-auf-galerie-oder-zahlung-wartet?s=github) – Samstag am Käsestand fragt eine Kundin nach ihrer Galerie, und du weißt es nicht. Eine Geschichte für Fotografen mit zu vielen Kunden.
 
 - [Soy fotógrafo autónomo y olvidé cobrar el resto de la sesión](https://blixwerkstudio.com/guides/fotografo-autonomo-olvido-cobrar-resto-sesiones-pagos-cliente?s=github) – La galería ya está entregada, el cliente da las gracias y tú no recuerdas si pagó el resto. Una mañana de lunes, y cómo se siente tener los pagos claros.
 
@@ -3181,6 +3189,8 @@ Included (16 products, 175 USD if bought separately):
 - [Projekt lohnt sich nicht? Was verdienst du wirklich pro Stunde?](https://blixwerkstudio.com/guides/projekt-lohnt-sich-nicht-was-verdiene-ich-wirklich-pro-stunde-freiberu?s=github) – Dienstag, 13:15, Parkbank: Das Projekt war abgerechnet, und trotzdem fühlt es sich nach zu wenig an. Eine Geschichte über den echten Stundenlohn.
 
 - [Llegó menos mercancía de la pedida y mi stock no cuadra](https://blixwerkstudio.com/guides/proveedor-mando-menos-mercancia-stock-no-cuadra?s=github) – Abres la caja y faltan unidades. El proveedor mandó menos de lo que pediste y tu stock ya no cuadra. Una mañana de martes y cómo se calma.
+
+- [Mi proveedor subió precios: ¿sigo ganando con lo mío?](https://blixwerkstudio.com/guides/proveedor-subio-precios-sigo-ganando-productos-hechos-a-mano?s=github) – El correo del proveedor llegó con la nueva tarifa y tú sigues vendiendo al mismo precio. Una historia para makers que quieren saber si aún ganan.
 
 - [Mi proveedor tarda semanas: ¿cuándo pido el género?](https://blixwerkstudio.com/guides/proveedor-tarda-semanas-me-quedo-sin-genero-cuando-pedir?s=github) – Tu proveedor tarda tres semanas y tu producto estrella ya se agotó. Una historia sobre pedir a tiempo sin adivinar, desde la cola de la panadería.
 
