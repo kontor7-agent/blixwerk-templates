@@ -1444,6 +1444,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Campaña de Navidad: no sé qué publicar y voy tarde](https://blixwerkstudio.com/guides/campana-de-navidad-redes-sociales-no-se-que-publicar?s=github) – Es 1 de noviembre, la cola de la panadería avanza y tu campaña de Navidad en redes sigue en blanco. Una historia para quien ya va tarde y no sabe qué publicar.
 
+- [Can I Claim Client Coffee Receipts? The Coat Pocket](https://blixwerkstudio.com/guides/can-i-claim-client-coffee-and-lunch-receipts-freelancer?s=github) – You paid for the client's flat white and a sandwich, and now a crumpled receipt sits in your coat. A calm story about what to keep and who to ask.
+
 - [Cancelaron la traducción a medias y no quieren pagarme](https://blixwerkstudio.com/guides/cancelaron-traduccion-a-medias-no-quieren-pagarme?s=github) – El cliente canceló el encargo con la mitad entregada y el correo dice que no hay nada que pagar. Una traductora, un martes y cómo volver a respirar.
 
 - [Cancelled Lessons, Lost Make-Ups? The Lightbulb Aisle](https://blixwerkstudio.com/guides/cancelled-tutoring-lessons-make-up-lessons-owed?s=github) – You cancelled a week of tutoring and now can't remember which make-up lessons you owe. A quiet story from the hardware aisle, and a calmer way to keep track.
@@ -2118,6 +2120,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Factura con importe equivocado: mi facturación es un lío](https://blixwerkstudio.com/guides/factura-importe-equivocado-facturacion-desordenada?s=github) – Mandaste la factura con un importe que no era y el cliente te llama a las diez. Una historia sobre facturar con calma, sin miedo a equivocarte.
 
+- [Me debe una factura pequeña y me da vergüenza reclamarla](https://blixwerkstudio.com/guides/factura-pequena-cliente-me-da-verguenza-reclamar?s=github) – Son solo 90 euros, pero llevan seis semanas pendientes y cada vez que abres el correo te encoges. Una historia para quien no se atreve a reclamar.
+
 - [Factura vencida hace 60 días y miedo a perder al cliente](https://blixwerkstudio.com/guides/factura-vencida-60-dias-reclamar-sin-perder-al-cliente?s=github) – El cliente te propone otro proyecto y su factura lleva 60 días vencida. Una historia sobre reclamar sin romper la relación.
 
 - [Facturé y no me han pagado, y toca el IVA del trimestre](https://blixwerkstudio.com/guides/facturar-cliente-no-ha-pagado-iva-trimestre?s=github) – Factura enviada, dinero sin llegar y el trimestre cierra. Una historia ilustrativa sobre vivir esa semana con calma y saber qué te deben.
@@ -2143,6 +2147,8 @@ Included (16 products, 175 USD if bought separately):
 - [Festpreis-Projekt dauert länger als geplant? Der Anruf um 11:05](https://blixwerkstudio.com/guides/festpreis-projekt-dauert-laenger-als-geplant-freiberufler?s=github) – Das Festpreis-Projekt frisst Woche um Woche, und der Kunde hat noch einen kleinen Wunsch. Eine Geschichte über Geld, das leise verschwindet, und wie es ruhiger wird.
 
 - [File Upload Endpoint Open to Abuse? The Parcel Hatch](https://blixwerkstudio.com/guides/file-upload-endpoint-abuse-api-worry?s=github) – The upload button works. Then you wonder what happens when someone sends something you never expected. A calm story about the doubt after 'it works'.
+
+- [Finance Team on Holiday, Invoice Unpaid? The Canal Lock](https://blixwerkstudio.com/guides/finance-team-on-holiday-invoice-unpaid?s=github) – The client says their finance team is on holiday and your invoice sits unpaid. A calm story about waiting without knowing the next step.
 
 - [First Craft Fair Stall: How Much Stock, What Float?](https://blixwerkstudio.com/guides/first-craft-fair-stall-how-much-stock-to-bring-float?s=github) – Your first craft fair is on Saturday and the van is half packed. How much stock to bring, how big a float, and how to stop panicking at the kitchen table.
 
@@ -3873,6 +3879,8 @@ Included (16 products, 175 USD if bought separately):
 - [Zu viele Excel-Listen, nichts passt? Die Dönerschlange](https://blixwerkstudio.com/guides/zu-viele-excel-tabellen-kleiner-betrieb-nichts-passt?s=github) – Fünf Tabellen, fünf Wahrheiten, und keine passt zur anderen. Eine Geschichte für alle, die ihren kleinen Betrieb in Excel jonglieren.
 
 - [Zu viele Kunden, Deadlines durcheinander? Montag, 8:40](https://blixwerkstudio.com/guides/zu-viele-kunden-gleichzeitig-deadlines-durcheinander-freiberufler?s=github) – Drei Kunden, drei Deadlines, ein Kopf. Eine Geschichte für Freiberufler, bei denen am Montagmorgen alles gleichzeitig dringend ist – und wie es ruhiger wird.
+
+- [Zweimal bei derselben Firma beworben? Die Obstwaage](https://blixwerkstudio.com/guides/zweimal-bei-derselben-firma-beworben?s=github) – Dienstag, 11:05, Supermarkt: Die Personalerin ruft an und fragt, warum du dich schon wieder beworben hast. Eine Geschichte über Überblick und Ruhe.
 
 - [Zweite Zahlungserinnerung ignoriert? Die Kaffeetafel](https://blixwerkstudio.com/guides/zweite-zahlungserinnerung-ignoriert-was-tun?s=github) – Die zweite Erinnerung blieb unbeantwortet, und du sitzt beim Kaffee mit dem Handy unterm Tisch. Eine Geschichte über Ruhe beim Nachhaken.
 
