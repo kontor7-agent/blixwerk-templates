@@ -1832,6 +1832,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Social Media Content Calendar in Excel: The Sunday Panic, Ended](https://blixwerkstudio.com/guides/social-media-content-calendar-excel-how-to?s=github) – It's 9:40 pm, you're staring at a blank caption box, and nothing is scheduled. A story about building a social media content calendar in Excel.
 
+- [Contraseñas en texto plano y pánico antes de lanzar mi app](https://blixwerkstudio.com/guides/contrasenas-texto-plano-panico-lanzar-app?s=github) – Con el tinte puesto abres tu base de datos y ves las contraseñas en texto plano. Una historia sobre el pánico antes de lanzar y cómo se calma.
+
 - [Mi copia de seguridad dejó de funcionar y no me di cuenta](https://blixwerkstudio.com/guides/copia-de-seguridad-automatica-dejo-de-funcionar?s=github) – Un martes a las 11:00 un cliente pide un archivo de hace semanas y descubres que tu copia automática llevaba tiempo parada. Una historia que reconocerás.
 
 - [Correos de ChatGPT robóticos: mi cliente lo notó](https://blixwerkstudio.com/guides/correos-chatgpt-suenan-roboticos-clientes-autonomo?s=github) – Pegaste el correo de ChatGPT y tu cliente contestó raro. Una historia sobre recuperar tu voz sin pasar la tarde reescribiendo cada mensaje.
@@ -2013,6 +2015,8 @@ Included (16 products, 175 USD if bought separately):
 - [Downloads Folder Chaos? Embarrassed to Share Your Screen](https://blixwerkstudio.com/guides/downloads-folder-thousands-of-files-embarrassed-share-screen?s=github) – Thousands of files in Downloads and a student waiting on your screen share. A calm story for anyone who has hovered over the share button and flinched.
 
 - [Dreading a Difficult Client Email? The Fitting Room](https://blixwerkstudio.com/guides/dreading-difficult-client-email-freelancer-what-to-say?s=github) – The client's email sits unanswered while you wait behind a fitting room curtain. For freelancers who don't know what to say, and how that knot can loosen.
+
+- [Dreading the Monthly Newsletter? The Bike Shop Bell](https://blixwerkstudio.com/guides/dreading-monthly-newsletter-small-business?s=github) – The newsletter is due Friday and the cursor blinks on 'Hi everyone,'. A quiet Thursday in a bike shop, and a calmer way to show up for your customers.
 
 - [Dreading Tax Season, Receipts Everywhere? Where to Start](https://blixwerkstudio.com/guides/dreading-tax-season-receipts-everywhere-freelancer-where-to-start?s=github) – A receipt in a charity-shop bag, a pile you can't face, and a tax season that feels too big. A calm story about where to start when receipts are everywhere.
 
@@ -3346,6 +3350,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Rechnung abgelehnt, Zahlung verzögert? Die Packstation](https://blixwerkstudio.com/guides/rechnung-vom-kunden-abgelehnt-zahlung-verzoegert?s=github) – Die Buchhaltung des Kunden lehnt deine Rechnung ab, und das Geld verschiebt sich schon wieder. Eine Geschichte über Ärger, Ruhe und ein klareres Bild.
 
+- [Rechnungen in Excel total unübersichtlich? Der ICE, 15:20](https://blixwerkstudio.com/guides/rechnungen-freiberufler-verwalten-excel-unuebersichtlich?s=github) – Sieben Tabs, drei Dateien, eine Frage des Kunden: Welche Rechnung ist bezahlt? Eine Geschichte für Freiberufler, deren Excel nicht mehr mitkommt.
+
 - [Saturday at the Garden Centre: Freelance Invoices and Hours, Sorted](https://blixwerkstudio.com/guides/freelance-invoice-and-time-tracking-excel-template?s=github) – Standing among the tomato plants, a client's message about an unpaid invoice sends your stomach sinking. A story about invoices, hours and a calmer Monday.
 
 - [Rechnungsnummer doppelt vergeben? Der Anruf um 9:15](https://blixwerkstudio.com/guides/rechnungsnummer-doppelt-vergeben-was-jetzt-freiberufler?s=github) – Zwei Rechnungen, eine Nummer: Mara hört es am Telefon. Eine ruhige Geschichte über doppelt vergebene Rechnungsnummern und was danach leichter wird.
@@ -3647,6 +3653,8 @@ Included (16 products, 175 USD if bought separately):
 - [Subir precios en mi peluquería: miedo a perder clientas](https://blixwerkstudio.com/guides/subir-precios-peluqueria-miedo-perder-clientas?s=github) – Lunes, 9:40: la lista de precios en el espejo y un nudo en el estómago. Una historia sobre subir precios sin perder clientas.
 
 - [Supplier Delivered Late Again? The Email at the Loading Door](https://blixwerkstudio.com/guides/supplier-delivered-late-again-email-wording?s=github) – The pallet is late for the third time and the customer is asking. How to write to your supplier firmly, without burning a relationship you still need.
+
+- [Supplier Raised Prices After Your Quote? The 3:10 Queue](https://blixwerkstudio.com/guides/supplier-raised-prices-after-quote-sent?s=github) – The supplier's new price list lands after your quote went out. A plumber, a school-pickup queue and a calmer way to see what a job really earns.
 
 - [Swagger Docs Exposed in Production? The Spare Key Label](https://blixwerkstudio.com/guides/swagger-docs-exposed-in-production?s=github) – Your Swagger page is public and a message just landed. A calm story about the knot in your stomach, and how to stop guessing while you stand in a queue.
 
