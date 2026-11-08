@@ -1292,6 +1292,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [API Returns Too Much Data? The Window Envelope Call](https://blixwerkstudio.com/guides/api-returns-too-much-data-in-responses?s=github) – A screen-share, a network tab, and one JSON field nobody meant to send. A calm story for developers who worry their API says more than it should.
 
+- [Scraped Through Your API Pagination? The Lifeboat Hut](https://blixwerkstudio.com/guides/api-scraped-no-pagination-limit?s=github) – Someone pulled all your data through your API and you missed the pagination limit. A story about the Monday that feels like a verdict, and the calmer one after.
+
 - [Worried Your API Has Security Holes? The Train to the Demo](https://blixwerkstudio.com/guides/api-security-before-launch-worried-about-holes?s=github) – You're on a train to the launch demo, laptop on your knees, and one thought won't leave: what if the API has a hole you never checked? A calmer way to go live.
 
 - [Did I Miss an API Security Check? The Handover Call at 10 am](https://blixwerkstudio.com/guides/api-security-check-before-launch-client-handover?s=github) – The client is waiting on the call, your API is ready, and one quiet thought won't leave: did I miss a security check? A calm story about shipping without doubt.
@@ -1770,6 +1772,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Me pide los RAW y no sé cuánto cobrar como fotógrafa](https://blixwerkstudio.com/guides/cliente-pide-archivos-raw-sesion-cuanto-cobrar-fotografo-autonomo?s=github) – El cliente te pide los RAW de la sesión y se te queda la mente en blanco. Una historia sobre poner precio con calma, sin apuro.
 
+- [Me piden el calendario de contenidos y no tengo nada](https://blixwerkstudio.com/guides/cliente-pide-calendario-de-contenidos-no-tengo-nada?s=github) – Videollamada a las 10 y tu cliente pide el calendario de contenidos del mes. No tienes nada preparado. Una historia sobre cómo llegar con calma.
+
 - [Ya entregué y el cliente pide descuento: ¿qué le digo?](https://blixwerkstudio.com/guides/cliente-pide-descuento-despues-de-entregar-el-proyecto?s=github) – Entregaste el proyecto y ahora el cliente pide descuento. Una escena de parque, un móvil que vibra y una forma más tranquila de responder.
 
 - [Me piden el desglose del presupuesto y no sé justificarlo](https://blixwerkstudio.com/guides/cliente-pide-desglose-presupuesto-justificar-mi-precio?s=github) – Tu cliente pide el desglose y te quedas mudo en la furgoneta. Una historia sobre justificar tu precio sin sudar ni disculparte.
@@ -1857,6 +1861,8 @@ Included (16 products, 175 USD if bought separately):
 - [CSV Dates Day and Month Swapped? The Corridor Chairs](https://blixwerkstudio.com/guides/csv-dates-day-and-month-swapped-after-import?s=github) – You sent the report, then a client asked why you billed a day they were closed. Day and month swapped after a CSV import. A calm story, and a way out.
 
 - [CSV Decimal Comma Won't Add Up in Excel? The Balcony Sum](https://blixwerkstudio.com/guides/csv-decimal-comma-numbers-wont-add-up-excel-stored-as-text?s=github) – The total says 0, the numbers sit on the left, the report is due at five. A story about decimal commas in a CSV – and getting the afternoon back.
+
+- [CSV Export Full of Blank Rows? The Jammed Photocopier](https://blixwerkstudio.com/guides/csv-export-blank-rows-empty-columns-clean-fast?s=github) – Blank rows and empty columns in every CSV export? A Thursday morning, a jammed printer, and a calmer way to start the week.
 
 - [Messy CSV Export Every Week? The Conference Coffee Line](https://blixwerkstudio.com/guides/csv-export-full-of-messy-data-every-week?s=github) – The same messy CSV lands in your inbox every week, and every week you fix it by hand. A short story about the Monday it stopped being your job.
 
@@ -3059,6 +3065,8 @@ Included (16 products, 175 USD if bought separately):
 - [Nur die Hälfte abrechenbar: Reicht dein Stundensatz?](https://blixwerkstudio.com/guides/nur-haelfte-stunden-abrechenbar-stundensatz-reicht-nicht?s=github) – Zehn Minuten zu früh vor dem Kundentermin fällt dir auf: Nur die Hälfte deiner Stunden landet auf der Rechnung. Reicht dein Stundensatz dann überhaupt?
 
 - [OAuth Scopes Too Broad? The Consent Screen on the Call](https://blixwerkstudio.com/guides/oauth-scopes-too-broad-api?s=github) – A client reads your OAuth consent screen out loud on a call. If your API scopes feel too broad, here's a story about the calm that follows.
+
+- [Ohne Vertrag, Kunde ändert Absprachen? Die Drehtür, 13:55](https://blixwerkstudio.com/guides/ohne-vertrag-selbststaendig-kunde-aendert-absprachen?s=github) – Du hast ohne Vertrag losgelegt, und der Kunde dreht die Absprachen immer weiter. Eine Geschichte vor einer Drehtür – und was danach ruhiger wird.
 
 - [Old API Endpoints Nobody Remembers? The Loft Full of Cables](https://blixwerkstudio.com/guides/old-api-endpoints-still-running-nobody-remembers?s=github) – A Saturday loft clear-out, a box of unlabelled cables, and the old API routes still running that nobody can explain. A calm way out of the 2 a.m. doubt.
 
