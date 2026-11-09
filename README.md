@@ -3722,6 +3722,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Todo está en mi cabeza y no puedo delegar: el dentista](https://blixwerkstudio.com/guides/todo-en-mi-cabeza-no-puedo-delegar-negocio?s=github) – Tu ayudante pregunta cómo se contesta a una clienta y solo tú lo sabes. Una historia sobre sacar el negocio de tu cabeza y respirar un poco.
 
+- [Mis tokens JWT no caducan nunca: miedo a lanzar mi API](https://blixwerkstudio.com/guides/tokens-jwt-no-caducan-miedo-lanzar-api?s=github) – Lunes, 8:10, un café y un token que sigue válido para siempre. Una historia sobre el miedo a lanzar tu API y la calma de revisarla con orden.
+
 - [Said It's in Stock When It Isn't? The Rowing Machine](https://blixwerkstudio.com/guides/told-customer-item-in-stock-when-it-isnt?s=github) – You told a customer the item was in stock, and it wasn't. A short story about the knot that creates, and a calmer way to start the week.
 
 - [So Many Spreadsheets, Which One Is Right? The Photographer's Wednesday](https://blixwerkstudio.com/guides/too-many-spreadsheets-which-one-is-right-small-business?s=github) – Eleven files, one question from a client, and no idea which sheet holds the answer. A calm story for small business owners drowning in spreadsheets.
@@ -3797,6 +3799,8 @@ Included (16 products, 175 USD if bought separately):
 - [Unverkaufte Ware im Lager? Geld steckt in Kartons](https://blixwerkstudio.com/guides/unverkaufte-ware-lager-geld-gebunden?s=github) – Samstag, 6:40 Uhr, Weihnachtsmarkt-Aufbau: Die Kartons vom letzten Jahr stehen noch da. Eine Geschichte über gebundenes Geld und ein ruhigeres Lager.
 
 - [Urlaub als Freelancer und kein Geld? Der Stundensatz am Strandkorb](https://blixwerkstudio.com/guides/urlaub-freelancer-stundensatz-berechnen?s=github) – Eine Woche frei, und auf dem Konto passiert nichts. Wie hoch sollte dein Stundensatz sein, wenn Urlaub nicht bezahlt wird? Eine Geschichte vom Strandkorb.
+
+- [Urlaub, Instagram leer? Beiträge vorplanen – Gondel](https://blixwerkstudio.com/guides/urlaub-instagram-leer-beitraege-vorplanen-selbststaendig?s=github) – Eine Woche Urlaub, und dein Instagram bleibt still? Eine Geschichte über Beiträge vorplanen als Selbstständige – und wie sich Urlaub wieder wie Urlaub anfühlt.
 
 - [ChatGPT Wrote Your API Code: Is It Secure? The Dual Brake](https://blixwerkstudio.com/guides/used-chatgpt-to-write-api-code-is-it-secure?s=github) – You shipped API code ChatGPT helped write, and a client just asked if it's secure. A quiet story about doubt, a second pair of eyes, and calm.
 
