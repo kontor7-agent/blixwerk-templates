@@ -2280,6 +2280,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Einkommen schwankt jeden Monat? Der Parkplatz vor der Kita](https://blixwerkstudio.com/guides/freelance-einkommen-schwankt-naechstes-jahr-planen?s=github) – Freitag, 16:25 Uhr, Parkplatz vor der Kita: Ein Monat voll, der nächste leer. Wie sich das nächste Jahr plötzlich weniger wie Glücksspiel anfühlt.
 
+- [January Freelance Goals, Never Followed? The Drawer](https://blixwerkstudio.com/guides/freelance-goals-every-january-never-follow-through?s=github) – You find last January's goals in a drawer, in November. A calm story about why freelance plans fade, and what a quieter year could feel like.
+
 - [Rate Too Low for Taxes and Holidays? The Museum Café](https://blixwerkstudio.com/guides/freelance-hourly-rate-cover-taxes-holidays?s=github) – A friend mentions her paid holiday and your stomach drops. Does your freelance hourly rate cover taxes and time off? A quiet story about finding out.
 
 - [Freelance Feast and Famine: Worried About Next Month's Income?](https://blixwerkstudio.com/guides/freelance-income-feast-and-famine-worried-about-next-month?s=github) – Three invoices paid in one week, then silence. If you lie awake wondering about next month, this story about a ceramic tiler's Monday is for you.
@@ -2822,6 +2824,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Laptop Stolen, No Backup of Your Work? The Front Desk](https://blixwerkstudio.com/guides/laptop-stolen-no-backup-of-my-work?s=github) – Your laptop is gone and the last backup is a memory. A calm story about the police front desk, the lost files, and the quiet Monday that could follow.
 
+- [Late Payment Email Too Rude or Too Weak? The Thermostat](https://blixwerkstudio.com/guides/late-payment-email-too-rude-or-too-weak?s=github) – Your draft is either icy or apologetic and the invoice is 19 days late. A Monday story about finding the right tone for a payment reminder.
+
 - [Tutor Students Pay Late, Cancel Late? The Car Outside Number 14](https://blixwerkstudio.com/guides/private-tutor-lesson-log-invoice-tracker-late-payments-cancellations?s=github) – Your 4 pm student cancels by text while you sit outside in the rain. Who is behind, what it costs, and when to raise your rate – a tutor's story.
 
 - [Letzte Mahnung an den Kunden? Der Hundespaziergang, 6:45](https://blixwerkstudio.com/guides/letzte-mahnung-freelancer-kunde-vor-inkasso?s=github) – Du willst dem Kunden die letzte Mahnung schicken und fühlst dich mies dabei. Eine Geschichte über Ruhe, klare Worte und den nächsten Schritt.
@@ -2865,6 +2869,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mahnbescheid beantragen? Montag, 7:50, Küchentisch](https://blixwerkstudio.com/guides/mahnbescheid-beantragen-lohnt-sich-das-freiberufler?s=github) – Lohnt sich ein Mahnbescheid als Freiberufler? Eine Lektorin, ein Montagmorgen und die Frage, warum es überhaupt so weit kommen musste.
 
 - [Mahngebühr auf Freelancer-Rechnung? Montag, 9:10 Uhr](https://blixwerkstudio.com/guides/mahngebuehr-freelancer-rechnung-kundenbeziehung?s=github) – Darf ich bei einer überfälligen Rechnung eine Mahngebühr nennen, ohne den Kunden zu verprellen? Eine Montagmorgen-Geschichte über Ruhe statt Bauchgrummeln.
+
+- [Schwierige Kunden-Mail schreiben? Die Baustellenampel](https://blixwerkstudio.com/guides/mail-an-schwierigen-kunden-freelance-angst?s=github) – Du schiebst die Mail an den schwierigen Kunden seit Tagen vor dir her. Eine Geschichte über Rotphasen, leere Entwürfe und den Moment, in dem es leichter wird.
 
 - [Mail Merge, State Names All Different? The Parcel Counter](https://blixwerkstudio.com/guides/mail-merge-state-names-typed-differently-spreadsheet?s=github) – Calif., CA, california: addresses typed every which way before your mail merge. A short story from the post office counter, and a calmer Monday.
 
@@ -2957,6 +2963,8 @@ Included (16 products, 175 USD if bought separately):
 - [Mi empleado no apunta las ventas y el stock no cuadra](https://blixwerkstudio.com/guides/mi-empleado-no-apunta-las-ventas-stock-no-cuadra?s=github) – Sábado por la mañana, una libreta con tachones y un estante que no coincide. Una historia para quien tiene empleado y un stock que nunca cuadra.
 
 - [Mi pareja pregunta cuánto gano al mes y no sé qué decir](https://blixwerkstudio.com/guides/mi-pareja-me-pregunta-cuanto-gano-al-mes-autonomo?s=github) – Sábado, camino de IKEA, y una pregunta sencilla: «¿cuánto ganas al mes?». Una historia para autónomos que no saben qué contestar.
+
+- [Mi tienda no tiene referencias y no sé qué stock tengo](https://blixwerkstudio.com/guides/mi-tienda-no-tiene-referencias-no-se-que-stock-tengo?s=github) – Una clienta pregunta por una taza y no sabes si queda. Un martes en una tienda sin referencias, y cómo se siente tener el stock claro.
 
 - [Tengo miedo de que hackeen mi API antes de lanzarla: el martes del cliente](https://blixwerkstudio.com/guides/miedo-a-que-hackeen-mi-api-antes-de-lanzarla?s=github) – Faltan tres días para lanzar la API de tu cliente y una duda no te deja concentrarte. Una historia sobre cómo dejar de lanzar con el estómago encogido.
 
