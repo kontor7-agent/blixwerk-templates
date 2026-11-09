@@ -1366,6 +1366,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Bash Backup Script Failed Silently? The Clinic Corridor](https://blixwerkstudio.com/guides/bash-backup-script-fails-silently?s=github) – Your bash backup script ran every night, or so you thought. Then a client asked for old files while you sat in a clinic corridor. A calm story.
 
+- [Behind on Google Reviews and Messages? The Cheese Roll](https://blixwerkstudio.com/guides/behind-on-google-reviews-and-customer-messages?s=github) – Fourteen unanswered Google reviews, a stack of messages and a cheese roll going cold. A small-business story about answering without the dread.
+
 - [Belege-Chaos als Freelancer: Wo fange ich nur an?](https://blixwerkstudio.com/guides/belege-chaos-freelancer-wo-anfangen?s=github) – Ein Karton voller Belege, ein Steuerberater-Termin im Kalender und die Frage: Wo fange ich an? Eine Geschichte für alle, die jedes Jahr im Januar schwitzen.
 
 - [Belege-Chaos im November? Laub, Regen und ein Kalender](https://blixwerkstudio.com/guides/belege-chaos-november-freelancer-jahresende?s=github) – Es ist November, deine Belege liegen überall. Eine Geschichte über Laub, einen Kalender und die Ruhe, die vor dem 31. Dezember möglich ist.
@@ -1762,6 +1764,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Un cliente nuevo me pide trabajo gratis para probar: ¿qué respondo?](https://blixwerkstudio.com/guides/cliente-nuevo-pide-trabajo-gratis-para-probar-que-responder?s=github) – El mensaje llega en el tren: «Haznos una prueba gratis y luego vemos». Una historia sobre el nudo en el estómago y cómo responder sin quedar mal.
 
+- [Cliente nuevo mañana y sin proceso: me da vergüenza](https://blixwerkstudio.com/guides/cliente-nuevo-sin-proceso-verguenza-poco-profesional?s=github) – Mañana empieza tu cliente nuevo y no tienes ningún proceso. Una historia sobre la vergüenza de parecer poco profesional y cómo se calma.
+
 - [Mi cliente paga a 90 días y no llego a fin de mes: el bus del 28](https://blixwerkstudio.com/guides/cliente-paga-a-90-dias-no-llego-a-fin-de-mes-autonomo?s=github) – El día 28, en el autobús, abres la app del banco: la factura a 90 días no llega y el alquiler sí. Una historia para autónomos que cobran tarde.
 
 - [Me paga cuando él cobre y yo no llego a fin de mes](https://blixwerkstudio.com/guides/cliente-paga-cuando-cobre-no-llego-a-fin-de-mes?s=github) – Tu cliente te dice que te paga cuando cobre él. Faltan nueve días para fin de mes y el alquiler no espera. Una historia para respirar un poco.
@@ -2093,6 +2097,8 @@ Included (16 products, 175 USD if bought separately):
 - [Ciudades escritas de mil formas en Excel: entrego hoy](https://blixwerkstudio.com/guides/excel-ciudades-escritas-distinto-tabla-dinamica?s=github) – La tabla dinámica parte Madrid en cinco filas y la entrega es a las 14:00. Una historia sobre ciudades mal escritas en Excel y cómo respirar.
 
 - [Excel con correos mal escritos y duplicados: boletín hoy](https://blixwerkstudio.com/guides/excel-correos-mal-escritos-repetidos-boletin-hoy?s=github) – Son las 11:40, el boletín sale a las 14:00 y tu Excel está lleno de correos repetidos y mal escritos. Una historia para respirar.
+
+- [US and UK Dates Mixed in Excel? The Hallway Calendar](https://blixwerkstudio.com/guides/excel-csv-us-uk-dates-mixed-one-column?s=github) – Is 03/04 March or April? A Monday client call, one CSV column with US and UK dates mixed, and the quiet relief of knowing what changed.
 
 - [Excel Dates Mixed Formats, Can't Sort? The Print Shop](https://blixwerkstudio.com/guides/excel-date-column-mixed-formats-cant-sort?s=github) – The date column sorts into nonsense, the deadline is close, and you're standing at a print shop counter. A story for anyone fighting mixed dates in Excel.
 
@@ -2649,6 +2655,8 @@ Included (16 products, 175 USD if bought separately):
 - [Kundin schon wieder nicht erschienen? Der leere Stuhl um 14:20 Uhr](https://blixwerkstudio.com/guides/kunde-nicht-erschienen-no-show-salon-geld-verloren?s=github) – Dienstag, 14:20 Uhr, der Termin kommt nicht. Wieder. Eine Geschichte über No-Shows im Salon, verlorenes Geld und die Ruhe, die zurückkommt.
 
 - [Projekt pausiert, Kunde zahlt nicht? „Auf Eis gelegt“](https://blixwerkstudio.com/guides/kunde-projekt-pausiert-will-geleistete-arbeit-nicht-bezahlen?s=github) – Der Kunde legt das Projekt „auf Eis“ und will die bisherige Arbeit nicht bezahlen. Eine Geschichte über den Moment danach und wie er ruhiger wird.
+
+- [Kunde reagiert beleidigt auf Mahnung? Was jetzt](https://blixwerkstudio.com/guides/kunde-reagiert-beleidigt-auf-mahnung?s=github) – Du schickst eine höfliche Mahnung, der Kunde ist gekränkt. Eine Geschichte über Schuldgefühle, ruhige Worte und warum Mahnen nichts Persönliches ist.
 
 - [Kunde reagiert nicht auf Mails? Der Radweg um 12:30 Uhr](https://blixwerkstudio.com/guides/kunde-reagiert-nicht-auf-mails-was-schreiben?s=github) – Dritte Mail, keine Antwort, und du weißt nicht, was du noch schreiben sollst. Eine Geschichte über Funkstille und den Satz, der wieder leichtfällt.
 
