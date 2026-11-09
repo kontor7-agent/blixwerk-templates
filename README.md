@@ -1520,6 +1520,8 @@ Included (16 products, 175 USD if bought separately):
 
 - [Client Agreed to Pay, Stopped Replying? The Scoreboard](https://blixwerkstudio.com/guides/client-agreed-to-pay-invoice-stopped-replying?s=github) – They said yes, the money was coming. Then silence. A story about a Saturday spent refreshing your inbox, and what calmer follow-up feels like.
 
+- [Client Asked for an Old Invoice Copy? The Hallway Call](https://blixwerkstudio.com/guides/client-asked-for-old-invoice-copy-cant-find-it?s=github) – A client needs a copy of an invoice from last spring, and you can't find it. A short story about the hallway call, and what a calmer Monday feels like.
+
 - [Client Wants Unlimited Revisions? The Tennis Club Bench](https://blixwerkstudio.com/guides/client-asked-for-unlimited-revisions-how-to-say-no?s=github) – A client wrote 'unlimited revisions are fine, right?' while you stood at a vending machine. A story about finding calm words for a clear, kind no.
 
 - [Client Asked to Cut Your Price? The Stairwell Landing](https://blixwerkstudio.com/guides/client-asked-me-to-cut-my-price-after-quoting-how-to-say-no?s=github) – You quoted, they said yes, then came the email asking for less. A quiet story about saying no to a price cut without losing the client or your calm.
@@ -1683,6 +1685,8 @@ Included (16 products, 175 USD if bought separately):
 - [Renegotiating Price After the Project? The Tower Stairs](https://blixwerkstudio.com/guides/client-wants-to-renegotiate-price-after-project-finished?s=github) – The project is delivered, the invoice is out, and now the client wants a lower price. A calm story about what to say, and how not to fold on the stairs.
 
 - [Client Wants to Start Tomorrow, No Contract? Cable Car](https://blixwerkstudio.com/guides/client-wants-to-start-tomorrow-no-contract-kickoff-plan?s=github) – The client wants to start tomorrow. There's no contract and no kickoff plan, and you're in a cable car queue. A story about calm starts for freelancers.
+
+- [Client Went Bankrupt, Still Owes You? The Grey Envelope](https://blixwerkstudio.com/guides/client-went-bankrupt-still-owes-me-freelance-invoice?s=github) – A grey envelope on the doormat: your client is insolvent and still owes you. A calm story about what you can't control, and what you can.
 
 - [Clienta llega tarde y me descuadra la agenda del sábado](https://blixwerkstudio.com/guides/clienta-llega-tarde-descuadra-agenda-peluqueria?s=github) – Son las 10:40, la clienta de las 10:00 no llega y la agenda se cae como fichas de dominó. Una historia para peluqueras que trabajan solas.
 
@@ -3145,6 +3149,8 @@ Included (16 products, 175 USD if bought separately):
 - [Me da pánico llamar a un cliente para cobrar una factura](https://blixwerkstudio.com/guides/panico-llamar-cliente-cobrar-factura?s=github) – El pulgar sobre el botón de llamar, el corazón a mil y una factura de hace 40 días. Una historia para quien cobra con un nudo en el estómago.
 
 - [Parent Says You Billed Too Many Lessons? The Pedalos](https://blixwerkstudio.com/guides/parent-says-taught-fewer-lessons-than-billed?s=github) – A parent writes: 'I count fewer lessons than you billed.' You can't prove either way. A quiet story for private tutors about a calmer record.
+
+- [Pasaron tres meses sin reclamar una factura: ¿aún cobro?](https://blixwerkstudio.com/guides/pasaron-tres-meses-sin-reclamar-factura-puedo-cobrarla?s=github) – Tres meses sin reclamar una factura y el miedo a que ya sea tarde. Una historia sobre escribir ese correo sin pedir perdón y sin hacerte pequeño.
 
 - [Worried Your Password Reset Is Insecure? The Food Truck](https://blixwerkstudio.com/guides/password-reset-flow-insecure-before-launch?s=github) – Launch is Monday, you're in a lunch queue, and one worry won't go away: is your password reset flow safe? A calm story about checking before you ship.
 
